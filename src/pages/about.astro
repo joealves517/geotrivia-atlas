@@ -1,0 +1,191 @@
+---
+import Features2 from '~/components/widgets/Features2.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Steps2 from '~/components/widgets/Steps2.astro';
+import Layout from '~/layouts/PageLayout.astro';
+import StructuredData from '~/components/common/StructuredData.astro';
+import { SITE } from 'astrowind:config';
+import { getPermalink, getCanonical } from '~/utils/permalinks';
+
+const siteBaseUrl = String(Astro.site || SITE?.site || 'https://atlas.geotriviax.com').replace(/\/$/, '');
+const aboutUrl = String(getCanonical(getPermalink('/about')));
+
+const ALL_LOCALES = [
+  { code: 'en', ogLocale: 'en_US' },
+  { code: 'es', ogLocale: 'es_ES' },
+  { code: 'fr', ogLocale: 'fr_FR' },
+  { code: 'de', ogLocale: 'de_DE' },
+  { code: 'pt', ogLocale: 'pt_PT' },
+  { code: 'it', ogLocale: 'it_IT' },
+  { code: 'nl', ogLocale: 'nl_NL' },
+  { code: 'sv', ogLocale: 'sv_SE' },
+  { code: 'tr', ogLocale: 'tr_TR' },
+  { code: 'ar', ogLocale: 'ar_AR' },
+];
+
+const hreflangs = [
+  ...ALL_LOCALES.map((loc) => ({
+    lang: loc.code,
+    href: aboutUrl,
+  })),
+  {
+    lang: 'x-default',
+    href: aboutUrl,
+  },
+];
+
+const metadata = {
+  title: 'About the GeoTrivia Atlas Editorial Board & Mission',
+  description:
+    'GeoTrivia Atlas is an independent geographical publication dedicated to investigating planetary paradoxes, sovereign frontiers, natural wonders, and world culture across 10 languages.',
+  openGraph: {
+    type: 'website',
+    url: aboutUrl,
+    title: 'About the GeoTrivia Atlas Editorial Board & Mission',
+    description:
+      'Independent geographical publication investigating planetary paradoxes, sovereign frontiers, and cultural history.',
+  },
+};
+
+const aboutSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  '@id': `${aboutUrl}#about`,
+  url: aboutUrl,
+  name: metadata.title,
+  description: metadata.description,
+  mainEntity: {
+    '@type': 'Organization',
+    '@id': `${siteBaseUrl}/#organization`,
+    name: 'GeoTrivia Atlas',
+    url: siteBaseUrl,
+    logo: `${siteBaseUrl}/favicon/icon-512.png`,
+    sameAs: ['https://geotriviax.com', 'https://youtube.com/@geotriviax'],
+    knowsAbout: [
+      'Geography',
+      'Geopolitics',
+      'Cartography',
+      'Enclaves and Exclaves',
+      'World Landmarks',
+      'Earth Extremes'
+    ],
+  },
+};
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="head">
+    {hreflangs.map((item) => (
+      <link rel="alternate" hreflang={item.lang} href={item.href} />
+    ))}
+    <StructuredData schema={aboutSchema} />
+  </Fragment>
+
+  <!-- Hero Widget -->
+  <Hero
+    tagline="Editorial Mission & Standards"
+    image={{
+      src: '~/assets/images/default.png',
+      alt: 'GeoTrivia Atlas Cartographic Archive',
+    }}
+  >
+    <Fragment slot="title">
+      Investigating Planetary Geography & <br />
+      <span class="text-accent dark:text-sky-400">Territorial Enigmas</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      GeoTrivia Atlas is an open-access geographical publication and research initiative. We investigate territorial paradoxes, sovereign frontiers, historical enclaves, and natural extremes through literary field notes, verified Wikipedia knowledge graph grounding, and high-resolution documentary photography.
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget -->
+  <Stats
+    title="The Atlas by the Numbers"
+    stats={[
+      { title: 'Verified Topics', amount: '9,470+' },
+      { title: 'Taxonomy Categories', amount: '17' },
+      { title: 'Native Languages', amount: '10' },
+      { title: 'Sovereign Territories', amount: '195+' },
+    ]}
+  />
+
+  <!-- Features3 Widget: Editorial Pillars -->
+  <Features3
+    title="Editorial Integrity & Research Standards"
+    subtitle="Every field dispatch published in the Atlas adheres to three core architectural principles."
+    columns={3}
+    isBeforeContent={true}
+    items={[
+      {
+        title: 'Rigorous Grounding',
+        description:
+          'Every article is anchored in verified Wikipedia IDs, Wikidata entities, and GPS coordinates to ensure zero hallucination and high factual precision.',
+        icon: 'tabler:compass',
+      },
+      {
+        title: 'Literary Travel Narrative',
+        description:
+          'Banning corporate clichés and robotic lists, our dispatches are composed as atmospheric, sensory-rich travel essays written for curious global explorers.',
+        icon: 'tabler:book',
+      },
+      {
+        title: '10-Language Reciprocal Reach',
+        description:
+          'Knowledge is universal. Every dossier is natively adapted into English, Spanish, French, German, Portuguese, Italian, Dutch, Swedish, Turkish, and Arabic.',
+        icon: 'tabler:world',
+      },
+    ]}
+  />
+
+  <!-- Steps2 Widget: How We Curate -->
+  <Steps2
+    title="From Wikipedia Knowledge Graph to Published Field Dispatch"
+    subtitle="Our systematic editorial workflow pairs algorithmic harvesting with humanistic storytelling."
+    items={[
+      {
+        title: '1. Topological Harvesting',
+        description:
+          'We traverse Wikipedia category hierarchies across 17 thematic domains, filtering out stubs to curate only substantial, culturally significant geographical topics.',
+        icon: 'tabler:database',
+      },
+      {
+        title: '2. 100-Point SEO & GEO Quality Gate',
+        description:
+          'Articles must pass an automated 100-point audit evaluating headline CTR hooks, meta cleanliness, photographic density, and absence of generic AI clichés.',
+        icon: 'tabler:checklist',
+      },
+      {
+        title: '3. Multi-Locale Distribution',
+        description:
+          'Articles are rendered statically into high-performance web pages with bidirectional RTL/LTR layout support, Schema.org Article specifications, and reciprocal hreflangs.',
+        icon: 'tabler:rocket',
+      },
+    ]}
+  />
+
+  <!-- Features2 Widget: The GeoTrivia Ecosystem -->
+  <Features2
+    title="Connect with the GeoTrivia Universe"
+    tagline="Ecosystem"
+    items={[
+      {
+        title: 'GeoTrivia X App',
+        description: 'Test your world knowledge with daily flag challenges, capital quizzes, and shape identification games.',
+        icon: 'tabler:device-mobile',
+      },
+      {
+        title: 'Video Documentaries',
+        description: 'Watch satellite-rendered geopolitical breakdowns and visual geographic storytelling on YouTube and TikTok.',
+        icon: 'tabler:video',
+      },
+      {
+        title: 'Interactive Community',
+        description: 'Join thousands of geography enthusiasts exploring borders, cartography, and world cultures daily.',
+        icon: 'tabler:users',
+      },
+    ]}
+  />
+</Layout>

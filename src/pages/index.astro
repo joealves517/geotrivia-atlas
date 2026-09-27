@@ -1,0 +1,872 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import StructuredData from '~/components/common/StructuredData.astro';
+import Image from '~/components/common/Image.astro';
+import Grid from '~/components/blog/Grid.astro';
+import { SITE, METADATA, I18N } from 'astrowind:config';
+import { fetchPosts } from '~/utils/blog';
+import { findImage } from '~/utils/images';
+import { getPermalink, getBlogPermalink } from '~/utils/permalinks';
+import categoriesMetadata from '~/data/categories-seo-metadata.json';
+import { getTranslation } from '~/lib/i18n/translations';
+
+const t = getTranslation('en');
+
+const siteUrl = String(Astro.site || SITE?.site || 'https://atlas.geotriviax.com').replace(/\/$/, '');
+
+const ALL_LOCALES = [
+  { code: 'en', ogLocale: 'en_US' },
+  { code: 'es', ogLocale: 'es_ES' },
+  { code: 'fr', ogLocale: 'fr_FR' },
+  { code: 'de', ogLocale: 'de_DE' },
+  { code: 'pt', ogLocale: 'pt_PT' },
+  { code: 'it', ogLocale: 'it_IT' },
+  { code: 'nl', ogLocale: 'nl_NL' },
+  { code: 'sv', ogLocale: 'sv_SE' },
+  { code: 'tr', ogLocale: 'tr_TR' },
+  { code: 'ar', ogLocale: 'ar_AR' },
+];
+
+const metadata = {
+  title: 'GeoTrivia X — Global Geography & World Culture Publication',
+  description:
+    'Investigative geographic field dispatches, geopolitical anomalies, natural wonders, and world trivia from the GeoTrivia Editorial Board.',
+  ignoreTitleTemplate: true,
+  openGraph: {
+    type: 'website',
+    url: siteUrl,
+    title: 'GeoTrivia X — Global Geography & World Culture Publication',
+    description:
+      'Investigative geographic field dispatches, geopolitical anomalies, natural wonders, and world trivia from the GeoTrivia Editorial Board.',
+    site_name: 'GeoTrivia Atlas',
+  },
+};
+
+const organizationId = `${SITE?.site}/#organization`;
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${SITE?.site}/#website`,
+    name: SITE?.name,
+    url: SITE?.site,
+    inLanguage: I18N?.language,
+    publisher: { '@id': organizationId },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': organizationId,
+    name: SITE?.name,
+    url: SITE?.site,
+    ...(METADATA?.twitter?.handle ? { sameAs: [`https://x.com/${METADATA.twitter.handle.replace(/^@/, '')}`] } : {}),
+  },
+];
+
+const allPosts = await fetchPosts();
+const allPostsWithTranslations = await fetchPosts({ includeTranslations: true });
+
+// Build translations map: baseSlug -> lang -> { title, excerpt, permalink }
+const translationsMap: Record<string, Record<string, { title: string; excerpt: string; permalink: string }>> = {};
+for (const p of allPostsWithTranslations) {
+  const base = p.baseSlug || p.slug;
+  if (!translationsMap[base]) translationsMap[base] = {};
+  translationsMap[base][p.lang || 'en'] = {
+    title: p.title,
+    excerpt: p.excerpt || '',
+    permalink: getPermalink(p.permalink, 'post'),
+  };
+}
+
+// Build categories translations map: slug -> lang -> title
+const categoriesI18nMap: Record<string, Record<string, string>> = {};
+const rawCategories = (categoriesMetadata as any)?.categories || {};
+for (const [slug, data] of Object.entries<any>(rawCategories)) {
+  categoriesI18nMap[slug] = {};
+  for (const [lang, langData] of Object.entries<any>(data)) {
+    if (typeof langData === 'object' && langData?.title) {
+      categoriesI18nMap[slug][lang] = langData.title;
+    }
+  }
+}
+
+// 1. Featured Lead Story (The freshest / most recent post across the entire site)
+const leadPost = allPosts[0];
+const leadImage = leadPost ? await findImage(leadPost.image) : null;
+const leadLink = leadPost ? getPermalink(leadPost.permalink, 'post') : '';
+const leadCategorySlug = leadPost?.category?.slug;
+
+// 2. Top Trending Stories (3 cards beside lead from diverse recent stories)
+const sidePosts = allPosts.filter((p) => p.id !== leadPost?.id).slice(0, 3);
+const sidePostsWithImages = await Promise.all(
+  sidePosts.map(async (post) => ({
+    post,
+    image: await findImage(post.image),
+    link: getPermalink(post.permalink, 'post'),
+  }))
+);
+
+// Global set tracking all featured post IDs to guarantee zero duplication on the home page
+const featuredIds = new Set<string>();
+if (leadPost) featuredIds.add(leadPost.id);
+sidePosts.forEach((p) => featuredIds.add(p.id));
+
+// 3. Dynamic Category Slot Allocator
+// Group all published posts by their canonical category slug
+const categoryMap = new Map<string, typeof allPosts>();
+for (const post of allPosts) {
+  const catSlug = post.category?.slug;
+  if (!catSlug) continue;
+  if (!categoryMap.has(catSlug)) {
+    categoryMap.set(catSlug, []);
+  }
+  categoryMap.get(catSlug)!.push(post);
+}
+
+// Rank categories with >= 4 posts by recency of their newest post
+const allQualifyingCategories = Array.from(categoryMap.entries())
+  .filter(([_, posts]) => posts.length >= 4)
+  .sort((a, b) => {
+    const dateA = new Date(a[1][0].publishDate).getTime();
+    const dateB = new Date(b[1][0].publishDate).getTime();
+    return dateB - dateA;
+  })
+  .map(([slug, posts]) => {
+    const catMeta = (categoriesMetadata as any)?.categories?.[slug];
+    return {
+      slug,
+      posts,
+      title: catMeta?.en?.title || posts[0].category?.title || slug,
+      description: catMeta?.en?.description || 'Curated investigative geographic field dispatches and dossiers.',
+      badge: posts[0].category?.title || 'Field Dispatch',
+    };
+  });
+
+// Filter out the lead category from the primary slots if enough other categories exist, ensuring maximum topic diversity
+const otherCategories = allQualifyingCategories.filter((c) => c.slug !== leadCategorySlug);
+const slotCategories = otherCategories.length >= 3 ? otherCategories : allQualifyingCategories;
+
+// SLOT 1: Dynamic Bento Spotlight (4 posts: 1 Lead + 3 Stacked)
+const bentoCategory = slotCategories[0] || allQualifyingCategories[0];
+const bentoPosts = bentoCategory ? bentoCategory.posts.slice(0, 4) : [];
+const bentoLead = bentoPosts[0];
+const bentoLeadImage = bentoLead ? await findImage(bentoLead.image) : null;
+const bentoLeadLink = bentoLead ? getPermalink(bentoLead.permalink, 'post') : '';
+const bentoStack = bentoPosts.slice(1, 4);
+const bentoStackWithImages = await Promise.all(
+  bentoStack.map(async (post) => ({
+    post,
+    image: await findImage(post.image),
+    link: getPermalink(post.permalink, 'post'),
+  }))
+);
+bentoPosts.forEach((p) => featuredIds.add(p.id));
+
+// SLOT 2: Dynamic Panoramic Banner & Triad (4 posts: 1 Wide Banner + 3 Triad)
+const panoramicCategory = slotCategories[1] || allQualifyingCategories[1];
+const panoramicPosts = panoramicCategory ? panoramicCategory.posts.slice(0, 4) : [];
+const panoramicBanner = panoramicPosts[0];
+const panoramicBannerImage = panoramicBanner ? await findImage(panoramicBanner.image) : null;
+const panoramicBannerLink = panoramicBanner ? getPermalink(panoramicBanner.permalink, 'post') : '';
+const panoramicTrio = panoramicPosts.slice(1, 4);
+const panoramicTrioWithImages = await Promise.all(
+  panoramicTrio.map(async (post) => ({
+    post,
+    image: await findImage(post.image),
+    link: getPermalink(post.permalink, 'post'),
+  }))
+);
+panoramicPosts.forEach((p) => featuredIds.add(p.id));
+
+// SLOT 3: Dynamic Field Guide Grid (4 posts: 2x2 Horizontal Cards)
+const fieldGuideCategory = slotCategories[2] || allQualifyingCategories[2];
+const fieldGuidePosts = fieldGuideCategory ? fieldGuideCategory.posts.slice(0, 4) : [];
+const fieldGuidePostsWithImages = await Promise.all(
+  fieldGuidePosts.map(async (post) => ({
+    post,
+    image: await findImage(post.image),
+    link: getPermalink(post.permalink, 'post'),
+  }))
+);
+fieldGuidePosts.forEach((p) => featuredIds.add(p.id));
+
+// SLOT 4: Dynamic Global Explorer Spotlight (3 posts from distinct active categories)
+const remainingCategories = slotCategories.slice(3);
+const mosaicCandidates: typeof allPosts = [];
+for (const cat of remainingCategories) {
+  const unfeatured = cat.posts.find((p) => !featuredIds.has(p.id));
+  if (unfeatured) mosaicCandidates.push(unfeatured);
+  if (mosaicCandidates.length >= 3) break;
+}
+if (mosaicCandidates.length < 3) {
+  for (const p of allPosts) {
+    if (!featuredIds.has(p.id) && !mosaicCandidates.some((m) => m.id === p.id)) {
+      mosaicCandidates.push(p);
+    }
+    if (mosaicCandidates.length >= 3) break;
+  }
+}
+const mosaicPostsWithImages = await Promise.all(
+  mosaicCandidates.map(async (post) => ({
+    post,
+    image: await findImage(post?.image),
+    link: post ? getPermalink(post.permalink, 'post') : '',
+  }))
+);
+mosaicCandidates.forEach((p) => featuredIds.add(p.id));
+
+// SLOT 5: Latest Dispatches Feed (all remaining unfeatured posts, up to 8)
+const latestDispatches = allPosts.filter((p) => !featuredIds.has(p.id)).slice(0, 8);
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="head">
+    {ALL_LOCALES.map((item) => (
+      <link rel="alternate" hreflang={item.code} href={siteUrl} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={siteUrl} />
+    <StructuredData schema={structuredData} />
+  </Fragment>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-20">
+    <!-- SECTION 1: Editorial Lead Hero Grid (The Verge Style) -->
+    {
+      leadPost && (
+        <section class="mb-16">
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+            <!-- Main Lead Article (col-span-8) -->
+            <article class="lg:col-span-8" data-post-card={leadPost.baseSlug || leadPost.slug} data-publish-date={leadPost.publishDate.toISOString()}>
+              <div class="relative w-full aspect-[16/9] overflow-hidden rounded-xl shadow-xs mb-4 bg-surface">
+                {leadImage && (
+                  <a href={leadLink} class="absolute inset-0 block w-full h-full" data-post-link>
+                    <Image
+                      src={leadImage}
+                      class="w-full h-full object-cover object-center"
+                      widths={[600, 1200]}
+                      width={1200}
+                      height={675}
+                      sizes="(max-width: 1024px) 100vw, 800px"
+                      alt={leadPost.title}
+                      format="webp"
+                      loading="eager"
+                      decoding="async"
+                      layout="cover"
+                    />
+                  </a>
+                )}
+              </div>
+
+              {leadPost.category && (
+                <div class="mb-2">
+                  <a
+                    href={getPermalink(leadPost.category?.slug, 'category')}
+                    class="text-xs font-bold uppercase tracking-wider text-primary hover:underline"
+                    data-cat-slug={leadPost.category?.slug}
+                  >
+                    {leadPost.category?.title}
+                  </a>
+                </div>
+              )}
+
+              <h1 class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight font-heading leading-tight mb-3 dark:text-white">
+                <a href={leadLink} class="hover:text-primary transition-colors" data-post-title data-post-link>
+                  {leadPost.title}
+                </a>
+              </h1>
+
+              <p class="text-muted dark:text-slate-300 text-base sm:text-lg leading-relaxed mb-4" data-post-excerpt>
+                {leadPost.excerpt}
+              </p>
+
+              <div class="text-xs text-muted dark:text-slate-400">
+                <time datetime={String(leadPost.publishDate)} data-post-date data-date-format="long">
+                  {new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric' }).format(
+                    leadPost.publishDate
+                  )}
+                </time>
+              </div>
+            </article>
+
+            <!-- Side Trending Column (col-span-4) -->
+            <div class="lg:col-span-4 flex flex-col gap-6 lg:border-l lg:border-gray-100 lg:dark:border-white/10 lg:pl-8">
+              <div class="flex items-center justify-between pb-2 border-b border-gray-100 dark:border-white/10">
+                <h2 class="text-xs font-bold uppercase tracking-wider text-muted dark:text-slate-400" data-i18n-sec="topStories">
+                  {t.sections.topStories}
+                </h2>
+              </div>
+
+              <div class="flex flex-col divide-y divide-gray-100 dark:divide-white/10">
+                {sidePostsWithImages.map(({ post, image, link }) => (
+                  <article class="py-4 first:pt-0 last:pb-0 flex gap-4 items-start" data-post-card={post.baseSlug || post.slug} data-publish-date={post.publishDate.toISOString()}>
+                    <div class="relative w-24 h-24 sm:w-28 sm:h-20 shrink-0 aspect-[4/3] overflow-hidden rounded-md bg-surface">
+                      {image && (
+                        <a href={link} class="absolute inset-0 block w-full h-full" data-post-link>
+                          <Image
+                            src={image}
+                            class="w-full h-full object-cover object-center"
+                            widths={[200]}
+                            width={200}
+                            height={150}
+                            alt={post.title}
+                            format="webp"
+                            loading="lazy"
+                            layout="cover"
+                          />
+                        </a>
+                      )}
+                    </div>
+
+                    <div class="flex-grow min-w-0">
+                      {post.category && (
+                        <a
+                          href={getPermalink(post.category?.slug, 'category')}
+                          class="text-[11px] font-bold uppercase tracking-wider text-primary hover:underline block mb-1"
+                          data-cat-slug={post.category?.slug}
+                        >
+                          {post.category?.title}
+                        </a>
+                      )}
+                      <h3 class="text-sm sm:text-base font-bold font-heading leading-snug dark:text-slate-100 line-clamp-2 mb-1.5">
+                        <a href={link} class="hover:text-primary transition-colors" data-post-title data-post-link>
+                          {post.title}
+                        </a>
+                      </h3>
+                      <time class="text-xs text-muted dark:text-slate-400 block" datetime={String(post.publishDate)} data-post-date data-date-format="short">
+                        {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric' }).format(post.publishDate)}
+                      </time>
+                    </div>
+                  </article>
+                ))}
+              </div>
+            </div>
+          </div>
+        </section>
+      )
+    }
+
+    <!-- SECTION 2: Dynamic Asymmetric Bento Spotlight (Most Active Category 1) -->
+    {
+      bentoCategory && bentoLead && (
+        <section class="mb-16">
+          <div class="flex items-center justify-between pb-3 mb-6 border-b border-gray-100 dark:border-white/10">
+            <h2 class="text-2xl font-bold tracking-tight font-heading dark:text-white" data-cat-title={bentoCategory.slug}>
+              {bentoCategory.title}
+            </h2>
+            <a
+              href={getPermalink(bentoCategory.slug, 'category')}
+              class="group inline-flex items-center gap-1.5 text-xs sm:text-sm font-medium text-primary hover:opacity-80 transition-opacity shrink-0 ml-4"
+            >
+              <span data-i18n-sec="viewAll">{t.sections.viewAll}</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-4 h-4 transition-transform duration-150 ease-out group-hover:translate-x-1"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <polyline points="12 5 19 12 12 19" />
+              </svg>
+            </a>
+          </div>
+
+          <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+            <!-- Left: Featured Card (col-span-7) -->
+            <article class="lg:col-span-7" data-post-card={bentoLead.baseSlug || bentoLead.slug} data-publish-date={bentoLead.publishDate.toISOString()}>
+              <div class="relative w-full aspect-[16/10] overflow-hidden rounded-xl shadow-xs mb-4 bg-surface">
+                {bentoLeadImage && (
+                  <a href={bentoLeadLink} class="absolute inset-0 block w-full h-full" data-post-link>
+                    <Image
+                      src={bentoLeadImage}
+                      class="w-full h-full object-cover object-center"
+                      widths={[600, 1000]}
+                      width={1000}
+                      height={625}
+                      alt={bentoLead.title}
+                      format="webp"
+                      loading="lazy"
+                      layout="cover"
+                    />
+                  </a>
+                )}
+              </div>
+              <div class="mb-2">
+                <span class="text-xs font-bold uppercase tracking-wider text-[#3898ec]" data-cat-slug={bentoCategory.slug}>
+                  {bentoCategory.badge}
+                </span>
+              </div>
+              <h3 class="text-xl sm:text-2xl font-bold tracking-tight mb-2 dark:text-white">
+                <a href={bentoLeadLink} class="hover:text-primary transition-colors" data-post-title data-post-link>
+                  {bentoLead.title}
+                </a>
+              </h3>
+              <p class="text-muted dark:text-slate-300 text-sm sm:text-base leading-relaxed line-clamp-3 mb-3" data-post-excerpt>
+                {bentoLead.excerpt}
+              </p>
+              <div class="text-xs text-muted dark:text-slate-400">
+                <time datetime={String(bentoLead.publishDate)} data-post-date data-date-format="short">
+                  {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).format(
+                    bentoLead.publishDate
+                  )}
+                </time>
+              </div>
+            </article>
+
+            <!-- Right: 3 Stacked Stories (col-span-5) -->
+            <div class="lg:col-span-5 flex flex-col divide-y divide-gray-100 dark:divide-white/10 lg:pl-4">
+              {bentoStackWithImages.map(({ post, image, link }) => (
+                <article class="py-4 first:pt-0 last:pb-0 flex gap-4 items-start" data-post-card={post.baseSlug || post.slug} data-publish-date={post.publishDate.toISOString()}>
+                  <div class="relative w-28 h-20 sm:w-32 sm:h-22 shrink-0 aspect-[16/10] overflow-hidden rounded-md bg-surface">
+                    {image && (
+                      <a href={link} class="absolute inset-0 block w-full h-full" data-post-link>
+                        <Image
+                          src={image}
+                          class="w-full h-full object-cover object-center"
+                          widths={[240]}
+                          width={240}
+                          height={150}
+                          alt={post.title}
+                          format="webp"
+                          loading="lazy"
+                          layout="cover"
+                        />
+                      </a>
+                    )}
+                  </div>
+                  <div class="flex-grow min-w-0">
+                    <span class="text-[11px] font-bold uppercase tracking-wider text-[#3898ec] block mb-1" data-cat-slug={post.category?.slug || bentoCategory.slug}>
+                      {post.category?.title || bentoCategory.badge}
+                    </span>
+                    <h4 class="text-sm sm:text-base font-bold leading-snug dark:text-slate-200 line-clamp-2 mb-1.5">
+                      <a href={link} class="hover:text-primary transition-colors" data-post-title data-post-link>
+                        {post.title}
+                      </a>
+                    </h4>
+                    <p class="text-xs text-muted dark:text-slate-400 line-clamp-2 mb-1" data-post-excerpt>
+                      {post.excerpt}
+                    </p>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
+      )
+    }
+
+    <!-- SECTION 3: Dynamic Panoramic Wide Feature Banner & Triad (Most Active Category 2) -->
+    {
+      panoramicCategory && panoramicBanner && (
+        <section class="mb-16">
+          <div class="flex items-center justify-between pb-3 mb-6 border-b border-gray-100 dark:border-white/10">
+            <h2 class="text-2xl font-bold tracking-tight font-heading dark:text-white" data-cat-title={panoramicCategory.slug}>
+              {panoramicCategory.title}
+            </h2>
+            <a
+              href={getPermalink(panoramicCategory.slug, 'category')}
+              class="group inline-flex items-center gap-1.5 text-xs sm:text-sm font-medium text-primary hover:opacity-80 transition-opacity shrink-0 ml-4"
+            >
+              <span data-i18n-sec="viewAll">{t.sections.viewAll}</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-4 h-4 transition-transform duration-150 ease-out group-hover:translate-x-1"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <polyline points="12 5 19 12 12 19" />
+              </svg>
+            </a>
+          </div>
+
+          <!-- Cinematic Panoramic Hero Card -->
+          <div class="relative w-full aspect-[16/8] sm:aspect-[21/9] overflow-hidden rounded-xl bg-surface shadow-xs mb-8" data-post-card={panoramicBanner.baseSlug || panoramicBanner.slug} data-publish-date={panoramicBanner.publishDate.toISOString()}>
+            {panoramicBannerImage && (
+              <a href={panoramicBannerLink} class="absolute inset-0 block w-full h-full relative" data-post-link>
+                <Image
+                  src={panoramicBannerImage}
+                  class="w-full h-full object-cover object-center"
+                  widths={[800, 1600]}
+                  width={1600}
+                  height={685}
+                  alt={panoramicBanner.title}
+                  format="webp"
+                  loading="lazy"
+                  layout="cover"
+                />
+                <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-transparent flex flex-col justify-end p-6 sm:p-10">
+                  <span class="inline-block px-3 py-1 mb-2 text-[11px] font-bold uppercase tracking-wider bg-[#3898ec] text-white rounded-full self-start" data-cat-slug={panoramicCategory.slug}>
+                    {panoramicCategory.badge}
+                  </span>
+                  <h3 class="text-xl sm:text-3xl font-extrabold text-white tracking-tight leading-tight mb-2" data-post-title>
+                    {panoramicBanner.title}
+                  </h3>
+                  <p class="text-sm sm:text-base text-slate-200 line-clamp-2 max-w-3xl leading-relaxed" data-post-excerpt>
+                    {panoramicBanner.excerpt}
+                  </p>
+                </div>
+              </a>
+            )}
+          </div>
+
+          <!-- 3-Column Clean Card Triad Below Banner -->
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {panoramicTrioWithImages.map(({ post, image, link }) => (
+              <article class="flex flex-col" data-post-card={post.baseSlug || post.slug} data-publish-date={post.publishDate.toISOString()}>
+                <div class="relative w-full aspect-[16/10] overflow-hidden rounded-lg bg-surface shadow-xs mb-3">
+                  {image && (
+                    <a href={link} class="absolute inset-0 block w-full h-full" data-post-link>
+                      <Image
+                        src={image}
+                        class="w-full h-full object-cover object-center"
+                        widths={[400]}
+                        width={400}
+                        height={250}
+                        alt={post.title}
+                        format="webp"
+                        loading="lazy"
+                        layout="cover"
+                      />
+                    </a>
+                  )}
+                </div>
+                <div class="mb-1.5">
+                  <a
+                    href={getPermalink(post.category?.slug || panoramicCategory.slug, 'category')}
+                    class="text-xs font-semibold tracking-wider uppercase text-primary hover:underline"
+                    data-cat-slug={post.category?.slug || panoramicCategory.slug}
+                  >
+                    {post.category?.title || panoramicCategory.badge}
+                  </a>
+                </div>
+                <h3 class="text-xl sm:text-2xl font-bold leading-tight mb-2 font-heading dark:text-slate-200 line-clamp-3">
+                  <a href={link} class="hover:text-primary transition-colors duration-150" data-post-title data-post-link>
+                    {post.title}
+                  </a>
+                </h3>
+                <p class="text-muted dark:text-slate-400 text-sm line-clamp-2 mb-2.5" data-post-excerpt>
+                  {post.excerpt}
+                </p>
+              </article>
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <!-- SECTION 4: Dynamic Field Guide Grid: 2-Column Horizontal Cards (Most Active Category 3) -->
+    {
+      fieldGuideCategory && fieldGuidePostsWithImages.length > 0 && (
+        <section class="mb-16">
+          <div class="flex items-center justify-between pb-3 mb-6 border-b border-gray-100 dark:border-white/10">
+            <h2 class="text-2xl font-bold tracking-tight font-heading dark:text-white" data-cat-title={fieldGuideCategory.slug}>
+              {fieldGuideCategory.title}
+            </h2>
+            <a
+              href={getPermalink(fieldGuideCategory.slug, 'category')}
+              class="group inline-flex items-center gap-1.5 text-xs sm:text-sm font-medium text-primary hover:opacity-80 transition-opacity shrink-0 ml-4"
+            >
+              <span data-i18n-sec="viewAll">{t.sections.viewAll}</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-4 h-4 transition-transform duration-150 ease-out group-hover:translate-x-1"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <polyline points="12 5 19 12 12 19" />
+              </svg>
+            </a>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {fieldGuidePostsWithImages.map(({ post, image, link }) => (
+              <article class="p-3.5 rounded-md bg-surface/50 hover:bg-surface transition-colors flex gap-4 items-center" data-post-card={post.baseSlug || post.slug} data-publish-date={post.publishDate.toISOString()}>
+                <div class="relative w-28 h-20 shrink-0 overflow-hidden rounded-md bg-surface flex items-center justify-center">
+                  {image && (
+                    <a href={link} class="relative w-full h-full flex items-center justify-center overflow-hidden" data-post-link>
+                      <Image
+                        src={image}
+                        class="w-full h-full object-cover object-center"
+                        layout="cover"
+                        widths={[240]}
+                        width={240}
+                        height={160}
+                        alt={post.title}
+                        format="webp"
+                        loading="lazy"
+                      />
+                    </a>
+                  )}
+                </div>
+                <div class="flex-grow min-w-0">
+                  <span class="text-[11px] font-bold uppercase tracking-wider text-[#3898ec] block mb-1" data-cat-slug={post.category?.slug || fieldGuideCategory.slug}>
+                    {post.category?.title || fieldGuideCategory.badge}
+                  </span>
+                  <h3 class="text-base font-bold leading-snug dark:text-white line-clamp-1 mb-1">
+                    <a href={link} class="hover:text-primary transition-colors" data-post-title data-post-link>
+                      {post.title}
+                    </a>
+                  </h3>
+                  <p class="text-xs text-muted dark:text-slate-300 line-clamp-2" data-post-excerpt>
+                    {post.excerpt}
+                  </p>
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <!-- SECTION 5: Global Mosaic: Cities, Routes & Antiquity (3-Column Magazine Row) -->
+    {
+      mosaicPostsWithImages.length > 0 && (
+        <section class="mb-16">
+          <div class="flex items-center justify-between pb-3 mb-6 border-b border-gray-100 dark:border-white/10">
+            <h2 class="text-2xl font-bold tracking-tight font-heading dark:text-white" data-i18n-sec="mosaicTitle">
+              {t.sections.mosaicTitle}
+            </h2>
+            <a
+              href={getBlogPermalink()}
+              class="group inline-flex items-center gap-1.5 text-xs sm:text-sm font-medium text-primary hover:opacity-80 transition-opacity shrink-0 ml-4"
+            >
+              <span data-i18n-sec="viewAll">{t.sections.viewAll}</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-4 h-4 transition-transform duration-150 ease-out group-hover:translate-x-1"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <polyline points="12 5 19 12 12 19" />
+              </svg>
+            </a>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {mosaicPostsWithImages.map(({ post, image, link }) => (
+              <article class="flex flex-col" data-post-card={post ? (post.baseSlug || post.slug) : ''} data-publish-date={post?.publishDate ? post.publishDate.toISOString() : ''}>
+                <div class="relative w-full aspect-[16/10] overflow-hidden rounded-lg bg-surface shadow-xs mb-3">
+                  {image && (
+                    <a href={link} class="absolute inset-0 block w-full h-full" data-post-link>
+                      <Image
+                        src={image}
+                        class="w-full h-full object-cover object-center"
+                        widths={[400]}
+                        width={400}
+                        height={250}
+                        alt={post ? post.title : ''}
+                        format="webp"
+                        loading="lazy"
+                        layout="cover"
+                      />
+                    </a>
+                  )}
+                </div>
+                {post?.category && (
+                  <div class="mb-1.5">
+                    <a
+                      href={getPermalink(post.category.slug, 'category')}
+                      class="text-xs font-semibold tracking-wider uppercase text-primary hover:underline"
+                      data-cat-slug={post.category.slug}
+                    >
+                      {post.category.title}
+                    </a>
+                  </div>
+                )}
+                <h3 class="text-xl sm:text-2xl font-bold leading-tight mb-2 font-heading dark:text-slate-200 line-clamp-3">
+                  <a href={link} class="hover:text-primary transition-colors duration-150" data-post-title data-post-link>
+                    {post ? post.title : ''}
+                  </a>
+                </h3>
+                <p class="text-muted dark:text-slate-400 text-sm line-clamp-2 mb-2.5" data-post-excerpt>
+                  {post ? post.excerpt : ''}
+                </p>
+              </article>
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    <!-- SECTION 6: Latest Dispatches Feed (Standard Grid) -->
+    {
+      latestDispatches.length > 0 && (
+        <section class="mb-16">
+          <div class="flex items-center justify-between pb-3 mb-6 border-b border-gray-100 dark:border-white/10">
+            <h2 class="text-2xl font-bold tracking-tight font-heading dark:text-white" data-i18n-sec="latestTitle">
+              {t.sections.latestTitle}
+            </h2>
+            <a
+              href={getBlogPermalink()}
+              class="group inline-flex items-center gap-1.5 text-xs sm:text-sm font-medium text-primary hover:opacity-80 transition-opacity shrink-0 ml-4"
+            >
+              <span data-i18n-sec="viewAll">{t.sections.viewAll}</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                class="w-4 h-4 transition-transform duration-150 ease-out group-hover:translate-x-1"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <polyline points="12 5 19 12 12 19" />
+              </svg>
+            </a>
+          </div>
+
+          <Grid posts={latestDispatches} />
+        </section>
+      )
+    }
+  </div>
+
+  <script is:inline define:vars={{ translationsMap, categoriesI18nMap }}>
+    (function() {
+      const SECTION_I18N = {
+        en: { topStories: 'Top Stories', viewAll: 'View all', mosaicTitle: 'Global Explorer Spotlight', latestTitle: 'Latest Dispatches' },
+        de: { topStories: 'Top-Geschichten', viewAll: 'Alle anzeigen', mosaicTitle: 'Globaler Entdecker-Fokus', latestTitle: 'Neueste Berichte' },
+        es: { topStories: 'Historias destacadas', viewAll: 'Ver todo', mosaicTitle: 'Enfoque Explorador Global', latestTitle: 'Últimos despachos' },
+        fr: { topStories: 'À la une', viewAll: 'Voir tout', mosaicTitle: 'Projecteur Explorateur Mondial', latestTitle: 'Dernières dépêches' },
+        it: { topStories: 'Storie principali', viewAll: 'Mostra tutto', mosaicTitle: 'Riflettori sull’Esploratore Globale', latestTitle: 'Ultimi dispacci' },
+        nl: { topStories: 'Topverhalen', viewAll: 'Alles bekijken', mosaicTitle: 'Wereldwijde Verkenner Spotlight', latestTitle: 'Laatste berichten' },
+        pt: { topStories: 'Histórias em destaque', viewAll: 'Ver tudo', mosaicTitle: 'Destaque Explorador Global', latestTitle: 'Últimos despachos' },
+        sv: { topStories: 'Toppberättelser', viewAll: 'Visa alla', mosaicTitle: 'Global Utforskare i Fokus', latestTitle: 'Senaste rapporter' },
+        tr: { topStories: 'Öne Çıkan Hikayeler', viewAll: 'Tümünü görüntüle', mosaicTitle: 'Küresel Kaşif Odağı', latestTitle: 'Son Bültenler' },
+        ar: { topStories: 'أهم الأخبار', viewAll: 'عرض الكل', mosaicTitle: 'أضواء المستكشف العالمي', latestTitle: 'أحدث المقالات' },
+      };
+
+      const LOCALE_DATE_MAP = {
+        en: 'en-US',
+        de: 'de-DE',
+        es: 'es-ES',
+        fr: 'fr-FR',
+        it: 'it-IT',
+        nl: 'nl-NL',
+        pt: 'pt-PT',
+        sv: 'sv-SE',
+        tr: 'tr-TR',
+        ar: 'ar-EG',
+      };
+
+      function updatePageLanguage(lang) {
+        const targetLang = (lang || 'en').toLowerCase();
+        const sectionI18n = SECTION_I18N[targetLang] || SECTION_I18N.en;
+        const localeCode = LOCALE_DATE_MAP[targetLang] || targetLang;
+
+        // 1. Update Section Titles
+        document.querySelectorAll('[data-i18n-sec]').forEach((el) => {
+          const key = el.getAttribute('data-i18n-sec');
+          if (key && sectionI18n[key]) {
+            el.textContent = sectionI18n[key];
+          }
+        });
+
+        // 2. Update Category Headers & Badges
+        if (categoriesI18nMap) {
+          document.querySelectorAll('[data-cat-title]').forEach((el) => {
+            const slug = el.getAttribute('data-cat-title');
+            if (slug && categoriesI18nMap[slug]) {
+              const translated = categoriesI18nMap[slug][targetLang] || categoriesI18nMap[slug]['en'];
+              if (translated) el.textContent = translated;
+            }
+          });
+          document.querySelectorAll('[data-cat-slug]').forEach((el) => {
+            const slug = el.getAttribute('data-cat-slug');
+            if (slug && categoriesI18nMap[slug]) {
+              const translated = categoriesI18nMap[slug][targetLang] || categoriesI18nMap[slug]['en'];
+              if (translated) el.textContent = translated;
+            }
+          });
+        }
+
+        // 3. Update Post Cards
+        if (translationsMap) {
+          document.querySelectorAll('[data-post-card]').forEach((card) => {
+            const baseSlug = card.getAttribute('data-post-card');
+            if (!baseSlug || !translationsMap[baseSlug]) return;
+
+            const postData = translationsMap[baseSlug][targetLang] || translationsMap[baseSlug]['en'];
+            if (!postData) return;
+
+            // Update Hyperlinks
+            if (postData.permalink) {
+              card.querySelectorAll('[data-post-link]').forEach((linkEl) => {
+                linkEl.setAttribute('href', postData.permalink);
+              });
+            }
+
+            // Update Title
+            if (postData.title) {
+              const titleEl = card.querySelector('[data-post-title]');
+              if (titleEl) {
+                titleEl.textContent = postData.title;
+              }
+            }
+
+            // Update Excerpt
+            if (postData.excerpt !== undefined) {
+              const excerptEl = card.querySelector('[data-post-excerpt]');
+              if (excerptEl) {
+                excerptEl.textContent = postData.excerpt;
+              }
+            }
+
+            // Update Formatted Date
+            const dateAttr = card.getAttribute('data-publish-date');
+            if (dateAttr) {
+              const timeEl = card.querySelector('[data-post-date]');
+              if (timeEl) {
+                try {
+                  const dateObj = new Date(dateAttr);
+                  const isLong = timeEl.getAttribute('data-date-format') === 'long';
+                  timeEl.textContent = new Intl.DateTimeFormat(localeCode, {
+                    month: isLong ? 'long' : 'short',
+                    day: 'numeric',
+                    year: 'numeric',
+                  }).format(dateObj);
+                } catch (_e) {}
+              }
+            }
+          });
+        }
+      }
+
+      const initialLang = new URLSearchParams(window.location.search).get('lang') || localStorage.getItem('geotrivia_lang') || 'en';
+      if (initialLang) {
+        updatePageLanguage(initialLang.toLowerCase());
+      }
+
+      window.addEventListener('geotrivia-lang-updated', function(e) {
+        const nextLang = e.detail?.locale || e.detail?.lang;
+        if (nextLang) updatePageLanguage(nextLang.toLowerCase());
+      });
+
+      window.addEventListener('message', function(e) {
+        if (e.data && e.data.type === 'GEOTRIVIA_LANG_CHANGE') {
+          const nextLang = e.data.locale || e.data.lang;
+          if (nextLang) updatePageLanguage(nextLang.toLowerCase());
+        }
+      });
+    })();
+  </script>
+</Layout>

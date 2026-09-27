@@ -1,0 +1,101 @@
+---
+import { APP_BLOG } from 'astrowind:config';
+import type { Post } from '~/types';
+
+import Image from '~/components/common/Image.astro';
+
+import { findImage } from '~/utils/images';
+import { getPermalink } from '~/utils/permalinks';
+
+export interface Props {
+  post: Post;
+}
+
+const { post } = Astro.props;
+const image = await findImage(post.image);
+
+const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : '';
+---
+
+<article
+  class="mb-6 transition intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade"
+  data-post-card={post.baseSlug || post.slug}
+  data-publish-date={post.publishDate ? post.publishDate.toISOString() : ''}
+>
+  <div class="relative w-full aspect-[16/10] sm:aspect-[16/9] overflow-hidden rounded-lg shadow-xs mb-4 bg-surface">
+    {
+      image &&
+        (link ? (
+          <a href={link} class="absolute inset-0 block w-full h-full" data-post-link>
+            <Image
+              src={image}
+              class="w-full h-full object-cover object-center"
+              widths={[400, 900]}
+              width={900}
+              height={506}
+              sizes="(max-width: 900px) 400px, 900px"
+              alt={post.title}
+              format="webp"
+              loading="lazy"
+              decoding="async"
+              layout="cover"
+            />
+          </a>
+        ) : (
+          <div class="absolute inset-0 w-full h-full">
+            <Image
+              src={image}
+              class="w-full h-full object-cover object-center"
+              widths={[400, 900]}
+              width={900}
+              height={506}
+              sizes="(max-width: 900px) 400px, 900px"
+              alt={post.title}
+              format="webp"
+              loading="lazy"
+              decoding="async"
+              layout="cover"
+            />
+          </div>
+        ))
+    }
+  </div>
+
+  {
+    post.category && (
+      <div class="mb-1.5">
+        <a
+          href={getPermalink(post.category.slug, 'category')}
+          class="text-xs font-semibold tracking-wider uppercase text-primary hover:underline"
+          data-cat-slug={post.category.slug}
+        >
+          {post.category.title}
+        </a>
+      </div>
+    )
+  }
+
+  <h3 class="text-xl sm:text-2xl font-bold leading-tight mb-2 font-heading dark:text-slate-200 line-clamp-3">
+    {
+      link ? (
+        <a class="hover:text-primary transition-colors duration-150" href={link} data-post-title data-post-link>
+          {post.title}
+        </a>
+      ) : (
+        <span data-post-title>{post.title}</span>
+      )
+    }
+  </h3>
+
+  <p class="text-muted dark:text-slate-400 text-sm line-clamp-2 mb-2.5" data-post-excerpt>{post.excerpt}</p>
+
+  {
+    post.publishDate && (
+      <div class="text-xs text-muted dark:text-slate-400">
+        <time datetime={String(post.publishDate)} data-post-date data-date-format="short">
+          {new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' }).format(post.publishDate)}
+        </time>
+      </div>
+    )
+  }
+</article>

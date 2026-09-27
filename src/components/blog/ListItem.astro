@@ -1,0 +1,134 @@
+---
+import type { ImageMetadata } from 'astro';
+import { Icon } from 'astro-icon/components';
+import Image from '~/components/common/Image.astro';
+import PostTags from '~/components/blog/Tags.astro';
+
+import { APP_BLOG } from 'astrowind:config';
+import type { Post } from '~/types';
+
+import { getPermalink } from '~/utils/permalinks';
+import { findImage } from '~/utils/images';
+import { getFormattedDate } from '~/utils/utils';
+
+export interface Props {
+  post: Post;
+}
+
+const { post } = Astro.props;
+const image = (await findImage(post.image)) as ImageMetadata | undefined;
+
+const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : '';
+---
+
+<article
+  class={`max-w-md mx-auto md:max-w-none grid gap-6 md:gap-8 intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade ${image ? 'md:grid-cols-2' : ''}`}
+  data-post-card={post.baseSlug || post.slug}
+  data-publish-date={post.publishDate ? post.publishDate.toISOString() : ''}
+>
+  {
+    image &&
+      (link ? (
+        <a class="relative block" href={link} data-post-link>
+          <div class="relative w-full aspect-[16/10] sm:aspect-[16/9] overflow-hidden bg-surface rounded-lg shadow-xs">
+            {image && (
+              <div class="absolute inset-0 w-full h-full">
+                <Image
+                  src={image}
+                  class="w-full h-full object-cover object-center rounded-lg"
+                  widths={[400, 900]}
+                  width={900}
+                  height={506}
+                  sizes="(max-width: 900px) 400px, 900px"
+                  alt={post.title}
+                  format="webp"
+                  loading="lazy"
+                  decoding="async"
+                  layout="cover"
+                />
+              </div>
+            )}
+          </div>
+        </a>
+      ) : (
+        <div class="relative w-full aspect-[16/10] sm:aspect-[16/9] overflow-hidden bg-surface rounded-lg shadow-xs">
+          {image && (
+            <div class="absolute inset-0 w-full h-full">
+              <Image
+                src={image}
+                class="w-full h-full object-cover object-center rounded-lg"
+                widths={[400, 900]}
+                width={900}
+                height={506}
+                sizes="(max-width: 900px) 400px, 900px"
+                alt={post.title}
+                format="webp"
+                loading="lazy"
+                decoding="async"
+                layout="cover"
+              />
+            </div>
+          )}
+        </div>
+      ))
+  }
+  <div class="mt-2">
+    <header>
+      <div class="mb-1">
+        <span class="text-sm">
+          <Icon name="tabler:clock" class="w-3.5 h-3.5 inline-block -mt-0.5 dark:text-gray-400" />
+          <time datetime={post.publishDate.toISOString()} class="inline-block"
+            >{getFormattedDate(post.publishDate)}</time
+          >
+          {
+            post.author && (
+              <>
+                {' '}
+                · <Icon name="tabler:user" class="w-3.5 h-3.5 inline-block -mt-0.5 dark:text-gray-400" />
+                <span>{post.author.replaceAll('-', ' ')}</span>
+              </>
+            )
+          }
+          {
+            post.category && (
+              <>
+                {' '}
+                ·{' '}
+                <a class="hover:underline" href={getPermalink(post.category.slug, 'category')}>
+                  {post.category.title}
+                </a>
+              </>
+            )
+          }
+        </span>
+      </div>
+      <h2 class="text-xl sm:text-2xl font-bold leading-tight mb-2 font-heading dark:text-slate-300">
+        {
+          link ? (
+            <a
+              class="inline-block hover:text-primary dark:hover:text-blue-700 transition ease-in duration-200"
+              href={link}
+              data-post-title
+              data-post-link
+            >
+              {post.title}
+            </a>
+          ) : (
+            <span data-post-title>{post.title}</span>
+          )
+        }
+      </h2>
+    </header>
+
+    {post.excerpt && <p class="flex-grow text-muted dark:text-slate-400 text-lg" data-post-excerpt>{post.excerpt}</p>}
+    {
+      post.tags && Array.isArray(post.tags) ? (
+        <footer class="mt-5">
+          <PostTags tags={post.tags} />
+        </footer>
+      ) : (
+        <Fragment />
+      )
+    }
+  </div>
+</article>

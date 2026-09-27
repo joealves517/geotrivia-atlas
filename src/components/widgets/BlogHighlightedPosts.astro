@@ -1,0 +1,77 @@
+---
+import { APP_BLOG } from 'astrowind:config';
+
+import Grid from '~/components/blog/Grid.astro';
+
+import { getBlogPermalink } from '~/utils/permalinks';
+import { findPostsByIds } from '~/utils/blog';
+import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
+import type { Widget } from '~/types';
+
+export interface Props extends Widget {
+  title?: string;
+  linkText?: string;
+  linkUrl?: string | URL;
+  information?: string;
+  postIds: string[];
+}
+
+const {
+  title = await Astro.slots.render('title'),
+  linkText = 'View all posts',
+  linkUrl = getBlogPermalink(),
+  information = await Astro.slots.render('information'),
+  postIds = [],
+
+  id,
+  isDark = false,
+  classes = {},
+  bg = await Astro.slots.render('bg'),
+} = Astro.props;
+
+const posts = APP_BLOG.isEnabled ? await findPostsByIds(postIds) : [];
+---
+
+{
+  APP_BLOG.isEnabled ? (
+    <WidgetWrapper id={id} isDark={isDark} containerClass={classes?.container as string} bg={bg}>
+      <div class="flex flex-col lg:justify-between lg:flex-row mb-8">
+        {title && (
+          <div class="md:max-w-sm">
+            <h2
+              class="text-3xl font-bold tracking-tight sm:text-4xl sm:leading-none group font-heading mb-2"
+              set:html={title}
+            />
+            {APP_BLOG.list.isEnabled && linkText && linkUrl && (
+              <a
+                class="group inline-flex items-center gap-1.5 text-xs sm:text-sm font-medium text-[#3898ec] hover:text-[#529bf5] transition-colors mb-6 lg:mb-0"
+                href={linkUrl}
+              >
+                <span>{linkText}</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  class="w-4 h-4 transition-transform duration-150 ease-out group-hover:translate-x-1"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <line x1="5" y1="12" x2="19" y2="12" />
+                  <polyline points="12 5 19 12 12 19" />
+                </svg>
+              </a>
+            )}
+          </div>
+        )}
+
+        {information && <p class="text-muted dark:text-slate-400 lg:text-sm lg:max-w-md" set:html={information} />}
+      </div>
+
+      <Grid posts={posts} />
+    </WidgetWrapper>
+  ) : (
+    <Fragment />
+  )
+}

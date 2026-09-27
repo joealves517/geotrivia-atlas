@@ -1,0 +1,214 @@
+---
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+import { blogCategoryRobots, getStaticPathsBlogCategory } from '~/utils/blog';
+import { SITE } from 'astrowind:config';
+
+import Layout from '~/layouts/PageLayout.astro';
+import BlogList from '~/components/blog/List.astro';
+import Pagination from '~/components/blog/Pagination.astro';
+import Breadcrumbs from '~/components/common/Breadcrumbs.astro';
+import StructuredData from '~/components/common/StructuredData.astro';
+import { getPermalink, getBlogPermalink, getCanonical } from '~/utils/permalinks';
+import categoriesMetadata from '~/data/categories-seo-metadata.json';
+import { getTranslation } from '~/lib/i18n/translations';
+
+export const prerender = true;
+
+export const getStaticPaths = (async ({ paginate }) => {
+  return await getStaticPathsBlogCategory({ paginate });
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths> & { category: Record<string, string> };
+
+const { page, category } = Astro.props as Props;
+const t = getTranslation('en');
+
+const currentPage = page.currentPage ?? 1;
+const categorySlug = category.slug;
+const siteBaseUrl = String(Astro.site || SITE?.site || 'https://atlas.geotriviax.com').replace(/\/$/, '');
+
+// Active language from query or default English
+const queryLang = Astro.url?.searchParams?.get('lang') || 'en';
+const activeLang = ['en', 'es', 'fr', 'de', 'pt', 'it', 'nl', 'sv', 'tr', 'ar'].includes(queryLang) ? queryLang : 'en';
+
+// Load localized SEO definitions
+const catMeta = (categoriesMetadata.categories as Record<string, any>)?.[categorySlug];
+const localizedMeta = catMeta?.[activeLang] || catMeta?.en;
+
+const categoryTitle = localizedMeta?.title || `${category.title} — Atlas`;
+const categoryDescription =
+  localizedMeta?.description || `Explore curated ${category.title} field dispatches and investigative geographic dossiers.`;
+const categoryIntro = localizedMeta?.intro || `Investigative dispatches and verified geopolitical research on ${category.title}.`;
+
+const categoryUrl = String(getCanonical(getPermalink(categorySlug, 'category')));
+
+const ALL_LOCALES = [
+  { code: 'en', ogLocale: 'en_US' },
+  { code: 'es', ogLocale: 'es_ES' },
+  { code: 'fr', ogLocale: 'fr_FR' },
+  { code: 'de', ogLocale: 'de_DE' },
+  { code: 'pt', ogLocale: 'pt_PT' },
+  { code: 'it', ogLocale: 'it_IT' },
+  { code: 'nl', ogLocale: 'nl_NL' },
+  { code: 'sv', ogLocale: 'sv_SE' },
+  { code: 'tr', ogLocale: 'tr_TR' },
+  { code: 'ar', ogLocale: 'ar_AR' },
+];
+
+const hreflangs = [
+  ...ALL_LOCALES.map((loc) => ({
+    lang: loc.code,
+    href: loc.code === 'en' ? categoryUrl : `${categoryUrl}?lang=${loc.code}`,
+  })),
+  {
+    lang: 'x-default',
+    href: categoryUrl,
+  },
+];
+
+const breadcrumbs = [
+  { text: 'Home', href: getPermalink('/') },
+  { text: 'Atlas', href: getBlogPermalink() },
+  ...(currentPage > 1
+    ? [{ text: category.title, href: getPermalink(categorySlug, 'category') }, { text: `Page ${currentPage}` }]
+    : [{ text: category.title }]),
+];
+
+const metadata = {
+  title: `${categoryTitle}${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
+  description: categoryDescription,
+  robots: {
+    index: blogCategoryRobots?.index,
+    follow: blogCategoryRobots?.follow,
+  },
+  openGraph: {
+    type: 'website',
+    url: categoryUrl,
+    title: categoryTitle,
+    description: categoryDescription,
+  },
+};
+
+// Schema.org CollectionPage & ItemList for Search Engines and AI Crawlers
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${categoryUrl}#collection`,
+  url: categoryUrl,
+  name: categoryTitle,
+  description: categoryDescription,
+  isPartOf: {
+    '@type': 'WebSite',
+    '@id': `${siteBaseUrl}/#website`,
+    name: SITE?.name || 'GeoTrivia Atlas',
+    url: siteBaseUrl,
+  },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((b, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: b.text,
+      ...(b.href ? { item: String(new URL(b.href, siteBaseUrl)) } : {}),
+    })),
+  },
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: (page.data || []).map((post: any, index: number) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      url: String(new URL(getPermalink(post.permalink, 'post'), siteBaseUrl)),
+      name: post.title,
+    })),
+  },
+};
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="head">
+    {hreflangs.map((item) => (
+      <link rel="alternate" hreflang={item.lang} href={item.href} />
+    ))}
+    <StructuredData schema={collectionSchema} />
+  </Fragment>
+
+  <Breadcrumbs bar items={breadcrumbs} />
+
+  <section class="px-4 md:px-6 py-10 sm:py-14 lg:py-16 mx-auto max-w-4xl" id="category-landing-section" data-cat-meta={JSON.stringify(catMeta || {})}>
+    <header class="mb-10 text-center max-w-3xl mx-auto border-b border-border/40 pb-8">
+      <h1 id="category-page-title" class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-foreground mb-4 text-center">
+        {categoryTitle.split('—')[0].trim()}
+      </h1>
+      <p id="category-page-intro" class="text-base sm:text-lg text-muted max-w-2xl mx-auto leading-relaxed text-center">
+        {categoryIntro}
+      </p>
+    </header>
+
+    {
+      page.data && page.data.length > 0 ? (
+        <>
+          <BlogList posts={page.data} />
+          <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
+        </>
+      ) : (
+        <div class="rounded-2xl border border-dashed border-border/80 bg-surface/40 p-8 sm:p-12 text-center my-8 shadow-xs">
+          <h2 class="text-xl font-semibold text-foreground mb-2">{t.archive.inPreparation}</h2>
+          <p class="text-sm text-muted max-w-md mx-auto mb-6">
+            {t.archive.inPreparationDesc}
+          </p>
+          <a
+            href={getBlogPermalink()}
+            class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary text-white text-xs sm:text-sm font-medium hover:opacity-90 transition-opacity"
+          >
+            {t.archive.browseAll}
+          </a>
+        </div>
+      )
+    }
+  </section>
+
+  <script is:inline>
+    (function() {
+      const section = document.getElementById('category-landing-section');
+      const titleEl = document.getElementById('category-page-title');
+      const introEl = document.getElementById('category-page-intro');
+      if (!section || !titleEl || !introEl) return;
+
+      let meta = {};
+      try {
+        meta = JSON.parse(section.dataset.catMeta || '{}');
+      } catch (_e) {}
+
+      function applyLocale(lang) {
+        if (!lang || !meta[lang]) return;
+        const target = meta[lang];
+        if (target.title) {
+          titleEl.textContent = target.title.split('—')[0].trim();
+          document.title = target.title + ' — GeoTrivia Atlas';
+        }
+        if (target.intro) {
+          introEl.textContent = target.intro;
+        }
+      }
+
+      // Check initial query parameter
+      const queryLang = new URLSearchParams(window.location.search).get('lang');
+      if (queryLang && queryLang !== 'en') {
+        applyLocale(queryLang);
+      }
+
+      // Listen for parent app events
+      window.addEventListener('geotrivia-lang-updated', function(e) {
+        const nextLang = e.detail?.locale || e.detail?.lang;
+        if (nextLang) applyLocale(nextLang);
+      });
+
+      window.addEventListener('message', function(e) {
+        if (e.data && e.data.type === 'GEOTRIVIA_LANG_CHANGE') {
+          const nextLang = e.data.locale || e.data.lang;
+          if (nextLang) applyLocale(nextLang);
+        }
+      });
+    })();
+  </script>
+</Layout>

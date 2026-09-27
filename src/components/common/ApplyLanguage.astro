@@ -1,0 +1,60 @@
+---
+// Single source of truth for applying the active language and text direction with anti-FOUC support.
+---
+
+<script is:inline>
+  const SUPPORTED_LANG_CODES = ['en', 'de', 'es', 'fr', 'it', 'nl', 'pt', 'sv', 'tr', 'ar'];
+
+  function applyLanguage(lang) {
+    if (!SUPPORTED_LANG_CODES.includes(lang)) {
+      lang = 'en';
+    }
+    document.documentElement.lang = lang;
+    document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
+  }
+
+  function resolveLanguage() {
+    // Priority 1: Check URL search parameters (?lang=...) passed from parent mobile app or shared link
+    try {
+      const params = new URLSearchParams(window.location.search);
+      const urlLang = params.get('lang')?.toLowerCase()?.trim();
+      if (urlLang && SUPPORTED_LANG_CODES.includes(urlLang)) {
+        localStorage.setItem('geotrivia_lang', urlLang);
+        return urlLang;
+      }
+    } catch {
+      // Ignore if unavailable
+    }
+
+    // Priority 2: Check localStorage
+    try {
+      const stored = localStorage.getItem('geotrivia_lang')?.toLowerCase()?.trim();
+      if (stored && SUPPORTED_LANG_CODES.includes(stored)) {
+        return stored;
+      }
+    } catch {
+      // Ignore if unavailable
+    }
+
+    // Priority 3: Fallback default
+    return 'en';
+  }
+
+  // Synchronously execute to prevent FOUC / layout shift
+  applyLanguage(resolveLanguage());
+
+  // Listen for real-time language changes from parent app iframe
+  window.addEventListener('message', (event) => {
+    if (event.data && event.data.type === 'GEOTRIVIA_LANG_CHANGE') {
+      const nextLang = event.data.lang?.toLowerCase()?.trim();
+      if (nextLang && SUPPORTED_LANG_CODES.includes(nextLang)) {
+        localStorage.setItem('geotrivia_lang', nextLang);
+        applyLanguage(nextLang);
+        window.dispatchEvent(new CustomEvent('geotrivia-lang-updated', { detail: { lang: nextLang } }));
+      }
+    }
+  });
+
+  // Re-apply language on client-side navigation with ClientRouter
+  document.addEventListener('astro:after-swap', () => applyLanguage(resolveLanguage()));
+</script>

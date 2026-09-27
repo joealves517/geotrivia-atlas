@@ -1,0 +1,111 @@
+---
+import { Icon } from 'astro-icon/components';
+
+export interface Props {
+  text: string;
+  url: string | URL;
+  class?: string;
+}
+
+const { text, url, class: className = 'inline-flex items-center gap-1.5' } = Astro.props;
+---
+
+<aw-social-share class={className}>
+  <span class="font-bold text-xs uppercase tracking-wider text-slate-500 dark:text-slate-400 mr-1">Share:</span>
+
+  <!-- Facebook -->
+  <button
+    type="button"
+    class="p-1 rounded-sm hover:bg-gray-100 dark:hover:bg-slate-800 transition-colors cursor-pointer"
+    title="Share on Facebook"
+    aria-label="Share on Facebook"
+    data-aw-social-share="facebook"
+    data-aw-url={url}
+  >
+    <Icon
+      name="tabler:brand-facebook"
+      class="w-5 h-5 text-gray-400 dark:text-slate-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+    />
+  </button>
+
+  <!-- Instagram -->
+  <button
+    type="button"
+    class="p-1 rounded-sm hover:bg-gray-100 dark:hover:bg-slate-800 transition-colors cursor-pointer"
+    title="Share on Instagram"
+    aria-label="Share on Instagram"
+    data-aw-social-share="instagram"
+    data-aw-url={url}
+  >
+    <Icon
+      name="tabler:brand-instagram"
+      class="w-5 h-5 text-gray-400 dark:text-slate-400 hover:text-pink-600 dark:hover:text-pink-400 transition-colors"
+    />
+  </button>
+
+  <!-- X / Twitter -->
+  <button
+    type="button"
+    class="p-1 rounded-sm hover:bg-gray-100 dark:hover:bg-slate-800 transition-colors cursor-pointer"
+    title="Share on X"
+    aria-label="Share on X"
+    data-aw-social-share="twitter"
+    data-aw-url={url}
+    data-aw-text={text}
+  >
+    <Icon
+      name="tabler:brand-x"
+      class="w-5 h-5 text-gray-400 dark:text-slate-400 hover:text-black dark:hover:text-white transition-colors"
+    />
+  </button>
+</aw-social-share>
+
+<script>
+  const SHARE_URLS: Record<string, (url: string, text: string) => string> = {
+    facebook: (url) => `https://www.facebook.com/sharer.php?u=${url}`,
+    instagram: () => `https://www.instagram.com/`,
+    twitter: (url, text) => `https://twitter.com/intent/tweet?url=${url}&text=${text}`,
+  };
+
+  class AwSocialShare extends HTMLElement {
+    connectedCallback() {
+      this.querySelectorAll<HTMLElement>('[data-aw-social-share]').forEach((btn) => {
+        btn.addEventListener('click', async () => {
+          const network = btn.getAttribute('data-aw-social-share') ?? '';
+          const rawUrl = btn.getAttribute('data-aw-url') ?? '';
+          const rawText = btn.getAttribute('data-aw-text') ?? '';
+          const url = encodeURIComponent(rawUrl);
+          const text = encodeURIComponent(rawText);
+
+          if (network === 'instagram' && navigator.clipboard) {
+            try {
+              await navigator.clipboard.writeText(rawUrl);
+            } catch {
+              // Ignore clipboard failure
+            }
+          }
+
+          const build = SHARE_URLS[network];
+          if (!build) return;
+
+          const link = document.createElement('a');
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+          link.href = build(url, text);
+          link.click();
+        });
+      });
+    }
+  }
+
+  if (!customElements.get('aw-social-share')) {
+    customElements.define('aw-social-share', AwSocialShare);
+  }
+</script>
+
+<style>
+  aw-social-share {
+    display: inline-flex;
+    align-items: center;
+  }
+</style>

@@ -1,0 +1,78 @@
+name: Deploy GeoTrivia Atlas (Astro SSG & SEO)
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual trigger (e.g. AI batch articles publishing)'
+        required: false
+        default: 'Manual batch release'
+
+concurrency:
+  group: deploy-atlas
+  cancel-in-progress: false
+
+jobs:
+  deploy-atlas:
+    name: Build & Deploy Atlas to AWS CDN
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Dependencies
+        run: |
+          npm ci || npm install --no-audit
+
+      - name: Build Astro SSG Production Bundle
+        run: |
+          npm run build
+
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+
+      - name: Sync Static Assets to S3
+        run: |
+          S3_BUCKET="geotrivia-atlas-prod-417183877808"
+          
+          # 1. Sync immutable hashed assets (_astro/) with 1-year cache
+          if [ -d "dist/_astro" ]; then
+            aws s3 sync dist/_astro/ "s3://${S3_BUCKET}/_astro/" --cache-control "public, max-age=31536000, immutable"
+          fi
+          
+          # 2. Sync general assets (delete removed files)
+          aws s3 sync dist/ "s3://${S3_BUCKET}" \
+            --exclude "*.html" \
+            --exclude "sitemap*.xml" \
+            --exclude "robots.txt" \
+            --exclude "_astro/*" \
+            --cache-control "public, max-age=86400" \
+            --delete
+            
+          # 3. Sync HTML, XML sitemaps, robots.txt with no-cache for instant live updates
+          aws s3 sync dist/ "s3://${S3_BUCKET}" \
+            --exclude "*" \
+            --include "*.html" \
+            --include "sitemap*.xml" \
+            --include "robots.txt" \
+            --cache-control "public, max-age=0, must-revalidate"
+
+      - name: Invalidate CloudFront Edge Cache
+        run: |
+          DIST_ID="${{ secrets.ATLAS_CLOUDFRONT_ID || 'E1RFWVXJNSS084' }}"
+          aws cloudfront create-invalidation --distribution-id "$DIST_ID" --paths "/*"
+          echo "✅ CloudFront invalidation issued for $DIST_ID"

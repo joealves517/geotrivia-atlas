@@ -1,0 +1,53 @@
+# ==============================================================================
+# GeoTrivia Atlas — Production Robots Configuration
+# Optimized for Web Search Engines & Generative AI Crawlers (AEO / GEO)
+# Website: https://atlas.geotriviax.com
+# ==============================================================================
+
+# Standard Web Search Engines (Google, Bing, Yahoo, DuckDuckGo)
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-Mobile
+User-agent: Bingbot
+User-agent: DuckDuckBot
+User-agent: Slurp
+User-agent: Baiduspider
+User-agent: YandexBot
+Allow: /
+Allow: /images/
+Allow: /atlas/
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+# Generative AI Crawlers & Answer Engines (ChatGPT Search, Perplexity, Claude, Apple, Gemini)
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: PerplexityBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: cohere-ai
+User-agent: Bytespider
+Allow: /
+Allow: /images/
+Allow: /atlas/
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+# Global Fallback
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /atlas/
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+# Sitemaps
+Sitemap: https://atlas.geotriviax.com/sitemap-index.xml
+
+# LLM-Native Knowledge Manifest (llmstxt.org)
+# Direct plain-text / markdown feeds for AI search indexing:
+# https://atlas.geotriviax.com/llms.txt
+# https://atlas.geotriviax.com/llms-full.txt

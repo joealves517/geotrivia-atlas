@@ -1,0 +1,61 @@
+---
+import { UI } from 'astrowind:config';
+---
+
+<script is:inline define:vars={{ defaultTheme: UI.theme || 'system' }}>
+  // Single source of truth for applying the color theme with anti-FOUC support.
+  function applyTheme(theme) {
+    document.documentElement.classList[theme === 'dark' ? 'add' : 'remove']('dark');
+  }
+
+  function resolveTheme() {
+    // Priority 1: Check URL search parameters (e.g. ?theme=dark or ?theme=light) passed from parent app
+    try {
+      const params = new URLSearchParams(window.location.search);
+      const urlTheme = params.get('theme');
+      if (urlTheme === 'dark' || urlTheme === 'light') {
+        localStorage.theme = urlTheme;
+        return urlTheme;
+      }
+    } catch {
+      // Ignore if unavailable
+    }
+
+    if ((defaultTheme && defaultTheme.endsWith(':only')) || (!localStorage.theme && defaultTheme !== 'system')) {
+      return defaultTheme.replace(':only', '');
+    }
+    if (
+      localStorage.theme === 'dark' ||
+      (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)
+    ) {
+      return 'dark';
+    }
+    return 'light';
+  }
+
+  applyTheme(resolveTheme());
+
+  // Request active theme from parent app if embedded in iframe
+  try {
+    if (typeof window !== 'undefined' && window.self !== window.top) {
+      window.parent.postMessage({ type: 'GEOTRIVIA_REQUEST_THEME' }, '*');
+    }
+  } catch {
+    // Ignore cross-origin error
+  }
+
+  // Listen for real-time theme change messages from parent app iframe
+  window.addEventListener('message', (event) => {
+    if (event.data && event.data.type === 'GEOTRIVIA_THEME_CHANGE') {
+      const nextTheme = event.data.theme;
+      if (nextTheme === 'dark' || nextTheme === 'light') {
+        localStorage.theme = nextTheme;
+        applyTheme(nextTheme);
+        window.dispatchEvent(new CustomEvent('geotrivia-theme-updated', { detail: { theme: nextTheme } }));
+      }
+    }
+  });
+
+  // Re-apply theme on client-side navigation with ClientRouter
+  document.addEventListener('astro:after-swap', () => applyTheme(resolveTheme()));
+</script>

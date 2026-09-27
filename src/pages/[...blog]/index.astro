@@ -1,0 +1,213 @@
+---
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+
+import merge from 'lodash.merge';
+import type { ImageMetadata } from 'astro';
+import Layout from '~/layouts/PageLayout.astro';
+import SinglePost from '~/components/blog/SinglePost.astro';
+import ArticleInteractions from '~/components/blog/article-interactions';
+import ToBlogLink from '~/components/blog/ToBlogLink.astro';
+
+import { getCanonical, getPermalink, getBlogPermalink } from '~/utils/permalinks';
+import {
+  getStaticPathsBlogPost,
+  blogPostRobots,
+  isBlogListRouteEnabled,
+  isBlogCategoryRouteEnabled,
+} from '~/utils/blog';
+import { findImage } from '~/utils/images';
+import { truncateAtWord } from '~/utils/utils';
+import type { MetaData } from '~/types';
+import RelatedPosts from '~/components/blog/RelatedPosts.astro';
+import Breadcrumbs from '~/components/common/Breadcrumbs.astro';
+import StructuredData from '~/components/common/StructuredData.astro';
+import { SITE } from 'astrowind:config';
+
+export const prerender = true;
+
+export const getStaticPaths = (async () => {
+  return await getStaticPathsBlogPost();
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+
+const { post } = Astro.props as Props;
+
+const url = getCanonical(getPermalink(post.permalink, 'post'));
+const image = (await findImage(post.image)) as ImageMetadata | string | undefined;
+const imageUrl = typeof image === 'string' ? image : image?.src;
+
+const ALL_LOCALES = [
+  { code: 'en', name: 'English', label: 'English', dir: 'ltr', ogLocale: 'en_US' },
+  { code: 'es', name: 'Spanish', label: 'Español', dir: 'ltr', ogLocale: 'es_ES' },
+  { code: 'fr', name: 'French', label: 'Français', dir: 'ltr', ogLocale: 'fr_FR' },
+  { code: 'de', name: 'German', label: 'Deutsch', dir: 'ltr', ogLocale: 'de_DE' },
+  { code: 'pt', name: 'Portuguese', label: 'Português', dir: 'ltr', ogLocale: 'pt_PT' },
+  { code: 'it', name: 'Italian', label: 'Italiano', dir: 'ltr', ogLocale: 'it_IT' },
+  { code: 'nl', name: 'Dutch', label: 'Nederlands', dir: 'ltr', ogLocale: 'nl_NL' },
+  { code: 'sv', name: 'Swedish', label: 'Svenska', dir: 'ltr', ogLocale: 'sv_SE' },
+  { code: 'tr', name: 'Turkish', label: 'Türkçe', dir: 'ltr', ogLocale: 'tr_TR' },
+  { code: 'ar', name: 'Arabic', label: 'العربية', dir: 'rtl', ogLocale: 'ar_AR' },
+];
+
+// Determine active language and baseSlug
+let currentLang = 'en';
+let baseSlug = post.slug;
+
+for (const loc of ALL_LOCALES) {
+  if (loc.code !== 'en' && post.slug.endsWith(`-${loc.code}`)) {
+    currentLang = loc.code;
+    baseSlug = post.slug.slice(0, -(loc.code.length + 1));
+    break;
+  }
+}
+
+const currentLocaleConfig = ALL_LOCALES.find((l) => l.code === currentLang) || ALL_LOCALES[0];
+const siteBaseUrl = String(Astro.site || SITE?.site || 'https://atlas.geotriviax.com').replace(/\/$/, '');
+
+// Symmetrical, reciprocal hreflang mapping for all 10 locales + x-default
+const hreflangs = [
+  ...ALL_LOCALES.map((loc) => {
+    const permalinkSlug = loc.code === 'en' ? baseSlug : `${baseSlug}-${loc.code}`;
+    return {
+      lang: loc.code,
+      href: String(getCanonical(getPermalink(permalinkSlug, 'post'))),
+      label: loc.label,
+      isActive: loc.code === currentLang,
+    };
+  }),
+  {
+    lang: 'x-default',
+    href: String(getCanonical(getPermalink(baseSlug, 'post'))),
+    label: 'Default',
+    isActive: false,
+  },
+];
+
+const metadata = merge(
+  {
+    title: post.title,
+    description: truncateAtWord(post.excerpt, 155),
+    robots: {
+      index: blogPostRobots?.index,
+      follow: blogPostRobots?.follow,
+    },
+    language: currentLang,
+    textDirection: currentLocaleConfig.dir,
+    openGraph: {
+      type: 'article',
+      locale: currentLocaleConfig.ogLocale,
+      article: {
+        publishedTime: post.publishDate.toISOString(),
+        modifiedTime: (post.updateDate ?? post.publishDate).toISOString(),
+        ...(post.author ? { authors: [post.author] } : { authors: ['GeoTrivia Atlas Editorial Board'] }),
+        ...(post.category ? { section: post.category.title } : {}),
+        ...(post.tags?.length ? { tags: post.tags.map((tag) => tag.title) } : {}),
+      },
+      ...(image
+        ? { images: [{ url: image, width: (image as ImageMetadata)?.width || 1200, height: (image as ImageMetadata)?.height || 675 }] }
+        : {}),
+    },
+  },
+  { ...(post?.metadata ? { ...post.metadata, canonical: post.metadata?.canonical || url } : {}) }
+) as MetaData;
+
+const breadcrumbs = [
+  { text: 'Home', href: getPermalink('/') },
+  ...(isBlogListRouteEnabled ? [{ text: 'Atlas', href: getBlogPermalink() }] : []),
+  ...(post.category && isBlogCategoryRouteEnabled
+    ? [{ text: post.category.title, href: getPermalink(post.category.slug, 'category') }]
+    : []),
+  { text: post.title },
+];
+
+const topicEntity = post.imageAlt || post.title.split(':')[0].trim();
+const topicWikiUrl = `https://en.wikipedia.org/wiki/${encodeURIComponent(topicEntity.replace(/\s+/g, '_'))}`;
+const resolvedImageUrl = imageUrl
+  ? (imageUrl.startsWith('http') ? imageUrl : `${siteBaseUrl}${imageUrl.startsWith('/') ? '' : '/'}${imageUrl}`)
+  : `${siteBaseUrl}/default.png`;
+
+// High-Fidelity Schema.org Article specification with Entity Grounding for AI Search Engines (GEO)
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  '@id': `${String(url)}#article`,
+  isPartOf: {
+    '@type': 'WebSite',
+    '@id': `${siteBaseUrl}/#website`,
+    name: SITE?.name || 'GeoTrivia Atlas',
+    url: siteBaseUrl,
+  },
+  headline: post.title,
+  description: post.excerpt,
+  inLanguage: currentLang,
+  mainEntityOfPage: String(url),
+  url: String(url),
+  datePublished: post.publishDate.toISOString(),
+  dateModified: (post.updateDate ?? post.publishDate).toISOString(),
+  author: {
+    '@type': 'Organization',
+    name: post.author || 'GeoTrivia Atlas Editorial Board',
+    url: `${siteBaseUrl}/about`,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: SITE?.name || 'GeoTrivia Atlas',
+    url: siteBaseUrl,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${siteBaseUrl}/favicon/icon-512.png`,
+      width: 512,
+      height: 512,
+    },
+  },
+  image: {
+    '@type': 'ImageObject',
+    url: resolvedImageUrl,
+    width: (image as ImageMetadata)?.width || 1200,
+    height: (image as ImageMetadata)?.height || 675,
+    caption: post.imageAlt || post.title,
+  },
+  ...(post.category ? { articleSection: post.category.title } : {}),
+  ...(post.tags?.length ? { keywords: post.tags.map((tag) => tag.title).join(', ') } : {}),
+  about: {
+    '@type': 'Place',
+    name: topicEntity,
+    sameAs: [topicWikiUrl],
+  },
+  speakable: {
+    '@type': 'SpeakableSpecification',
+    cssSelector: ['#post-title', '#post-excerpt'],
+  },
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbs.map((b, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: b.text,
+    ...(b.href ? { item: String(new URL(b.href, siteBaseUrl)) } : {}),
+  })),
+};
+---
+
+<Layout metadata={metadata} language={currentLang} textDirection={currentLocaleConfig.dir}>
+  <Fragment slot="head">
+    {ALL_LOCALES.filter((l) => l.code !== currentLang).map((l) => (
+      <meta property="og:locale:alternate" content={l.ogLocale} />
+    ))}
+    {hreflangs.map((item) => (
+      <link rel="alternate" hreflang={item.lang} href={item.href} />
+    ))}
+    <StructuredData schema={[articleSchema, breadcrumbSchema]} />
+  </Fragment>
+  <Breadcrumbs bar hideCurrent items={breadcrumbs} />
+  <SinglePost post={{ ...post, image: image }} url={url} hreflangs={hreflangs} currentLang={currentLang}>
+    {post.Content && <post.Content />}
+  </SinglePost>
+  <ArticleInteractions slug={baseSlug} currentLocale={currentLang} client:visible />
+  <ToBlogLink />
+  <RelatedPosts post={post} />
+</Layout>

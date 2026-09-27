@@ -1,0 +1,245 @@
+---
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+import { blogTagRobots, getStaticPathsBlogTag, fetchPosts } from '~/utils/blog';
+import { SITE } from 'astrowind:config';
+
+import Layout from '~/layouts/PageLayout.astro';
+import BlogList from '~/components/blog/List.astro';
+import Pagination from '~/components/blog/Pagination.astro';
+import Breadcrumbs from '~/components/common/Breadcrumbs.astro';
+import StructuredData from '~/components/common/StructuredData.astro';
+import { getPermalink, getBlogPermalink, getCanonical } from '~/utils/permalinks';
+import tagsMetadata from '~/data/atlas-tags-metadata.json';
+
+export const prerender = true;
+
+export const getStaticPaths = (async ({ paginate }) => {
+  return await getStaticPathsBlogTag({ paginate });
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+
+const { page, tag } = Astro.props as Props;
+
+const currentPage = page.currentPage ?? 1;
+const tagSlug = tag.slug;
+const siteBaseUrl = String(Astro.site || SITE?.site || 'https://atlas.geotriviax.com').replace(/\/$/, '');
+
+const tagUrl = String(getCanonical(getPermalink(tagSlug, 'tag')));
+
+// Active language from query or default English
+const queryLang = Astro.url?.searchParams?.get('lang') || 'en';
+const activeLang = ['en', 'es', 'fr', 'de', 'pt', 'it', 'nl', 'sv', 'tr', 'ar'].includes(queryLang) ? queryLang : 'en';
+
+// Load custom 10-language editorial metadata if registered
+const tagMeta = (tagsMetadata as Record<string, any>)?.[tagSlug];
+const localizedMeta = tagMeta?.[activeLang] || tagMeta?.en;
+
+const tagTitle =
+  localizedMeta?.title || `${tag.title} — Topic Archive & Curated Field Dispatches — GeoTrivia Atlas`;
+const tagDescription =
+  localizedMeta?.description ||
+  `Explore curated geographic field dispatches, investigative dossiers, and verified research on ${tag.title} in the GeoTrivia Atlas.`;
+const tagIntro =
+  localizedMeta?.intro ||
+  `Curated dispatches, investigative field notes, and geographic analyses classified under #${tag.title}.`;
+
+const allPostsWithTranslations = await fetchPosts({ includeTranslations: true });
+const translationsMap: Record<string, Record<string, { title: string; excerpt: string; permalink: string }>> = {};
+for (const p of allPostsWithTranslations) {
+  const base = p.baseSlug || p.slug;
+  if (!translationsMap[base]) translationsMap[base] = {};
+  translationsMap[base][p.lang || 'en'] = {
+    title: p.title,
+    excerpt: p.excerpt || '',
+    permalink: getPermalink(p.permalink, 'post'),
+  };
+}
+
+const ALL_LOCALES = [
+  { code: 'en', ogLocale: 'en_US' },
+  { code: 'es', ogLocale: 'es_ES' },
+  { code: 'fr', ogLocale: 'fr_FR' },
+  { code: 'de', ogLocale: 'de_DE' },
+  { code: 'pt', ogLocale: 'pt_PT' },
+  { code: 'it', ogLocale: 'it_IT' },
+  { code: 'nl', ogLocale: 'nl_NL' },
+  { code: 'sv', ogLocale: 'sv_SE' },
+  { code: 'tr', ogLocale: 'tr_TR' },
+  { code: 'ar', ogLocale: 'ar_AR' },
+];
+
+const hreflangs = [
+  ...ALL_LOCALES.map((loc) => ({
+    lang: loc.code,
+    href: loc.code === 'en' ? tagUrl : `${tagUrl}?lang=${loc.code}`,
+  })),
+  {
+    lang: 'x-default',
+    href: tagUrl,
+  },
+];
+
+const breadcrumbs = [
+  { text: 'Home', href: getPermalink('/') },
+  { text: 'Atlas', href: getBlogPermalink() },
+  ...(currentPage > 1
+    ? [{ text: `Tag: ${tag.title}`, href: getPermalink(tagSlug, 'tag') }, { text: `Page ${currentPage}` }]
+    : [{ text: `Tag: ${tag.title}` }]),
+];
+
+const metadata = {
+  title: `${tagTitle}${currentPage > 1 ? ` — Page ${currentPage} ` : ''}`,
+  description: tagDescription,
+  robots: {
+    index: true,
+    follow: true,
+  },
+  openGraph: {
+    type: 'website',
+    url: tagUrl,
+    title: tagTitle,
+    description: tagDescription,
+  },
+};
+
+// Schema.org CollectionPage & ItemList for Tag Landing Hub
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${tagUrl}#collection`,
+  url: tagUrl,
+  name: tagTitle,
+  description: tagDescription,
+  isPartOf: {
+    '@type': 'WebSite',
+    '@id': `${siteBaseUrl}/#website`,
+    name: SITE?.name || 'GeoTrivia Atlas',
+    url: siteBaseUrl,
+  },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((b, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: b.text,
+      ...(b.href ? { item: String(new URL(b.href, siteBaseUrl)) } : {}),
+    })),
+  },
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: (page.data || []).map((post: any, index: number) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      url: String(new URL(getPermalink(post.permalink, 'post'), siteBaseUrl)),
+      name: post.title,
+    })),
+  },
+};
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="head">
+    {hreflangs.map((item) => (
+      <link rel="alternate" hreflang={item.lang} href={item.href} />
+    ))}
+    <StructuredData schema={collectionSchema} />
+  </Fragment>
+
+  <Breadcrumbs bar items={breadcrumbs} />
+
+  <section class="px-4 md:px-6 py-10 sm:py-14 lg:py-16 mx-auto max-w-4xl" id="tag-landing-section" data-tag-meta={JSON.stringify(tagMeta || {})}>
+    <header class="mb-10 text-center max-w-3xl mx-auto border-b border-border/40 pb-8">
+      <h1 id="tag-page-title" class="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-foreground mb-4 text-center">
+        {tag.title}
+      </h1>
+      <p id="tag-page-intro" class="text-base sm:text-lg text-muted max-w-2xl mx-auto leading-relaxed text-center">
+        {tagIntro}
+      </p>
+    </header>
+
+    <BlogList posts={page.data} />
+    <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
+  </section>
+
+  <script is:inline define:vars={{ tagMeta, translationsMap }}>
+    (function() {
+      const section = document.getElementById('tag-landing-section');
+      const titleEl = document.getElementById('tag-page-title');
+      const introEl = document.getElementById('tag-page-intro');
+      if (!section || !titleEl || !introEl) return;
+
+      let meta = {};
+      try {
+        meta = JSON.parse(section.dataset.tagMeta || '{}');
+      } catch (_e) {}
+
+      function applyLocale(lang) {
+        if (!lang) return;
+        const targetLang = lang.toLowerCase();
+
+        // 1. Localize Tag Header Title & Intro
+        if (meta[targetLang]) {
+          const target = meta[targetLang];
+          if (target.title) {
+            titleEl.textContent = target.title.split('—')[0].trim();
+            document.title = target.title + ' — GeoTrivia Atlas';
+          }
+          if (target.intro) {
+            introEl.textContent = target.intro;
+          }
+        }
+
+        // 2. Localize Post Cards on the Tag Page
+        if (translationsMap) {
+          document.querySelectorAll('[data-post-card]').forEach((card) => {
+            const baseSlug = card.getAttribute('data-post-card');
+            if (!baseSlug || !translationsMap[baseSlug]) return;
+
+            const postData = translationsMap[baseSlug][targetLang] || translationsMap[baseSlug]['en'];
+            if (!postData) return;
+
+            if (postData.permalink) {
+              card.querySelectorAll('[data-post-link]').forEach((linkEl) => {
+                linkEl.setAttribute('href', postData.permalink);
+              });
+            }
+
+            if (postData.title) {
+              const cardTitleEl = card.querySelector('[data-post-title]');
+              if (cardTitleEl) {
+                cardTitleEl.textContent = postData.title;
+              }
+            }
+
+            if (postData.excerpt !== undefined) {
+              const cardExcerptEl = card.querySelector('[data-post-excerpt]');
+              if (cardExcerptEl) {
+                cardExcerptEl.textContent = postData.excerpt;
+              }
+            }
+          });
+        }
+      }
+
+      // Check initial query parameter
+      const queryLang = new URLSearchParams(window.location.search).get('lang');
+      if (queryLang && queryLang !== 'en') {
+        applyLocale(queryLang);
+      }
+
+      // Listen for parent app events
+      window.addEventListener('geotrivia-lang-updated', function(e) {
+        const nextLang = e.detail?.locale || e.detail?.lang;
+        if (nextLang) applyLocale(nextLang);
+      });
+
+      window.addEventListener('message', function(e) {
+        if (e.data && e.data.type === 'GEOTRIVIA_LANG_CHANGE') {
+          const nextLang = e.data.locale || e.data.lang;
+          if (nextLang) applyLocale(nextLang);
+        }
+      });
+    })();
+  </script>
+</Layout>

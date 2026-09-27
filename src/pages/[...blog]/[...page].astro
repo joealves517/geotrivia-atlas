@@ -1,0 +1,135 @@
+---
+import type { InferGetStaticPropsType, GetStaticPaths } from 'astro';
+
+import Layout from '~/layouts/PageLayout.astro';
+import BlogList from '~/components/blog/List.astro';
+import Headline from '~/components/blog/Headline.astro';
+import Pagination from '~/components/blog/Pagination.astro';
+import Breadcrumbs from '~/components/common/Breadcrumbs.astro';
+import { getPermalink, getBlogPermalink } from '~/utils/permalinks';
+// import PostTags from "~/components/blog/Tags.astro";
+
+import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
+import StructuredData from '~/components/common/StructuredData.astro';
+import { SITE } from 'astrowind:config';
+import { getCanonical } from '~/utils/permalinks';
+
+export const prerender = true;
+
+export const getStaticPaths = (async ({ paginate }) => {
+  return await getStaticPathsBlogList({ paginate });
+}) satisfies GetStaticPaths;
+
+type Props = InferGetStaticPropsType<typeof getStaticPaths>;
+
+const { page } = Astro.props as Props;
+const currentPage = page.currentPage ?? 1;
+const siteBaseUrl = String(Astro.site || SITE?.site || 'https://atlas.geotriviax.com').replace(/\/$/, '');
+const archiveUrl = String(getCanonical(getBlogPermalink()));
+
+const ALL_LOCALES = [
+  { code: 'en', ogLocale: 'en_US' },
+  { code: 'es', ogLocale: 'es_ES' },
+  { code: 'fr', ogLocale: 'fr_FR' },
+  { code: 'de', ogLocale: 'de_DE' },
+  { code: 'pt', ogLocale: 'pt_PT' },
+  { code: 'it', ogLocale: 'it_IT' },
+  { code: 'nl', ogLocale: 'nl_NL' },
+  { code: 'sv', ogLocale: 'sv_SE' },
+  { code: 'tr', ogLocale: 'tr_TR' },
+  { code: 'ar', ogLocale: 'ar_AR' },
+];
+
+const hreflangs = [
+  ...ALL_LOCALES.map((loc) => ({
+    lang: loc.code,
+    href: archiveUrl,
+  })),
+  {
+    lang: 'x-default',
+    href: archiveUrl,
+  },
+];
+
+const breadcrumbs = [
+  { text: 'Home', href: getPermalink('/') },
+  ...(currentPage > 1
+    ? [{ text: 'Atlas', href: getBlogPermalink() }, { text: `Page ${currentPage}` }]
+    : [{ text: 'Atlas' }]),
+];
+
+const metadata = {
+  title: `Atlas — World Enigmas & Exploration Dispatches${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
+  description:
+    'Comprehensive archive of world landmarks, geography phenomena, strange borders, and architectural wonders in GeoTrivia Atlas.',
+  robots: {
+    index: blogListRobots?.index && currentPage === 1,
+    follow: blogListRobots?.follow,
+  },
+  openGraph: {
+    type: 'website',
+    url: archiveUrl,
+    title: 'Atlas — World Enigmas & Exploration Dispatches',
+    description:
+      'Comprehensive archive of world landmarks, geography phenomena, strange borders, and architectural wonders in GeoTrivia Atlas.',
+  },
+};
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${archiveUrl}#collection`,
+  url: archiveUrl,
+  name: 'Atlas — World Enigmas & Exploration Dispatches',
+  description: metadata.description,
+  isPartOf: {
+    '@type': 'WebSite',
+    '@id': `${siteBaseUrl}/#website`,
+    name: SITE?.name || 'GeoTrivia Atlas',
+    url: siteBaseUrl,
+  },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: breadcrumbs.map((b, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: b.text,
+      ...(b.href ? { item: String(new URL(b.href, siteBaseUrl)) } : {}),
+    })),
+  },
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: (page.data || []).map((post: any, index: number) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      url: String(new URL(getPermalink(post.permalink, 'post'), siteBaseUrl)),
+      name: post.title,
+    })),
+  },
+};
+---
+
+<Layout metadata={metadata}>
+  <Fragment slot="head">
+    {page.url.prev && <link rel="prev" href={page.url.prev} />}
+    {page.url.next && <link rel="next" href={page.url.next} />}
+    {hreflangs.map((item) => (
+      <link rel="alternate" hreflang={item.lang} href={item.href} />
+    ))}
+    <StructuredData schema={collectionSchema} />
+  </Fragment>
+  <Breadcrumbs bar items={breadcrumbs} />
+  <section class="px-6 sm:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl">
+    <Headline
+      subtitle="Explore Earth's greatest natural enigmas, atmospheric paradoxes, and deep-research geological wonders."
+    >
+      Earth Enigmas & Articles
+    </Headline>
+    <BlogList posts={page.data} />
+    <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
+    <!--
+      <PostTags tags={allCategories} class="mb-2" title="Search by Categories:" isCategory />
+      <PostTags tags={allTags}  title="Search by Tags:" />
+    -->
+  </section>
+</Layout>

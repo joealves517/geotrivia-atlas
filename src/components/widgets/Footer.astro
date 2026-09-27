@@ -1,0 +1,239 @@
+---
+import { Icon } from 'astro-icon/components';
+import Logo from '~/components/Logo.astro';
+import { getHomePermalink, getPermalink, getBlogPermalink } from '~/utils/permalinks';
+import { fetchPosts } from '~/utils/blog';
+
+interface Link {
+  text?: string;
+  href?: string;
+  ariaLabel?: string;
+  title?: string;
+  icon?: string;
+}
+
+export interface Props {
+  categoryLinks?: Array<Link>;
+  socialLinks?: Array<Link>;
+  theme?: string;
+}
+
+const {
+  categoryLinks = [],
+  socialLinks = [],
+} = Astro.props;
+
+// WHY: On desktop, all editorial categories fit nicely across 2-3 rows.
+// On mobile screens, 18 links clutter the viewport. We dynamically select the top 5
+// categories that have the newest published articles, plus 'All Articles', and tuck
+// the rest into a clean collapsible accordion.
+const MOBILE_CATEGORIES_LIMIT = 5;
+
+let mobileTopLinks: Array<Link> = [];
+let remainingCategoryLinks: Array<Link> = [];
+
+try {
+  const allPosts = await fetchPosts();
+
+  // Extract distinct category slugs sorted by latest article publishDate (fetchPosts is already sorted newest-first)
+  const activeCategorySlugs: string[] = [];
+  for (const post of allPosts) {
+    const slug = post.category?.slug;
+    if (slug && !activeCategorySlugs.includes(slug)) {
+      activeCategorySlugs.push(slug);
+    }
+  }
+
+  const allArticlesItem = categoryLinks.find(
+    (c) => c.href === getBlogPermalink() || c.text?.toLowerCase() === 'all articles'
+  ) || { text: 'All Articles', href: getBlogPermalink() };
+
+  const regularLinks = categoryLinks.filter(
+    (c) => c.href !== allArticlesItem.href && c.text?.toLowerCase() !== 'all articles'
+  );
+
+  const matchedActive: Array<Link> = [];
+  for (const slug of activeCategorySlugs) {
+    const permalink = getPermalink(slug, 'category');
+    const item = regularLinks.find(
+      (c) => c.href === permalink || (c.href && c.href.endsWith(`/${slug}`))
+    );
+    if (item && !matchedActive.some((m) => m.href === item.href)) {
+      matchedActive.push(item);
+    }
+  }
+
+  // Backfill up to MOBILE_CATEGORIES_LIMIT if active categories are fewer than limit
+  for (const cat of regularLinks) {
+    if (matchedActive.length >= MOBILE_CATEGORIES_LIMIT) break;
+    if (!matchedActive.some((m) => m.href === cat.href)) {
+      matchedActive.push(cat);
+    }
+  }
+
+  const topPicked = matchedActive.slice(0, MOBILE_CATEGORIES_LIMIT);
+  mobileTopLinks = [...topPicked, allArticlesItem];
+
+  remainingCategoryLinks = regularLinks.filter(
+    (c) => !topPicked.some((m) => m.href === c.href)
+  );
+} catch {
+  mobileTopLinks = categoryLinks.slice(0, MOBILE_CATEGORIES_LIMIT + 1);
+  remainingCategoryLinks = categoryLinks.slice(MOBILE_CATEGORIES_LIMIT + 1);
+}
+---
+
+<footer class="relative w-full border-t border-slate-200/80 dark:border-white/10 bg-white dark:bg-[#121212] text-slate-800 dark:text-slate-200 select-none pt-12 pb-14 not-prose">
+  <div class="max-w-[1100px] mx-auto px-6 sm:px-8 flex flex-col items-center">
+    <!-- Centered Brand & Category Links (Danh Mục Của Trang) -->
+    <div class="flex flex-col items-center gap-6 text-center w-full">
+      <a href={getHomePermalink()} class="inline-flex items-center hover:opacity-90 transition-opacity">
+        <Logo class="mx-auto" />
+      </a>
+
+      <!-- Desktop: Hiển thị đầy đủ tất cả chuyên mục -->
+      {
+        categoryLinks?.length > 0 && (
+          <nav class="hidden sm:flex flex-wrap items-center justify-center gap-x-6 sm:gap-x-7 gap-y-3 text-sm font-semibold text-slate-700 dark:text-slate-300 max-w-4xl">
+            {categoryLinks.map((cat) => (
+              <a
+                href={cat.href}
+                class="hover:text-[#3898ec] dark:hover:text-[#3898ec] transition-colors"
+              >
+                {cat.text}
+              </a>
+            ))}
+          </nav>
+        )
+      }
+
+      <!-- Mobile: Tự động lọc các danh mục có bài mới nhất, giới hạn gọn gàng -->
+      {
+        mobileTopLinks?.length > 0 && (
+          <div class="flex sm:hidden flex-col items-center w-full max-w-md px-2">
+            <!-- 5 danh mục năng động nhất + All Articles -->
+            <nav class="flex flex-wrap items-center justify-center gap-x-4 gap-y-2.5 text-xs font-semibold text-slate-700 dark:text-slate-300">
+              {mobileTopLinks.map((cat) => (
+                <a
+                  href={cat.href}
+                  class="hover:text-[#3898ec] dark:hover:text-[#3898ec] transition-colors py-0.5"
+                >
+                  {cat.text}
+                </a>
+              ))}
+            </nav>
+
+            {remainingCategoryLinks?.length > 0 && (
+              <div class="w-full flex flex-col items-center">
+                <!-- Danh mục mở rộng: Xuất hiện nối tiếp ngay dưới các danh mục trên -->
+                <div
+                  id="mobile-more-categories"
+                  class="hidden flex-wrap items-center justify-center gap-x-3.5 gap-y-2 pt-2.5 text-xs font-medium text-slate-600 dark:text-slate-400"
+                >
+                  {remainingCategoryLinks.map((cat) => (
+                    <a
+                      href={cat.href}
+                      class="hover:text-[#3898ec] dark:hover:text-[#3898ec] transition-colors py-0.5"
+                    >
+                      {cat.text}
+                    </a>
+                  ))}
+                </div>
+
+                <!-- Nút toggle không viền: Luôn nằm ở vị trí dưới cùng -->
+                <button
+                  type="button"
+                  id="mobile-toggle-categories-btn"
+                  class="inline-flex items-center gap-1.5 text-xs font-medium text-slate-500 hover:text-[#3898ec] dark:text-slate-400 dark:hover:text-[#3898ec] cursor-pointer pt-2 pb-0.5 transition-colors select-none"
+                  aria-expanded="false"
+                >
+                  <span id="mobile-toggle-categories-label">More categories</span>
+                  <svg
+                    id="mobile-toggle-categories-icon"
+                    class="w-3 h-3 transition-transform duration-200"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <polyline points="6 9 12 15 18 9"></polyline>
+                  </svg>
+                </button>
+              </div>
+            )}
+          </div>
+        )
+      }
+    </div>
+
+    <!-- Middle Dotted / Dashed Divider Line -->
+    <div class="w-full border-t border-dashed border-slate-300/80 dark:border-slate-800 my-8"></div>
+
+    <!-- Bottom Row: Copyright, Legal Links & Social Icons -->
+    <div
+      class="w-full flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500 dark:text-slate-400 font-medium"
+    >
+      <div class="flex flex-col items-center sm:items-start gap-1.5 text-center sm:text-left">
+        <span>© {new Date().getFullYear()} GeoTrivia X. All rights reserved.</span>
+        <div class="flex items-center justify-center sm:justify-start gap-2.5 text-slate-400 dark:text-slate-500">
+          <a href={getPermalink('/privacy')} class="hover:text-slate-800 dark:hover:text-white hover:underline transition-colors">Privacy Policy</a>
+          <span>·</span>
+          <a href={getPermalink('/terms')} class="hover:text-slate-800 dark:hover:text-white hover:underline transition-colors">Terms of Service</a>
+        </div>
+      </div>
+
+      <!-- Social Media Platforms from geotrivia-client -->
+      {
+        socialLinks?.length > 0 && (
+          <div class="flex items-center gap-4 sm:gap-5">
+            {socialLinks.map((link) => (
+              <a
+                href={link.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                title={link.title || link.ariaLabel}
+                aria-label={link.ariaLabel || link.title}
+                class="text-slate-400 hover:text-slate-700 dark:text-slate-400 dark:hover:text-white transition-colors duration-150 p-1"
+              >
+                {link.icon && <Icon name={link.icon} class="w-4 h-4 sm:w-5 sm:h-5" />}
+              </a>
+            ))}
+          </div>
+        )
+      }
+    </div>
+  </div>
+</footer>
+
+<script is:inline>
+  function setupCategoryToggle() {
+    var btn = document.getElementById('mobile-toggle-categories-btn');
+    var container = document.getElementById('mobile-more-categories');
+    var label = document.getElementById('mobile-toggle-categories-label');
+    var icon = document.getElementById('mobile-toggle-categories-icon');
+
+    if (!btn || !container) return;
+
+    btn.onclick = function () {
+      var isHidden = container.classList.contains('hidden');
+      if (isHidden) {
+        container.classList.remove('hidden');
+        container.classList.add('flex');
+        btn.setAttribute('aria-expanded', 'true');
+        if (label) label.textContent = 'Show less';
+        if (icon) icon.classList.add('rotate-180');
+      } else {
+        container.classList.add('hidden');
+        container.classList.remove('flex');
+        btn.setAttribute('aria-expanded', 'false');
+        if (label) label.textContent = 'More categories';
+        if (icon) icon.classList.remove('rotate-180');
+      }
+    };
+  }
+
+  setupCategoryToggle();
+  document.addEventListener('astro:page-load', setupCategoryToggle);
+</script>

@@ -1,0 +1,372 @@
+---
+import { Icon } from 'astro-icon/components';
+
+import Image from '~/components/common/Image.astro';
+import PostTags from '~/components/blog/Tags.astro';
+
+import { getPermalink } from '~/utils/permalinks';
+import { getFormattedDate } from '~/utils/utils';
+
+import type { Post } from '~/types';
+import { getTranslation } from '~/lib/i18n/translations';
+
+export interface Props {
+  post: Post;
+  url: string | URL;
+  hreflangs?: Array<{ lang: string; href: string; label: string; isActive: boolean }>;
+  currentLang?: string;
+}
+
+const { post, url, hreflangs = [], currentLang = 'en' } = Astro.props;
+const t = getTranslation(currentLang);
+const topic = post.imageAlt || post.title.split(':')[0].trim();
+
+const GAME_BTN_I18N: Record<string, string> = {
+  en: 'Play GeoTrivia X Live',
+  de: 'GeoTrivia X live spielen',
+  es: 'Jugar a GeoTrivia X en vivo',
+  fr: 'Jouer à GeoTrivia X en direct',
+  it: 'Gioca a GeoTrivia X dal vivo',
+  nl: 'Speel GeoTrivia X live',
+  pt: 'Jogar GeoTrivia X ao vivo',
+  sv: 'Spela GeoTrivia X live',
+  tr: 'Canlı GeoTrivia X Oyna',
+  ar: 'العب GeoTrivia X مباشرة',
+};
+const gameBtnText = GAME_BTN_I18N[currentLang] || GAME_BTN_I18N.en;
+---
+
+<section class="pt-8 sm:pt-16 lg:pt-20 pb-0 mx-auto">
+  <article
+    id="single-post-article"
+    data-topic={topic}
+    data-default-title={post.title}
+    data-default-excerpt={post.excerpt || ''}
+    data-default-lang={currentLang}
+  >
+    <header class="intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade">
+      <div class="flex justify-between flex-col sm:flex-row max-w-3xl mx-auto mt-0 mb-2 px-4 sm:px-6 sm:items-center">
+        <p>
+          <Icon name="tabler:clock" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
+          <time datetime={post.publishDate.toISOString()} class="inline-block"
+            >{getFormattedDate(post.publishDate)}</time
+          >
+          {
+            post.updateDate && post.updateDate.getTime() !== post.publishDate.getTime() && (
+              <>
+                {' '}
+                ·{' '}
+                <span class="inline-block">
+                  <span data-i18n="updated">{t.post.updated}</span> <time datetime={post.updateDate.toISOString()}>{getFormattedDate(post.updateDate)}</time>
+                </span>
+              </>
+            )
+          }
+          {
+            post.author && (
+              <>
+                {' '}
+                · <Icon name="tabler:user" class="w-4 h-4 inline-block -mt-0.5 dark:text-gray-400" />
+                <span class="inline-block">{post.author}</span>
+              </>
+            )
+          }
+          {
+            post.category && (
+              <>
+                {' '}
+                ·{' '}
+                <a class="hover:underline inline-block" href={getPermalink(post.category.slug, 'category')}>
+                  {post.category.title}
+                </a>
+              </>
+            )
+          }
+          {
+            post.readingTime && (
+              <>
+                &nbsp;· <span>{post.readingTime}</span> <span data-i18n="minRead">{t.post.minRead}</span>
+              </>
+            )
+          }
+          &nbsp;·{' '}
+          <a
+            id="post-source-link"
+            href={`https://en.wikipedia.org/wiki/${encodeURIComponent(topic.replace(/\s+/g, '_'))}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Source"
+            aria-label="Source"
+            class="inline-flex items-center text-gray-400 hover:text-gray-700 dark:text-gray-500 dark:hover:text-gray-200 transition-colors"
+          >
+            <Icon name="tabler:external-link" class="w-3.5 h-3.5 inline-block -mt-0.5" />
+          </a>
+        </p>
+      </div>
+
+      <h1
+        id="post-title"
+        class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold leading-tighter tracking-tighter font-heading transition-opacity duration-200"
+      >
+        {post.title}
+      </h1>
+      <p
+        id="post-excerpt"
+        class="max-w-3xl mx-auto mt-4 mb-6 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-pretty transition-opacity duration-200"
+      >
+        {post.excerpt}
+      </p>
+
+      {
+        post.image ? (
+          <div class="px-4 sm:px-6 max-w-4xl mx-auto mb-6">
+            <Image
+              src={post.image}
+              class="w-full rounded-2xl overflow-hidden bg-gray-400 dark:bg-slate-700 shadow-sm object-cover"
+              widths={[400, 900]}
+              sizes="(max-width: 900px) 400px, 900px"
+              alt={post.imageAlt || ''}
+              width={900}
+              height={506}
+              format="webp"
+              loading="eager"
+              decoding="async"
+            />
+          </div>
+        ) : (
+          <div class="max-w-3xl mx-auto px-4 sm:px-6">
+            <div class="border-t dark:border-slate-700" />
+          </div>
+        )
+      }
+    </header>
+    <div
+      id="post-content"
+      class="mx-auto px-6 sm:px-6 max-w-3xl prose lg:prose-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-primary dark:prose-a:text-blue-400 prose-img:rounded-2xl prose-img:shadow-lg mt-8 prose-headings:scroll-mt-[80px] prose-li:my-0 transition-opacity duration-200"
+    >
+      <slot />
+    </div>
+
+    <div class="mx-auto px-6 sm:px-6 max-w-3xl mt-6">
+      <PostTags tags={post.tags} class="w-full" />
+    </div>
+
+    {/* Single clean CTA button linking to main game (below tags) */}
+    <div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 mb-4 flex justify-center">
+      <a
+        href="https://geotriviax.com/?utm_source=atlas&utm_medium=post_cta_button"
+        target="_blank"
+        rel="noopener"
+        class="inline-flex items-center gap-2.5 px-6 py-3 rounded-full text-sm sm:text-base font-bold text-white bg-blue-600 hover:bg-blue-700 dark:bg-blue-600 dark:hover:bg-blue-500 shadow-sm hover:shadow-md transition-all cursor-pointer select-none"
+      >
+        <Icon name="tabler:device-gamepad-2" class="w-5 h-5 shrink-0" />
+        <span id="post-bottom-game-btn-text">{gameBtnText}</span>
+        <Icon name={currentLang === 'ar' ? "tabler:arrow-left" : "tabler:arrow-right"} class="w-4 h-4 shrink-0" />
+      </a>
+    </div>
+  </article>
+
+  <script is:inline define:vars={{ hreflangsList: hreflangs, gameBtnDict: GAME_BTN_I18N }}>
+    (function() {
+      const article = document.getElementById('single-post-article');
+      const titleEl = document.getElementById('post-title');
+      const excerptEl = document.getElementById('post-excerpt');
+      const contentEl = document.getElementById('post-content');
+      const sourceLink = document.getElementById('post-source-link');
+
+      if (!article || !contentEl || !titleEl) return;
+
+      const topic = article.dataset.topic;
+      const defaultTitle = article.dataset.defaultTitle || titleEl.textContent;
+      const defaultExcerpt = article.dataset.defaultExcerpt || (excerptEl ? excerptEl.textContent : '');
+      const defaultContentHtml = contentEl.innerHTML;
+
+      let currentActiveLang = article.dataset.defaultLang || 'en';
+      const cache = (window.__ARTICLE_DOSSIER_CACHE__ = window.__ARTICLE_DOSSIER_CACHE__ || {});
+
+      const SOURCE_TITLES = {
+        en: 'Source',
+        de: 'Quelle',
+        es: 'Fuente',
+        fr: 'Source',
+        it: 'Fonte',
+        nl: 'Bron',
+        pt: 'Fonte',
+        sv: 'Källa',
+        tr: 'Kaynak',
+        ar: 'المصدر',
+        vi: 'Nguồn',
+      };
+
+      function updateSourceLink(lang, localizedTitle) {
+        if (!sourceLink) return;
+        const targetLang = (lang || 'en').toLowerCase();
+        const pageTitle = localizedTitle || topic;
+        sourceLink.href = `https://${targetLang}.wikipedia.org/wiki/${encodeURIComponent(pageTitle.replace(/\s+/g, '_'))}`;
+        const sourceTitle = SOURCE_TITLES[targetLang] || SOURCE_TITLES.en;
+        sourceLink.setAttribute('title', sourceTitle);
+        sourceLink.setAttribute('aria-label', sourceTitle);
+      }
+
+      const I18N_POST_LABELS = {
+        en: { updated: 'Updated', minRead: 'min read' },
+        de: { updated: 'Aktualisiert', minRead: 'Min. Lesezeit' },
+        es: { updated: 'Actualizado', minRead: 'min de lectura' },
+        fr: { updated: 'Mis à jour', minRead: 'min de lecture' },
+        it: { updated: 'Aggiornato', minRead: 'min di lettura' },
+        nl: { updated: 'Bijgewerkt', minRead: 'min leestijd' },
+        pt: { updated: 'Atualizado', minRead: 'min de leitura' },
+        sv: { updated: 'Uppdaterad', minRead: 'min läsning' },
+        tr: { updated: 'Güncellendi', minRead: 'dk okuma' },
+        ar: { updated: 'محدث', minRead: 'دقيقة للقراءة' },
+      };
+
+      function updateI18nLabels(lang) {
+        const labels = I18N_POST_LABELS[lang] || I18N_POST_LABELS.en;
+        const updatedEl = document.querySelector('[data-i18n="updated"]');
+        if (updatedEl && labels.updated) updatedEl.textContent = labels.updated;
+        const minReadEl = document.querySelector('[data-i18n="minRead"]');
+        if (minReadEl && labels.minRead) minReadEl.textContent = labels.minRead;
+        const btnTextEl = document.getElementById('post-bottom-game-btn-text');
+        if (btnTextEl && gameBtnDict) {
+          btnTextEl.textContent = gameBtnDict[lang] || gameBtnDict.en;
+        }
+      }
+
+      function revertToEnglish() {
+        currentActiveLang = 'en';
+        titleEl.textContent = defaultTitle;
+        if (excerptEl) excerptEl.textContent = defaultExcerpt;
+        contentEl.innerHTML = defaultContentHtml;
+        updateSourceLink('en', topic);
+        updateI18nLabels('en');
+        const btnTextEl = document.getElementById('post-bottom-game-btn-text');
+        if (btnTextEl && gameBtnDict) {
+          btnTextEl.textContent = gameBtnDict.en;
+        }
+      }
+
+      function switchLanguage(lang) {
+        if (!lang) return;
+        const targetLang = lang.toLowerCase();
+        if (targetLang === currentActiveLang) return;
+
+        // If pre-rendered static page exists for this locale, navigate cleanly
+        if (Array.isArray(hreflangsList) && hreflangsList.length > 0) {
+          const target = hreflangsList.find((h) => h.lang === targetLang);
+          if (target && target.href) {
+            try {
+              const currentUrl = new URL(window.location.href);
+              const targetUrl = new URL(target.href, window.location.origin);
+              if (currentUrl.pathname !== targetUrl.pathname) {
+                targetUrl.search = currentUrl.search;
+                window.location.href = targetUrl.toString();
+                return;
+              }
+            } catch (_e) {}
+          }
+        }
+
+        // Otherwise fallback to dynamic Wikipedia/dossier loading
+        loadLocalizedContent(targetLang);
+      }
+
+      async function loadLocalizedContent(lang) {
+        if (!lang || lang === 'en') {
+          revertToEnglish();
+          return;
+        }
+
+        updateI18nLabels(lang);
+
+        if (currentActiveLang === lang) return;
+        currentActiveLang = lang;
+
+        const cacheKey = `${topic}:${lang}`;
+        if (cache[cacheKey]) {
+          renderDossier(cache[cacheKey], lang);
+          return;
+        }
+
+        try {
+          const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+          const apiBase = isLocal ? 'http://localhost:8080' : 'https://api.geotriviax.com';
+          const queryUrl = `${apiBase}/api/atlas/dossier?topic=${encodeURIComponent(topic)}&lang=${lang}`;
+
+          let res = null;
+          try {
+            const resp = await fetch(queryUrl);
+            if (resp.ok) res = await resp.json();
+          } catch (_fetchErr) {
+            if (isLocal) {
+              try {
+                const fallbackResp = await fetch(`https://api.geotriviax.com/api/atlas/dossier?topic=${encodeURIComponent(topic)}&lang=${lang}`);
+                if (fallbackResp.ok) res = await fallbackResp.json();
+              } catch (_fallbackErr) {
+                // Network unreachable
+              }
+            }
+          }
+
+          if (res && res.success && res.data) {
+            cache[cacheKey] = res.data;
+            renderDossier(res.data, lang);
+          } else {
+            updateSourceLink(lang, topic);
+          }
+        } catch (_err) {
+          updateSourceLink(lang, topic);
+        }
+      }
+
+      function renderDossier(data, lang) {
+        if (currentActiveLang !== lang) return;
+
+        if (data.title) {
+          titleEl.textContent = data.title;
+        }
+
+        if (excerptEl && data.description) {
+          excerptEl.textContent = data.description.charAt(0).toUpperCase() + data.description.slice(1);
+        }
+
+        let bodyHtml = '';
+        if (data.extractHtml) {
+          bodyHtml = data.extractHtml;
+        } else if (data.extract || data.story) {
+          const paragraphs = (data.extract || data.story).split(/\n+/).filter(Boolean);
+          bodyHtml = paragraphs.map((p) => `<p>${p}</p>`).join('');
+        }
+
+        if (bodyHtml) {
+          contentEl.innerHTML = bodyHtml;
+        }
+
+        updateSourceLink(lang, data.title || topic);
+      }
+
+      // Initial run: if visitor requested a specific language and current page does not match
+      const queryLang = new URLSearchParams(window.location.search).get('lang');
+      if (queryLang && queryLang !== currentActiveLang) {
+        switchLanguage(queryLang);
+      }
+
+      // Event listeners for real-time language switching
+      window.addEventListener('geotrivia-lang-updated', function(e) {
+        const nextLang = e.detail?.locale || e.detail?.lang;
+        if (nextLang) {
+          switchLanguage(nextLang);
+        }
+      });
+
+      window.addEventListener('message', function(e) {
+        if (e.data && e.data.type === 'GEOTRIVIA_LANG_CHANGE') {
+          const nextLang = e.data.locale || e.data.lang;
+          if (nextLang) {
+            switchLanguage(nextLang);
+          }
+        }
+      });
+    })();
+  </script>
+</section>

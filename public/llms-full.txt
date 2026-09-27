@@ -1,0 +1,127 @@
+# GeoTrivia Atlas — Full Knowledge Directory (LLM Context Feed)
+Website: https://atlas.geotriviax.com
+Total Indexed Topics: 9,473 Clean Wikipedia Verified Entities
+Languages Supported: English (en), Spanish (es), French (fr), German (de), Portuguese (pt), Italian (it), Dutch (nl), Swedish (sv), Turkish (tr), Arabic (ar)
+
+## Category Breakdown & Canonical Topics
+
+### 1. Geographic Paradoxes (Category: paradoxes)
+- Total Topics: 701
+- Focus: Enclaves, exclaves, condominiums, tripoints, counter-enclaves, sovereignty rotation.
+- Canonical Examples:
+  * Baarle-Nassau & Baarle-Hertog (Netherlands/Belgium): 22 Belgian exclaves nested inside Dutch territory, governed by the "Front Door Rule" (Voordeurregel). URL: https://atlas.geotriviax.com/baarle-nassau-border-paradox
+  * Pheasant Island (France/Spain): Joint condominium on Bidasoa River rotating sovereignty every 6 months by Treaty of the Pyrenees (1659).
+  * Llívia (Spain/France): Spanish municipality completely surrounded by French territory of Pyrénées-Orientales.
+  * Büsingen am Hochrhein (Germany/Switzerland): German town surrounded by Swiss cantons, using Swiss Franc and dual postcodes.
+  * Campione d'Italia (Italy/Switzerland): Italian enclave inside Swiss Ticino.
+
+### 2. Ghost Towns & Ruins (Category: abandoned)
+- Total Topics: 270
+- Focus: Post-disaster exclusion zones, resource depletion ruins, desertified settlements.
+- Canonical Examples:
+  * Pripyat (Ukraine): Chernobyl exclusion zone, abandoned April 1986.
+  * Hashima Island / Gunkanjima (Japan): Concrete coal mining island in Nagasaki prefecture abandoned in 1974.
+  * Kolmanskop (Namibia): German diamond boom town swallowed by Namib desert dunes.
+  * Centralia, Pennsylvania (USA): Coal seam fire burning beneath streets since 1962.
+  * Craco (Italy): Medieval hilltop village abandoned due to landslides.
+
+### 3. Earth Extremes (Category: extremes)
+- Total Topics: 1,213
+- Focus: Deepest trenches, highest peaks, coldest/hottest inhabited places, absolute isolation.
+- Canonical Examples:
+  * Point Nemo (South Pacific): Oceanic Pole of Inaccessibility, 2,688 km from nearest land.
+  * Challenger Deep (Mariana Trench): Ocean floor at 10,928 meters depth.
+  * Oymyakon & Verkhoyansk (Siberia, Russia): Coldest permanently inhabited places (-67.7°C recorded).
+  * Danakil Depression (Ethiopia): Lowest and hottest geological furnace on Earth with active hydrothermal chimneys.
+  * Mount Chimborazo (Ecuador): Closest point on Earth's surface to the sun due to equatorial bulge.
+
+### 4. Borders & Frontiers (Category: borders)
+- Total Topics: 936
+- Focus: Demilitarized zones, border barriers, treaty boundary markers, international crossing points.
+- Canonical Examples:
+  * Korean Demilitarized Zone (DMZ): 250 km border corridor along 38th parallel.
+  * India–Bangladesh Enclaves (historic Chitmahals): 162 enclaves exchanged in 2015 Land Boundary Agreement.
+  * Haskell Free Library and Opera House (USA/Canada border): Deliberately built straddling the international boundary in Derby Line, VT / Stanstead, QC.
+  * Diomede Islands (USA/Russia): Big Diomede (Russia) and Little Diomede (USA) separated by 3.8 km and 21 hours (International Date Line).
+
+### 5. Earth Enigmas (Category: enigmas)
+- Total Topics: 462
+- Focus: Geoglyphs, impact craters, megalithic alignments, geological anomalies.
+- Canonical Examples:
+  * Richat Structure / Eye of the Sahara (Mauritania): 40-km circular geological dome in the Sahara.
+  * Nazca Lines (Peru): Vast desert geoglyphs created between 500 BCE and 500 CE.
+  * Göbekli Tepe (Turkey): World's oldest known megalithic temple sanctuary (c. 9500 BCE).
+  * Darvaza Gas Crater / Door to Hell (Turkmenistan): Natural gas crater ignited in 1971 burning continuously.
+
+### 6. World Landmarks (Category: world-landmarks)
+- Total Topics: 865
+- Focus: Iconic civil engineering, historical monuments, world heritage landmarks.
+- Canonical Examples:
+  * Angkor Wat (Cambodia): Largest religious structure in the world.
+  * Great Pyramid of Giza (Egypt): Oldest of the Seven Wonders of the Ancient World.
+  * Taj Mahal (India): 17th-century Mughal white marble mausoleum.
+  * Colosseum (Italy): Flavian amphitheatre in Rome.
+
+### 7. Castles & Palaces (Category: castles-and-palaces)
+- Total Topics: 1,032
+- Focus: Fortresses, imperial palaces, defensive citadels.
+- Canonical Examples:
+  * Alhambra (Spain): Nasrid dynasty fortified palace in Granada.
+  * Neuschwanstein Castle (Germany): 19th-century Romanesque Revival palace in Bavaria.
+  * Himeji Castle (Japan): White Heron castle with advanced feudal defensive systems.
+  * Edinburgh Castle (Scotland): Historic fortress dominating Castle Rock.
+
+### 8. Cities & Capitals (Category: cities-and-capitals)
+- Total Topics: 721
+- Focus: Divided cities, historic capitals, geographic administrative anomalies.
+- Canonical Examples:
+  * Nicosia (Cyprus): Last divided capital in the world with UN Buffer Zone (Green Line).
+  * Gorizia / Nova Gorica (Italy/Slovenia): Post-WWII divided twin cities.
+  * Brasília (Brazil): UNESCO-listed planned modernist national capital (1960).
+  * Naypyidaw (Myanmar): Planned 2005 capital city with 20-lane highways.
+
+### 9. Natural Wonders (Category: natural-wonders)
+- Total Topics: 720
+- Focus: Waterfalls, canyons, karsts, volcanic phenomena.
+- Canonical Examples:
+  * Salar de Uyuni (Bolivia): World's largest salt flat (10,582 sq km).
+  * Iguazu Falls (Argentina/Brazil): Semi-circular waterfall system of 275 drops.
+  * Catatumbo Lightning (Lake Maracaibo, Venezuela): Atmospheric phenomenon producing 250 lightning flashes per hour.
+  * Boiling River / Shanay-Timpishka (Peru): Geothermally heated tributary of Amazon reaching 100°C.
+
+### 10. Street View & Routes (Category: street-view-and-discovery)
+- Total Topics: 357
+- Focus: Extreme mountain passes, trans-continental highways, scenic routes.
+- Canonical Examples:
+  * Stelvio Pass (Italy): 48 hairpin turns reaching 2,757 meters in the Eastern Alps.
+  * Guoliang Tunnel (China): 1.2 km cliffside tunnel hand-carved through Taihang Mountains.
+  * Transfăgărășan (Romania): High-altitude military road traversing Southern Carpathians.
+  * Atlantic Ocean Road (Norway): Arching road spanning archipelago islands over the Norwegian Sea.
+
+### 11. Countries & Territories (Category: countries-and-territories)
+- Total Topics: 274
+- Focus: 193 UN member states, 2 UN observers (Vatican, Palestine), 55 official dependent/overseas territories, Crown Dependencies, limited recognition states.
+
+### 12. Flags & Symbols (Category: flags-and-symbols)
+- Total Topics: 507
+- Focus: Vexillology, heraldry, proportion mathematics (e.g. Nepal's non-quadrilateral flag).
+
+### 13. Culture & Arts (Category: culture-and-arts)
+- Total Topics: 267
+- Focus: UNESCO Intangible Cultural Heritage of Humanity, traditional festivals, gastronomy.
+
+### 14. History & Civilization (Category: history-and-civilization)
+- Total Topics: 891
+- Focus: Lost cities, ancient trade routes (Silk Road, Amber Road), historical empires.
+
+### 15. Rankings & Indices (Category: rankings)
+- Total Topics: 83
+- Focus: Global benchmark indices (Human Development Index, World Happiness Report, Democracy Index).
+
+### 16. Indigenous Peoples (Category: indigenous)
+- Total Topics: 122
+- Focus: Uncontacted tribes (Sentinelese, Korubo, Flecheiros), nomadic pastoralists, ancestral communities.
+
+### 17. Micronations (Category: micronations)
+- Total Topics: 52
+- Focus: Principality of Sealand, Hutt River, Liberland, Republic of Molossia.
