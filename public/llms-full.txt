@@ -1,7 +1,12 @@
 # GeoTrivia Atlas — Full Knowledge Directory (LLM Context Feed)
-Website: https://atlas.geotriviax.com
-Total Indexed Topics: 9,473 Clean Wikipedia Verified Entities
-Languages Supported: English (en), Spanish (es), French (fr), German (de), Portuguese (pt), Italian (it), Dutch (nl), Swedish (sv), Turkish (tr), Arabic (ar)
+
+> Comprehensive directory of 9,473 verified geographical anomalies, enclaves, extreme points, natural wonders, and ancient civilizations across 10 official languages on [GeoTrivia Atlas](https://atlas.geotriviax.com).
+
+- **Official Publication**: [GeoTrivia Atlas](https://atlas.geotriviax.com)
+- **Main Game Application**: [GeoTrivia X](https://geotriviax.com)
+- **Total Indexed Topics**: 9,473 Clean Wikipedia Verified Entities
+- **Languages Supported**: English (en), Spanish (es), French (fr), German (de), Portuguese (pt), Italian (it), Dutch (nl), Swedish (sv), Turkish (tr), Arabic (ar)
+
 
 ## Category Breakdown & Canonical Topics
 

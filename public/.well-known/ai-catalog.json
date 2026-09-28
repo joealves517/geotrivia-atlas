@@ -1,0 +1,26 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ards-project/ard-spec/main/spec/schemas/ard-entry.schema.json",
+  "entries": [
+    {
+      "identifier": "urn:air:atlas.geotriviax.com:publication:atlas-dossier",
+      "displayName": "GeoTrivia Atlas Encyclopedia & Field Dossiers",
+      "type": "text/markdown",
+      "url": "https://atlas.geotriviax.com/llms.txt",
+      "description": "Authoritative encyclopedia of verified geographical anomalies, enclaves, borders, extreme points, natural wonders, and ancient civilizations across 10 official languages.",
+      "representativeQueries": [
+        "Geographic paradoxes and enclaves",
+        "Ghost towns and ruins around the world",
+        "Earth extremes and remote places"
+      ],
+      "capabilities": [
+        "geography-encyclopedia",
+        "geopolitical-dossiers",
+        "field-dispatches"
+      ],
+      "trustManifest": {
+        "identity": "https://atlas.geotriviax.com",
+        "identityType": "https"
+      }
+    }
+  ]
+}

@@ -66,18 +66,6 @@ const structuredData = [
 const allPosts = await fetchPosts();
 const allPostsWithTranslations = await fetchPosts({ includeTranslations: true });
 
-// Build translations map: baseSlug -> lang -> { title, excerpt, permalink }
-const translationsMap: Record<string, Record<string, { title: string; excerpt: string; permalink: string }>> = {};
-for (const p of allPostsWithTranslations) {
-  const base = p.baseSlug || p.slug;
-  if (!translationsMap[base]) translationsMap[base] = {};
-  translationsMap[base][p.lang || 'en'] = {
-    title: p.title,
-    excerpt: p.excerpt || '',
-    permalink: getPermalink(p.permalink, 'post'),
-  };
-}
-
 // Build categories translations map: slug -> lang -> title
 const categoriesI18nMap: Record<string, Record<string, string>> = {};
 const rawCategories = (categoriesMetadata as any)?.categories || {};
@@ -217,6 +205,28 @@ mosaicCandidates.forEach((p) => featuredIds.add(p.id));
 
 // SLOT 5: Latest Dispatches Feed (all remaining unfeatured posts, up to 8)
 const latestDispatches = allPosts.filter((p) => !featuredIds.has(p.id)).slice(0, 8);
+latestDispatches.forEach((p) => featuredIds.add(p.id));
+
+// Gather all base slugs displayed on the homepage to prune client translation payload
+const displayedBaseSlugs = new Set<string>();
+for (const p of allPosts) {
+  if (featuredIds.has(p.id)) {
+    displayedBaseSlugs.add(p.baseSlug || p.slug);
+  }
+}
+
+// Build translations map ONLY for cards rendered on this page: baseSlug -> lang -> { title, excerpt, permalink }
+const translationsMap: Record<string, Record<string, { title: string; excerpt: string; permalink: string }>> = {};
+for (const p of allPostsWithTranslations) {
+  const base = p.baseSlug || p.slug;
+  if (!displayedBaseSlugs.has(base)) continue;
+  if (!translationsMap[base]) translationsMap[base] = {};
+  translationsMap[base][p.lang || 'en'] = {
+    title: p.title,
+    excerpt: p.excerpt || '',
+    permalink: getPermalink(p.permalink, 'post'),
+  };
+}
 ---
 
 <Layout metadata={metadata}>
