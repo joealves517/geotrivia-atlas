@@ -22,7 +22,7 @@ Abşeron Yarımadası'nın kireçtaşı düzlükleri üzerinde yükselen Ramana 
 
 Tarihi kayıtlar günümüze ulaşan yapı kompleksini 14. yüzyıla tarihlendirse de bazı mimarlık tarihçileri tepedeki ilk savunma izlerinin 12. yüzyıla kadar uzandığını öne sürmektedir. Merkezi önce Şamahı, ardından Bakü olan Şirvanşah devleti, deniz akıncıları ve rakip hanedanların baskılarıyla karşı karşıyaydı. Bu duruma karşı askeri mimarlar, Abşeron Yarımadası'nı birbirini doğrudan gören taş kulelerle tahkim etti.
 
-![Ramana Kalesi'nin kireçtaşı surları ve dörtgen burcu köy sınırından görünümü](/images/atlas/ramana-tower-inline-1.webp)
+![Ramana Kalesi'nin kireçtaşı surları ve dörtgen burcu köy sınırından görünümü](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ramana_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 1: Ramana Kalesi'nin kireçtaşı surları ve dörtgen burcu köy sınırından görünümü.*
 
 ## Dörtgen burcun mimari özellikleri
@@ -33,7 +33,7 @@ Yuvarlak Merdekan Kalesi gibi Abşeron'un diğer noktalarında görülen dairese
 
 Kaleye giriş korunaklı bir iç avluya açılır; bu düzen saldırganları mazgalların doğrudan gözetimi altındaki dar bir geçide yönlendirirdi. Çatı katı, dışa doğru çıkıntı yapan cumba delikleri ve siperliklerle son bulur; böylece savunmacılar sur diplerini yukarıdan emniyete alabilirdi.
 
-![Yuvarlak köşe burçlarını ve kademeli savunma duvarlarını gösteren güney cephesi](/images/atlas/ramana-tower-inline-2.webp)
+![Yuvarlak köşe burçlarını ve kademeli savunma duvarlarını gösteren güney cephesi](https://upload.wikimedia.org/wikipedia/commons/7/78/Ramana_castle_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 2: Yuvarlak köşe burçlarını ve kademeli savunma duvarlarını gösteren güney cephesi.*
 
 ## Abşeron'un savunmasındaki stratejik konumu
@@ -44,7 +44,7 @@ Hazar kıyılarına yabancı gemiler yaklaştığında burçlardaki nöbetçiler
 
 Kalenin çevresi askeri avantajların yanında iktisadi imkanlar da sunuyordu. Ramana civarındaki tuz gölleri ve yüzeye çıkan ham petrol sızıntıları, Orta Çağ boyunca aranan ticaret maddeleriydi. Kaledeki muhafız birliği bu üretim noktalarını korur ve Şirvan ile Tebriz pazarlarına giden kervanların güvenliğini sağlardı.
 
-![Gözetleme burçlarının üst siperlikleri ve taş işçiliği ayrıntıları](/images/atlas/ramana-tower-inline-3.webp)
+![Gözetleme burçlarının üst siperlikleri ve taş işçiliği ayrıntıları](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ramana_Castle_towers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 3: Gözetleme burçlarının üst siperlikleri ve taş işçiliği ayrıntıları.*
 
 ## Koruma çalışmaları ve kültürel mirası

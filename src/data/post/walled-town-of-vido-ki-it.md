@@ -20,7 +20,7 @@ metadata:
 
 Arroccata sopra la cittadina di Stolac, nella Bosnia-Erzegovina meridionale, la città murata di Vidoški sorge su un marcato costone calcareo a strapiombo sulla valle del fiume Bregava. Con un'estensione di oltre 20.000 metri quadrati, questo complesso difensivo costituisce una delle piazzeforti più estese dei Balcani occidentali. Le sue strutture conservano distinte fasi costruttive sviluppatesi lungo cinque secoli, testimoniando i contrasti territoriali tra i nobili medievali bosniaci, l'Impero ottomano e l'amministrazione militare austro-ungarica.
 
-![Mappa in rilievo con la posizione di Stolac nella Bosnia ed Erzegovina meridionale](/images/atlas/walled-town-of-vido-ki-inline-1.webp)
+![Mappa in rilievo con la posizione di Stolac nella Bosnia ed Erzegovina meridionale](https://upload.wikimedia.org/wikipedia/commons/5/50/Bosnia_and_Herzegovina_relief_location_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Mappa orografica con la collocazione strategica di Stolac nella Bosnia ed Erzegovina meridionale.*
 
 ## Geografia strategica lungo il corso della Bregava
@@ -29,7 +29,7 @@ La fortezza domina la collina di Križevac, un'altura che controllava le vie car
 
 Nel corso del quindicesimo secolo, la roccaforte presidiava i confini orientali dei possedimenti dei Kosača di fronte alla pressione dei potentati confinanti. Il nome della fortificazione deriva dal fiume Vidoštica, antico idronimo della Bregava, e dal culto diffuso di San Vito. Costruiti su dirupi rocciosi, i bastioni controllavano i flussi commerciali che trasportavano sale marino, tessuti e metalli tra la Repubblica di Ragusa (Dubrovnik) e le piazze commerciali dell'interno.
 
-![Mappa delle suddivisioni del Cantone dell'Erzegovina-Narenta](/images/atlas/walled-town-of-vido-ki-inline-2.webp)
+![Mappa delle suddivisioni del Cantone dell'Erzegovina-Narenta](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bosnia_and_Herzegovina_subdivision_map_Herzegovina-Neretva_Canton.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Mappa del Cantone dell'Erzegovina-Narenta in cui la fortezza domina la valle della Bregava.*
 
 ## Tre ordini difensivi e anatomia strutturale
@@ -40,7 +40,7 @@ La città bassa copre un'area di 8.481 metri quadrati lungo il pendio nord-occid
 
 La città alta corona la parte sommitale della dorsale rocciosa su una superficie di 8.579 metri quadrati. Cinque torri proteggevano questa parte sopraelevata. La torre orientale fungeva da polveriera e deposito munizioni, resistendo a colpi di fulmine e assedi prolungati. La raccolta delle acque meteoriche era essenziale per la guarnigione: dieci cisterne in muratura distribuite nel forte raccoglievano le acque piovane per garantire le scorte durante le estati aride e i blocchi nemici.
 
-![Stećci medievali scolpiti vicino a Stolac](/images/atlas/walled-town-of-vido-ki-inline-3.webp)
+![Stećci medievali scolpiti vicino a Stolac](https://upload.wikimedia.org/wikipedia/commons/4/40/Bosniangraves_bosniska_gravar_februari_2007_stecak_stecci3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Lapidi tombali medievali scolpite (stećci) nei pressi di Stolac, risalenti all'epoca del regno bosniaco.*
 
 ## Espansione ottomana e trasformazione austro-ungarica

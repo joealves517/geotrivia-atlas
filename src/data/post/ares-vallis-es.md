@@ -22,7 +22,7 @@ A través de las tierras altas de tono herrumbroso de Marte, inmensos cañones a
 
 El colosal volumen de roca y sedimentos desplazado a lo largo de Ares Vallis evidencia caudales hídricos que escapan a cualquier parámetro registrado en la historia de la humanidad. Los geólogos planetarios estiman que los caudales máximos superaron decenas de millones de metros cúbicos por segundo. Estas crecidas catastróficas erosionaron el suelo hasta alcanzar el lecho rocoso primitivo, dejando atrás islas alargadas de perfil hidrodinámico con forma de lágrima que apuntan ladera abajo en la dirección tomada por el torrente.
 
-![Perspective view of Ares Vallis showing teardrop-shaped islands](/images/atlas/ares-vallis-inline-1.webp)
+![Perspective view of Ares Vallis showing teardrop-shaped islands](https://upload.wikimedia.org/wikipedia/commons/2/21/Ares_Vallis_in_perspective_ESA229658.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Recreación en perspectiva de Ares Vallis captada por la sonda Mars Express de la ESA, mostrando islas en forma de lágrima labradas por inundaciones cataclísmicas.*
 
 ## El colapso de Iani Chaos y los detonantes volcánicos
@@ -31,7 +31,7 @@ El origen de las masas de agua que moldearon Ares Vallis se localiza en los terr
 
 Cuando el hielo subterráneo se fundió sometido a una intensa presión, las capas superiores perdieron sustentación estructural y se desplomaron hacia el subsuelo. El agua brotó hacia la superficie marciana a través de géiseres descomunales y torrentes repentinos, rasgando el relieve adyacente y abriendo la entrada meridional de Ares Vallis. Las imágenes orbitales de alta resolución confirman la existencia de cadenas de lagos interconectados en las tierras altas ecuatoriales. Cada vez que una cuenca alcanzaba su nivel máximo, las aguas quebraban los bordes rocosos, excavando canales sucesivos hacia las depresiones inferiores.
 
-![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](/images/atlas/ares-vallis-inline-2.webp)
+![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/3/3a/Sojourner_on_Mars_PIA01122.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: La misión Mars Pathfinder de la NASA y el explorador Sojourner analizando rocas volcánicas en la llanura aluvial de Ares Vallis en 1997.*
 
 ## El histórico amartizaje de Mars Pathfinder
@@ -40,7 +40,7 @@ El abanico aluvial donde Ares Vallis converge con Chryse Planitia constituía un
 
 Sojourner examinó guijarros de bordes redondeados, bloques rocosos imbricados e inclinados según la dirección del flujo hídrico primitivo y rocas volcánicas estratificadas esparcidas por la planicie. La orientación de estas formaciones rocosas corroboró el tránsito de inmensas masas de agua sobre la zona, confirmando directamente sobre el terreno las teorías formuladas en la década de 1970 mediante las imágenes orbitales de las sondas Viking. El hallazgo revolucionó las tesis sobre la evolución climática de Marte al demostrar que el agua líquida modificó el relieve mucho tiempo después de la formación del planeta.
 
-![Channel meander and layered sedimentary deposits in Ares Vallis](/images/atlas/ares-vallis-inline-3.webp)
+![Channel meander and layered sedimentary deposits in Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_-_Channel_Meander_in_Ares_Vallis_Region_%28ESP_012992_1860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Imagen orbital de alta resolución del Mars Reconnaissance Orbiter que revela meandros encajados y terrazas sedimentarias en Ares Vallis.*
 
 ## La hipótesis de la gran red de drenaje planetario

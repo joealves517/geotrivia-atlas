@@ -20,7 +20,7 @@ metadata:
 
 Über der heutigen Stadt Stolac in der südlichen Herzegowina erhebt sich die befestigte Stadt Vidoški auf einem markanten Kalksteinrücken über dem Tal des Flusses Bregava. Mit einer Fläche von mehr als 20.000 Quadratmetern stellt dieser Verteidigungskomplex eine der größten Festungsanlagen des westlichen Balkans dar. Die Bausubstanz bewahrt verschiedene Bauphasen aus über fünf Jahrhunderten und belegt die territorialen Auseinandersetzungen zwischen mittelalterlichen bosnischen Adeligen, dem Osmanischen Reich und der österreichisch-ungarischen Militärverwaltung.
 
-![Reliefkarte mit der Lage von Stolac in der südlichen Herzegowina](/images/atlas/walled-town-of-vido-ki-inline-1.webp)
+![Reliefkarte mit der Lage von Stolac in der südlichen Herzegowina](https://upload.wikimedia.org/wikipedia/commons/5/50/Bosnia_and_Herzegovina_relief_location_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 1: Reliefkarte mit der strategischen Lage von Stolac im Süden von Bosnien und Herzegowina.*
 
 ## Strategische Geografie entlang der Bregava
@@ -29,7 +29,7 @@ Die Zitadelle liegt auf dem Berg Križevac, einer Anhöhe, die natürliche Hande
 
 Im fünfzehnten Jahrhundert sicherte die Festung die östliche Flanke der Besitztümer Kosačas gegen Expansionsbestrebungen benachbarter Herrscher. Ihren Namen verdankt die Anlage dem Fluss Vidoštica, der mittelalterlichen Bezeichnung der Bregava, sowie der regionalen Verehrung des heiligen Veit. Auf steilen Kalksteinfelsen errichtet, kontrollierten die Wehrmauern Karawanenrouten für Salz, Textilien und Erze zwischen Dubrovnik und den kontinentalen Handelsplätzen.
 
-![Verwaltungskarte des Kantons Herzegowina-Neretva](/images/atlas/walled-town-of-vido-ki-inline-2.webp)
+![Verwaltungskarte des Kantons Herzegowina-Neretva](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bosnia_and_Herzegovina_subdivision_map_Herzegovina-Neretva_Canton.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 2: Karte des Kantons Herzegowina-Neretva, in dem die Festungsanlage das Flusstal der Bregava beherrscht.*
 
 ## Drei Festungsbereiche und bauliche Anatomie
@@ -40,7 +40,7 @@ Die Unterstadt erstreckt sich über 8.481 Quadratmeter entlang des nordwestliche
 
 Die Oberstadt krönt das höchste Felsplateau des Bergrückens und umfasst 8.579 Quadratmeter. Fünf Wehrtürme sicherten diesen Abschnitt ab. Der östlichste Turm diente als Pulvermagazin und überstand mehrere Blitzeinschläge und Belagerungen. Regenwassersammelsysteme waren für das Überleben der Besatzung entscheidend: Zehn getrennte Steinzisternen speicherten das Wasser der Hänge, um Truppen während trockener Sommermonate und langer Belagerungen zu versorgen.
 
-![Mittelalterliche Stećak-Grabsteine nahe Stolac](/images/atlas/walled-town-of-vido-ki-inline-3.webp)
+![Mittelalterliche Stećak-Grabsteine nahe Stolac](https://upload.wikimedia.org/wikipedia/commons/4/40/Bosniangraves_bosniska_gravar_februari_2007_stecak_stecci3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 3: Behauene mittelalterliche Stećak-Grabsteine bei Stolac aus der Epoche des bosnischen Königreichs.*
 
 ## Osmanische Expansion und österreichisch-ungarischer Umbau

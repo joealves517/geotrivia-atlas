@@ -22,7 +22,7 @@ Zwanzig Kilometer südlich des Handelshafens von Chittagong verbreitert sich der
 
 Die Handelsschifffahrt zählt nach wie vor zu den anspruchsvollsten Berufsfeldern des modernen Welthandels. Während militärische Denkmäler typischerweise den Opfern von Kriegshandlungen gedenken, erinnert dieses Monument an den zivilen maritimen Einsatz. Handelsschiffe transportieren mehr als achtzig Prozent des weltweiten Warenverkehrs und durchqueren offene Ozeane, saisonale Taifune und gefährliche Transitstraßen. Für die in Juldia ausgebildeten jungen Offiziere beginnt die maritime Pflicht in strenger Regimentierung an Land und setzt sich in jahrelangen internationalen Seereisen fern der Heimat fort.
 
-![Parade Ground at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-1.webp)
+![Parade Ground at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/5/58/ParadeGround_BMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Der feierliche Paradeplatz der Bangladesh Marine Academy mit Blick auf das Karnaphuli-Ästuar in Juldia, Chittagong.*
 
 ## Das maritime Tor des Karnaphuli
@@ -31,7 +31,7 @@ Die Lage der Gedenkstätte spiegelt die geografische Bedeutung der Verbindung Ba
 
 Das Leben der Kadetten an der Akademie folgt strenger militärischer Disziplin und unterteilt die Studierenden in Nautik und Schiffsbetriebstechnik. Die Ausbildungsprogramme verbinden theoretischen Unterricht mit praktischen Werkstattübungen, Schwimmprüfungen und Seereisen. Über sechs Jahrzehnte hinweg traten Tausende von Absolventen in die Handelsflotten nationaler Reedereien und internationaler Schifffahrtskonzerne ein. Als bangladeschische Offiziere Wachen auf Containerschiffen, Massengutfrachtern und Chemikalientankern übernahmen, begegneten sie den unvermeidlichen Gefahren der Hochseefahrt.
 
-![Seafarers Memorial BMA](/images/atlas/seafarers-memorial-inline-2.webp)
+![Seafarers Memorial BMA](https://upload.wikimedia.org/wikipedia/commons/0/04/Seafarers_Memorial_BMA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Das zentrale Steinbauwerk des Seafarers' Memorial, eingeweiht von der Internationalen Seeschifffahrts-Organisation im Jahr 2011.*
 
 ## Die Einweihung durch die Internationale Seeschifffahrts-Organisation
@@ -40,7 +40,7 @@ Am 13. Januar 2011 fand auf dem Campus eine offizielle internationale Zeremonie 
 
 Die Gestaltung des Mahnmals verzichtet auf übermäßige Verzierungen. Aus klarem Mauerwerk mit deutlichen Inschriften errichtet, bildet es einen andächtigen Mittelpunkt auf dem zentralen Gelände der Akademie. Die Kadetten versammeln sich auf dem Vorplatz bei feierlichen Anlässen, Graduierungsfeiern und beim abendlichen Antreten. Der Standort stellt sicher, dass das Gedenken ein fester Bestandteil der täglichen Ausbildung bleibt und nicht auf vereinzelte Jahresfeiern beschränkt ist.
 
-![Cadets during graduation parade at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-3.webp)
+![Cadets during graduation parade at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/3/30/Bangladesh_Marine_Academy_Officer_Cadets_Graduation_%26_Passing_Out_Parade.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Offizierskadetten in Formation während einer jährlichen Abschluss- und Entlassungsparade an der Akademie.*
 
 ## Alltag und stilles Gedenken

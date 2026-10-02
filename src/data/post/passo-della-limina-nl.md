@@ -22,7 +22,7 @@ Over het smalle schiereiland van Zuid-Calabrië, waar de Italiaanse laars zich t
 
 De pas beslaat een strategisch zadel tussen het grondgebied van de gemeenten Cinquefrondi en Mammola binnen de metropolitane stad Reggio Calabria. Direct ten zuiden van de pas rijst de Monte Limina op tot 888 meter, waarvan de top op heldere ochtenden weidse vergezichten biedt over de vlakte van Gioia Tauro tot aan de Etna op Sicilië en de Eolische Eilanden. Hoewel reizigers tegenwoordig meestal via een drie kilometer lange tunnel onder dit bergmassief doorrijden, bewaart de pas bovengronds eeuwenoude sporen van migratie, klassieke handelsroutes en het pastorale leven in de bergen.
 
-![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](/images/atlas/passo-della-limina-inline-1.webp)
+![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](https://upload.wikimedia.org/wikipedia/commons/b/b9/Limina_-_Paesaggio01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Blik op de ruige kam van de Apennijnen nabij de Passo della Limina, die de geomorfologische overgangszone toont tussen de Serre en de Aspromonte.*
 
 ### De etymologie van een continentale grens
@@ -31,7 +31,7 @@ De naam Limina heeft diepe taalkundige wortels in de historische geografie van Z
 
 Een tweede etymologische verklaring grijpt terug op het Oudgriekse woord *limne*, dat moeras, poel of stilstaand water aanduidt. Historische bronnen en lokale overleveringen melden dat er vóór de aanleg van moderne wegen in de twintigste eeuw een seizoensgebonden bergmeer lag op het zadel. Tijdens grote graafwerkzaamheden voor de wegenaanleg werd dit natuurlijke waterbassin drooggelegd en opgevuld, waardoor het oorspronkelijke water verdween maar de herinnering bewaard bleef in de plaatsnaam.
 
-![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](/images/atlas/passo-della-limina-inline-2.webp)
+![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](https://upload.wikimedia.org/wikipedia/commons/8/87/Limina_-_Paesaggio02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Het bergzadel op 822 meter hoogte, van oudsher doorkruist door de Sentiero dei Greci om Locri aan de Ionische Zee te verbinden met de Tyrreense kust.*
 
 ### De antieke handelsroute van de Grieken
@@ -40,7 +40,7 @@ Lang voordat er geasfalteerde wegen door het Calabrische binnenland liepen, was 
 
 Deze handelsroute, historisch bekend als de *Sentiero dei Greci* (Pad van de Grieken), volgde het dal van de rivier de Torbido vanaf de Ionische kust, stak de bergkam precies over bij de Passo della Limina en daalde af via de westelijke heuvels naar de Tyrreense kustvlakte. Muildierkaravanen beladen met olijfolie, graan, aardewerk en bronzen voorwerpen trokken eeuwenlang over dit pad. Dankzij deze route konden handelaren betrouwbare contacten onderhouden en werd de oversteek van het bergachtige schiereiland teruggebracht tot één dagmars.
 
-![Forested slopes and mountain ridges around the Limina pass corridor](/images/atlas/passo-della-limina-inline-3.webp)
+![Forested slopes and mountain ridges around the Limina pass corridor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Limina_-_Paesaggio03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Beuken- en kastanjebossen langs de oude bergpaden, die dienden als doorgangsroutes voor herders, handelaren en reizigers.*
 
 ### Monastieke kluizenarijen en transhumancepaden
@@ -49,7 +49,7 @@ Gedurende de middeleeuwen en de vroegmoderne tijd boden de dichte beuken- en kas
 
 In de negentiende eeuw werd de pas een belangrijk knooppunt langs de traditionele bergroute. De plattelandsbevolking en reizigers benutten het bergachtige reliëf van Limina om zich te verplaatsen tussen de Serre en de toppen van de Aspromonte. Het pad diende tevens als een eeuwenoude transhumanceroute, waarlangs herders hun kuddes schapen en runderen leidden tussen de hoge zomerweiden en de lagere winterweiden aan de kust.
 
-![The plateau of Piani della Limina surrounded by Mediterranean highland forest](/images/atlas/passo-della-limina-inline-4.webp)
+![The plateau of Piani della Limina surrounded by Mediterranean highland forest](https://upload.wikimedia.org/wikipedia/commons/5/5c/Piani_della_Limina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Het hoogplateau van de Piani della Limina, waar hedendaagse verkeersaders onderdoor lopen terwijl wandelpaden over de kammen voeren.*
 
 ### Moderne techniek en natuurbehoud

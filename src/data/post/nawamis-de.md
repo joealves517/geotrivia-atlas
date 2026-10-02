@@ -22,7 +22,7 @@ In den trockenen Hochebenen der südlichen Sinai-Halbinsel erheben sich isoliert
 
 Der Name Namus leitet sich vom arabischen Wort für Mücke ab. Beduinische Überlieferungen schrieben diese Bauwerke einst den Israeliten des Exodus zu und berichteten, dass Reisende Steinhütten errichteten, um sich vor Insektenschwärmen in der Wildnis zu schützen. Archäologische Ausgrabungen unter der Leitung von Beno Rothenberg im späten 20. Jahrhundert enthüllten ihren eigentlichen Zweck als gemeinschaftliche Grabkammern mit menschlichen Überresten, Muschelhalsketten, Steinperlen und Pfeilspitzen aus Feuerstein.
 
-![Prähistorisches Steingrab der Nawamis in der Sinai-Wüste](/images/atlas/nawamis-inline-1.webp)
+![Prähistorisches Steingrab der Nawamis in der Sinai-Wüste](https://upload.wikimedia.org/wikipedia/commons/0/05/Nawamis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Kreisförmige Trockenmauer-Architektur eines Namus-Grabes in der Sinai-Wüste.*
 
 ## Architektur der kreisförmigen Gräber
@@ -31,7 +31,7 @@ Nawamis weisen eine einheitliche Bauweise auf. Die Erbauer sammelten unbearbeite
 
 Jeder intakte Namus verfügt über eine Zugangsöffnung, die nach Westen oder Südwesten ausgerichtet ist. Die niedrigen quadratischen Eingänge sind selten höher als ein Meter, sodass Besucher hineinkriechen müssen. Wissenschaftler stellen fest, dass diese Richtungsausrichtung mit der untergehenden Sonne verknüpft ist, einer astronomischen Orientierung, die von mehreren prähistorischen Kulturen in Nordafrika und der Levante geteilt wurde. Die Westausrichtung verband das Untergehen der Himmelskörper mit dem Übergang der Verstorbenen in eine Welt der Ahnen.
 
-![Megalithische Bienenkorbgräber in Bat, Al-Khutm und Al-Ayn](/images/atlas/nawamis-inline-2.webp)
+![Megalithische Bienenkorbgräber in Bat, Al-Khutm und Al-Ayn](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bat%2C_al-khutm_and_al-Ayn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Bienenkorb-Grabkomplexe im Oman zeigen regionale Bestattungstraditionen der Bronzezeit.*
 
 ## Datierung der kupfersteinzeitlichen Kammern
@@ -40,7 +40,7 @@ Ausgrabungen in der am besten erhaltenen Gruppe bei Hdhabat Chajaj, die an der R
 
 Eine zentrale Debatte unter Archäologen betrifft das chronologische Verhältnis zwischen den Gräbern und den darin gefundenen Skeletten. Mehrere Forscher argumentieren, dass die Sandsteinstrukturen möglicherweise Jahrhunderte nach den frühesten Bestattungen errichtet wurden und als sekundäre Beinshäuser dienten, in denen wandernde Clans die Knochen ihrer Vorfahren erneut beisetzten. Die Lumineszenzdatierung der Sandsteinblöcke deutet auf kontinuierliche Instandhaltungen und bauliche Erweiterungen bis in die frühe Bronzezeit hin, was belegt, dass diese abgelegenen Wüstenkoordinaten über Jahrtausende hinweg zeremonielle Wegpunkte blieben.
 
-![Turmgrab von Dschabal Ruwaik im Jemen](/images/atlas/nawamis-inline-3.webp)
+![Turmgrab von Dschabal Ruwaik im Jemen](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tombe_tour_de_Jebel_Ruwaik_-_Y%C3%A9men.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Turmgrab von Dschabal Ruwaik im Jemen als Zeugnis paralleler südarabischer Grabarchitektur.*
 
 ## Bestattungsnetzwerke über das Rote Meer

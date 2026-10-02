@@ -22,7 +22,7 @@ An den Königshöfen Zentraljawas fungierte das Textildesign als strenger Kodex 
 
 Die frühesten materiellen Vorläufer des Musters finden sich auf Steinstatuen des dreizehnten Jahrhunderts in Ostjawa eingemeißelt, insbesondere auf Tempelreliefs aus der Ära der Singhasari- und Majapahit-Dynastien. Statuarische Bildnisse von Gottheiten und Herrscherfiguren tragen Hüfttücher mit ineinandergreifenden vierblättrigen Kreisen, was beweist, dass diese geometrische Form der modernen Wachsreservetechnik um mehrere Jahrhunderte vorausging.
 
-![Archival sample of Kawung kemplung batik pattern collected before 1891](/images/atlas/batik-kawung-inline-1.webp)
+![Archival sample of Kawung kemplung batik pattern collected before 1891](https://upload.wikimedia.org/wikipedia/commons/3/32/Collectie_NMvWereldculturen%2C_RV-847-76%2C_Batikpatroon%2C_%27Kawung_kemplung%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 1: Historische Archivprobe des Kawung-Kemplung-Musters aus der Zeit vor 1891, aufbewahrt im Nationalmuseum der Weltkulturen.*
 
 ### Das botanische Rätsel: Palmfrucht oder heiliger Lotus
@@ -31,7 +31,7 @@ Etymologen und Kulturhistoriker führen das Wort *kawung* auf zwei verschiedene 
 
 Eine parallele Interpretation aus der klassischen hinduistisch-buddhistischen Ikonografie deutet die vier Rundungen als Blütenblätter einer geöffneten Lotusblume (*padma*). In der javanischen Philosophie gilt der Lotus als Sinnbild für Reinheit und ein langes Leben, da er im trüben Teichschlamm wurzelt, seine Blütenkrone jedoch makellos über dem Wasser entfaltet. Ob nun von der bescheidenen Zuckerpalme oder dem heiligen Lotus inspiriert, fängt das Muster ein natürliches Gleichgewicht ein, in dem vier äußere Strukturen ein ruhiges, leeres Zentrum schützen.
 
-![Stone architectural relief featuring the repetitive circular Kawung pattern](/images/atlas/batik-kawung-inline-2.webp)
+![Stone architectural relief featuring the repetitive circular Kawung pattern](https://upload.wikimedia.org/wikipedia/commons/9/95/Kawung_motif_in_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 2: Architektonisches Steinrelief mit der vierfachen Kawung-Geometrie, das an klassische javanische Tempelreliefs erinnert.*
 
 ### Kosmologie und die vier Beschützer
@@ -40,7 +40,7 @@ Der geometrische Aufbau von Batik Kawung visualisiert unmittelbar ein zentrales 
 
 Am Schnittpunkt der vier äußeren Ovale ruht das fünfte Element: der göttliche Wesenskern und das moralische Gewissen des Menschen. Das Tragen des Kawung-Musters diente daher als beständige geistige Mahnung. Der Träger war aufgerufen, äußere Begierden zu zügeln, inmitten weltlicher Unruhe die innere Balance zu bewahren und mit Besonnenheit zu handeln. Die Kreislinie, die jede Vierergruppe umschließt, symbolisierte Selbstbeherrschung und erinnerte königliche Würdenträger daran, dass Macht ohne Mäßigung unweigerlich ins Verderben führt.
 
-![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](/images/atlas/batik-kawung-inline-3.webp)
+![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](https://upload.wikimedia.org/wikipedia/commons/b/bd/Collectie_NMvWereldculturen%2C_RV-847-85%2C_Batikpatroon%2C_%27Kawung_picis%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 3: Textilfragment aus dem späten 19. Jahrhundert mit dem Kawung-Picis-Muster im Maßstab historischer Münzen.*
 
 ### Königliche Erlasse und die verbotenen Muster

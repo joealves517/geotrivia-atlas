@@ -22,7 +22,7 @@ Entlang der Nordostküste der Insel Euböa verbergen Fischerdörfer und felsige 
 
 Der geografische Name Diakria leitet sich vom griechischen Wort für gebirgiges Hochland ab und bezeichnete Orte an rauen Berghängen. Auf Euböa lag das Gebiet der Stadt nahe der modernen Ortschaft Pili an der Ägäisküste. Anders als die geschützten Gewässer des Golfs zwischen Euböa, Böotien und Attika blickte diese Außenküste auf das offene Meer hinaus, was Schiffe unberechenbaren Strömungen, nördlichen Winden und schroffen Kaps aussetzte.
 
-![Klassisches Mauerwerk entlang der Akropolis-Befestigungen von Eretria auf der Insel Euböa](/images/atlas/diacria-euboea-inline-1.webp)
+![Klassisches Mauerwerk entlang der Akropolis-Befestigungen von Eretria auf der Insel Euböa](https://upload.wikimedia.org/wikipedia/commons/a/ac/Part_of_the_wall_of_the_Acropolis_of_Eretria_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 1: Klassisches Mauerwerk entlang der Akropolis-Befestigungen von Eretria auf der Insel Euböa.*
 
 ## Epische Dichtung und die Schifffahrt der Antike
@@ -33,7 +33,7 @@ Lykophron benennt das Territorium der Diakrier als eine jener Küsten, an denen 
 
 Obwohl die homerischen Epen Diakria nicht namentlich erwähnen, stützte sich Lykophron auf regionale Überlieferungen für seinen geografischen Katalog. Die Verbindung Diakrias mit anspruchsvollen Meerespassagen spiegelt die nautischen Bedingungen wider, die den Seeweg entlang der Ostküste Euböas in der Antike kennzeichneten.
 
-![Verteidigungsmauern antiker euböischer Stadtstaaten zur Sicherung regionaler Seewege](/images/atlas/diacria-euboea-inline-2.webp)
+![Verteidigungsmauern antiker euböischer Stadtstaaten zur Sicherung regionaler Seewege](https://upload.wikimedia.org/wikipedia/commons/0/01/Eretria_ancient_city_walls_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 2: Verteidigungsmauern antiker euböischer Stadtstaaten zur Sicherung regionaler Seewege.*
 
 ## Besteuerung im Delisch-Attischen Seebund
@@ -44,7 +44,7 @@ Inschriftenfragmente auf Marmorstelen der athenischen Akropolis belegen die Abga
 
 Ein athenisches Finanzdekret von 425/424 v. Chr. bietet zusätzliche geografische Genauigkeit, indem es sowohl Diakria als auch eine separate Einheit namens Diakres der Chalkidier aufführt. Historiker sehen darin den Beleg für zwei getrennte Verwaltungsbezirke auf Euböa. Während Diakres dem Einflussbereich von Chalkis am Euripos unterstand, gehörte Diakria zum Küstengebiet des eretrischen Territoriums.
 
-![Bergzüge Zentraleuböas hinter den antiken Siedlungsräumen an der Küste](/images/atlas/diacria-euboea-inline-3.webp)
+![Bergzüge Zentraleuböas hinter den antiken Siedlungsräumen an der Küste](https://upload.wikimedia.org/wikipedia/commons/d/df/Mount_Olympus_%28Euboea%29_from_the_ancient_citadel_of_Eretria_on_January_16%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 3: Bergzüge Zentraleuböas hinter den antiken Siedlungsräumen an der Küste.*
 
 ## Topografie, Demen und archäologische Forschung

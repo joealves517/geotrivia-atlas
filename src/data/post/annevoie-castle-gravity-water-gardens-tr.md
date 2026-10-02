@@ -22,7 +22,7 @@ Valonya'daki Meuse nehri vadisinde, Namur ile Dinant'ın tam ortasında, su fıs
 
 Versay gibi kraliyet saraylarının Sen Nehri'nden su basmak için Marly Makinesi gibi devasa ve sık sık arızalanan mekanik düzeneklere bel bağladığı bir dönemde, Annevoie mekanik pompa kullanımını tamamen dışarıda bıraktı. Tasarımcıları, Condroz platosunun doğal hidrolojisini kendi kendini besleyen bir motora dönüştürdü. Her fıskiye jeti, kanal havuzu ve kademeli şelale, enerjinin korunumu ve bileşik kaplar kanunu uyarınca çalışarak, kendisini kuran hanedandan daha uzun süre yaşayan kapalı bir hidrolojik döngü meydana getirdi.
 
-![Annevoie Castle reflected in the lower pool](/images/atlas/annevoie-castle-gravity-water-gardens-inline-1.webp)
+![Annevoie Castle reflected in the lower pool](https://upload.wikimedia.org/wikipedia/commons/c/c2/Le_ch%C3%A2teau_de_Rouillon_et_son_reflet_%2828049915762%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Annevoie Kalesi'nin kireç taşı cephesi, tahliye sularının Rouillon Nehri'ne dökülmeden önce biriktiği alt havuzda yankılanır.*
 
 ### Demir ustasının laboratuvarı
@@ -31,7 +31,7 @@ Annevoie'daki su sistemlerinin kökeni, soyluların tembelliğinden ziyade ağı
 
 Jean'in torunu Charles-Alexis de Montpellier (1717-1807) 18. yüzyılın ortalarında malikâneyi devraldığında, Namur Kontluğu Demir Ustaları Loncası Başkanlığı gibi saygın bir unvana sahipti. Charles-Alexis mülkü çevreleyen arazilere sıradan bir saray mensubu gibi değil, hidrodinamik ve metalürji eğitimi almış bir mühendis gözüyle yaklaştı. Fransa, İtalya ve İngiltere'ye yaptığı kapsamlı seyahatlerde, devrin zevk bahçelerinde kullanılan mekanik pompaların yüksek maliyetlerine ve sık arızalarına bizzat tanık oldu. Annevoie-Rouillon'daki aile ocağına döndükten sonra yirmi yılını, Rouillon Nehri vadisini yalnızca yer çekimiyle beslenen bir su sığınağına dönüştürmeye adadı.
 
-![Classical sculptures above the waterways](/images/atlas/annevoie-castle-gravity-water-gardens-inline-2.webp)
+![Classical sculptures above the waterways](https://upload.wikimedia.org/wikipedia/commons/7/7f/Statues_dominant_les_fontaines_et_le_ch%C3%A2teau_de_Rouillons_%2828467282904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Teraslı yamaçlarda nöbet tutan mitolojik taş heykeller, yeraltındaki gizli kanalların kademeli şelaleleri beslediği noktaları işaret eder.*
 
 ### Yüksek rakımlı rezervuarın fiziği
@@ -42,7 +42,7 @@ Grand Canal, binlerce metreküp suyu yüksek bir kotta tutarak sürekli bir hidr
 
 Günümüz şehir şebekelerinin ya da modern devridaim pompalı havuzlarının aksine, Annevoie'da su asla geriye pompalanmaz. Bahçenin tamamı açık akışlı bir hidrolik devre olarak çalışır. Su, tepedeki kaynaklardan Grand Canal'a akar, yeraltı borularından geçerek Buffet d'Eau ve Neptün havuzu gibi ögeleri canlandırır, aşağıdaki yansıma göletlerine dökülür ve oradan da Rouillon Çayı aracılığıyla Meuse Nehri'ne karışır. Sistem yalnızca yer çekimine ve atmosferik basınca dayandığı için yakıta, dişlilere veya elektrik enerjisine gereksinim duymaz.
 
-![The limestone manor from the canal](/images/atlas/annevoie-castle-gravity-water-gardens-inline-3.webp)
+![The limestone manor from the canal](https://upload.wikimedia.org/wikipedia/commons/a/aa/ChateaudAnnevoie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Üst ana su kanalından görünen 18. yüzyıl şatosu, hidrolik eksenlerin geometrik kusursuzluğunu gözler önüne serer.*
 
 ### Üç Avrupa peyzaj tarzının sentezi
@@ -53,7 +53,7 @@ Merkezi bakış açısı, André Le Nôtre tarafından geliştirilen klasik Fran
 
 Bu düzenli aksların etrafında parkın sınırları, o dönemde doğmakta olan İngiliz peyzaj tarzına evrilir. Kıvrımlı patikalar, serbest biçimli göletler, salkımsöğütler ve orman açıklıkları ziyaretçilere el değmemiş bir doğa hissi verir. Bu birleşim, Annevoie'yı bahçe sanatı tarihinde eşsiz bir konuma yerleştirir: Yirmi hektarlık tek bir park alanı içerisinde Kartezyen geometri, barok su şöleni ve romantik doğallık kusursuzca kaynaşır.
 
-![Geometric waterways and natural spring basins](/images/atlas/annevoie-castle-gravity-water-gardens-inline-4.webp)
+![Geometric waterways and natural spring basins](https://upload.wikimedia.org/wikipedia/commons/3/31/Annevoie_-_Le_ch%C3%A2teau_et_son_plan_d%27eau_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Kanalların kesme taş sınırları ile doğal kaynak havuzlarının buluştuğu nokta, mimari hassasiyet ile doğal peyzaj arasındaki yumuşak geçişi gösterir.*
 
 ### İki buçuk asırlık hidrolik süreklilik

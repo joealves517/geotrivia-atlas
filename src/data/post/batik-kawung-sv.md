@@ -22,7 +22,7 @@ Vid kungahoven i Centraljava fungerade textildesign som en strikt kod för polit
 
 De tidigaste materiella föregångarna till mönstret finns inhuggna i stenskulpturer från 1200-talet i Östjava, framför allt i tempelreliefer från Singhasari- och Majapahit-dynastierna. Skulpturala avbildningar av gudomar och kungliga gestalter bär höftskynken prydda med sammanflätade fyrbladiga cirklar, vilket visar att denna form föregick modern vaxreservageteknik med flera århundraden.
 
-![Archival sample of Kawung kemplung batik pattern collected before 1891](/images/atlas/batik-kawung-inline-1.webp)
+![Archival sample of Kawung kemplung batik pattern collected before 1891](https://upload.wikimedia.org/wikipedia/commons/3/32/Collectie_NMvWereldculturen%2C_RV-847-76%2C_Batikpatroon%2C_%27Kawung_kemplung%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 1: Arkivprov av Kawung kemplung-mönstret insamlat före 1891, bevarat på Världskulturmuseet.*
 
 ### Den botaniska gåtan: Palmfrukt eller helig lotus
@@ -31,7 +31,7 @@ Etymologer och kulturhistoriker härleder ordet *kawung* till två skilda inspir
 
 En parallell tolkning, sprungen ur klassisk hinduisk och buddhistisk ikonografi, ser de fyra flikarna som de utbredda kronbladen hos en utslagen lotusblomma (*padma*). I javanesisk tankevärld symboliserar lotusen renhet och långt liv eftersom den slår rot i dyiga dammar men vecklar ut en fläckfri blomma ovanför vattenytan. Vare sig ursprunget finns hos den enkla sockerpalmen eller den heliga lotusen uttrycker mönstret en naturlig balans där fyra yttre strukturer vakar över ett stilla och avskalat centrum.
 
-![Stone architectural relief featuring the repetitive circular Kawung pattern](/images/atlas/batik-kawung-inline-2.webp)
+![Stone architectural relief featuring the repetitive circular Kawung pattern](https://upload.wikimedia.org/wikipedia/commons/9/95/Kawung_motif_in_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 2: Arkitektonisk stenrelief som visar den fyrfaldiga Kawung-geometrin, med tydlig anknytning till klassiska javanesiska tempelreliefer.*
 
 ### Kosmologi och de fyra väktarna
@@ -40,7 +40,7 @@ Den geometriska uppbyggnaden hos Batik Kawung åskådliggör ett centralt fundam
 
 I skärningspunkten mellan de fyra yttre bladen vilar det femte elementet: den gudomliga själen och människans moraliska kompass. Att bära dräkter med Kawung-mönstret fungerade som en ständig andlig påminnelse. Bäraren förpliktigade sig att tygla yttre begär, bevara fattningen mitt i världslig oro och styra med eftertanke. Cirkellinjen som omsluter varje grupp om fyra kronblad symboliserade självbehärskning och påminde hovets ämbetsmän om att makt utan måttfullhet oundvikligen leder till undergång.
 
-![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](/images/atlas/batik-kawung-inline-3.webp)
+![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](https://upload.wikimedia.org/wikipedia/commons/b/bd/Collectie_NMvWereldculturen%2C_RV-847-85%2C_Batikpatroon%2C_%27Kawung_picis%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 3: Textilfragment från sent 1800-tal som visar Kawung picis, skalenligt anpassat efter dåtidens mynt.*
 
 ### Kungliga påbud och de förbjudna mönstren

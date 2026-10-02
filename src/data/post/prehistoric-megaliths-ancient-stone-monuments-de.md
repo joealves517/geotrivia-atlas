@@ -22,7 +22,7 @@ Entlang sturmgepeitschter Atlantikküsten, sonnenüberfluteter Landzungen des Mi
 
 Der Begriff selbst fand 1849 Eingang in die Wissenschaftssprache, als der britische Antiquar Algernon Herbert die griechischen Wörter megas für groß und lithos für Stein verband, um Monumente wie Stonehenge zu beschreiben. Über Jahrhunderte hinweg deuteten frühe Gelehrte Steinkreise, Dolmen und freistehende Menhire als Werke mythischer Gestalten: Riesen, keltischer Druiden oder seefahrender Phönizier. Die moderne Archäologie zeichnet dank hochpräziser Radiokarbondatierungen, Bayesscher statistischer Modelle und archäoastronomischer Analysen ein ungleich faszinierenderes Bild gemeinschaftlicher Ingenieursleistungen und maritimer Vernetzung früher bäuerlicher Gemeinschaften.
 
-![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-1.webp)
+![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](https://upload.wikimedia.org/wikipedia/commons/8/8c/Auchencar_standing_stone_-_facing_farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Der solitäre Menhir von Auchencar auf der Isle of Arran in Schottland. Foto von Colin (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ Die ersten Menschengruppen, die gewaltige Natursteine bearbeiteten, taten dies l
 
 Eine grundlegende Studie unter Leitung der Archäologin Bettina Schulz Paulsson von der Universität Göteborg analysierte mehr als 2.410 Radiokarbondaten europäischer Megalithgräber. Die 2019 in den Proceedings of the National Academy of Sciences veröffentlichten Ergebnisse entschieden eine Debatte, die Fachkreise über ein Jahrhundert lang gespalten hatte. Die europäische Megalithbauweise entstand demnach keineswegs unabhängig an mehreren Orten, sondern nahm ihren Ausgang um 4500 v. Chr. an der Atlantikküste im Nordwesten Frankreichs, genauer in der heutigen Bretagne. Von diesem Ausgangspunkt breitete sich die Tradition über maritime Handelswege entlang der europäischen Küsten bis nach Iberien, auf die Britischen Inseln und nach Skandinavien aus.
 
-![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-2.webp)
+![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](https://upload.wikimedia.org/wikipedia/commons/c/c7/Machrie_moor_standing_stones.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Sandsteinmonolithen des Steinkreiskomplexes von Machrie Moor im Westen Schottlands. Foto von Rowyn flowerdew (CC0).*
 
@@ -38,7 +38,7 @@ Neolithische Megalithen treten in unterschiedlichen Bauformen auf, die jeweils f
 
 Dolmen und Ganggräber stellen den funerären Zweig der Megalitharchitektur dar. Ein Dolmen besteht typischerweise aus zwei oder mehr aufrecht stehenden Tragsteinen, die einen tonnenschweren Deckstein tragen und so eine geschützte Grabkammer bilden. Bei komplexeren Anlagen wie Newgrange in Irland oder Gavrinis in Frankreich überdeckten die Erbauer diese Kammern mit monumentalen Erd- und Steinhügeln, die durch lange unterirdische Gänge zugänglich waren. Zur Wintersonnenwende in Newgrange fällt das Licht der aufgehenden Sonne durch eine eigens konstruierte Dachöffnung über dem Eingang und erhellt die zentrale Grabkammer mit mathematischer Genauigkeit.
 
-![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-3.webp)
+![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](https://upload.wikimedia.org/wikipedia/commons/e/e8/Standing_Stone-1013137%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Verwitterter prähistorischer Menhir über den Küstenweiden der Dingle-Halbinsel in Irland. Foto von Maoileann (CC BY-SA 4.0).*
 
@@ -46,7 +46,7 @@ Die bauliche Umsetzung dieser Monumente zeugt von erstaunlichem logistischem Kö
 
 Neben der Baulogistik wiesen Forscher bemerkenswerte akustische Eigenschaften in megalithischen Grabkammern nach. Akustikarchäologische Messungen an Bauten in Großbritannien und Irland zeigten, dass viele Kammern bei Frequenzen um 110 Hertz in Resonanz geraten. Ritueller Gesang oder Trommelklang in diesen Steingebäuden erzeugt stehende Schallwellen, die die Schwingungen intensivieren und sinnliche Erlebnisse hervorrufen, welche jahreszeitliche Zusammenkünfte und Kulte begleiteten.
 
-![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-4.webp)
+![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](https://upload.wikimedia.org/wikipedia/commons/9/9d/Komplek_Megalith_di_Taman_Nasional_Lore_Lindu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Prähistorische anthropomorphe Megalithstatue im Bada-Tal des Nationalparks Lore Lindu in Indonesien. Foto von Lo2asinamura (CC BY-SA 4.0).*
 

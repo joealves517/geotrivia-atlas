@@ -22,7 +22,7 @@ Pelos planaltos áridos do sul da península do Sinai, erguem-se estruturas isol
 
 O termo namus deriva da palavra árabe que designa o mosquito. As tradições orais beduínas atribuíam antigamente estas construções aos israelitas do Êxodo, relatando que os viajantes construíam abrigos de pedra para se protegerem de enxames de insetos no deserto. Escavações arqueológicas dirigidas por Beno Rothenberg no final do século XX revelaram a sua verdadeira função como câmaras funerárias coletivas que guardavam restos humanos, colares de conchas marinhas, contas de pedra e pontas de seta de sílex.
 
-![Tumba megalítica de pedra de Nawamis no deserto do Sinai](/images/atlas/nawamis-inline-1.webp)
+![Tumba megalítica de pedra de Nawamis no deserto do Sinai](https://upload.wikimedia.org/wikipedia/commons/0/05/Nawamis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Arquitetura circular de pedra seca de uma tumba namus no deserto do Sinai.*
 
 ## Arquitetura das tumbas circulares
@@ -31,7 +31,7 @@ Os nawamis apresentam um método de construção uniforme. Os construtores recol
 
 Cada namus intacto dispõe de uma abertura de entrada orientada para oeste ou sudoeste. As portas baixas e quadrangulares raramente ultrapassam um metro de altura, obrigando os visitantes a rastejar para o interior. Os investigadores salientam que este alinhamento se relaciona com o pôr do sol, um alinhamento astronómico partilhado por várias culturas pré-históricas do Norte de África e do Levante. A orientação ocidental ligava o declínio dos corpos celestes à passagem dos falecidos para o plano dos antepassados.
 
-![Tumbas megalíticas em forma de colmeia em Bat, Al-Khutm e Al-Ayn](/images/atlas/nawamis-inline-2.webp)
+![Tumbas megalíticas em forma de colmeia em Bat, Al-Khutm e Al-Ayn](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bat%2C_al-khutm_and_al-Ayn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Complexos de tumbas em colmeia em Omã refletindo tradições funerárias da Idade do Bronze.*
 
 ## Datação das câmaras calcolíticas
@@ -40,7 +40,7 @@ As escavações realizadas no conjunto mais bem conservado de Hdhabat Chajaj, si
 
 Um debate fundamental entre os arqueólogos reside na disparidade cronológica entre as sepulturas e os esqueletos que contêm. Diversos investigadores defendem que as estruturas de arenito podem ter sido erguidas séculos após os primeiros sepultamentos, servindo como ossários secundários onde os clãs nómadas reuniam novamente as ossadas dos seus antepassados. A datação por luminescência aplicada aos blocos de arenito indica remodelações e ampliações contínuas até ao início da Idade do Bronze, demonstrando que estas coordenadas desérticas permaneceram marcos cerimoniais ao longo de milénios.
 
-![Tumba torre de Jebel Ruwaik no Iémen](/images/atlas/nawamis-inline-3.webp)
+![Tumba torre de Jebel Ruwaik no Iémen](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tombe_tour_de_Jebel_Ruwaik_-_Y%C3%A9men.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Tumba torre de Jebel Ruwaik no Iémen testemunhando as arquiteturas funerárias do Sul da Arábia.*
 
 ## Redes funerárias através do Mar Vermelho

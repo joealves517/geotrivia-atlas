@@ -22,7 +22,7 @@ Zeven kilometer ten noordwesten van Aïn Mellouk, in de ruige hooglanden van de 
 
 In 893 na Christus werd dit bergbolwerk ingericht als het belangrijkste versterkte steunpunt en Dar al-Hijra voor de zendeling Abū ʿAbd Allāh al-Shīʿī. Uitgezonden vanuit Jemen door ismaëlitische leiders trok Abū ʿAbd Allāh de bergen van de Kleine Kabylië in om zijn religieuze en politieke beweging onder de Kutama-Berbers te verspreiden. Omdat hij in dichtbevolkte nederzettingen op tegenstand stuitte, vond hij bescherming bij sympathiserende clans die hem onderdak boden op deze natuurlijke rotspunt. De Berberse toponymie Tazrut, afgeleid van Amazigh-wortels die grote rots of rotsachtige heuvel betekenen, vatte zowel het landschap als de militaire waarde van de stelling samen.
 
-![Historical extent of Fatimid territorial control across North Africa](/images/atlas/tazrut-inline-1.webp)
+![Historical extent of Fatimid territorial control across North Africa](https://upload.wikimedia.org/wikipedia/commons/c/cd/Fatimid_control_in_Africa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Historische cartografie die de gebiedsuitbreiding van het Fatimidische Kalifaat over Noord-Afrika toont vanuit zijn oorsprong in de Algerijnse bergen.*
 
 ## De strategische geografie van Kaf Tazrut
@@ -31,7 +31,7 @@ De keuze voor Tazrut berustte op een weloverwogen militaire geografie. Gelegen t
 
 Negen jaar lang fungeerde Tazrut als het bestuurlijke centrum en het heilige heiligdom van de prille Fatimidische staat. Binnen deze bergbastion leidde Abū ʿAbd Allāh Berberse rekruten op, zette hij een civiel bestuur op en smeedde hij een gedisciplineerd leger uit onderling verdeelde Kutama-clans. Kroniekschrijvers uit die tijd, zoals Al-Qadi al-Nu'man, vermeldden dat het fort het ideologische ankerpunt van de beweging vormde en tribale onvrede bundelde tot een samenhangende veldtocht tegen de Aghlabidische garnizoenen.
 
-![Topographical relief map of Algeria showing the highlands of Mila](/images/atlas/tazrut-inline-2.webp)
+![Topographical relief map of Algeria showing the highlands of Mila](https://upload.wikimedia.org/wikipedia/commons/f/ff/Algeria_relief_location_map.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Topografische reliëfkaart van Noord-Algerije met aanduiding van het bergachtige plateauland van de provincie Mila waar Tazrut werd gesticht.*
 
 ## De verplaatsing naar Ikjan en de opmars naar het rijk
@@ -40,7 +40,7 @@ Tegen de herfst van 902 na Christus was de strijdmacht in Tazrut te groot geword
 
 Nog geen zeven jaar na het vertrek uit Tazrut wierpen de legers van de Kutama in 909 na Christus de Aghlabiden omver, veroverden ze Kairouan en riepen ze Abdallah al-Mahdi Billah uit tot eerste Fatimidische kalief. De staat die ontstond op een afgelegen bergtop in Mila breidde zich uiteindelijk uit over Egypte, Syrië en de Hidjaz en groeide uit tot een van de toonaangevende mediterrane rijken van de middeleeuwen.
 
-![Historical map of the Fatimid Caliphate at its territorial zenith](/images/atlas/tazrut-inline-3.webp)
+![Historical map of the Fatimid Caliphate at its territorial zenith](https://upload.wikimedia.org/wikipedia/commons/4/42/The_Fatimid_Caliphate.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Overzichtskaart van het Fatimidische Rijk op het hoogtepunt van zijn territoriale macht rond het Middellandse Zeegebied.*
 
 ## Archeologische overblijfselen op de rots van Mila

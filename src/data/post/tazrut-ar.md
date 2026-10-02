@@ -22,7 +22,7 @@ metadata:
 
 في عام 893م، تأسس هذا المعقل الجبلي كأول قاعدة محصنة ودار للهجرة للداعية أبي عبد الله الشيعي. وبعد أن أوفدته القيادة الإسماعيلية من اليمن، ارتحل أبو عبد الله إلى جبال منطقة القبائل الصغرى لنشر دعوته الدينية والسياسية بين قبائل كتامة الأمازيغية. وعندما واجه معارضة في التجمعات السكانية الكبرى، لجأ إلى فصائل موالية وفرت له الحماية فوق هذه الصخرة الحصينة. ويشتق اسم "تازروت" من أصول أمازيغية قديمة تعني الصخرة العظيمة أو التل الصخري، وهو وصف جسد الطبيعة الجغرافية والمنعة العسكرية لهذا الموقع الاستراتيجي.
 
-![Historical extent of Fatimid territorial control across North Africa](/images/atlas/tazrut-inline-1.webp)
+![Historical extent of Fatimid territorial control across North Africa](https://upload.wikimedia.org/wikipedia/commons/c/cd/Fatimid_control_in_Africa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: خريطة تاريخية توضح التوسع الإقليمي للخلافة الفاطمية في شمال إفريقيا انطلاقاً من معاقلها الأولى في جبال الجزائر.*
 
 ## الجغرافيا العسكرية لقمة كاف تازروت
@@ -31,7 +31,7 @@ metadata:
 
 وعلى مدى تسع سنوات، مثلت تازروت المركز الإداري والمقر المقدس للدولة الفاطمية الناشئة. وفي هذا الملاذ الجبلي العالي، درب أبو عبد الله المقاتلين من قبائل كتامة، وأسس النظام الإداري، وبنى جيشاً منضبطاً من بطون القبيلة. وذكر مؤرخو تلك المرحلة كالقاضي النعمان أن الحصن كان المرتكز الفكري للدعوة، محولاً التطلعات القبلية إلى حملة عسكرية منظمة أسقطت معاقل الأغالبة تباعاً.
 
-![Topographical relief map of Algeria showing the highlands of Mila](/images/atlas/tazrut-inline-2.webp)
+![Topographical relief map of Algeria showing the highlands of Mila](https://upload.wikimedia.org/wikipedia/commons/f/ff/Algeria_relief_location_map.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: خريطة طبوغرافية لشمال الجزائر تبرز الهضاب الجبلية لولاية ميلة حيث أقيمت قلعة تازروت الفاطمية.*
 
 ## الانتقال إلى إيكجان والمسير نحو الخلافة
@@ -40,7 +40,7 @@ metadata:
 
 وفي غضون سبع سنوات من مغادرة تازروت، تمكنت جيوش كتامة عام 909م من إسقاط الدولة الأغلبية، ودخول القيروان، وإعلان عبيد الله المهدي أول خليفة فاطمي. وهكذا تحولت الدولة التي تأسست على قمة جبل نائية في ميلة إلى إمبراطورية كبرى بسطت نفوذها لاحقاً على مصر والشام والحجاز وأضحت إحدى أعظم دول البحر الأبيض المتوسط في العصور الوسطى.
 
-![Historical map of the Fatimid Caliphate at its territorial zenith](/images/atlas/tazrut-inline-3.webp)
+![Historical map of the Fatimid Caliphate at its territorial zenith](https://upload.wikimedia.org/wikipedia/commons/4/42/The_Fatimid_Caliphate.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: خريطة عامة توضح أقصى اتساع جغرافي بلغته الدولة الفاطمية في حوض البحر الأبيض المتوسط.*
 
 ## الشواهد الأثرية على صخرة ميلة

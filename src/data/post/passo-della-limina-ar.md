@@ -22,7 +22,7 @@ metadata:
 
 يقع الممر في موقع استراتيجي بين نطاقي بلديتي تشينكويفروندي ومامولا ضمن نطاق مدينة ريدجو كالابريا الحضرية. وإلى الجنوب المباشر من الممر، ترتفع قمة جبل ليمينا إلى 888 متراً، مانحة في الصباحات الصحوة مشهداً بانورامياً ممتداً عبر سهل جويا تاورو وحتى فوهة بركان إتنا في صقلية وجزر إيوليا. وبينما يعبر المسافرون اليوم هذه التضاريس عبر نفق مروري يمتد لثلاثة كيلومترات في باطن الجبل، يحتفظ الممر السطحي بذاكرة آلاف السنين من الهجرات البرية، والتجارة القديمة، ونمط الحياة الجبلية.
 
-![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](/images/atlas/passo-della-limina-inline-1.webp)
+![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](https://upload.wikimedia.org/wikipedia/commons/b/b9/Limina_-_Paesaggio01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: مشهد لسلسلة قمم الأبينيني الوعرة بالقرب من ممر ليمينا، موضحاً النطاق الجيومورفولوجي الانتقالي بين صخور السيري والأسبرومونتي.*
 
 ### أصل التسمية لحدود قارية
@@ -31,7 +31,7 @@ metadata:
 
 أما الفرضية اللغوية الثانية فتعود إلى الكلمة الإغريقية القديمة *limne*، التي تشير إلى المستنقع أو بركة المياه الراكدة. وتؤكد الوثائق التاريخية والروايات الشعبية المتوارثة أنه قبل شق الطرق المعبدة في القرن العشرين، كانت هناك بحيرة جبلية موسمية تجمع مياه الأمطار مباشرة فوق الممر. وخلال أعمال التسوية والردم لإنشاء شبكة الطرق، جرى تجفيف هذه البركة الطبيعية، مما أدى إلى زوال المعلم المائي الأصلي مع بقاء ذكراه حاضرة في التسمية المحلية.
 
-![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](/images/atlas/passo-della-limina-inline-2.webp)
+![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](https://upload.wikimedia.org/wikipedia/commons/8/87/Limina_-_Paesaggio02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: الممر الجبلي على ارتفاع 822 متراً، والذي عبره قديماً درب الإغريق للربط بين مدينة لوكري على البحر الأيوني والساحل التيراني.*
 
 ### شريان التجارة الإغريقي القديم
@@ -40,7 +40,7 @@ metadata:
 
 وصعد هذا الشريان التجاري، المعروف تاريخياً باسم *درب الإغريق* (Sentiero dei Greci)، عبر وادي نهر توربيدو من الساحل الأيوني، وعبر القمة الجبلية بدقة عند ممر ليمينا، قبل أن يهبط التلال الغربية نحو حوض البحر التيراني. وظلت قوافل البغال المحملة بزيت الزيتون والحبوب والأواني الفخارية والبرونزيات المشغولة تعبر هذا المسار لعدة قرون، مما سمح للتجار بتأمين طرق إمدادهم واختصار عبور شبه الجزيرة الجبلية إلى مسيرة يوم واحد سيراً على الأقدام.
 
-![Forested slopes and mountain ridges around the Limina pass corridor](/images/atlas/passo-della-limina-inline-3.webp)
+![Forested slopes and mountain ridges around the Limina pass corridor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Limina_-_Paesaggio03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: غابات الزان والكستناء التي تحيط بمسارات البغال القديمة، والتي شكلت ممرات استراتيجية للرعاة والتجار والمسافرين.*
 
 ### الصوامع الرهبانية ومسارات الانتجاع الرعوي
@@ -49,7 +49,7 @@ metadata:
 
 وفي القرن التاسع عشر، اكتسب الممر مكانة استراتيجية كمحطة التقاء رئيسية على مسار المرتفعات المعروف باسم *درب الثوار* (Sentiero del Brigante). واستفاد سكان الريف والمسافرون من التضاريس المعقدة لليمينا للتنقل بين منطقة السيري ومرتفعات الأسبرومونتي. كما حافظ الدرب على وظيفته التقليدية كطريق للانتجاع الرعوي، حيث كان الرعاة يقودون قطعان الأغنام والأبقار بين المراعي الصيفية العالية وسهول السواحل الشتوية.
 
-![The plateau of Piani della Limina surrounded by Mediterranean highland forest](/images/atlas/passo-della-limina-inline-4.webp)
+![The plateau of Piani della Limina surrounded by Mediterranean highland forest](https://upload.wikimedia.org/wikipedia/commons/5/5c/Piani_della_Limina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: هضبة بياني ديلا ليمينا المرتفعة، حيث تمر مسارات النقل الحديثة في الأنفاق السفلية بينما تعبر الدروب التاريخية فوق القمم.*
 
 ### الهندسة الحديثة والحفاظ على الطبيعة

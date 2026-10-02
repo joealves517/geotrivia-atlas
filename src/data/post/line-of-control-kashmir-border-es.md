@@ -22,7 +22,7 @@ La Línea de Control se extiende a lo largo de más de 740 kilómetros a través
 
 En todo su recorrido, la línea supera desniveles topográficos extremos. Nace en las llanuras meridionales junto al río Chenab cerca de Akhnoor, asciende por las densas laderas boscosas de la cordillera de Pir Panjal y alcanza las cumbres glaciares del Gran Himalaya en torno a Kargil, Dras y la cresta de Saltoro. A ambos lados, cientos de miles de efectivos militares ocupan puestos avanzados de vigilancia, búnkeres de hormigón y puntos de observación de artillería situados por encima de los 4.000 metros sobre el nivel del mar.
 
-![Plano cartográfico que muestra el trazado de la Línea de Control sobre el relieve del Himalaya en Cachemira](/images/atlas/line-of-control-kashmir-border-inline-1.webp)
+![Plano cartográfico que muestra el trazado de la Línea de Control sobre el relieve del Himalaya en Cachemira](https://upload.wikimedia.org/wikipedia/commons/0/03/Line_of_Control_LoC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Plano cartográfico que muestra el trazado de la Línea de Control sobre el relieve del Himalaya en Cachemira.*
 
 ## Orígenes de la demarcación militar
@@ -33,7 +33,7 @@ Siguieron catorce meses de combates convencionales a través de desfiladeros, pa
 
 Suscrito el 27 de julio de 1949, el Acuerdo de Karachi formalizó la Línea de Alto el Fuego. Observadores de la ONU, organizados en el UNMOGIP, se desplegaron a lo largo de este trazado para supervisar su cumplimiento e investigar incidentes armados. La línea dividió el territorio histórico: la India retuvo el valle de Cachemira, Jammu y Ladakh, mientras que Pakistán administró Azad Cachemira y las Áreas del Norte, conocidas posteriormente como Gilgit-Baltistán.
 
-![Cresta montañosa fortificada y valla de demarcación vista desde las laderas occidentales de Azad Cachemira](/images/atlas/line-of-control-kashmir-border-inline-2.webp)
+![Cresta montañosa fortificada y valla de demarcación vista desde las laderas occidentales de Azad Cachemira](https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_and_India_Border_from_Azad_Kashmir_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Cresta montañosa fortificada y valla de demarcación vista desde las laderas occidentales de Azad Cachemira.*
 
 ## La transformación del Acuerdo de Simla de 1972
@@ -44,7 +44,7 @@ Tras la rendición de Pakistán, la primera ministra india Indira Gandhi y el pr
 
 Entre agosto y diciembre de 1972, comisiones técnicas militares de ambos bandos realizaron levantamientos topográficos sobre el terreno. El trabajo culminó en 19 mapas cartográficos detallados que fijaron las coordenadas exactas de la Línea de Control, desde el curso del río Chenab en el sur hasta un punto remoto en las alturas del Karakórum.
 
-![Hoja topográfica de 1958 que muestra el sector montañoso de Dras en el trazado inicial de alto el fuego](/images/atlas/line-of-control-kashmir-border-inline-3.webp)
+![Hoja topográfica de 1958 que muestra el sector montañoso de Dras en el trazado inicial de alto el fuego](https://upload.wikimedia.org/wikipedia/commons/b/ba/Txu-pclmaps-oclc-181831961-dras-43-n-1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Hoja topográfica de 1958 que muestra el sector montañoso de Dras en el trazado inicial de alto el fuego.*
 
 ## El término septentrional y el conflicto glaciar
@@ -63,7 +63,7 @@ Para frenar las infiltraciones no autorizadas, las fuerzas armadas indias inicia
 
 La instalación incorpora tecnología de detección: sensores sísmicos subterráneos, detectores volumétricos, cámaras térmicas y radares nocturnos. Patrullas continuas vigilan el tendido con apoyo de potentes torres de iluminación visibles desde aviones comerciales. Aunque las nevadas y los aludes invernales destruyen tramos de alambre cada año, brigadas especializadas de zapadores reconstruyen las secciones dañadas en cuanto llega el deshielo primaveral.
 
-![Valles de montaña y cultivos escalonados adyacentes a la franja fronteriza en disputa](/images/atlas/line-of-control-kashmir-border-inline-4.webp)
+![Valles de montaña y cultivos escalonados adyacentes a la franja fronteriza en disputa](https://upload.wikimedia.org/wikipedia/commons/7/73/Azad_Kashmire_of_Pakistan_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 4: Valles de montaña y cultivos escalonados adyacentes a la franja fronteriza en disputa.*
 
 ## Hidrología fluvial y regímenes limítrofes

@@ -22,7 +22,7 @@ La ligne de contrôle s'étend sur plus de 740 kilomètres à travers le relief 
 
 Sur l'ensemble de son tracé, la ligne franchit des dénivelés extrêmes. Elle débute dans les plaines méridionales le long de la rivière Chenab près d'Akhnoor, s'élève à travers les forêts de pins de la chaîne du Pir Panjal et atteint les hauteurs glaciaires du Grand Himalaya autour de Kargil, Dras et de la crête de Saltoro. De chaque côté, des centaines de milliers de militaires occupent des postes avancés, des bunkers en béton et des observatoires d'artillerie situés à des altitudes dépassant 4 000 mètres au-dessus du niveau de la mer.
 
-![Relevé cartographique montrant le tracé de la ligne de contrôle à travers le relief himalayen du Cachemire](/images/atlas/line-of-control-kashmir-border-inline-1.webp)
+![Relevé cartographique montrant le tracé de la ligne de contrôle à travers le relief himalayen du Cachemire](https://upload.wikimedia.org/wikipedia/commons/0/03/Line_of_Control_LoC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1 : Relevé cartographique montrant le tracé de la ligne de contrôle à travers le relief himalayen du Cachemire.*
 
 ## Origines de la démarcation militaire
@@ -33,7 +33,7 @@ Quatorze mois d'affrontements conventionnels ont suivi à travers les vallées, 
 
 Signé le 27 juillet 1949, l'accord de Karachi a établi la ligne officielle de cessez-le-feu. Des observateurs militaires des Nations unies, rattachés au Groupe d'observateurs militaires des Nations unies pour l'Inde et le Pakistan, ont été déployés le long de ce tracé pour vérifier le respect du cessez-le-feu et enquêter sur les incidents. Cette ligne a séparé la principauté : l'Inde a conservé la vallée du Cachemire, le Jammu et le Ladakh, tandis que le Pakistan a administré l'Azad Cachemire et les territoires du Nord, renommés plus tard Gilgit-Baltistan.
 
-![Crête montagneuse fortifiée et clôture vues depuis les versants ouest en Azad Cachemire](/images/atlas/line-of-control-kashmir-border-inline-2.webp)
+![Crête montagneuse fortifiée et clôture vues depuis les versants ouest en Azad Cachemire](https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_and_India_Border_from_Azad_Kashmir_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2 : Crête montagneuse fortifiée et clôture vues depuis les versants ouest en Azad Cachemire.*
 
 ## La transformation de l'accord de Simla en 1972
@@ -44,7 +44,7 @@ Après la défaite pakistanaise, la Première ministre indienne Indira Gandhi et
 
 D'août à décembre 1972, des officiers topographes des deux armées ont mené des relevés conjoints sur le terrain. Ils ont élaboré 19 cartes détaillées fixant les coordonnées précises de la ligne de contrôle, depuis la rivière Chenab au sud jusqu'à un point isolé au cœur des montagnes du Karakoram.
 
-![Feuille topographique de 1958 illustrant le secteur de Dras le long de l'ancien tracé de cessez-le-feu](/images/atlas/line-of-control-kashmir-border-inline-3.webp)
+![Feuille topographique de 1958 illustrant le secteur de Dras le long de l'ancien tracé de cessez-le-feu](https://upload.wikimedia.org/wikipedia/commons/b/ba/Txu-pclmaps-oclc-181831961-dras-43-n-1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3 : Feuille topographique de 1958 illustrant le secteur de Dras le long de l'ancien tracé de cessez-le-feu.*
 
 ## Le point terminal nord et le conflit des glaciers
@@ -63,7 +63,7 @@ Afin d'empêcher les franchissements non autorisés, l'armée indienne a entrepr
 
 Cette barrière intègre des équipements électroniques modernes : capteurs sismiques souterrains, détecteurs de mouvement, caméras thermiques et radars de vision nocturne. Des patrouilles surveillent la zone en permanence, appuyées par un réseau d'éclairage puissant visible depuis les avions de ligne. Malgré les hivers rigoureux et les avalanches qui détruisent régulièrement des portions de clôture, les unités du génie militaire réparent les segments endommagés dès le dégel printanier.
 
-![Vallées montagnardes et cultures en terrasses en bordure de la zone frontalière contestée](/images/atlas/line-of-control-kashmir-border-inline-4.webp)
+![Vallées montagnardes et cultures en terrasses en bordure de la zone frontalière contestée](https://upload.wikimedia.org/wikipedia/commons/7/73/Azad_Kashmire_of_Pakistan_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4 : Vallées montagnardes et cultures en terrasses en bordure de la zone frontalière contestée.*
 
 ## Hydrologie fluviale et régimes frontaliers

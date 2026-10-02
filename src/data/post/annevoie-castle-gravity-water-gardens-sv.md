@@ -22,7 +22,7 @@ Djupt i floden Meuses dalgång i Vallonien, halvvägs mellan Namur och Dinant, s
 
 Under en epok då kungliga slott som Versailles förlitade sig på väldiga och driftosäkra maskinerier som maskinen i Marly för att pumpa vatten från Seine, valde Annevoie bort mekanisk pumpning helt. Dess skapare förvandlade Condroz-platåns naturliga hydrologi till en självförsörjande drivkälla. Varje fontänstråle, kanalbassäng och trappad kaskad fungerar enligt energiprincipen och de kommunicerande kärlens strömningslära, vilket skapar ett slutet hydrologiskt kretslopp som har överlevt den ätt som skapade det.
 
-![Annevoie Castle reflected in the lower pool](/images/atlas/annevoie-castle-gravity-water-gardens-inline-1.webp)
+![Annevoie Castle reflected in the lower pool](https://upload.wikimedia.org/wikipedia/commons/c/c2/Le_ch%C3%A2teau_de_Rouillon_et_son_reflet_%2828049915762%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Annevoie slotts kalkstensfasad speglar sig i den nedre bassängen, där utflödesvattnet samlas innan det rinner vidare mot floden Rouillon.*
 
 ### Järnmästarens laboratorium
@@ -31,7 +31,7 @@ Ursprunget till vattenanläggningarna i Annevoie ligger i tung industri snarare 
 
 När Jeans sonson, Charles-Alexis de Montpellier (1717–1807), ärvde godset vid mitten av 1700-talet, innehade han den framstående titeln som ålderman för järnmästarna i grevskapet Namur. Charles-Alexis tog sig an markerna runt sitt herresäte inte som en sysslolös hovman, utan som en ingenjör med djupa kunskaper i hydrodynamik och metallurgi. Under vidsträckta resor genom Frankrike, Italien och England studerade han de enorma underhållskostnaderna och de ideliga haverierna hos mekaniska vattenpumpar i tidens parker. När han återvände till Annevoie-Rouillon ägnade han tjugo år åt att forma floden Rouillons dalgång till en vattenoas driven enbart av tyngdkraften.
 
-![Classical sculptures above the waterways](/images/atlas/annevoie-castle-gravity-water-gardens-inline-2.webp)
+![Classical sculptures above the waterways](https://upload.wikimedia.org/wikipedia/commons/7/7f/Statues_dominant_les_fontaines_et_le_ch%C3%A2teau_de_Rouillons_%2828467282904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Mytologiska stenskulpturer står vakt längs terrasserna, där underjordiska kulvertar förser kaskader och sidokanaler med vatten.*
 
 ### Fysiken bakom den högt belägna reservoaren
@@ -42,7 +42,7 @@ Genom att hålla tusentals kubikmeter vatten på en hög höjd skapar Grand Cana
 
 Till skillnad från moderna vattenledningsnät eller cirkulationssystem med elektriska pumpar pumpas vattnet i Annevoie aldrig tillbaka. Hela parken fungerar som ett öppet genomströmningssystem. Vattnet rinner från källorna på höjden genom Grand Canal, leds i de underjordiska rören till kända verk som Buffet d'Eau och Neptunbassängen, samlas i de nedre spegeldammarna och rinner ut i Rouillon, som i sin tur för det till Meuse. Eftersom anläggningen enbart bygger på gravitation och lufttryck behövs varken bränsle, kuggväxlar eller elförsörjning.
 
-![The limestone manor from the canal](/images/atlas/annevoie-castle-gravity-water-gardens-inline-3.webp)
+![The limestone manor from the canal](https://upload.wikimedia.org/wikipedia/commons/a/aa/ChateaudAnnevoie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Utsikt mot 1700-talsherresätet sedd över den övre huvudkanalen, vilket visar den strikta geometriska symmetrin längs vattenaxlarna.*
 
 ### En syntes av tre europeiska trädgårdsideal
@@ -53,7 +53,7 @@ Den centrala siktlinjen följer den franska klassiska traditionen från André L
 
 Kring denna strama stomme övergår ytterområdena i den framväxande engelska landskapsstilen. Slingrande stigar, organiskt formade dammar, tårpilar och gläntor i skogen frammanar en känsla av orörd natur. Denna förening ger Annevoie en särställning i europeisk trädgårdshistoria: besökaren rör sig sömlöst från kartesisk geometri till barockens vattenprakt och romantisk naturskönhet inom en och samma tjugo hektar stora park.
 
-![Geometric waterways and natural spring basins](/images/atlas/annevoie-castle-gravity-water-gardens-inline-4.webp)
+![Geometric waterways and natural spring basins](https://upload.wikimedia.org/wikipedia/commons/3/31/Annevoie_-_Le_ch%C3%A2teau_et_son_plan_d%27eau_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Mötet mellan kanalernas formella stensatta kanter och de naturliga källdammarna illustrerar den mjuka övergången mellan arkitektur och natur.*
 
 ### Två och ett halvt sekel av obruten vattenföring

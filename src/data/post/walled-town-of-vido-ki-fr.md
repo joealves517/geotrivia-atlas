@@ -20,7 +20,7 @@ metadata:
 
 Surplombant la ville actuelle de Stolac dans le sud de la Bosnie-Herzégovine, la cité fortifiée de Vidoški occupe une crête calcaire stratégique au-dessus de la vallée de la Bregava. S'étendant sur plus de 20 000 mètres carrés, ce complexe défensif constitue l'une des plus vastes forteresses des Balkans occidentaux. Ses maçonneries conservent les traces de phases de construction successives sur plus de cinq siècles, témoignant des rivalités territoriales entre les seigneurs médiévaux bosniens, l'Empire ottoman et l'administration militaire austro-hongroise.
 
-![Carte en relief situant Stolac dans le sud de la Bosnie-Herzégovine](/images/atlas/walled-town-of-vido-ki-inline-1.webp)
+![Carte en relief situant Stolac dans le sud de la Bosnie-Herzégovine](https://upload.wikimedia.org/wikipedia/commons/5/50/Bosnia_and_Herzegovina_relief_location_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1 : Carte en relief indiquant l'emplacement stratégique de Stolac dans le sud de la Bosnie-Herzégovine.*
 
 ## Géographie stratégique le long de la Bregava
@@ -29,7 +29,7 @@ La citadelle s'élève sur la colline de Križevac, un relief qui contrôlait le
 
 Au quinzième siècle, la place forte verrouillait le flanc oriental des domaines des Kosača face aux ambitions de leurs rivaux régionaux. Son appellation provient de la rivière Vidoštica, désignation médiévale de la Bregava, ainsi que de la dévotion locale à saint Guy. Érigés sur des falaises abruptes, ces remparts surveillaient le passage des caravanes transportant le sel marin, les textiles et les métaux précieux entre Dubrovnik et les grands comptoirs continentaux.
 
-![Carte des subdivisions du canton d'Herzégovine-Neretva](/images/atlas/walled-town-of-vido-ki-inline-2.webp)
+![Carte des subdivisions du canton d'Herzégovine-Neretva](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bosnia_and_Herzegovina_subdivision_map_Herzegovina-Neretva_Canton.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2 : Carte du canton d'Herzégovine-Neretva où la citadelle domine la vallée de la Bregava.*
 
 ## Trois enceintes fortifiées et morphologie défensive
@@ -40,7 +40,7 @@ La ville basse s'étend sur 8 481 mètres carrés le long du versant nord-ouest.
 
 La ville haute couronne la partie sommitale du plateau rocheux sur une surface de 8 579 mètres carrés. Cinq tours défensives protégeaient cette zone de commandement. La tour orientale servait de dépôt de munitions et d'explosifs, survivant à plusieurs foudroiements et assauts. L'approvisionnement en eau constituait un enjeu vital : dix citernes en maçonnerie réparties sur le site recueillaient les eaux de ruissellement pour maintenir la garnison durant les étés arides et les sièges prolongés.
 
-![Tombes médiévales sculptées stećci près de Stolac](/images/atlas/walled-town-of-vido-ki-inline-3.webp)
+![Tombes médiévales sculptées stećci près de Stolac](https://upload.wikimedia.org/wikipedia/commons/4/40/Bosniangraves_bosniska_gravar_februari_2007_stecak_stecci3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3 : Pierres tombales médiévales sculptées (stećci) près de Stolac datant du royaume de Bosnie.*
 
 ## Expansion ottomane et modernisation austro-hongroise

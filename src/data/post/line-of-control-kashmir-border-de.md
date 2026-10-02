@@ -22,7 +22,7 @@ Die Kontrolllinie erstreckt sich über mehr als 740 Kilometer durch das bergige 
 
 Auf ihrem gesamten Verlauf durchquert die Linie extreme Höhenlagen. Sie beginnt im südlichen Tiefland am Chanab nahe Akhnoor, führt durch dichte subtropische Kiefernwälder im Pir-Panjal-Gebirge und steigt bis in die vergletscherten Höhen des Großen Himalaya um Kargil, Dras und den Saltoro-Kamm auf. Auf beiden Seiten besetzen hunderttausende Soldaten befestigte Vorposten, Betonbunker und Artilleriebeobachtungsstellen in Höhen von über 4.000 Metern über dem Meeresspiegel.
 
-![Kartografische Übersicht über den Verlauf der Kontrolllinie im Himalaya-Gebiet von Kaschmir](/images/atlas/line-of-control-kashmir-border-inline-1.webp)
+![Kartografische Übersicht über den Verlauf der Kontrolllinie im Himalaya-Gebiet von Kaschmir](https://upload.wikimedia.org/wikipedia/commons/0/03/Line_of_Control_LoC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 1: Kartografische Übersicht über den Verlauf der Kontrolllinie im Himalaya-Gebiet von Kaschmir.*
 
 ## Ursprung der militärischen Demarkation
@@ -33,7 +33,7 @@ Es folgten vierzehn Monate konventioneller Kämpfe über Bergtäler, Pässe und 
 
 Mit dem am 27. Juli 1949 unterzeichneten Abkommen von Karatschi wurde die offizielle Waffenstillstandslinie begründet. Militärbeobachter der Vereinten Nationen, formiert in der UNMOGIP, wurden entlang der Linie stationiert, um die Einhaltung zu überwachen und Zwischenfälle zu untersuchen. Die Linie spaltete das historische Fürstentum: Indien behielt das Kaschmirtal, Jammu und Ladakh, während Pakistan die Regionen Azad Kaschmir und die Northern Areas, das heutige Gilgit-Baltistan, verwaltete.
 
-![Befestigter Gebirgskamm und Grenzzaun von den Westhängen in Azad Kaschmir aus gesehen](/images/atlas/line-of-control-kashmir-border-inline-2.webp)
+![Befestigter Gebirgskamm und Grenzzaun von den Westhängen in Azad Kaschmir aus gesehen](https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_and_India_Border_from_Azad_Kashmir_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 2: Befestigter Gebirgskamm und Grenzzaun von den Westhängen in Azad Kaschmir aus gesehen.*
 
 ## Die Umwandlung durch das Abkommen von Simla 1972
@@ -44,7 +44,7 @@ Nach der Niederlage Pakistans trafen sich die indische Premierministerin Indira 
 
 Zwischen August und Dezember 1972 führten Vermessungsoffiziere beider Armeen gemeinsame Vermessungen vor Ort durch. Sie erstellten 19 detaillierte Kartenblätter, die den Verlauf der Kontrolllinie vom Fluss Chanab im Süden bis zu einem abgelegenen Punkt im Hochgebirge des Karakorum genau festlegten.
 
-![Historisches topografisches Kartenblatt von 1958 des Dras-Sektors entlang der Waffenstillstandslinie](/images/atlas/line-of-control-kashmir-border-inline-3.webp)
+![Historisches topografisches Kartenblatt von 1958 des Dras-Sektors entlang der Waffenstillstandslinie](https://upload.wikimedia.org/wikipedia/commons/b/ba/Txu-pclmaps-oclc-181831961-dras-43-n-1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 3: Historisches topografisches Kartenblatt von 1958 des Dras-Sektors entlang der Waffenstillstandslinie.*
 
 ## Der nördliche Endpunkt und der Krieg um die Gletscher
@@ -63,7 +63,7 @@ Um das unkontrollierte Überqueren der Demarkationslinie zu unterbinden, begann 
 
 Die Sperranlage ist mit Sensorik ausgestattet, darunter unterirdische Erschütterungsmelder, Bewegungssensoren, Wärmebildkameras und Nachtsichtradare. Patrouillen überwachen die Trasse rund um die Uhr, unterstützt von starken Flutlichtern, die selbst aus Flugzeugen sichtbar sind. Obwohl Schneemassen und Lawinen in den Wintermonaten regelmäßig Abschnitte des Zauns zerstören, werden die beschädigten Abschnitte von Pioniereinheiten jedes Frühjahr erneuert.
 
-![Gebirgstäler und Terrassensiedlungen unmittelbar an der umstrittenen Demarkationslinie](/images/atlas/line-of-control-kashmir-border-inline-4.webp)
+![Gebirgstäler und Terrassensiedlungen unmittelbar an der umstrittenen Demarkationslinie](https://upload.wikimedia.org/wikipedia/commons/7/73/Azad_Kashmire_of_Pakistan_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 4: Gebirgstäler und Terrassensiedlungen unmittelbar an der umstrittenen Demarkationslinie.*
 
 ## Flusshydrologie und Grenzdefinitionen

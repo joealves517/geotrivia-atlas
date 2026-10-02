@@ -22,7 +22,7 @@ Diep in de Maasvallei in Wallonië, halverwege tussen Namen en Dinant, schieten 
 
 In een tijd waarin koninklijke residenties zoals Versailles afhankelijk waren van reusachtige, storingsgevoelige constructies zoals de Machine van Marly om water vanuit de Seine omhoog te pompen, zag Annevoie volledig af van mechanische pompen. De ontwerpers maakten van de natuurlijke hydrologie van het Condroz-plateau een zelfvoorzienende aandrijving. Elke fonteinstraal, elk kanaalbassin en elke getrapte waterval werkt volgens het behoud van energie en de vloeistofmechanica van communicerende vaten, waardoor een doorlopende waterloop ontstond die de familie die hem ontwierp heeft overleefd.
 
-![Annevoie Castle reflected in the lower pool](/images/atlas/annevoie-castle-gravity-water-gardens-inline-1.webp)
+![Annevoie Castle reflected in the lower pool](https://upload.wikimedia.org/wikipedia/commons/c/c2/Le_ch%C3%A2teau_de_Rouillon_et_son_reflet_%2828049915762%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: De langgerekte kalkstenen gevel van Kasteel Annevoie weerspiegeld in het lage bassin, waar het afvoerwater samenkomt voordat het in de Rouillon stroomt.*
 
 ### Het laboratorium van de ijzermeester
@@ -31,7 +31,7 @@ De oorsprong van de waterwerken van Annevoie ligt in de zware industrie en niet 
 
 Toen Jeans kleinzoon, Charles-Alexis de Montpellier (1717-1807), het landgoed halverwege de 18e eeuw erfde, bekleedde hij de eervolle functie van meester van de ijzersmeden van het graafschap Namen. Charles-Alexis benaderde het terrein rond zijn herenhuis niet als een hoveling op zoek naar vermaak, maar als een ingenieur die geschoold was in hydrodynamica en metallurgie. Tijdens zijn reizen door Frankrijk, Italië en Engeland zag hij de torenhoge onderhoudskosten en de aanhoudende storingen van mechanische waterpompen in toenmalige lusttuinen. Teruggekeerd op het familielandgoed in Annevoie-Rouillon wijdde hij twintig jaar aan het omvormen van de vallei van het beekje de Rouillon tot een waterparadijs dat volledig op zwaartekracht functioneerde.
 
-![Classical sculptures above the waterways](/images/atlas/annevoie-castle-gravity-water-gardens-inline-2.webp)
+![Classical sculptures above the waterways](https://upload.wikimedia.org/wikipedia/commons/7/7f/Statues_dominant_les_fontaines_et_le_ch%C3%A2teau_de_Rouillons_%2828467282904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Mythologische beelden sieren de terrasvormige heuvelrug, waar ondergrondse leidingen getrapte cascades en zijkanalen voeden.*
 
 ### De natuurkunde van het hooggelegen bekken
@@ -42,7 +42,7 @@ Door duizenden kubieke meters water op hoogte vast te houden, zorgt het Grand Ca
 
 In tegenstelling tot moderne waterleidingnetten of gesloten recirculatiesystemen met pompen, wordt het water in Annevoie nooit teruggepompt. Het hele park functioneert als een open doorstroomsysteem. Het water vloeit van de bronnen op de heuvel door het Grand Canal, daalt af via de ondergrondse leidingen naar bezienswaardigheden zoals het Buffet d'Eau en het Neptunusbekken, stroomt door naar de spiegelvijvers beneden en mondt uit in de Rouillon, die het naar de Maas brengt. Zonder brandstof, tandwielen of elektriciteit werkt het stelsel uitsluitend op zwaartekracht en luchtdruk.
 
-![The limestone manor from the canal](/images/atlas/annevoie-castle-gravity-water-gardens-inline-3.webp)
+![The limestone manor from the canal](https://upload.wikimedia.org/wikipedia/commons/a/aa/ChateaudAnnevoie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Zicht op het 18e-eeuwse kasteel vanaf het bovenste hoofdkanaal, waaruit de geometrische symmetrie van de waterassen blijkt.*
 
 ### Een synthese van drie Europese tuinstijlen
@@ -53,7 +53,7 @@ De centrale zichtas volgt de klassieke Franse traditie van André Le Nôtre. Kaa
 
 Rond deze formele assen lopen de buitenste zones geleidelijk over in de destijds opkomende Engelse landschapsstijl. Kronkelende paden, grillig gevormde vijvers, treurwilgen en open bosplekken roepen het gevoel van een natuurlijk landschap op. Deze wisselwerking maakt Annevoie bijzonder in de geschiedenis van de Europese tuinkunst: binnen één aaneengesloten park van twintig hectare vloeien Franse symmetrie, barok waterspektakel en romantische natuur naadloos in elkaar over.
 
-![Geometric waterways and natural spring basins](/images/atlas/annevoie-castle-gravity-water-gardens-inline-4.webp)
+![Geometric waterways and natural spring basins](https://upload.wikimedia.org/wikipedia/commons/3/31/Annevoie_-_Le_ch%C3%A2teau_et_son_plan_d%27eau_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: De overgang tussen strakke kanaalboorden en natuurlijke bronbekkens toont de subtiele afstemming tussen strakke bouwkunst en natuurlijk landschap.*
 
 ### Tweeënhalve eeuw waterbouwkundige continuïteit

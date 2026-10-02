@@ -22,7 +22,7 @@ A lo largo del litoral batido por el viento de la Costa de Ópalo, en el norte d
 
 Encargada en 1680 por el rey Luis XIV, la fortificación se concibió para proteger un fondeadero marítimo estratégico en el canal septentrional. Durante la pleamar, las olas aíslan por completo la ciudadela de sillería hasta convertirla en una isla independiente; en la bajamar, las aguas revelan un zócalo pétreo asentado sobre la roca marina y los bancos de arena. Mientras que los baluartes costeros del norte de Europa sucumbieron al embate del oleaje o a las transformaciones portuarias a lo largo de los siglos, Fort Mahon ha perdurado gracias a una inteligente geometría hidrodinámica, a la firmeza de sus muros y a una decidida labor de conservación ciudadana en el siglo XX.
 
-![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](/images/atlas/fort-mahon-vauban-sea-fortress-inline-1.webp)
+![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](https://upload.wikimedia.org/wikipedia/commons/e/e0/Ambleteuse.-_Fort_Vauban_en2019_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: El parapeto semicircular de granito y la torre central de artillería de Fort Mahon sobre el lecho rocoso descubierto durante la bajamar.*
 
 ### La geografía regional del estuario del Slack
@@ -31,7 +31,7 @@ La decisión de fortificar Ambleteuse respondió a las dinámicas territoriales 
 
 Vauban comprendió con prontitud que las estructuras marítimas requerían diseños capaces de soportar la energía constante del oleaje. Las murallas convencionales de traza recta o poligonal sufrían graves daños estructurales al recibir de frente los temporales atlánticos. En Ambleteuse, Vauban descartó las esquinas vivas en favor de un perfil curvado continuo. Las obras comenzaron en torno a 1680 y concluyeron antes de 1690, erigiendo un reducto artillero sobre un promontorio rocoso llamado Roc Noir, dispuesto para vigilar el canal a la vez que desviaba los rompientes en torno a su muralla arqueada.
 
-![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](/images/atlas/fort-mahon-vauban-sea-fortress-inline-2.webp)
+![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](https://upload.wikimedia.org/wikipedia/commons/5/57/Fort_Mahon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Vista panorámica sobre el estuario del Slack, que resalta el aislamiento marítimo del fuerte como único baluarte marino de Vauban en la costa septentrional.*
 
 ### Anatomía arquitectónica de un baluarte intermareal
@@ -42,7 +42,7 @@ Para resistir el ambiente salino, los maestros canteros levantaron el muro perim
 
 Los inventarios militares del siglo XVII denominaban al complejo como Tour d'Ambleteuse. El nombre de Fort Mahon no apareció en los registros administrativos hasta 1840, probablemente debido a un error de transcripción de un empleado que aludía a Port Mahón en las islas Baleares. Pese a la confusión documental, los habitantes de la zona y los cartógrafos continuaron llamándolo Fort Vauban o el Fuerte Viejo.
 
-![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-3.webp)
+![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/c/ca/Dunes_de_Fort_Mahon_%28Eden62%29_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Dunas litorales junto a la reserva natural del Slack, donde las arenas y las corrientes de marea enmarcan el baluarte del siglo XVII.*
 
 ### Transformaciones arquitectónicas a través de los siglos
@@ -51,7 +51,7 @@ El destino del fuerte conoció diversas etapas a lo largo de la historia frances
 
 A mediados del siglo XX, destacamentos costeros ocuparon el inmueble e instalaron un forjado de hormigón armado en el centro de la casamata anular, subdividiendo el espacio interior en dos niveles. Aunque la torre resistió los rigores del clima marino, deflagraciones costeras causaron desperfectos en lienzos de la muralla marítima hacia el término del conflicto en 1945.
 
-![High-resolution perspective of the restored stone masonry of Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-4.webp)
+![High-resolution perspective of the restored stone masonry of Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/7/78/Fort_Mahon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Detalle de los sillares restaurados y de las troneras de tiro, rehabilitados por voluntarios tras los daños sufridos en 1945.*
 
 ### Restauración comunitaria y conservación litoral

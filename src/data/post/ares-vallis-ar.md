@@ -22,7 +22,7 @@ metadata:
 
 إن الحجم الهائل من الصخور والرواسب التي جرفتها مياه وادي آريس يشير إلى تدفقات مائية تتجاوز أي فيضان سُجل في التاريخ البشري. ويقدر علماء جيولوجيا الكواكب أن ذروة معدلات التدفق تجاوزت عشرات الملايين من الأمتار المكعبة في الثانية الواحدة. وقد جردت هذه الفيضانات الكارثية الطبقات السطحية حتى بلغت الصخر الصلب، مخلفة وراءها جزراً انسيابية عملاقة على هيئة قطرات مائية تشير رؤوسها مع اتجاه التيارات الجارفة.
 
-![Perspective view of Ares Vallis showing teardrop-shaped islands](/images/atlas/ares-vallis-inline-1.webp)
+![Perspective view of Ares Vallis showing teardrop-shaped islands](https://upload.wikimedia.org/wikipedia/commons/2/21/Ares_Vallis_in_perspective_ESA229658.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: مشهد ثلاثي الأبعاد لوادي آريس التقطته مركبة مارس إكسبريس التابعة لوكالة الفضاء الأوروبية، يوضح جزراً انسيابية نحتتها السيول العارمة.*
 
 ## انهيار منخفض إياني والمحفزات البركانية
@@ -31,7 +31,7 @@ metadata:
 
 وعندما ذاب الجليد الباطني تحت وطأة الحرارة والضغط، فقدت الطبقات العليا دعاماتها الهيكلية وانهارت نحو الداخل. وانفجرت المياه نحو سطح المريخ في هيئة ينابيع هائلة وسيول جارفة، فمزقت التضاريس المجاورة وفتحت المدخل الجنوبي لوادي آريس. وتؤكد الصور المدارية عالية الدقة تشكل بحيرات مترابطة عبر المرتفعات الاستوائية؛ فكلما امتلأ حوض مائي عن آخره، فاضت المياه متجاوزة الحواف الصخرية، لتشق قنوات متتابعة صوب المنخفضات المجاورة.
 
-![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](/images/atlas/ares-vallis-inline-2.webp)
+![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/3/3a/Sojourner_on_Mars_PIA01122.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: مركبة باثفايندر التابعة لناسا والروبوت سوجورنر أثناء فحص صخور بركانية في السهل الفيضي لوادي آريس عام 1997.*
 
 ## الهبوط التاريخي لمركبة مارس باثفايندر
@@ -40,7 +40,7 @@ metadata:
 
 فحص الروبوت سوجورنر حصى مستديرة، وكتلاً صخرية متراصفة ومائلة في اتجاه تدفق التيارات القديمة، وصخوراً بركانية طبقية متناثرة فوق السهل. وأكد اتجاه تلك الصخور تدفق أمواج مائية عاتية عبر المنطقة، مما وفر إثباتات ميدانية مباشرة للنظريات التي صيغت في سبعينيات القرن العشرين استناداً إلى صور مركبات فايكينغ المدارية. وقد أعاد هذا الكشف رسم الفهم العلمي للتاريخ المناخي لكوكب المريخ، مبرهناً على أن المياه السائلة واصلت تشكيل السطح لفترات طويلة بعد تشكل الكوكب.
 
-![Channel meander and layered sedimentary deposits in Ares Vallis](/images/atlas/ares-vallis-inline-3.webp)
+![Channel meander and layered sedimentary deposits in Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_-_Channel_Meander_in_Ares_Vallis_Region_%28ESP_012992_1860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: لقطة مدارية فائقة الدقة من مركبة استطلاع المريخ تظهر تعرجات القناة والمدرجات الرسوبية في وادي آريس.*
 
 ## فرضية نظام التصريف المائي الكوكبي العملاق

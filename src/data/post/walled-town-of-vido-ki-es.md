@@ -20,7 +20,7 @@ metadata:
 
 Sobre la actual localidad de Stolac, en el sur de Bosnia y Herzegovina, la ciudad fortificada de Vidoški se asienta sobre una destacada cresta caliza que domina el valle del río Bregava. Con una extensión superior a los 20.000 metros cuadrados, este complejo defensivo representa una de las fortalezas más grandes de los Balcanes occidentales. Sus muros conservan fases constructivas que abarcan más de cinco siglos, reflejando las disputas territoriales entre los señores feudales bosnios, el Imperio otomano y la administración militar austrohúngara.
 
-![Mapa de relieve con la ubicación de Stolac en el sur de Bosnia y Herzegovina](/images/atlas/walled-town-of-vido-ki-inline-1.webp)
+![Mapa de relieve con la ubicación de Stolac en el sur de Bosnia y Herzegovina](https://upload.wikimedia.org/wikipedia/commons/5/50/Bosnia_and_Herzegovina_relief_location_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Mapa en relieve que muestra la posición estratégica de Stolac en el sur de Bosnia y Herzegovina.*
 
 ## Geografía estratégica a orillas del Bregava
@@ -29,7 +29,7 @@ La ciudadela se alza en la colina de Križevac, un relieve que controlaba las ru
 
 Durante el siglo quince, la plaza fuerte custodiaba el flanco oriental de los dominios de Kosača frente al avance de gobernantes rivales. La fortaleza toma su denominación del río Vidoštica, nombre medieval del Bregava, así como del culto regional a San Vito. Levantadas sobre escarpados riscos de piedra caliza, las murallas controlaban las caravanas mercantiles que transportaban sal, telas y minerales entre Ragusa (Dubrovnik) y los enclaves comerciales del interior.
 
-![Mapa de subdivisiones del cantón de Herzegovina-Neretva](/images/atlas/walled-town-of-vido-ki-inline-2.webp)
+![Mapa de subdivisiones del cantón de Herzegovina-Neretva](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bosnia_and_Herzegovina_subdivision_map_Herzegovina-Neretva_Canton.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Mapa del cantón de Herzegovina-Neretva donde la fortaleza domina el valle del río Bregava.*
 
 ## Tres niveles defensivos y morfología arquitectónica
@@ -40,7 +40,7 @@ La ciudad baja abarca 8.481 metros cuadrados en la ladera noroccidental. Su sect
 
 La ciudad alta corona la meseta superior del cerro sobre una superficie de 8.579 metros cuadrados. Cinco torres defendían este sector estratégico. La torre situada más al este funcionaba como polvorín y almacén de municiones, sobreviviendo a varios impactos de rayos y asedios militares. La recolección de agua pluvial resultaba indispensable para la guarnición: diez aljibes de piedra distribuidos por el complejo acumulaban el agua de escorrentía para abastecer a las tropas durante los veranos secos y los bloqueos enemigos.
 
-![Tumbas medievales talladas stećci cerca de Stolac](/images/atlas/walled-town-of-vido-ki-inline-3.webp)
+![Tumbas medievales talladas stećci cerca de Stolac](https://upload.wikimedia.org/wikipedia/commons/4/40/Bosniangraves_bosniska_gravar_februari_2007_stecak_stecci3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Lápidas medievales esculpidas (stećci) en las proximidades de Stolac, pertenecientes a la época del reino bosnio.*
 
 ## Expansión otomana y transformación austrohúngara

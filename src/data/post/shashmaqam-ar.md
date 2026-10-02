@@ -22,7 +22,7 @@ metadata:
 
 يعمل كل مقام من المقامات الستة، بوزروك، وراست، وناوا، ودوكاه، وسيغاه، وعراق، كعمل دوري ممتد يضم عشرات الحركات الصوتية والآلية. وبعيداً عن الألحان الشعبية البسيطة، تخضع هذه المؤلفات لقواعد نظرية صارمة تحكم التدرج المقامي، والدورات الإيقاعية، والارتجال الشعري. وعلى مدى قرون، وفرت الرعاية البلاطية في ظل أمراء بخارى الإطار الرسمي الذي التقى فيه الموسيقيون اليهود والطاجيك والأوزبك لصقل هذا الفن الشفهي المعقد ونقله عبر الأجيال.
 
-![Traditional folk music ensemble in Central Asia](/images/atlas/shashmaqam-inline-1.webp)
+![Traditional folk music ensemble in Central Asia](https://upload.wikimedia.org/wikipedia/commons/9/96/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: فرقة موسيقية تقليدية في آسيا الوسطى تؤدي مقطوعات مقامية باستخدام الأعواد الصوتية والدفوف الإطارية.*
 
 ## البنية الصوتية للأجنحة المقامية
@@ -31,7 +31,7 @@ metadata:
 
 لا يعتمد العازفون على التدوين الموسيقي المكتوب، بل يتناقلون الفروق الدقيقة في المقامات والأنماط الإيقاعية عبر نظام التلمذة المباشرة من الأستاذ إلى التلميذ المعروف باسم "أستاذ-شاكرد". ويشدو المنشدون بأبيات مستمدة من الشعر الكلاسيكي الفارسي والتركي الجغتائي، واضعين ألحاناً لكتابات شعراء متصوفة مثل حافظ الشيرازي، والجامي، ونوائي، وبيدل. وتوظف هذه النصوص استعارات العشق الدنيوي لاستكشاف معاني الحب الإلهي الصوفي، ولوعة الفراق، والارتقاء الروحي.
 
-![Uzbek musician playing the two-stringed dutar](/images/atlas/shashmaqam-inline-2.webp)
+![Uzbek musician playing the two-stringed dutar](https://upload.wikimedia.org/wikipedia/commons/e/e5/Joueur_de_dutar_ouzbek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: عازف أوزبكي ينقر على أوتار الدوتار طويل العنق، الآلة التي تضع الأساس المقامي للأجنحة الغنائية.*
 
 ## الحفظ والتحولات السياسية على طريق الحرير
@@ -40,7 +40,7 @@ metadata:
 
 ورغم محاولات إعادة الهيكلة المؤسسية، صمدت سلسلة التلقين الشفهي المباشر داخل العائلات الفنية، خاصة بين السلالات الموسيقية لطاجيك ويهود بخارى. ومع موجات الهجرة الكبرى في أواخر القرن العشرين، نقل كبار الأساتذة هذا التقليد إلى مجتمعات الشتات في تل أبيب ونيويورك، محافظين على تنويعات أدائية محلية كادت تندثر في قاعات العرض بآسيا الوسطى.
 
-![Traditional vocalists accompanied by long-necked lutes in Samarkand](/images/atlas/shashmaqam-inline-3.webp)
+![Traditional vocalists accompanied by long-necked lutes in Samarkand](https://upload.wikimedia.org/wikipedia/commons/b/b6/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F_%D0%B2_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_%D0%9D%D0%B0%D1%81%D0%B8%D0%B1%D1%8B_%D0%9E%D0%BC%D0%BE%D0%BD%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B8_%D0%9A%D0%B0%D0%BC%D0%BE%D0%BB%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BC%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: منشدون تقليديون تصاحبهم الأعواد في سمرقند أثناء أداء مقاطع من عيون الشعر الصوفي الكلاسيكي.*
 
 ## الاعتراف الدولي والممارسة الحية المعاصرة

@@ -20,7 +20,7 @@ metadata:
 
 Custodiando las rutas marítimas hacia Muharraq en el norte de Baréin, el fuerte de Arad constituye uno de los ejemplos mejor conservados de la arquitectura militar islámica previa a la era moderna en el golfo Pérsico. Erigido en el siglo quince sobre lo que era un islote aislado, este baluarte compacto dominaba los pasos costeros de escasa profundidad que unían el mar abierto con las ensenadas de Baréin. Aunque los proyectos modernos de ganancia de terreno al mar unieron la isla de Arad con Muharraq, la fortaleza conserva su diseño geométrico original y su emplazamiento costero.
 
-![Foso exterior y lienzos de muralla de piedra coralina del fuerte de Arad](/images/atlas/arad-fort-inline-1.webp)
+![Foso exterior y lienzos de muralla de piedra coralina del fuerte de Arad](https://upload.wikimedia.org/wikipedia/commons/f/f8/Arad_Qalat_Arad_Exterior_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: El foso perimetral y las murallas de piedra marina del fuerte de Arad frente a Muharraq.*
 
 ## Defensa costera en una antigua isla barrera
@@ -29,7 +29,7 @@ Antes de que las obras civiles del siglo veinte alteraran el litoral de Baréin,
 
 Para reforzar esta línea defensiva natural, los alarifes excavaron un foso alrededor del perímetro cuadrado. En un entorno costero árido donde el agua marina podía erosionar los cimientos, los ingenieros perforaron pozos artesianos para abastecer el foso con agua dulce. Esta barrera impedía los trabajos de zapa de los atacantes y garantizaba a la guarnición reservas de agua potable durante los asedios navales.
 
-![Patio interior y baluartes cilíndricos del fuerte de Arad](/images/atlas/arad-fort-inline-2.webp)
+![Patio interior y baluartes cilíndricos del fuerte de Arad](https://upload.wikimedia.org/wikipedia/commons/d/d4/Arad_Fort%2C_Bahrain%2C_15th_century_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: El patio central y las torres de esquina diseñadas con arreglo a los principios clásicos de la fortificación islámica.*
 
 ## Cantería de coral y arquitectura militar islámica
@@ -38,7 +38,7 @@ La traza del fuerte de Arad responde a la geometría defensiva islámica clásic
 
 Los muros perimetrales disponen de dos niveles de tiro. Los adarves inferiores permitían a arqueros y tiradores disparar mediante aspilleras verticales, mientras que los parapetos superiores albergaban piezas de artillería ligera y puestos de vigilancia. Cada torre cilíndrica sobresale del lienzo de muralla, asegurando líneas de fuego cruzado que anulaban los ángulos muertos en la base del castillo. Matacanes volados con aberturas semicirculares rematan las almenas sobre la puerta principal, permitiendo arrojar proyectiles y líquidos combustibles sobre los asaltantes.
 
-![Aspilleras y saeteras en las almenas superiores del fuerte de Arad](/images/atlas/arad-fort-inline-3.webp)
+![Aspilleras y saeteras en las almenas superiores del fuerte de Arad](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arad_Fort%2C_Bahrain%2C_15th_century_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Matacanes y aberturas de tiro emplazados para controlar las vías marítimas.*
 
 ## Disputas imperiales en el golfo Pérsico

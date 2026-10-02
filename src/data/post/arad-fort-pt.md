@@ -20,7 +20,7 @@ metadata:
 
 Vigiando as aproximações costeiras a Muharraq, no norte do Barém, o Forte de Arade constitui um dos exemplares mais bem preservados da arquitetura militar islâmica pré-moderna no Golfo Pérsico. Erguida durante o século quinze naquela que era uma ilha barreira isolada, a fortificação compacta dominava os canais litorais pouco profundos que ligavam o mar aberto aos ancoradouros naturais do arquipélago. Embora os aterros modernos tenham unido a ilha de Arade a Muharraq, a praça-forte mantém a sua traça geométrica original e o seu enquadramento costeiro.
 
-![Fosso exterior e panos de muralha em pedra de coral do Forte de Arade](/images/atlas/arad-fort-inline-1.webp)
+![Fosso exterior e panos de muralha em pedra de coral do Forte de Arade](https://upload.wikimedia.org/wikipedia/commons/f/f8/Arad_Qalat_Arad_Exterior_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: O fosso perimetral e as muralhas em pedra marinha do Forte de Arade com vista para Muharraq.*
 
 ## Defesa litoral numa antiga ilha barreira
@@ -29,7 +29,7 @@ Antes de as obras públicas do século vinte alterarem a linha de costa do Baré
 
 Para reforçar este fosso natural, os construtores abriram um fosso artificial em redor do perímetro muralhado quadrado. Num ambiente litorâneo árido onde a água salgada podia degradar os alicerces, os mestres de obras perfuraram poços artesianos para abastecer o fosso com água doce. Esta barreira impedia os trabalhos de sapa dos sitiantes e assegurava aos defensores um manancial de água potável durante os bloqueios navais.
 
-![Pátio interior e baluartes cilíndricos do Forte de Arade](/images/atlas/arad-fort-inline-2.webp)
+![Pátio interior e baluartes cilíndricos do Forte de Arade](https://upload.wikimedia.org/wikipedia/commons/d/d4/Arad_Fort%2C_Bahrain%2C_15th_century_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: O pátio central e as torres cilíndricas erguidas de acordo com os princípios clássicos da fortificação islâmica.*
 
 ## Alvenaria de coral e arquitetura militar islâmica
@@ -38,7 +38,7 @@ A configuração do Forte de Arade obedece aos preceitos da geometria militar is
 
 As muralhas defensivas integram dois níveis de tiro sobrepostos. Os adarves inferiores permitiam aos archeiros e atiradores alvejar atacantes através de frestas verticais, ao passo que os parapeitos superiores recebiam peças de artilharia e vigias. Cada torre cilíndrica projeta-se para além do alinhamento dos muros, proporcionando linhas de tiro cruzado que eliminavam ângulos mortos na base da fortaleza. Matacães salientes com aberturas em forma de bico coroam os parapeitos sobre o portão de entrada para despejar projéteis e líquidos inflamáveis sobre os invasores.
 
-![Seteiras e aberturas de tiro nos parapeitos superiores do Forte de Arade](/images/atlas/arad-fort-inline-3.webp)
+![Seteiras e aberturas de tiro nos parapeitos superiores do Forte de Arade](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arad_Fort%2C_Bahrain%2C_15th_century_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Matacães defensivos e seteiras posicionados para vigiar as vias marítimas.*
 
 ## Disputas de poder no Golfo Pérsico

@@ -22,7 +22,7 @@ I östra Albaniens karga högland, där Mokrabbergen möter Ohridsjöns strände
 
 Under århundraden betraktades det antika Illyrien främst genom de fientliga skildringarna hos grekiska och romerska krönikörer, vilka gärna framställde dess folk som otyglade bergsplundrare och fruktade sjörövare. Fynden i Selcë e Poshtme motbevisar denna förenklade bild. Här framträder en illyrisk elit som behärskade avancerat stenhuggeri, tog till sig den grekiska arkitekturens formspråk och skapade underjordiska gravkammare som kunde mäta sig med samtida furstegravar i Makedonien och Epirus.
 
-![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-1.webp)
+![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/0/06/Selca_e_Poshtme_Tombs1-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Panoramavy över gravarna 1 till 3 uthuggna i den avsatsformade klippväggen ovanför Shkumbinflodens dalgång. Foto av Albinfo (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ Shkumbindalens strategiska läge förklarar varför denna avlägsna bergsrygg va
 
 Många historiker och arkeologer identifierar denna befästa akropol med Pelion, det kungliga fäste som historieskrivaren Arrianos nämner i skildringen av Alexander den stores fälttåg på Balkan. År 335 f.Kr. slöt Kleitos, kung över de illyriska dassareterna, förbund med Glaukias av taulantierna och förskansade sina trupper bakom Pelions murar. Alexander inledde en dramatisk belägring, undgick med knapp nöd att bli inringad i flodpassen och drev till slut de illyriska styrkorna på flykt. Fastän borgen förblev bebodd efter den makedonska reträtten, omvandlade dess härskare klippbranten nedanför stadsmuren till ett bestående dynasticheminnesmärke.
 
-![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-2.webp)
+![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/2/25/Selca_e_Poshtme_Tomb4_Facade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Den klassiska joniska kolonnaden och gaveln uthuggna direkt ur klippan vid grav 4. Foto av Albinfo (CC BY-SA 3.0).*
 
@@ -40,7 +40,7 @@ Grav 1 uppvisar en monumental klippfasad med två joniska halvkolonner flankerad
 
 I närheten uppvisar grav 2 en helt egen rumsgestaltning. Byggmästarna formade berget till en tvåvåningsanläggning bestående av en halvcirkelformad teaterliknande åskådarplats med stensäten ovanför en underjordisk gravkammare. Forskare antar att denna öppna stentribun användes vid dryckesoffer och dynastiska minnesceremonier, så att de församlade kunde hedra den avlidne härskaren med utsikt över den heliga floddalen.
 
-![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](/images/atlas/selce-e-poshtme-royal-tombs-inline-3.webp)
+![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](https://upload.wikimedia.org/wikipedia/commons/1/16/Selca_e_Poshtme_Tomb3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Interiör från gravkammaren i grav 3 med den huggna vilobädden i sten (kline) tillskriven kung Monunios. Foto av Albinfo (CC BY-SA 3.0).*
 
@@ -50,7 +50,7 @@ De arkeologiska fynden knyter med stor säkerhet grav 3 till kung Monunios, en i
 
 Grav 4 kännetecknas av platsens mest imponerande fasad. Hantverkarna högg ut en hel tempelfasad ur en sjuttio meter hög lodrät bergvägg, med fyra fristående joniska kolonner under ett triangulärt gavelfält. Reliefer föreställande ovala illyriska sköldar och ryttarhjälmar pryder ingångens sidor. En djup dromosgång skär genom berget in till en rymlig gravsal med flera väggnischer (loculi), vilken tjänade som familjemausoleum under flera generationer.
 
-![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](/images/atlas/selce-e-poshtme-royal-tombs-inline-4.webp)
+![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](https://upload.wikimedia.org/wikipedia/commons/6/69/Selca_e_Poshtme%2C_Albania_%E2%80%93_Monumental_antique_tombs_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Stenmurar och terrassvägar vid den kungliga nekropolen med utsikt över Mokrabbergen. Foto av Attila Terbócs (CC BY-SA 4.0).*
 

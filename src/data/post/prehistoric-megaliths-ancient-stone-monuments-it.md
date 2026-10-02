@@ -22,7 +22,7 @@ Lungo le scogliere atlantiche battute dai venti, sui promontori soleggiati del M
 
 Il termine entrò ufficialmente nel vocabolario scientifico nel 1849, quando l'antiquario britannico Algernon Herbert unì le parole greche megas, grande, e lithos, pietra, per classificare complessi dell'imponenza di Stonehenge. Per secoli, cronisti ed eruditi attribuirono circoli di pietre, dolmen e menhir solitari a figure leggendarie: giganti dell'antichità, druidi celti o navigatori fenici. L'archeologia moderna, grazie a datazioni al radiocarbonio ad altissima precisione, modelli statistici bayesiani e analisi archeoastronomiche, racconta una vicenda ben più grandiosa di ingegno collettivo e rotte marittime condivise tra le prime comunità neolitiche.
 
-![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-1.webp)
+![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](https://upload.wikimedia.org/wikipedia/commons/8/8c/Auchencar_standing_stone_-_facing_farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Il menhir solitario di Auchencar sull'isola di Arran, in Scozia. Foto di Colin (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ Le prime comunità umane che modellarono la pietra naturale di grande formato lo
 
 Uno studio fondamentale guidato dall'archeologa Bettina Schulz Paulsson dell'Università di Göteborg ha esaminato più di 2.410 datazioni al radiocarbonio provenienti da sepolture megalitiche europee. I risultati, pubblicati nel 2019 nei Proceedings of the National Academy of Sciences, hanno risolto un dilemma che divideva gli studiosi da oltre un secolo. Lungi dall'essere sorta in focolai regionali indipendenti, l'architettura megalitica europea ha avuto origine lungo la costa atlantica della Francia nord-occidentale, nell'attuale Bretagna, intorno al 4500 a.C. Da questa culla costiera, la tradizione si è propagata in ondate marittime successive lungo le rotte atlantiche, raggiungendo la penisola iberica, le isole britanniche e la Scandinavia.
 
-![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-2.webp)
+![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](https://upload.wikimedia.org/wikipedia/commons/c/c7/Machrie_moor_standing_stones.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Monoliti in arenaria del complesso di circoli di pietre di Machrie Moor nella Scozia occidentale. Foto di Rowyn flowerdew (CC0).*
 
@@ -38,7 +38,7 @@ I megaliti neolitici si presentano in diverse forme strutturali, ciascuna concep
 
 I dolmen e le tombe a corridoio costituiscono la componente funeraria dell'architettura megalitica. Un dolmen di base è formato da due o più lastroni verticali d'appoggio che sostengono una pesante lastra orizzontale di copertura, delimitando un ambiente sepolcrale chiuso. In complessi di grande rilevanza come Newgrange in Irlanda o Gavrinis in Francia, i costruttori ricoprivano queste camere con maestosi tumuli di terra e pietrisco, accessibili tramite lunghi corridoi lastricati. In occasione del solstizio d'inverno a Newgrange, il sole nascente filtra da un'apertura appositamente realizzata sopra l'ingresso, illuminando il centro della camera con esattezza astronomica.
 
-![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-3.webp)
+![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](https://upload.wikimedia.org/wikipedia/commons/e/e8/Standing_Stone-1013137%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Menhir preistorico modellato dalle intemperie sui pascoli costieri della penisola di Dingle, in Irlanda. Foto di Maoileann (CC BY-SA 4.0).*
 
@@ -46,7 +46,7 @@ Le tecniche costruttive impiegate rivelano un'ingegnosità logistica straordinar
 
 Oltre all'organizzazione cantieristica, gli studiosi hanno accertato sorprendenti proprietà acustiche all'interno delle camere funerarie. Rilievi di archeoacustica condotti in siti britannici e irlandesi dimostrano che molte stanze entrano in risonanza a frequenze vicine ai 110 hertz. Il canto corale o il ritmo dei tamburi all'interno di questi spazi genera onde stazionarie che amplificano le vibrazioni sonore, producendo un forte coinvolgimento sensoriale durante i riti comunitari.
 
-![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-4.webp)
+![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](https://upload.wikimedia.org/wikipedia/commons/9/9d/Komplek_Megalith_di_Taman_Nasional_Lore_Lindu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Statua megalitica antropomorfa antica custodita nella valle di Bada, Parco Nazionale di Lore Lindu, Indonesia. Foto di Lo2asinamura (CC BY-SA 4.0).*
 

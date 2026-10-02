@@ -20,7 +20,7 @@ metadata:
 
 Kuzey-orta Polonya'da, Kuyavya'nın tarihî ovalarında Inowrocław ile Toruń arasında yer alan Gniewkowo kenti, ülkenin en köklü Orta Çağ yerleşimlerinden birini temsil eder. İlk olarak 1185 yılında kayıtlara geçen bu kasaba, Piast Hanedanı'nın bir savunma karakolundan özerk bir dükalığın başkentine dönüşmüş; Töton akınlarına, İsveç savaşlarına ve yirminci yüzyıl işgallerine karşı varlığını korumuştur. Kentin sokak dokusu ve tuğla mimarisi, Büyük Polonya ile Pomeranya arasındaki sınırda yaşanan sekiz asırlık siyasi dönüşümleri yansıtır.
 
-![Gniewkowo'daki Aziz Nikolaos ve Konstansiya Kilisesi](/images/atlas/gniewkowo-inline-1.webp)
+![Gniewkowo'daki Aziz Nikolaos ve Konstansiya Kilisesi](https://upload.wikimedia.org/wikipedia/commons/f/f0/SM_Gniewkowo_ko%C5%9Bci%C3%B3%C5%82_Miko%C5%82aja_i_Konstancji_%286%29_ID_601858.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 1: Gniewkowo'da bulunan ve Orta Çağ tuğla Gotik mimarisini temsil eden Aziz Nikolaos ve Konstansiya Kilisesi.*
 
 ## Piast karakolu ve Gniewkowo Dükalığı
@@ -29,7 +29,7 @@ Arkeolojik kazılar, Gniewkowo çevresindeki verimli toprakların Tunç Çağı'
 
 Inowrocław Dükü Siemomysł'ın 1314'teki vefatının ardından Kuyavya toprakları üç oğlu arasında paylaştırıldı. Bu bölgeyi devralan Kuyavyalı III. Casimir, bağımsız Gniewkowo Dükalığı'nı kurdu. Töton Şövalyeleri Devleti ile yaşanan mücadelelerin ön cephesinde kalan bu küçük dükalık sürekli askerî tehdit altında yaşadı. 1332'de Töton kuvvetleri kenti kuşattığında, Dük Casimir kalesini teslim etmek yerine ateşe vermeyi seçti ve 1343 Kalisz Antlaşması topraklarını geri verene kadar geri çekildi. Oğlu Dük Beyaz Władysław, 1360'lı yıllarda dükalığı Kral Büyük Casimir'e rehin vererek Gniewkowo'yu kalıcı biçimde Polonya Krallığı'nın mülklerine dahil etti.
 
-![Gniewkowo Sobieski Caddesi'nin 1925 yılına ait tarihî fotoğrafı](/images/atlas/gniewkowo-inline-2.webp)
+![Gniewkowo Sobieski Caddesi'nin 1925 yılına ait tarihî fotoğrafı](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gniewkowo._ul._Sobieskiego._1925_%2869106403%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 2: İki savaş arası dönemde Gniewkowo'daki Sobieski Caddesi'ni gösteren 1925 tarihli arşiv fotoğrafı.*
 
 ## Prusya paylaşımı ve demiryolu atılımı
@@ -38,7 +38,7 @@ Yeni Çağ boyunca Gniewkowo, Inowrocław Voyvodalığı içinde kraliyet idare 
 
 Prusya yönetimi yoğun bir Almanlaştırma politikası izledi ve bu süreç 1879'da kentin adının Argenau olarak değiştirilmesiyle zirveye ulaştı. Okullarda din derslerinin yalnızca Almanca verilmesi zorunlu kılınınca, Polonyalı aileler ana dillerini korumak için okul boykotları düzenledi. Kültürel baskılara karşın on dokuzuncu yüzyılın sonları modern altyapıyı beraberinde getirdi. 1873 yılında açılan Poznań-Toruń demiryolu hattı (günümüz 353 numaralı devlet hattı) Gniewkowo'yu sanayi ağına bağladı ve 1908'de kente elektrik ulaştı. 1918 Büyük Polonya Ayaklanması sonrasında Polonyalı gönüllü birlikler imparatorluk askerlerini püskürterek Ocak 1920'de Gniewkowo'yu yeniden Polonya yönetimine kattı.
 
-![Gniewkowo ormanlarındaki anıt dikilitaş](/images/atlas/gniewkowo-inline-3.webp)
+![Gniewkowo ormanlarındaki anıt dikilitaş](https://upload.wikimedia.org/wikipedia/commons/7/7e/Obelisk_w_lasach_gniewkowskich-miejsce_upmi%C4%99tniaj%C4%85ce_rozstrzelanie_ponad_4_tysi%C4%99cy_os%C3%B3b_przez_zbrodniarzy_niemieckich_w_latach_1939-1943._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 3: İkinci Dünya Savaşı sırasında Gniewkowo ormanlarında hayatını kaybedenlerin anısına dikilen dikilitaş.*
 
 ## Savaş yılları ve tarihî hafıza

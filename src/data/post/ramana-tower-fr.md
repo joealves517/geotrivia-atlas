@@ -22,7 +22,7 @@ S'élevant au-dessus des plateaux calcaires de la péninsule d'Abcheron, la tour
 
 Les documents historiques situent la construction de l'ensemble actuel au XIVe siècle, bien que plusieurs spécialistes fassent remonter les premières structures défensives du site au XIIe siècle. L'État des Chirvanchahs, centré sur Chamakhi puis Bakou, faisait face aux menaces maritimes et aux rivalités régionales. Pour y répondre, les bâtisseurs dotèrent la péninsule d'Abcheron de tours de guet fortifiées reliées par des postes de signalisation visuelle.
 
-![Remparts de calcaire et donjon quadrangulaire de la forteresse de Ramana vus depuis le village](/images/atlas/ramana-tower-inline-1.webp)
+![Remparts de calcaire et donjon quadrangulaire de la forteresse de Ramana vus depuis le village](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ramana_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1 : Remparts de calcaire et donjon quadrangulaire de la forteresse de Ramana vus depuis le village.*
 
 ## Architecture du donjon quadrangulaire
@@ -33,7 +33,7 @@ La forteresse présente un plan défensif compact adapté au relief naturel. Ses
 
 L'entrée de la forteresse est ménagée dans une cour intérieure abritée, guidant les assaillants dans un passage étroit dominé par les chemins de ronde. La terrasse sommitale est pourvue de mâchicoulis en saillie et de créneaux, permettant de surveiller et de sécuriser la base des remparts depuis le sommet.
 
-![Élévation sud montrant les bastions d'angle arrondis et les murs d'enceinte étagés](/images/atlas/ramana-tower-inline-2.webp)
+![Élévation sud montrant les bastions d'angle arrondis et les murs d'enceinte étagés](https://upload.wikimedia.org/wikipedia/commons/7/78/Ramana_castle_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2 : Élévation sud montrant les bastions d'angle arrondis et les murs d'enceinte étagés.*
 
 ## Rôle stratégique dans la défense d'Abcheron
@@ -44,7 +44,7 @@ Lorsque des navires suspects approchaient du rivage caspien, des feux d'alerte a
 
 L'environnement immédiat offrait des ressources économiques précieuses en plus de son intérêt défensif. Les lacs salés et les affleurements de pétrole brut autour de Ramana alimentaient un commerce actif au Moyen Âge. La garnison de la tour protégeait ces zones d'exploitation et sécurisait les caravanes marchandes se dirigeant vers les marchés de Chirvan et de Tabriz.
 
-![Crénelage supérieur et détails de maçonnerie des bastions de guet](/images/atlas/ramana-tower-inline-3.webp)
+![Crénelage supérieur et détails de maçonnerie des bastions de guet](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ramana_Castle_towers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3 : Crénelage supérieur et détails de maçonnerie des bastions de guet.*
 
 ## Préservation et rayonnement patrimonial

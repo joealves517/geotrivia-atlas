@@ -22,7 +22,7 @@ A siete kilómetros al noroeste de Aïn Mellouk, en las escarpadas tierras altas
 
 En el año 893 d. C., este bastión montañoso quedó establecido como la principal base fortificada y Dar al-Hijra para el misionero Abū ʿAbd Allāh al-Shīʿī. Enviado desde Yemen por los dirigentes ismailíes, Abū ʿAbd Allāh se internó en las montañas de la Pequeña Cabilia para difundir su doctrina religiosa y política entre los bereberes Kutama. Al toparse con el recelo de los núcleos urbanos más poblados, halló refugio entre facciones afines que le ofrecieron protección en lo alto de este peñasco inexpugnable. El topónimo bereber Tazrut, derivado de raíces amaziges que significan peña grande o colina rocosa, definía tanto la geografía física como la condición militar del emplazamiento.
 
-![Historical extent of Fatimid territorial control across North Africa](/images/atlas/tazrut-inline-1.webp)
+![Historical extent of Fatimid territorial control across North Africa](https://upload.wikimedia.org/wikipedia/commons/c/cd/Fatimid_control_in_Africa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Cartografía histórica que detalla la expansión territorial del califato fatimí por el norte de África a partir de sus orígenes en las montañas argelinas.*
 
 ## La geografía estratégica de Kaf Tazrut
@@ -31,7 +31,7 @@ La elección de Tazrut respondió a criterios de geografía militar minuciosamen
 
 Durante nueve años, Tazrut funcionó como el núcleo político y el santuario inviolable del embrionario Estado fatimí. En este refugio de altura, Abū ʿAbd Allāh instruyó a los reclutas bereberes, estructuró la administración civil y forjó un ejército disciplinado a partir de clanes kutama dispersos. Cronistas de la época como Al-Qadi al-Nu'man consignaron que la fortaleza constituyó el anclaje ideológico del movimiento, transformando las quejas tribales en una campaña militar coordinada contra las guarniciones aglabíes.
 
-![Topographical relief map of Algeria showing the highlands of Mila](/images/atlas/tazrut-inline-2.webp)
+![Topographical relief map of Algeria showing the highlands of Mila](https://upload.wikimedia.org/wikipedia/commons/f/ff/Algeria_relief_location_map.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Mapa físico del norte de Argelia que destaca el territorio montañoso de la provincia de Mila donde se erigió Tazrut.*
 
 ## El traslado a Ikjan y la marcha hacia el imperio
@@ -40,7 +40,7 @@ Hacia el otoño del año 902 d. C., el contingente armado concentrado en Tazrut 
 
 En menos de siete años tras desalojar Tazrut, las huestes kutama derrocaron a la dinastía aglabí en 909 d. C., tomaron Kairuán y entronizaron a Abdallah al-Mahdi Billah como el primer califa fatimí. Aquel Estado concebido en una remota cumbre de Mila se expandió posteriormente por Egipto, Siria y el Hiyaz, configurando uno de los grandes imperios mediterráneos de la Edad Media.
 
-![Historical map of the Fatimid Caliphate at its territorial zenith](/images/atlas/tazrut-inline-3.webp)
+![Historical map of the Fatimid Caliphate at its territorial zenith](https://upload.wikimedia.org/wikipedia/commons/4/42/The_Fatimid_Caliphate.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Mapa panorámico que muestra la máxima extensión territorial del califato fatimí en la cuenca del Mediterráneo.*
 
 ## Vestigios arqueológicos en el risco de Mila

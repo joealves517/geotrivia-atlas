@@ -22,7 +22,7 @@ metadata:
 
 وتؤكد الشواهد الأثرية وجود مستوطنة محصنة على هذا النتوء الجبلي منذ القرن الثاني عشر تحت حكم ديسبوتية إبيروس، وكانت تُعرف في الحوليات البيزنطية باسم أرجيروكاسترو، أي القلعة الفضية. وعندما توسعت الجيوش العثمانية في جنوب البلقان في أوائل القرن الخامس عشر، استسلمت القلعة بموجب شروط تفاوضية عام 1419، لتصبح مركزاً إدارياً إقليمياً عُرف باسم إرجيري.
 
-![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](/images/atlas/gjirokast-r-fortress-inline-1.webp)
+![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](https://upload.wikimedia.org/wikipedia/commons/4/42/Gjirokast%C3%ABr%2C_st%C5%99ed_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *الشكل 1: ساحة العرض العسكرية العلوية وبرج الساعة المشيد في القرن التاسع عشر في عهد علي باشا التبيليني.*
 
 ### إعادة البناء الكبرى في عهد علي باشا
@@ -31,7 +31,7 @@ metadata:
 
 وسع علي باشا الأسوار الدفاعية لتحيط بكامل الهضبة المرتفعة، وشيد سراديب مقببة ضخمة تتسع لإيواء قوات الحامية والمدافع الثقيلة. وللتغلب على نقطة ضعف القلعة التاريخية المتمثلة في ندرة المياه أثناء الحصار الطويل، بنى مهندسوه قناة مائية حجرية بطول عشرة كيلومترات تنقل مياه الينابيع من جبل سوبوت عبر الخوانق الجبلية الوعرة. وفي الطرف الشمالي المرتفع، شيد برج ساعة بارزاً ظل حتى يومنا هذا المعلم البصري الأهم في الوادي بأكمله.
 
-![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](/images/atlas/gjirokast-r-fortress-inline-2.webp)
+![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gjirokast%C3%ABr%2C_interi%C3%A9r_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *الشكل 2: سراديب حجرية مقببة هائلة محفورة في صخور الحجر الجيري لمقاومة قصف المدفعية المعادي.*
 
 ### السجون السرية وسنوات القمع السياسي
@@ -40,7 +40,7 @@ metadata:
 
 أما الفصل الأكثر قتامة في تاريخ القلعة، فبدأ بعد عام 1944 تحت الحكم الشيوعي لأنور خوجة، وهو نفسه من مواليد غيروكاستر. فقد حول النظام الاستبدادي سراديب القلعة السفلية إلى معتقل سيء السمعة للمعارضين السياسيين والمثقفين المنشقين. وتحت حراسة الشرطة السرية (سيغوريمي)، عانى المعتقلون من عزل قارس داخل زنازين حجرية منحوتة مباشرة في الصخر الأصم للجبل. وظل السجن يعمل حتى عام 1968، عندما دفعت الرقابة الدولية والتحولات السياسية الداخلية الحكومة إلى تحويل الموقع إلى مجمع متاحف.
 
-![Interior armament gallery displaying artillery captured during World War II and the Cold War era](/images/atlas/gjirokast-r-fortress-inline-3.webp)
+![Interior armament gallery displaying artillery captured during World War II and the Cold War era](https://upload.wikimedia.org/wikipedia/commons/0/0c/Gjirokast%C3%ABr_Festung_-_Kasematten_1a_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *الشكل 3: قاعة الأسلحة السفلية التي تعرض مدافع استولى عليها الجيش الألباني خلال الحرب العالمية الثانية والحرب الباردة.*
 
 ### غنائم الحرب الباردة والتراث الإنساني المعاصر

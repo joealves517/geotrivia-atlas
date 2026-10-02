@@ -22,7 +22,7 @@ Alzándose sobre las mesetas calizas de la península de Absheron, la torre de R
 
 Los registros históricos sitúan el conjunto conservado en el siglo XIV, si bien diversos historiadores de la arquitectura sostienen que las primeras defensas del lugar datan del siglo XII. El estado de los Shirvanshahs, articulado en torno a Shamaji y posteriormente a Bakú, afrontaba presiones constantes procedentes del litoral y de dinastías rivales. Ante ello, los ingenieros militares reforzaron la península con atalayas de piedra comunicadas entre sí mediante señales ópticas.
 
-![Muralhas de caliza y torre del homenaje cuadrangular de Ramana vistas desde el exterior de la aldea](/images/atlas/ramana-tower-inline-1.webp)
+![Muralhas de caliza y torre del homenaje cuadrangular de Ramana vistas desde el exterior de la aldea](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ramana_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Murallas de caliza y torre del homenaje cuadrangular de Ramana vistas desde el exterior de la aldea.*
 
 ## Arquitectura de la torre cuadrangular
@@ -33,7 +33,7 @@ A diferencia de las torres de planta circular comunes en Absheron, como la forta
 
 El acceso al recinto se ubica en un patio interior resguardado, obligando a los atacantes a adentrarse en un pasaje estrecho bajo la vigilancia de los adarves. La azotea superior concluye en matacanes volados y un parapeto almenado que permitía a los defensores vigilar y proteger el pie de las murallas desde lo alto.
 
-![Fachada sur ilustrando los bastiones circulares de las esquinas y los muros defensivos escalonados](/images/atlas/ramana-tower-inline-2.webp)
+![Fachada sur ilustrando los bastiones circulares de las esquinas y los muros defensivos escalonados](https://upload.wikimedia.org/wikipedia/commons/7/78/Ramana_castle_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Fachada sur ilustrando los bastiones circulares de las esquinas y los muros defensivos escalonados.*
 
 ## Función estratégica en la defensa de Absheron
@@ -44,7 +44,7 @@ Cuando se divisaban embarcaciones hostiles en el Caspio, los vigías encendían 
 
 El territorio circundante ofrecía activos económicos de gran valor además de ventajas militares. Las lagunas salobres y las emanaciones naturales de petróleo crudo en torno a Ramana constituían codiciadas materias comerciales en la Edad Media. La guarnición de la torre amparaba estas explotaciones y custodiaba las caravanas mercantes que se dirigían hacia los mercados de Shirvan y Tabriz.
 
-![Almenas superiores y detalle de cantería de los bastiones de vigilancia](/images/atlas/ramana-tower-inline-3.webp)
+![Almenas superiores y detalle de cantería de los bastiones de vigilancia](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ramana_Castle_towers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Almenas superiores y detalle de cantería de los bastiones de vigilancia.*
 
 ## Conservación y patrimonio cultural

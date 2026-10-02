@@ -22,7 +22,7 @@ metadata:
 
 Namnet namus härstammar från det arabiska ordet för mygga. Beduinska sägner tillskrev förr dessa byggnader israeliterna under uttåget ur Egypten och berättade att vandrarna byggde stenkojor för att skydda sig mot insektssvärmar i öknen. Arkeologiska utgrävningar ledda av Beno Rothenberg under slutet av 1900-talet avslöjade deras verkliga funktion som gemensamma gravkammare med mänskliga kvarlevor, snäckhalsband, stenpärlor och pilspetsar av flinta.
 
-![Förhistorisk stengrav av typen Nawamis i Sinaiöknen](/images/atlas/nawamis-inline-1.webp)
+![Förhistorisk stengrav av typen Nawamis i Sinaiöknen](https://upload.wikimedia.org/wikipedia/commons/0/05/Nawamis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Cirkulär kallmurad stenarkitektur i en namus-grav i Sinaiöknen.*
 
 ## De cirkulära gravarnas arkitektur
@@ -31,7 +31,7 @@ Nawamis uppvisar en enhetlig byggnadstradition. Byggarna samlade oarbetade sands
 
 Varje intakt namus har en ingångsöppning vänd mot väster eller sydväst. De låga kvadratiska öppningarna är sällan högre än en meter, vilket kräver att besökare kryper in. Forskare noterar att denna riktning anknyter till den nedgående solen, en astronomisk inriktning som delades av flera förhistoriska kulturer i Nordafrika och Levanten. Den västliga orienteringen förenade himlakropparnas nedgång med de avlidnas övergång till förfädernas värld.
 
-![Megalitiska bikupeformade gravar i Bat, Al-Khutm och Al-Ayn](/images/atlas/nawamis-inline-2.webp)
+![Megalitiska bikupeformade gravar i Bat, Al-Khutm och Al-Ayn](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bat%2C_al-khutm_and_al-Ayn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Gravkomplex med bikupetorn i Oman som visar regionala traditioner från bronsåldern.*
 
 ## Datering av kopparstenålderns kammare
@@ -40,7 +40,7 @@ Utgrävningar i den bäst bevarade samlingen vid Hdhabat Chajaj, belägen längs
 
 En central diskussion bland arkeologer gäller det tidsmässiga sambandet mellan gravarna och skeletten inuti dem. Flera forskare menar att sandstensstrukturerna kan ha rests århundraden efter de tidigaste begravningarna och fungerat som sekundära ossuarier där vandrande klaner återbegravde förfädernas ben. Luminescensdatering av sandstensblocken visar på löpande underhåll och tillbyggnader fram till tidig bronsålder, vilket bevisar att dessa avlägsna ökenplatser förblev ceremoniella knutpunkter under årtusenden.
 
-![Torngrav vid Jebel Ruwaik i Jemen](/images/atlas/nawamis-inline-3.webp)
+![Torngrav vid Jebel Ruwaik i Jemen](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tombe_tour_de_Jebel_Ruwaik_-_Y%C3%A9men.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Torngrav vid Jebel Ruwaik i Jemen som vittnar om forntida sydarabisk gravarkitektur.*
 
 ## Gravnätverk över Röda havet

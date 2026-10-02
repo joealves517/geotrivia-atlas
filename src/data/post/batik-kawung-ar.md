@@ -22,7 +22,7 @@ metadata:
 
 وتعود أقدم الآثار المادية المكتشفة لهذا النمط إلى تماثيل حجرية تعود إلى القرن الثالث عشر في شرق جاوة، ولا سيما في نقوش المعابد المرتبطة بسلالتي سينغاساري وماجاباهيت. وتظهر المنحوتات الحجرية للآلهة والشخصيات الملكية وهي ترتدي أزياء مئزرية مزينة بدوائر متداخلة رباعية البتلات، مما يثبت أن هذه الهندسة سبقت ظهور تقنيات الصباغة الحديثة المقاومة بالشمع بعدة قرون.
 
-![Archival sample of Kawung kemplung batik pattern collected before 1891](/images/atlas/batik-kawung-inline-1.webp)
+![Archival sample of Kawung kemplung batik pattern collected before 1891](https://upload.wikimedia.org/wikipedia/commons/3/32/Collectie_NMvWereldculturen%2C_RV-847-76%2C_Batikpatroon%2C_%27Kawung_kemplung%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *الشكل 1: عينة أرشيفية لنمط كاوونغ كيملونغ جُمعت قبل عام 1891، محفوظة في المتحف الوطني لثقافات العالم.*
 
 ### اللغز النباتي: ثمرة النخيل أم زهرة اللوتس المقدسة
@@ -31,7 +31,7 @@ metadata:
 
 وفي المقابل، ثمة تفسير موازٍ يستند إلى الأيقونات الهندوسية والبوذية الكلاسيكية يرى في الفصوص الأربعة بتلات متفتحة لزهرة اللوتس (*بادما*). وفي الفلسفة الجاوية، يرمز اللوتس إلى النقاء وطول العمر لأنه يضرب جذوره في طين البرك العكر لكنه يزهر ناصع البياض فوق صفحة الماء. وسواء استُمد النمط من نخيل السكر البسيط أو من زهرة اللوتس المقدسة، فإن التصميم يجسد توازناً طبيعياً تحمي فيه أربعة هياكل خارجية مركزاً هادئاً ومتجرداً.
 
-![Stone architectural relief featuring the repetitive circular Kawung pattern](/images/atlas/batik-kawung-inline-2.webp)
+![Stone architectural relief featuring the repetitive circular Kawung pattern](https://upload.wikimedia.org/wikipedia/commons/9/95/Kawung_motif_in_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *الشكل 2: نقش حجري معماري يبرز الهندسة الرباعية لكاوونغ، مستحضراً نقوش المعابد الجاوية الكلاسيكية.*
 
 ### الكونيات والحراس الأربعة
@@ -40,7 +40,7 @@ metadata:
 
 وفي نقطة تقاطع البتلات الأربع الخارجية يكمن العنصر الخامس: الروح الإلهية والضمير الأخلاقي للإنسان. وكان ارتداء ملابس تحمل نمط كاوونغ بمثابة تذكرة روحية دائمة. إذ كان على مرتديه كبح جماح رغباته الدنيوية، والحفاظ على سكينته وسط اضطرابات الحياة، والحكم بروية وسداد. وكان الإطار الدائري المحيط بكل مجموعة رباعية يرمز إلى ضبط النفس، مذكراً حاشية القصر بأن ممارسة السلطة دون حكمة واعتدال تقود حتماً إلى الزوال.
 
-![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](/images/atlas/batik-kawung-inline-3.webp)
+![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](https://upload.wikimedia.org/wikipedia/commons/b/bd/Collectie_NMvWereldculturen%2C_RV-847-85%2C_Batikpatroon%2C_%27Kawung_picis%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *الشكل 3: قطعة نسيجية تعود إلى أواخر القرن التاسع عشر تمثل نمط كاوونغ بيتس، صيغت بمقياس العملات النقدية في ذلك العصر.*
 
 ### المراسيم الملكية والأنماط المحظورة

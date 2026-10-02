@@ -22,7 +22,7 @@ metadata:
 
 صدر أمر بناء الحصن عام 1680 عن الملك لويس الرابع عشر بهدف حماية مرسى بحري استراتيجي في القناة الشمالية. ففي أوقات المد العالي، تعزل الأمواج المتلاطمة القلعة الحجرية لتحولها إلى جزيرة وسط المياه؛ بينما يكشف الجزر مع انحسار البحر عن قاعدة حجرية ضخمة ترتكز على القاع الصخري والكثبان الرملية. وبينما اندثرت الحصون الساحلية في شمال أوروبا على مر القرون بفعل النحت البحري أو التوسع العمراني للموانئ، نجا حصن ماهون بفضل مزيج نادر من الهندسة الهيدروديناميكية، ومتانة البناء الحجري، والجهود الأهلية لحماية التراث في القرن العشرين.
 
-![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](/images/atlas/fort-mahon-vauban-sea-fortress-inline-1.webp)
+![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](https://upload.wikimedia.org/wikipedia/commons/e/e0/Ambleteuse.-_Fort_Vauban_en2019_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: السور الجرانيتي المشيد على شكل حدوة حصان وبرج المدفعية المركزي لحصن ماهون مستقرين على الشاطئ الصخري خلال ساعات الجزر.*
 
 ### الجغرافيا الإقليمية لمصب نهر سلاك
@@ -31,7 +31,7 @@ metadata:
 
 وأدرك فوبان مبكراً أن المنشآت البحرية تتطلب تصاميم قادرة على امتصاص الطاقة الحركية المستمرة لمياه البحر المفتوح. فالأسوار التقليدية المستقيمة أو متعددة الأضلاع كانت تصاب بتصدعات جسيمة عندما تصطدم بها أمواج الأطلسي العاتية في مواجهة مباشرة. وفي أمبلتوز، تخلى فوبان عن الزوايا الحادة لصالح مقطع منحنٍ متلائم مع حركة الأمواج. وبدأت أعمال البناء نحو عام 1680 واكتملت قبل عام 1690، حيث شُيدت الدريئة فوق نتوء صخري عُرف باسم "الصخرة السوداء"، صُمم ليشرف على القناة مع توجيه الأمواج العاتية برفق حول جداره المقوس.
 
-![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](/images/atlas/fort-mahon-vauban-sea-fortress-inline-2.webp)
+![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](https://upload.wikimedia.org/wikipedia/commons/5/57/Fort_Mahon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: مشهد بانورامي لسهول المد والجزر عند مصب سلاك، مبرزاً عزلة الحصن البحرية بوصفه المعقل الوحيد الباقي من أعمال فوبان البحرية على الساحل الشمالي.*
 
 ### الهيكل المعماري لحصن مدّي
@@ -42,7 +42,7 @@ metadata:
 
 وسجلت القيود العسكرية في القرن السابع عشر الموقع باسم برج أمبلتوز (Tour d’Ambleteuse). ولم يظهر اسم حصن ماهون في السجلات الرسمية إلا قرابة عام 1840، ويرجع ذلك على الأرجح إلى خطأ نسخي ارتكبه كاتب إداري ظن أنه يشير إلى ميناء ماهون في جزر البليار. وعلى الرغم من هذا اللبس الإداري، واصل السكان المحليون ورسامو الخرائط تسمية الحصن باسم حصن فوبان أو الحصن القديم.
 
-![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-3.webp)
+![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/c/ca/Dunes_de_Fort_Mahon_%28Eden62%29_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: الكثبان الرملية الساحلية المتاخمة لمحمية سلاك الطبيعية، حيث تحيط الرمال وتيارات المد والجزر بالمنشأة العائدة للقرن السابع عشر.*
 
 ### التحولات المعمارية عبر العصور
@@ -51,7 +51,7 @@ metadata:
 
 وفي منتصف القرن العشرين، استغلت القوات الساحلية الموقع وصبّت سقفاً من الخرسانة المسلحة في منتصف الكازمات الدائرية، مقسمة الفضاء المقبب إلى مستويين. ورغم صمود البرج الحجري المركزي أمام عواصف البحر، ألحقت الانفجارات في المياه الساحلية أضراراً بأجزاء من السور البحري الخارجي قبيل انتهاء النزاع عام 1945.
 
-![High-resolution perspective of the restored stone masonry of Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-4.webp)
+![High-resolution perspective of the restored stone masonry of Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/7/78/Fort_Mahon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: تفاصيل الواجهات الحجرية المشذبة وفتحات المدافع المستعادة، والتي رممها متطوعون بعد الأضرار التي لحقت بالأسوار عام 1945.*
 
 ### الترميم الأهلي وحماية الشواطئ الحديثة

@@ -22,7 +22,7 @@ Högt över kalkstensplatåerna på Apsjeronhalvön reser sig Ramanatornet på e
 
 Historiska källor daterar den nuvarande anläggningen till 1300-talet, även om vissa arkitekturhistoriker menar att de första befästningarna på höjden kan härstamma från 1100-talet. Shirvanshah-staten, med säte i Sjamacha och senare i Baku, utsattes för upprepade hot från sjöburna angripare och rivaliserande furstendömen. Som svar på detta lät härskarna befästa Apsjeronhalvön med försvarstorn av sten som stod i optisk förbindelse med varandra.
 
-![Kalkstensmurarna och det fyrkantiga kärntornet i Ramana sett från byns utkant](/images/atlas/ramana-tower-inline-1.webp)
+![Kalkstensmurarna och det fyrkantiga kärntornet i Ramana sett från byns utkant](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ramana_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 1: Kalkstensmurarna och det fyrkantiga kärntornet i Ramana sett från byns utkant.*
 
 ## Det fyrkantiga kärntornets arkitektur
@@ -33,7 +33,7 @@ Till skillnad från de runda försvarstorn som förekommer på andra håll på A
 
 Fästningens ingång vetter mot en skyddad inre borggård, vilket tvingade inkräktare in i en smal passage under uppsikt från murkrönen. Den översta plattformen avslutas med fribärande skottgluggar och bröstvärn med tinnar, varifrån försvararna kunde bevaka och säkra murfoten uppifrån.
 
-![Sydfasaden med rundade hörnbastioner och terrasserade försvarsmurar](/images/atlas/ramana-tower-inline-2.webp)
+![Sydfasaden med rundade hörnbastioner och terrasserade försvarsmurar](https://upload.wikimedia.org/wikipedia/commons/7/78/Ramana_castle_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 2: Sydfasaden med rundade hörnbastioner och terrasserade försvarsmurar.*
 
 ## Strategisk försvarsroll på Apsjeron
@@ -44,7 +44,7 @@ När fientliga fartyg siktades vid Kaspiska havet tände vaktposterna signalelda
 
 Omgivningen rymde värdefulla ekonomiska tillgångar vid sidan av sina försvarsegenskaper. Saltsjöar och naturliga petroleumkällor runt Ramana gav eftertraktade handelsvaror under medeltiden. Borgens garnison vaktade dessa utvinningsplatser och skyddade handelskaravaner på väg västerut mot marknaderna i Shirvan och Tabriz.
 
-![Övre tinnar och stenarbeten på vaktbastionerna](/images/atlas/ramana-tower-inline-3.webp)
+![Övre tinnar och stenarbeten på vaktbastionerna](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ramana_Castle_towers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 3: Övre tinnar och stenarbeten på vaktbastionerna.*
 
 ## Bevarande och kulturarv

@@ -22,7 +22,7 @@ A Linha de Controle estende-se por mais de 740 quilômetros através do relevo m
 
 Ao longo de todo o seu percurso, o traçado supera desníveis altimétricos extremos. Inicia-se nas planícies ao sul junto ao rio Chenab perto de Akhnoor, sobe pelas florestas de pinheiros da cordilheira de Pir Panjal e avança pelas cristas glaciais do Grande Himalaia ao redor de Kargil, Dras e da cordilheira de Saltoro. De ambos os lados, centenas de milhares de soldados ocupam postos avançados de vigília, casamatas de concreto e pontos de observação de artilharia localizados a mais de 4.000 metros de altitude.
 
-![Levantamento cartográfico exibindo o traçado da Linha de Controle pelo terreno himalaio de Caxemira](/images/atlas/line-of-control-kashmir-border-inline-1.webp)
+![Levantamento cartográfico exibindo o traçado da Linha de Controle pelo terreno himalaio de Caxemira](https://upload.wikimedia.org/wikipedia/commons/0/03/Line_of_Control_LoC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Levantamento cartográfico exibindo o traçado da Linha de Controle pelo terreno himalaio de Caxemira.*
 
 ## Origens da demarcação militar
@@ -33,7 +33,7 @@ Seguiram-se catorze meses de confrontos militares através de vales, gargantas e
 
 Assinado em 27 de julho de 1949, o Acordo de Carachi estabeleceu a Linha de Cessar-Fogo oficial. Observadores militares da ONU, reunidos no Grupo de Observadores Militares das Nações Unidas na Índia e no Paquistão, foram enviados para acompanhar o cumprimento do cessar-fogo e apurar incidentes. A linha dividiu o principado histórico: a Índia manteve o vale de Caxemira, Jammu e Ladakh, enquanto o Paquistão passou a gerir a Caxemira Livre (Azad Kashmir) e as Áreas do Norte, mais tarde chamadas de Gilgit-Baltistão.
 
-![Crista montanhosa fortificada e cerca de divisa vistas das encostas ocidentais em Azad Kashmir](/images/atlas/line-of-control-kashmir-border-inline-2.webp)
+![Crista montanhosa fortificada e cerca de divisa vistas das encostas ocidentais em Azad Kashmir](https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_and_India_Border_from_Azad_Kashmir_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Crista montanhosa fortificada e cerca de divisa vistas das encostas ocidentais em Azad Kashmir.*
 
 ## A reformulação do Acordo de Simla de 1972
@@ -44,7 +44,7 @@ Com a rendição das forças paquistanesas, a primeira-ministra indiana Indira G
 
 Entre agosto e dezembro de 1972, equipes de agrimensura militar dos dois países realizaram levantamentos conjuntos. O esforço gerou 19 cartas cartográficas que definiram com exatidão as coordenadas da Linha de Controle, partindo do rio Chenab ao sul até um ponto isolado na cordilheira do Caracórum.
 
-![Carta topográfica de 1958 documentando a região de Dras ao longo do traçado inicial de cessar-fogo](/images/atlas/line-of-control-kashmir-border-inline-3.webp)
+![Carta topográfica de 1958 documentando a região de Dras ao longo do traçado inicial de cessar-fogo](https://upload.wikimedia.org/wikipedia/commons/b/ba/Txu-pclmaps-oclc-181831961-dras-43-n-1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Carta topográfica de 1958 documentando a região de Dras ao longo do traçado inicial de cessar-fogo.*
 
 ## O ponto terminal setentrional e a disputa pelas geleiras
@@ -63,7 +63,7 @@ Com o objetivo de impedir as travessias ilegais, as forças armadas indianas ini
 
 A barreira incorpora aparelhos de vigilância eletrônica: sensores sísmicos subterrâneos, sensores de presença, câmeras térmicas e sistemas de radar noturno. Patrulhas monitoram a cerca dia e noite sob refletores potentes que podem ser observados de voos comerciais. Embora os rigores do inverno e as avalanches derrubem trechos consideráveis da cerca a cada ano, divisões de engenharia militar recompõem as seções avariadas assim que o gelo começa a derreter na primavera.
 
-![Vales montanhosos e lavouras em socalcos contíguos à faixa fronteiriça em disputa](/images/atlas/line-of-control-kashmir-border-inline-4.webp)
+![Vales montanhosos e lavouras em socalcos contíguos à faixa fronteiriça em disputa](https://upload.wikimedia.org/wikipedia/commons/7/73/Azad_Kashmire_of_Pakistan_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 4: Vales montanhosos e lavouras em socalcos contíguos à faixa fronteiriça em disputa.*
 
 ## Hidrologia fluvial e regimes fronteiriços

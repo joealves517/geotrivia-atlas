@@ -22,7 +22,7 @@ Nos planaltos escarpados do leste da Albânia, onde as montanhas de Mokra confin
 
 Durante séculos, a Ilíria antiga foi observada quase exclusivamente através do olhar desfavorável dos cronistas greco-romanos, que retratavam habitualmente as suas gentes como salteadores de montanha ou temíveis corsários adriáticos. Os achados materiais em Selcë e Poshtme contestam diretamente esta narrativa simplista. Comprovam a presença de uma aristocracia ilíria que dominava o corte refinado da pedra, adotava as ordens arquitetónicas gregas e projetava câmaras funerárias subterrâneas sofisticadas, comparáveis aos monumentos régios coevos da Macedónia e do Épiro.
 
-![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-1.webp)
+![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/0/06/Selca_e_Poshtme_Tombs1-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Vista panorâmica dos túmulos 1 a 3 talhados na escarpa em socalcos sobre o vale do rio Shkumbin. Fotografia de Albinfo (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ A localização geográfica do vale do rio Shkumbin elucida a razão pela qual e
 
 Diversos historiadores associam esta acrópole fortificada a Pelion, a praça-forte mencionada pelo historiador Arriano no seu relato das campanhas balcânicas de Alexandre, o Grande. Em 335 a.C., Cleito, rei dos ilírios dassaretas, aliou-se a Gláucias dos taulâncios e barricou as suas tropas dentro das muralhas de Pelion. Alexandre impôs um cerco difícil, escapando por pouco ao encurralamento nos desfiladeiros fluviais antes de empurrar as forças ilírias para os bosques vizinhos. Embora a praça-forte tenha permanecido habitada após a retirada macedónia, os seus monarcas converteram a escarpa que descia das muralhas num monumento eterno de autoridade dinástica.
 
-![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-2.webp)
+![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/2/25/Selca_e_Poshtme_Tomb4_Facade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: A colunata jónica clássica e o frontão esculpidos diretamente no leito rochoso no túmulo 4. Fotografia de Albinfo (CC BY-SA 3.0).*
 
@@ -40,7 +40,7 @@ O túmulo 1 exibe uma fachada imponente composta por duas meias-colunas jónicas
 
 Perto dali, o túmulo 2 apresenta uma conceção arquitetónica singular. Os construtores talharam na rocha um monumento de dois pisos, constituído por uma bancada semicircular em forma de teatro situada sobre uma cripta funerária subterrânea. Os investigadores sugerem que este auditório ao ar livre servia de espaço cerimonial para libações e comemorações dinásticas, permitindo aos participantes prestar homenagem ao rei sepultado com vista privilegiada para o vale sagrado.
 
-![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](/images/atlas/selce-e-poshtme-royal-tombs-inline-3.webp)
+![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](https://upload.wikimedia.org/wikipedia/commons/1/16/Selca_e_Poshtme_Tomb3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Interior da cripta funerária do túmulo 3 com o leito mortuário de pedra (kline) associado ao rei Monúnio. Fotografia de Albinfo (CC BY-SA 3.0).*
 
@@ -50,7 +50,7 @@ As evidências arqueológicas associam firmemente o túmulo 3 à figura do rei M
 
 O túmulo 4 evidencia a fachada mais espetacular de Selcë e Poshtme. Os escultores lavraram a frontaria de um templo numa falésia vertical de setenta metros, incorporando quatro colunas jónicas isoladas sob um frontão triangular. Relevos com escudos ovais ilírios e capacetes de cavalaria adornam os lados da entrada. Um dromos profundo perfura a rocha em direção a uma ampla câmara com múltiplos nichos (loculi), que funcionou como mausoléu régio para sucessivas gerações.
 
-![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](/images/atlas/selce-e-poshtme-royal-tombs-inline-4.webp)
+![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](https://upload.wikimedia.org/wikipedia/commons/6/69/Selca_e_Poshtme%2C_Albania_%E2%80%93_Monumental_antique_tombs_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Estruturas murárias e acessos em terraços na necrópole real com vista para as montanhas de Mokra. Fotografia de Attila Terbócs (CC BY-SA 4.0).*
 

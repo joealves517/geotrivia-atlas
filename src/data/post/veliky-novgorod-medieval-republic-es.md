@@ -22,7 +22,7 @@ Allí donde las amplias aguas del río Vóljov fluyen hacia el norte desde el la
 
 La estratégica posición geográfica de la urbe constituyó la base de su independencia. Situada en la encrucijada de las cuencas fluviales que enlazaban el norte europeo con Bizancio y el mar Caspio, Nóvgorod prosperó como el socio comercial más oriental de la Liga Hanseática. El río Vóljov dividía la ciudad en dos sectores complementarios: la orilla de Santa Sofía, administrativa y eclesiástica en la ribera occidental, y la orilla Comercial, mercantil y dinámica en la ribera oriental. Esta dualidad territorial reflejaba el equilibrio institucional que rigió la república durante más de tres centurias.
 
-![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](/images/atlas/veliky-novgorod-medieval-republic-inline-1.webp)
+![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](https://upload.wikimedia.org/wikipedia/commons/6/62/VNovogorod_Detinets_VN13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Las murallas y torres de ladrillo rojo del Kremlin (Detinets) de Veliki Nóvgorod, erigiéndose sobre la orilla occidental del río Vóljov.*
 
 ### El Veche y el gobierno republicano
@@ -31,7 +31,7 @@ El orden político de Nóvgorod supuso una ruptura frontal con el feudalismo imp
 
 La administración ejecutiva correspondía al posádnik, un alcalde civil elegido entre linajes patricios, y al tysiatski, mando militar que representaba a los gremios urbanos. Los ciudadanos contrataban al príncipe primordialmente como comandante de armas y juez supremo. Antes de tomar posesión, cada príncipe suscribía un contrato obligatorio, el riad, que le prohibía adquirir tierras dentro del territorio republicano, designar jueces de forma arbitraria o recaudar tributos sin el consentimiento del posádnik. En caso de incumplir sus compromisos, el Veche conservaba la potestad legal de revocar su mandato.
 
-![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](/images/atlas/veliky-novgorod-medieval-republic-inline-2.webp)
+![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](https://upload.wikimedia.org/wikipedia/commons/f/f3/Center_of_Veliky_Novgorod_Peterhof_Gotenhof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Plano histórico de la Nóvgorod medieval con la división entre la orilla de Santa Sofía y la orilla Comercial, sede de la factoría hanseática Peterhof.*
 
 ### La factoría hanseática y los manuscritos en corteza de abedul
@@ -40,7 +40,7 @@ La prosperidad material de Nóvgorod estuvo ligada a su integración en el comer
 
 Bajo este suelo mercantil se hallaba uno de los descubrimientos más reveladores de la arqueología medieval: los manuscritos en corteza de abedul (beresty). Descubiertos en 1951 por el arqueólogo Artemi Artsijovski, los sedimentos arcillosos saturados de agua preservaron más de mil tiras inscritas entre los siglos XI y XV. Redactados con punzones de hueso o metal en antiguo eslavo oriental, estos documentos privados, libros de cuentas, pagarés y tareas escolares demuestran que la escritura no estaba circunscrita a los monasterios. Artesanos, tenderos y mujeres independientes intercambiaban correspondencia habitual sobre créditos, ventas de ganado, litigios familiares y viajes.
 
-![The 14th-century Church of the Transfiguration on Ilyina Street](/images/atlas/veliky-novgorod-medieval-republic-inline-3.webp)
+![The 14th-century Church of the Transfiguration on Ilyina Street](https://upload.wikimedia.org/wikipedia/commons/7/70/Kaniisadda_isbeddelka_ee_Ilina_Street_%28Veliky_Novgorod%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: La iglesia de la Transfiguración del Salvador en la calle Ilyiná, célebre por los frescos murales ejecutados en 1378 por Teófanes el Griego.*
 
 ### Arquitectura pétrea e influencia bizantina
@@ -49,7 +49,7 @@ El patrimonio monumental de Nóvgorod reflejaba su riqueza y su soberanía civil
 
 En el siglo XIV, la bonanza económica impulsó la construcción de templos parroquiales costeados por cofradías de comerciantes (skladchiny). En la orilla Comercial, la iglesia de la Transfiguración de la calle Ilyiná, terminada en 1374, descuella como modelo del estilo arquitectónico local gracias a sus hastiales apuntados y sus molduras de ladrillo. En 1378, el maestro bizantino Teófanes el Griego decoró su cúpula y sus muros con frescos monocromáticos de profetas y ermitaños de notable intensidad expresiva, cuyo trazo influyó en generaciones de pintores de iconos.
 
-![The historic Yuriev Monastery near the outflow of Lake Ilmen](/images/atlas/veliky-novgorod-medieval-republic-inline-4.webp)
+![The historic Yuriev Monastery near the outflow of Lake Ilmen](https://upload.wikimedia.org/wikipedia/commons/0/0a/Veliky_Novgorod._Yuriev_Monastery_P7211049_2350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Los templos de piedra blanca del monasterio de San Jorge (Yúriev), fundado en el siglo XI para vigilar los accesos fluviales meridionales de la ciudad.*
 
 ### La pervivencia de un patrimonio secular

@@ -20,7 +20,7 @@ metadata:
 
 Die Festung Arad schützt die Küstenzugänge nach Muharraq im Norden Bahrains und stellt eines der am besten erhaltenen Beispiele vormoderner islamischer Militärarchitektur im Persischen Golf dar. Im fünfzehnten Jahrhundert auf einer damals isolierten Barriereinsel errichtet, beherrschte die kompakte Festung flache Küstengewässer, die das offene Meer mit den geschützten Naturhäfen Bahrains verbanden. Obwohl moderne Landgewinnungsprojekte die frühere Insel Arad mit Muharraq verbunden haben, bewahrt die Anlage ihre ursprüngliche geometrische Klarheit und maritime Ausrichtung.
 
-![Äußerer Graben und Korallensteinmauern der Festung Arad](/images/atlas/arad-fort-inline-1.webp)
+![Äußerer Graben und Korallensteinmauern der Festung Arad](https://upload.wikimedia.org/wikipedia/commons/f/f8/Arad_Qalat_Arad_Exterior_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 1: Der äußere Graben und die Wehrmauern aus Korallenstein mit Blick auf Muharraq.*
 
 ## Küstenverteidigung auf einer früheren Barriereinsel
@@ -29,7 +29,7 @@ Bevor moderne Bauprojekte des zwanzigsten Jahrhunderts die Küstenlinie Bahrains
 
 Zur Verstärkung dieser natürlichen Schutzlinie hoben die Baumeister einen künstlichen Graben um die quadratischen Ringmauern aus. In einer trockenen Küstenumgebung, in der eindringendes Salzwasser das Fundament hätte zersetzen können, bohrten die Ingenieure Brunnen in küstennahe Grundwasserleiter, um den Graben mit Süßwasser zu fluten. Dieses Wasserhindernis verhinderte Unterminierungsversuche der Mauern und sicherte der Besatzung zugleich die Trinkwasserversorgung während feindlicher Seeblockaden.
 
-![Innenhof und Ecktürme der Festung Arad](/images/atlas/arad-fort-inline-2.webp)
+![Innenhof und Ecktürme der Festung Arad](https://upload.wikimedia.org/wikipedia/commons/d/d4/Arad_Fort%2C_Bahrain%2C_15th_century_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 2: Der zentrale Innenhof und die Rundtürme, gestaltet nach klassischen Prinzipien des islamischen Festungsbaus.*
 
 ## Korallenstein-Mauerwerk und islamische Wehrarchitektur
@@ -38,7 +38,7 @@ Der Grundriss der Festung Arad folgt klassischen geometrischen Prinzipien des is
 
 Die Wehrmauern bieten zwei getrennte Verteidigungsebenen. Untere Wehrgänge ermöglichten es Bogenschützen und Musketieren, Angreifer durch schmale Schießscharten ins Visier zu nehmen, während die oberen Zinnen Platz für Geschütze und Ausguckposten boten. Jeder zylindrische Eckturm ragt weit aus der Mauerflucht heraus, was überschneidende Schussfelder schuf und tote Winkel am Mauerfuß beseitigte. Auskragende Schussbalkone, regional als nasenförmige Maschikulis bekannt, bekrönen die Brüstungen über dem Portal, um heiße Flüssigkeiten und Wurfgeschosse direkt auf Angreifer herabzulassen.
 
-![Schießscharten auf den oberen Wehrmauern der Festung Arad](/images/atlas/arad-fort-inline-3.webp)
+![Schießscharten auf den oberen Wehrmauern der Festung Arad](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arad_Fort%2C_Bahrain%2C_15th_century_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 3: Verteidigungsluken und Schießscharten zur Überwachung der Schifffahrtskanäle.*
 
 ## Machtwechsel im Persischen Golf

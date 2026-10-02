@@ -22,7 +22,7 @@ Ao longo do litoral nordeste da ilha de Eubeia, vilarejos de pescadores e escarp
 
 O termo geográfico Diácria deriva da palavra grega que designa relevo montanhoso ou terreno de altitude, aplicada a núcleos humanos erguidos em encostas acidentadas. Na ilha de Eubeia, o termo territorial ocupava a vizinhança do atual povoado de Pili, na faixa litorânea voltada para o mar Egeu. Ao contrário das águas abrigadas do golfo que separa Eubeia da Beócia e da Ática, essa costa exterior dava diretamente para o mar aberto, expondo a navegação a correntes variáveis, ventos de norte sazonais e cabos íngremes.
 
-![Alvenaria clássica nas muralhas da acrópole de Erétria na ilha de Eubeia](/images/atlas/diacria-euboea-inline-1.webp)
+![Alvenaria clássica nas muralhas da acrópole de Erétria na ilha de Eubeia](https://upload.wikimedia.org/wikipedia/commons/a/ac/Part_of_the_wall_of_the_Acropolis_of_Eretria_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Alvenaria clássica nas muralhas da acrópole de Erétria na ilha de Eubeia.*
 
 ## Poesia épica e travessias marítimas no Egeu
@@ -33,7 +33,7 @@ Licofrão cita o território dos diácrios como um dos litorais onde marinheiros
 
 Embora os poemas homéricos não citem nominalmente Diácria, Licofrão valeu-se de lendas insulares arcaicas para elaborar seu inventário geográfico. A ligação de Diácria com rotas marítimas arriscadas ressalta as exigências de navegação que marcavam a costa oriental de Eubeia na Antiguidade.
 
-![Muros de proteção das antigas cidades-estado de Eubeia que vigiavam acessos navais](/images/atlas/diacria-euboea-inline-2.webp)
+![Muros de proteção das antigas cidades-estado de Eubeia que vigiavam acessos navais](https://upload.wikimedia.org/wikipedia/commons/0/01/Eretria_ancient_city_walls_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Muros de proteção das antigas cidades-estado de Eubeia que vigiavam acessos navais.*
 
 ## Arrecadação tributária na Liga de Delos
@@ -44,7 +44,7 @@ Estelas de mármore preservadas na Acrópole de Atenas registram as contribuiç�
 
 Um decreto fiscal ateniense de 425/424 a.C. traz precisão geográfica suplementar ao listar individualmente Diácria e uma entidade distinta denominada Diacres ou Diacres dos Calcidenses. Especialistas explicam que tal divisão comprova duas jurisdições tributárias autônomas em Eubeia: Diacres pertencia à área de influência de Cálcis junto ao estreito de Euripo, ao passo que Diácria integrava o domínio costeiro associado a Erétria.
 
-![Elevações montanhosas do centro de Eubeia erguendo-se atrás dos antigos núcleos costeiros](/images/atlas/diacria-euboea-inline-3.webp)
+![Elevações montanhosas do centro de Eubeia erguendo-se atrás dos antigos núcleos costeiros](https://upload.wikimedia.org/wikipedia/commons/d/df/Mount_Olympus_%28Euboea%29_from_the_ancient_citadel_of_Eretria_on_January_16%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Elevações montanhosas do centro de Eubeia erguendo-se atrás dos antigos núcleos costeiros.*
 
 ## Topografia, demos e investigações de campo

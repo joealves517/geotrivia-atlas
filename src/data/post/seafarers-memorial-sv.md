@@ -22,7 +22,7 @@ Tjugo kilometer söder om den kommersiella hamnstaden Chittagong vidgar sig flod
 
 Handelssjöfarten förblir ett av de mest krävande yrkena i modern global handel. Medan militära minnesmärken vanligtvis hedrar krigsinsatser eller stupade i strid, hedrar Seafarers' Memorial en civil uppoffring. Handelsfartyg transporterar mer än åttio procent av världshandeln genom öppna oceaner, säsongsbundna tyfoner och farliga sund. För de unga officerare som utbildas i Juldia inleds den maritima plikten i strikt disciplin på land och övergår i fleråriga internationella sjöresor långt hemifrån.
 
-![Parade Ground at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-1.webp)
+![Parade Ground at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/5/58/ParadeGround_BMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Paradplanen vid Bangladesh Marine Academy med utsikt över flodmynningen Karnaphuli i Juldia, Chittagong.*
 
 ## Karnaphulis maritima port
@@ -31,7 +31,7 @@ Minnesmärkets placering återspeglar Bangladeshs geografiska och kommersiella k
 
 Livet vid akademin präglas av militär disciplin och utbildar kadetter inom nautiska vetenskaper samt marinteknik. Utbildningsprogrammen förenar teoretisk klassrumsundervisning med praktiska verkstadsövningar, simprov och oceangående sjöpraktik. Under sex decennier har tusentals utexaminerade officerare anställts i handelsflottor hos både inhemska rederier och internationella sjöfartskoncerner. När de bangladeshiska officerarna gick vakt på containerfartyg, bulkbåtar och kemikalietankers mötte de oceanfartens ofrånkomliga risker.
 
-![Seafarers Memorial BMA](/images/atlas/seafarers-memorial-inline-2.webp)
+![Seafarers Memorial BMA](https://upload.wikimedia.org/wikipedia/commons/0/04/Seafarers_Memorial_BMA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Den centrala stenstrukturen vid Seafarers' Memorial, invigd av Internationella sjöfartsorganisationen 2011.*
 
 ## Internationella sjöfartsorganisationens invigning
@@ -40,7 +40,7 @@ Den 13 januari 2011 hölls en officiell internationell ceremoni på campuset fö
 
 Monumentets utformning är medvetet återhållsam och saknar överflödig utsmyckning. Byggt i stramt murverk med tydliga inskriptioner skapar det en stillsam samlingspunkt på akademins centrala torg. Kadetterna samlas kring monumentet vid akademiska högtider, examensdagar och kvällsuppställningar. Placeringen garanterar att minnet av de omkomna förblir en del av den dagliga utbildningsmiljön och inte inskränks till enstaka minnesdagar.
 
-![Cadets during graduation parade at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-3.webp)
+![Cadets during graduation parade at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/3/30/Bangladesh_Marine_Academy_Officer_Cadets_Graduation_%26_Passing_Out_Parade.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Officerskadetter uppställda i formation under den årliga examensparaden vid akademin.*
 
 ## Vardagsliv och stilla hågkomst

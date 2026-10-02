@@ -22,7 +22,7 @@ Nel territorio di Sonargaon, all'interno del distretto di Narayanganj a circa tr
 
 La collocazione topografica di Panam Nagar è stata determinata dall'idrografia fluviale. Cinta su tre lati da canali di difesa denominati Pankhiraj Khal, la città fungeva da porto interno direttamente collegato ai bacini fluviali della Meghna e della Shitalakshya. Tale rete navigabile consentiva alle imbarcazioni di movimentare derrate agricole, cotone grezzo e stoffe pregiate dall'area orientale del Bengala verso le rotte marittime del golfo del Bengale.
 
-![Dimora mercantile a due piani con prospetti coloniali e porticati ad arco a Panam Nagar](/images/atlas/panam-nagar-inline-1.webp)
+![Dimora mercantile a due piani con prospetti coloniali e porticati ad arco a Panam Nagar](https://upload.wikimedia.org/wikipedia/commons/5/5c/A_dwelling_at_Panam_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Dimora mercantile a due piani con prospetti coloniali e porticati ad arco a Panam Nagar.*
 
 ## Da capitale del sultanato a centro mercantile coloniale
@@ -33,7 +33,7 @@ Una decisiva mutazione economica si compì nel 1610, allorché il viceré moghul
 
 L'abitato visse una straordinaria ripresa all'inizio del XIX secolo. Famiglie mercantili indù, note con i patronimici di Poddar e Tili, stabilirono a Panam Nagar la propria sede operativa per il commercio di filati industriali, cotone, iuta e indaco. Tra il 1810 e il 1910, queste famiglie edificarono palazzetti urbani allineati lungo la strada principale, innestando stilemi architettonici europei sulle consuetudini costruttive tradizionali del Bengala.
 
-![La strada lastricata coloniale di 600 metri costeggiata da case commerciali abbandonate dell'Ottocento](/images/atlas/panam-nagar-inline-2.webp)
+![La strada lastricata coloniale di 600 metri costeggiata da case commerciali abbandonate dell'Ottocento](https://upload.wikimedia.org/wikipedia/commons/d/d2/Panam_City%2C_Sonargaon%2C_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: La strada lastricata coloniale di 600 metri costeggiata da case commerciali abbandonate dell'Ottocento.*
 
 ## Sintesi di linguaggi architettonici
@@ -44,7 +44,7 @@ I capomastri locali seppero fondere dettagli ornamentali classici con le abilit�
 
 La scansione funzionale degli ambienti rispondeva a esigenze lavorative e familiari. I vani al piano terreno aperti sulla via ospitavano uffici di rappresentanza, botteghe e magazzini protetti per le pezze di tessuto. I piani superiori accoglievano gli alloggi domestici affacciati su corti interne scoperte che garantivano illuminazione e ventilazione naturale nel clima monsonico. Gli accessi posteriori si aprivano su canali secondari, agevolando il carico delle merci sui barconi senza ostacolare il transito viario.
 
-![Tempio storico in cotto ed edifici residenziali nel comprensorio monumentale di Sonargaon](/images/atlas/panam-nagar-inline-3.webp)
+![Tempio storico in cotto ed edifici residenziali nel comprensorio monumentale di Sonargaon](https://upload.wikimedia.org/wikipedia/commons/1/13/An_ancient_temple_in_Panam_Nagar%2C_Bangladesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Tempio storico in cotto ed edifici residenziali nel comprensorio monumentale di Sonargaon.*
 
 ## Abbandono, tutela e conservazione moderna

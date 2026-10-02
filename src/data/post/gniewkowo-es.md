@@ -20,7 +20,7 @@ metadata:
 
 Situada entre Inowrocław y Toruń en las llanuras históricas de Cuyavia, la ciudad de Gniewkowo representa uno de los asentamientos medievales más destacados del centro-norte de Polonia. Documentada por primera vez en 1185, la población pasó de ser un puesto militar de la dinastía Piasta a convertirse en la capital de un ducado autónomo, resistiendo acometidas teutónicas, invasiones suecas y la ocupación del siglo veinte. El trazado urbano y sus edificios de ladrillo reflejan más de ocho siglos de transformaciones en la frontera entre la Gran Polonia y Pomerania.
 
-![Iglesia de San Nicolás y Santa Constanza en Gniewkowo](/images/atlas/gniewkowo-inline-1.webp)
+![Iglesia de San Nicolás y Santa Constanza en Gniewkowo](https://upload.wikimedia.org/wikipedia/commons/f/f0/SM_Gniewkowo_ko%C5%9Bci%C3%B3%C5%82_Miko%C5%82aja_i_Konstancji_%286%29_ID_601858.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: La iglesia de San Nicolás y Santa Constanza, templo gótico de ladrillo en Gniewkowo.*
 
 ## El baluarte de los Piastas y el Ducado de Gniewkowo
@@ -29,7 +29,7 @@ Las excavaciones arqueológicas demuestran que las fértiles tierras de Gniewkow
 
 En 1314, tras el fallecimiento del duque Siemomysł de Inowrocław, sus dominios de Cuyavia se dividieron entre sus tres hijos. Casimiro III de Cuyavia heredó la comarca y proclamó el Ducado de Gniewkowo como entidad independiente. Situado en la línea de choque frente al Estado de la Orden Teutónica, el pequeño territorio encaró constantes hostilidades militares. En 1332, cuando los caballeros teutónicos cercaron la plaza, el duque Casimiro prendió fuego a su propio castillo para evitar que cayese en manos del invasor, replegándose hasta que el Tratado de Kalisz de 1343 le devolvió sus posesiones. Su hijo, el duque Ladislao el Blanco, hipotecó más tarde el feudo al rey Casimiro el Grande hacia la década de 1360, incorporando Gniewkowo de manera definitiva al patrimonio de la Corona de Polonia.
 
-![Fotografía histórica de la calle Sobieski en Gniewkowo en 1925](/images/atlas/gniewkowo-inline-2.webp)
+![Fotografía histórica de la calle Sobieski en Gniewkowo en 1925](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gniewkowo._ul._Sobieskiego._1925_%2869106403%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Imagen de archivo que muestra la calle Sobieski en Gniewkowo durante el periodo de entreguerras en 1925.*
 
 ## Particiones prusianas y trazado de la línea ferroviaria
@@ -38,7 +38,7 @@ Durante la Edad Moderna, Gniewkowo operó como ciudad real en el voivodato de In
 
 El gobierno prusiano aplicó medidas de germanización forzosa que alcanzaron su punto álgido en 1879, cuando las autoridades sustituyeron el nombre histórico polaco por la denominación alemana de Argenau. Cuando se impuso el alemán como única lengua para las clases de religión en las escuelas, las familias locales declararon huelgas escolares para preservar su lengua materna. Pese a las presiones, a finales del siglo diecinueve llegaron adelantos técnicos significativos. En 1873, la inauguración de la línea férrea Poznań-Toruń, actual línea estatal 353, conectó la localidad a las redes fabriles del país, sumándose el tendido eléctrico en 1908. Tras el Levantamiento de Gran Polonia de 1918, milicianos polacos consiguieron expulsar a las fuerzas imperiales, retornando Gniewkowo a la administración polaca en enero de 1920.
 
-![Monolito recordatorio en los bosques de Gniewkowo](/images/atlas/gniewkowo-inline-3.webp)
+![Monolito recordatorio en los bosques de Gniewkowo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Obelisk_w_lasach_gniewkowskich-miejsce_upmi%C4%99tniaj%C4%85ce_rozstrzelanie_ponad_4_tysi%C4%99cy_os%C3%B3b_przez_zbrodniarzy_niemieckich_w_latach_1939-1943._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Monumento en los bosques de Gniewkowo que recuerda a las miles de víctimas civiles ejecutadas en la Segunda Guerra Mundial.*
 
 ## Ocupación bélica y memoria colectiva

@@ -20,7 +20,7 @@ metadata:
 
 Güney Bosna-Hersek'te yer alan günümüz Stolac kenti üzerinde yükselen Vidoški surlu kenti, Bregava Nehri vadisine hâkim belirgin bir kireçtaşı sırtında kurulmuştur. 20.000 metrekareyi aşan bir alana yayılan bu savunma kompleksi, Batı Balkanlar'ın en büyük müstahkem kalelerinden birini temsil eder. Yapı dokusu, beş yüzyılı aşkın bir zamana yayılan farklı inşa evrelerini muhafaza ederek Orta Çağ Bosna beyleri, Osmanlı İmparatorluğu ve Avusturya-Macaristan askeri idaresi arasındaki hâkimiyet mücadelelerini günümüze taşır.
 
-![Güney Bosna-Hersek'te Stolac'ın konumunu gösteren fiziki harita](/images/atlas/walled-town-of-vido-ki-inline-1.webp)
+![Güney Bosna-Hersek'te Stolac'ın konumunu gösteren fiziki harita](https://upload.wikimedia.org/wikipedia/commons/5/50/Bosnia_and_Herzegovina_relief_location_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 1: Güney Bosna-Hersek'te Stolac'ın stratejik konumunu gösteren fiziki kabartma haritası.*
 
 ## Bregava kıyısındaki stratejik coğrafya
@@ -29,7 +29,7 @@ Hisar, Adriyatik kıyılarını Balkanlar'ın iç kesimlerine bağlayan doğal k
 
 On beşinci yüzyılda kale, komşu hükümdarların genişleme hamlelerine karşı Kosača topraklarının doğu sınır hattını koruyordu. Hisar, adını Bregava'nın Orta Çağ'daki adı olan Vidoštica Irmağı'ndan ve bölgedeki Aziz Vitus kültünden almıştır. Sarp kireçtaşı kayalıklar üzerine inşa edilen kale surları; Dubrovnik ile iç bölgelerdeki ticaret merkezleri arasında tuz, dokuma ve maden taşıyan kervanların geçişini denetim altında tutuyordu.
 
-![Hersek-Neretva Kantonu idari haritası](/images/atlas/walled-town-of-vido-ki-inline-2.webp)
+![Hersek-Neretva Kantonu idari haritası](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bosnia_and_Herzegovina_subdivision_map_Herzegovina-Neretva_Canton.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 2: Kalenin Bregava Nehri vadisini denetlediği Hersek-Neretva Kantonu haritası.*
 
 ## Üç savunma kademesi ve yapısal mimari
@@ -40,7 +40,7 @@ Aşağı hisar, kuzeybatı yamacı boyunca 8.481 metrekarelik bir alanı kaplar.
 
 Yukarı hisar, 8.579 metrekarelik bir alanda tepenin en yüksek kaya düzlüğünü taçlandırır. Bu hâkim mevkii beş savunma kulesi koruyordu. En doğudaki kule cephanelik ve baruthane olarak kullanılmış, yıldırım düşmelerine ve uzun süreli kuşatmalara direnmiştir. Yağmur suyunun toplanması garnizonun hayatta kalmasında hayati önem taşıyordu; hisar geneline dağıtılmış on ayrı taş sarnıç, kurak yaz aylarında ve düşman kuşatmalarında askerlere yetecek suyu depoluyordu.
 
-![Stolac yakınlarında yer alan yontma taş stećak mezar taşları](/images/atlas/walled-town-of-vido-ki-inline-3.webp)
+![Stolac yakınlarında yer alan yontma taş stećak mezar taşları](https://upload.wikimedia.org/wikipedia/commons/4/40/Bosniangraves_bosniska_gravar_februari_2007_stecak_stecci3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 3: Stolac civarında bulunan ve Bosna Krallığı devrine ait oyma taş Orta Çağ stećci mezar taşları.*
 
 ## Osmanlı fethi ve Avusturya-Macaristan dönüşümü

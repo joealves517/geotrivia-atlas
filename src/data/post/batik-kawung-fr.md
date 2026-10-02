@@ -22,7 +22,7 @@ Dans les cours royales du centre de Java, l'art textile constituait un code rigo
 
 Les premiers témoins matériels du motif apparaissent gravés sur des statues en pierre du XIIIe siècle à l'est de Java, notamment sur des bas-reliefs de temples associés aux dynasties Singhasari et Majapahit. Des représentations sculptées de divinités et de souverains portent des pagnes drapés ornés de cercles à quatre pétales imbriqués, prouvant que cette géométrie précédait de plusieurs siècles l'essor des techniques modernes d'application de cire à la réserve.
 
-![Archival sample of Kawung kemplung batik pattern collected before 1891](/images/atlas/batik-kawung-inline-1.webp)
+![Archival sample of Kawung kemplung batik pattern collected before 1891](https://upload.wikimedia.org/wikipedia/commons/3/32/Collectie_NMvWereldculturen%2C_RV-847-76%2C_Batikpatroon%2C_%27Kawung_kemplung%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Échantillon d'archive du motif Kawung kemplung collecté avant 1891, conservé au Musée national des cultures du monde.*
 
 ### L'énigme botanique: Fruit du palmier ou lotus sacré
@@ -31,7 +31,7 @@ Les premiers témoins matériels du motif apparaissent gravés sur des statues e
 
 Une interprétation parallèle, issue de l'iconographie classique hindouiste et bouddhiste, voit dans ces quatre lobes les pétales épanouis d'une fleur de lotus (*padma*). Dans la pensée javanaise, le lotus incarne la pureté et la pérennité parce qu'il prend racine dans la vase des étangs tout en déployant une corolle immaculée au-dessus des eaux. Qu'il procède de l'humble palmier sucrier ou du lotus sacré, le tracé exprime un équilibre naturel où quatre éléments extérieurs protègent un centre paisible et dépouillé.
 
-![Stone architectural relief featuring the repetitive circular Kawung pattern](/images/atlas/batik-kawung-inline-2.webp)
+![Stone architectural relief featuring the repetitive circular Kawung pattern](https://upload.wikimedia.org/wikipedia/commons/9/95/Kawung_motif_in_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Relief architectural en pierre présentant la géométrie quadripartite du Kawung, rappelant les bas-reliefs des temples javanais.*
 
 ### Cosmologie et les quatre gardiens
@@ -40,7 +40,7 @@ L'ordonnancement géométrique du Batik Kawung matérialise directement un pilie
 
 À la croisée des quatre lobes extérieurs réside le cinquième élément: l'âme spirituelle et le foyer moral de l'individu. Revêtir le motif Kawung constituait un rappel spirituel permanent. Celui qui le portait s'engageait à dompter ses pulsions, à préserver son équilibre face aux tourments du monde et à gouverner avec mesure. La ligne circulaire ceignant chaque groupe de quatre pétales incarnait la maîtrise de soi, rappelant aux dignitaires du palais que l'exercice du pouvoir sans modération conduit inéluctablement à la ruine.
 
-![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](/images/atlas/batik-kawung-inline-3.webp)
+![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](https://upload.wikimedia.org/wikipedia/commons/b/bd/Collectie_NMvWereldculturen%2C_RV-847-85%2C_Batikpatroon%2C_%27Kawung_picis%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Fragment textile de la fin du XIXe siècle illustrant le Kawung picis, proportionné au diamètre de petites pièces de monnaie.*
 
 ### Décrets royaux et les motifs prohibés

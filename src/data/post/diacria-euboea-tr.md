@@ -22,7 +22,7 @@ Euboea Adası'nın kuzeydoğu kıyısı boyunca balıkçı köyleri ve kayalık 
 
 Diacria coğrafi adı, dağlık ya da yüksek arazi anlamına gelen Yunanca sözcükten türetilmiş olup dik yamaçlarda kurulan yerleşimleri tanımlamak için kullanılırdı. Euboea'da kentin arazisi, Ege Denizi kıyısındaki modern Pili köyünün yakınlarında bulunuyordu. Euboea'yı Boeotia ve Attika'dan ayıran korunaklı körfez sularının aksine, bu dış kıyı açık denize bakıyor; gemileri öngörülemeyen akıntılara, mevsimlik kuzey rüzgarlarına ve sarp burunlara maruz bırakıyordu.
 
-![Euboea Adası'ndaki Eretria akropol surlarının klasik taş işçiliği](/images/atlas/diacria-euboea-inline-1.webp)
+![Euboea Adası'ndaki Eretria akropol surlarının klasik taş işçiliği](https://upload.wikimedia.org/wikipedia/commons/a/ac/Part_of_the_wall_of_the_Acropolis_of_Eretria_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 1: Euboea Adası'ndaki Eretria akropol surlarının klasik taş işçiliği.*
 
 ## Epik şiir ve Ege'de denizcilik anlatıları
@@ -33,7 +33,7 @@ Lycophron, kazazedelerin karaya çıktığı kıyılardan biri olarak Diacrialı
 
 Homerik destanlar Diacria'nın adını doğrudan anmasa da Lycophron, coğrafi fihristini oluştururken adalara özgü sözlü geleneklerden yararlanmıştır. Diacria'nın riskli deniz rotalarıyla ilişkilendirilmesi, antik çağda Euboea'nın doğu kıyısındaki deniz ulaşımının güçlüklerini yansıtır.
 
-![Antik Euboea kent devletlerinin deniz yollarını denetleyen savunma surları](/images/atlas/diacria-euboea-inline-2.webp)
+![Antik Euboea kent devletlerinin deniz yollarını denetleyen savunma surları](https://upload.wikimedia.org/wikipedia/commons/0/01/Eretria_ancient_city_walls_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 2: Antik Euboea kent devletlerinin deniz yollarını denetleyen savunma surları.*
 
 ## Delos Birliği'nde vergilendirme sistemi
@@ -44,7 +44,7 @@ Atina Akropolisi'nde bulunan mermer steller, Peloponnesos Savaşı sırasında D
 
 MÖ 425/424 tarihli bir Atina mali kararnamesi, hem Diacria'yı hem de Khalkislilerin Diacres'i olarak adlandırılan ayrı bir birimi listeleyerek coğrafi netlik sağlar. Tarihçiler, bu ayrımın Euboea'da iki farklı vergi bölgesinin varlığını kanıtladığını belirtir: Diacres, Euripus Boğazı'ndaki Khalkis etki alanına bağlıyken, Diacria kenti Eretria ile bağlantılı kıyı kuşağında yer alıyordu.
 
-![Antik kıyı yerleşimlerinin ardında yükselen Orta Euboea sıradağları](/images/atlas/diacria-euboea-inline-3.webp)
+![Antik kıyı yerleşimlerinin ardında yükselen Orta Euboea sıradağları](https://upload.wikimedia.org/wikipedia/commons/d/df/Mount_Olympus_%28Euboea%29_from_the_ancient_citadel_of_Eretria_on_January_16%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 3: Antik kıyı yerleşimlerinin ardında yükselen Orta Euboea sıradağları.*
 
 ## Topografya, demeler ve arkeolojik araştırmalar

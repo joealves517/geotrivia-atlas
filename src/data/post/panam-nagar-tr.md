@@ -22,7 +22,7 @@ Narayanganj Bölgesi'ne bağlı Sonargaon Upazila sınırları içinde, Dakka'n�
 
 Panam Nagar'ın coğrafi konumu akarsu yollarıyla şekillenmiştir. Üç tarafı Pankhiraj Khal olarak bilinen koruyucu kanallarla çevrili olan kasaba, Meghna ve Shitalakshya nehir sistemlerine doğrudan bağlı bir iç liman vazifesi görüyordu. Bu su yolu bağlantısı, ticaret teknelerinin tarım ürünlerini, ham pamuğu ve ince dokuma kumaşları Doğu Bengal'den Bengal Körfezi'ndeki uluslararası deniz ticaret ağlarına taşımasına imkan sağlıyordu.
 
-![Panam Nagar'da Hint-Avrupa sömürge mimarisine sahip iki katlı tuğla tüccar konağı ve kemerli revaklar](/images/atlas/panam-nagar-inline-1.webp)
+![Panam Nagar'da Hint-Avrupa sömürge mimarisine sahip iki katlı tuğla tüccar konağı ve kemerli revaklar](https://upload.wikimedia.org/wikipedia/commons/5/5c/A_dwelling_at_Panam_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 1: Panam Nagar'da Hint-Avrupa sömürge mimarisine sahip iki katlı tuğla tüccar konağı ve kemerli revaklar.*
 
 ## Sultanlık başkentinden sömürge dönemi ticaret merkezine
@@ -33,7 +33,7 @@ Panam Nagar'ın geçmişi, Sonargaon'un Deva Hanedanı'nın yönetim merkezi ve 
 
 Kasaba, 19. yüzyılın başlarında İngiliz sömürge idaresi altında ticari bir canlanma yaşadı. Bölgede Poddar ve Tili olarak bilinen varlıklı Hindu tüccar aileleri, iplik, ham pamuk, jüt ve çivit otu ticareti yapmak üzere Panam Nagar'ı merkez edindi. 1810 ile 1910 yılları arasında bu tüccar aileleri ana yol boyunca bitişik nizam şehir konakları inşa ederek Avrupa mimari biçimlerini geleneksel Bengal yapı yöntemleriyle birleştirdi.
 
-![Terk edilmiş 19. yüzyıl ticaret konaklarının sıralandığı 600 metrelik taş döşeli tarihi cadde](/images/atlas/panam-nagar-inline-2.webp)
+![Terk edilmiş 19. yüzyıl ticaret konaklarının sıralandığı 600 metrelik taş döşeli tarihi cadde](https://upload.wikimedia.org/wikipedia/commons/d/d2/Panam_City%2C_Sonargaon%2C_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 2: Terk edilmiş 19. yüzyıl ticaret konaklarının sıralandığı 600 metrelik taş döşeli tarihi cadde.*
 
 ## Mimari tarzların özgün sentezi
@@ -44,7 +44,7 @@ Bölgenin usta yapıcıları klasik Batı detaylarını yerel el sanatlarıyla h
 
 Binaların mekan kurgusu hem ticari hem de konut amaçlı ihtiyaçları karşılıyordu. Caddeye bakan zemin kat odaları yazıhane, dükkan ve kumaş balyaları için korunaklı depo olarak kullanılıyordu. Üst katlar ise nemli muson ikliminde doğal havalandırma ve ışık sağlayan açık iç avluların çevresinde konumlanmış yaşam alanlarına ayrılmıştı. Arka çıkışlar tali kanallara açılıyor, böylece mallar sokak trafiğini aksatmadan mavnalara yüklenebiliyordu.
 
-![Sonargaon tarihi sit alanında yer alan pişmiş toprak tuğlalı tarihi tapınak ve konutlar](/images/atlas/panam-nagar-inline-3.webp)
+![Sonargaon tarihi sit alanında yer alan pişmiş toprak tuğlalı tarihi tapınak ve konutlar](https://upload.wikimedia.org/wikipedia/commons/1/13/An_ancient_temple_in_Panam_Nagar%2C_Bangladesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 3: Sonargaon tarihi sit alanında yer alan pişmiş toprak tuğlalı tarihi tapınak ve konutlar.*
 
 ## Terk ediliş, koruma ve modern miras

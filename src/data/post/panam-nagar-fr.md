@@ -22,7 +22,7 @@ Située dans l'upazila de Sonargaon au sein du district de Narayanganj, à envir
 
 La situation géographique de Panam Nagar dépendait étroitement de son réseau hydrographique. Entourée sur trois côtés par des canaux défensifs appelés Pankhiraj Khal, l'agglomération fonctionnait comme un port intérieur relié aux cours d'eau de la Meghna et de la Shitalakshya. Cet accès fluvial permettait aux bateaux de commerce d'acheminer les denrées agricoles, le coton brut et les tissus ouvragés depuis le Bengale oriental directement vers les circuits maritimes du golfe du Bengale.
 
-![Résidence de marchand à un étage associant façades coloniales et portiques en arcades à Panam Nagar](/images/atlas/panam-nagar-inline-1.webp)
+![Résidence de marchand à un étage associant façades coloniales et portiques en arcades à Panam Nagar](https://upload.wikimedia.org/wikipedia/commons/5/5c/A_dwelling_at_Panam_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1 : Résidence de marchand à un étage associant façades coloniales et portiques en arcades à Panam Nagar.*
 
 ## De la capitale du sultanat au carrefour marchand colonial
@@ -33,7 +33,7 @@ Une rupture économique majeure intervint en 1610, lorsque le gouverneur moghol 
 
 L'agglomération connut un renouveau remarquable au début du XIXe siècle. De riches familles marchandes hindoues, connues sous les noms de Poddars et Tilis, choisirent Panam Nagar comme centre d'affaires pour commercer le fil manufacturé, le coton brut, le jute et l'indigo. Entre 1810 et 1910, ces lignées négociantes construisirent des manoirs urbains contigus le long de la voie principale, mariant des formes architecturales européennes aux traditions constructives locales.
 
-![L'artère coloniale pavée de 600 mètres bordée de maisons de commerce abandonnées du XIXe siècle](/images/atlas/panam-nagar-inline-2.webp)
+![L'artère coloniale pavée de 600 mètres bordée de maisons de commerce abandonnées du XIXe siècle](https://upload.wikimedia.org/wikipedia/commons/d/d2/Panam_City%2C_Sonargaon%2C_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2 : L'artère coloniale pavée de 600 mètres bordée de maisons de commerce abandonnées du XIXe siècle.*
 
 ## Synthèse des styles architecturaux
@@ -44,7 +44,7 @@ Les maîtres maçons locaux intégrèrent des éléments ornementaux classiques 
 
 La distribution intérieure répondait à une double vocation commerciale et résidentielle. Les pièces du rez-de-chaussée donnant sur la rue servaient de bureaux, de boutiques et de magasins sécurisés pour les tissus. Les étages supérieurs accueillaient les logements familiaux disposés autour de cours intérieures découvertes, favorisant la ventilation naturelle et l'éclairage sous le climat de mousson. Des issues à l'arrière donnaient sur des canaux secondaires, facilitant le chargement des marchandises sur des embarcations fluviales.
 
-![Temple historique en terre cuite et bâtiments résidentiels du site patrimonial de Sonargaon](/images/atlas/panam-nagar-inline-3.webp)
+![Temple historique en terre cuite et bâtiments résidentiels du site patrimonial de Sonargaon](https://upload.wikimedia.org/wikipedia/commons/1/13/An_ancient_temple_in_Panam_Nagar%2C_Bangladesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3 : Temple historique en terre cuite et bâtiments résidentiels du site patrimonial de Sonargaon.*
 
 ## Abandon, sauvegarde et statut patrimonial

@@ -22,7 +22,7 @@ In de ruige hooglanden van Oost-Albanië, waar het Mokragebergte grenst aan het 
 
 Eeuwenlang werd het oude Illyrië vooral bekeken door de vijandige bril van Grieks-Romeinse kroniekschrijvers, die de stammen veelal afschilderden als nietsontziende plunderaars uit de bergen of gevreesde zeeroviers. De archeologische vondsten in Selcë e Poshtme weerleggen dit eenzijdige beeld. Zij bewijzen het bestaan van een Illyrische elite die de hoogste steenhouwerskunst beheerste, de klassieke Griekse zuilenorden integreerde en ingenieuze ondergrondse grafkamers ontwierp die wedijverden met de vorstelijke graftombes van Macedonië en Epirus.
 
-![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-1.webp)
+![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/0/06/Selca_e_Poshtme_Tombs1-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Panoramisch gezicht op graven 1 tot en met 3, uitgehouwen in de getrapte rotswand boven het dal van de Shkumbin. Foto door Albinfo (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ De strategische ligging van het Shkumbindal verklaart waarom deze afgelegen berg
 
 Verschillende historici en archeologen identificeren deze versterkte akropolis met Pelion, de koninklijke burcht die de geschiedschrijver Arrianus noemt in zijn relaas over de Balkancampagne van Alexander de Grote. In 335 v.Chr. sloot Cleitus, koning van de Illyrische Dassareten, een bondgenootschap met Glaukias van de Taulantiërs en verschanste zich achter de wallen van Pelion. Alexander voerde een riskante belegering uit en ontsnapte ternauwernood aan een omsingeling in de bergpassen voordat hij de Illyriërs in de wouden verdreef. Hoewel de burcht ook na het vertrek van de Macedoniërs bewoond bleef, veranderden de lokale vorsten de rotswand onder de muren in een blijvend dynastiek gedenkteken.
 
-![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-2.webp)
+![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/2/25/Selca_e_Poshtme_Tomb4_Facade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: De klassieke Ionische zuilenrij en het fronton die bij graf 4 rechtstreeks uit de rotsen zijn gehakt. Foto door Albinfo (CC BY-SA 3.0).*
 
@@ -40,7 +40,7 @@ Graf 1 vertoont een monumentale rotsgevel met twee Ionische halfzuilen geflankee
 
 Het nabijgelegen graf 2 getuigt van een volstrekt ander ruimtelijk concept. De bouwers vormden de rots om tot een monument met twee niveaus, bestaande uit een halfrond theater met stenen zitbanken boven een ondergrondse grafkelder. Onderzoekers vermoeden dat deze stenen tribune dienstdeed als ceremonieel platform voor rituele plengoffers en herdenkingen, waardoor rouwenden bijeen konden komen vlak boven de overleden monarch met uitzicht over de gewijde vallei.
 
-![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](/images/atlas/selce-e-poshtme-royal-tombs-inline-3.webp)
+![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](https://upload.wikimedia.org/wikipedia/commons/1/16/Selca_e_Poshtme_Tomb3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Interieur van de ondergrondse grafkamer van graf 3 met het stenen rustbed (kline) toegeschreven aan koning Monunius. Foto door Albinfo (CC BY-SA 3.0).*
 
@@ -50,7 +50,7 @@ Archeologisch onderzoek verbindt graf 3 overtuigend aan koning Monunius, een Ill
 
 Graf 4 bezit de meest spectaculaire gevel van de vindplaats. De steenhouwers kapten een complete tempelvoorgevel uit in een zeventig meter hoge loodrechte rotswand, compleet met vier vrijstaande Ionische zuilen onder een driehoekig timpaan. Reliëfs met afbeeldingen van ovale Illyrische schilden en ruiterhelmen sieren de ingang. Een diepe dromos loopt door het massief naar een royale grafkamer met meerdere nissen (loculi), die generaties lang fungeerde als koninklijk mausoleum.
 
-![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](/images/atlas/selce-e-poshtme-royal-tombs-inline-4.webp)
+![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](https://upload.wikimedia.org/wikipedia/commons/6/69/Selca_e_Poshtme%2C_Albania_%E2%80%93_Monumental_antique_tombs_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Muurwerk en terrassen van de koninklijke necropolis met uitzicht op het Mokragebergte. Foto door Attila Terbócs (CC BY-SA 4.0).*
 

@@ -22,7 +22,7 @@ Lungo la costa nord-orientale dell'isola di Eubea, piccoli borghi marinari e fal
 
 Il toponimo Diacria deriva dal vocabolo greco riferito ai rilievi montuosi o d'altura, impiegato per indicare abitati sorti su pendii impervi. Sull'isola di Eubea, il territorio della città sorgeva nelle adiacenze dell'odierno paese di Pili, affacciato sulle acque dell'Egeo. A differenza del golfo protetto che separa l'Eubea dalla Beozia e dall'Attica, questo versante esterno guardava al mare aperto, esponendo le imbarcazioni a correnti variabili, venti settentrionali stagionali e ripide scogliere.
 
-![Apparecchiatura muraria classica lungo le difese dell'acropoli di Eretria sull'isola di Eubea](/images/atlas/diacria-euboea-inline-1.webp)
+![Apparecchiatura muraria classica lungo le difese dell'acropoli di Eretria sull'isola di Eubea](https://upload.wikimedia.org/wikipedia/commons/a/ac/Part_of_the_wall_of_the_Acropolis_of_Eretria_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Apparecchiatura muraria classica lungo le difese dell'acropoli di Eretria sull'isola di Eubea.*
 
 ## Poesia epica e navigazioni nell'Egeo antico
@@ -33,7 +33,7 @@ Licofrone cita il territorio dei diacri tra le coste su cui trovarono scampo div
 
 Benché le opere omeriche non nominino direttamente Diacria, Licofrone attinse ai racconti isolani per comporre il suo catalogo geografico. Il legame tra Diacria e rotte marittime insidiose testimonia le difficoltà nautiche che contraddistinguevano la costa orientale dell'Eubea nell'antichità.
 
-![Mura di difesa delle antiche città-stato eubee preposte al controllo degli accessi marittimi](/images/atlas/diacria-euboea-inline-2.webp)
+![Mura di difesa delle antiche città-stato eubee preposte al controllo degli accessi marittimi](https://upload.wikimedia.org/wikipedia/commons/0/01/Eretria_ancient_city_walls_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Mura di difesa delle antiche città-stato eubee preposte al controllo degli accessi marittimi.*
 
 ## Imposizione tributaria nella Lega delio-attica
@@ -44,7 +44,7 @@ Le stele di marmo scoperte sull'Acropoli di Atene attestano i versamenti erogati
 
 Un decreto finanziario ateniese del 425/424 a.C. offre un'ulteriore precisazione geografica menzionando separatamente Diacria e un altro distretto denominato Diacres o Diacres dei Calcidesi. Gli studiosi ritengono che ciò certifichi l'esistenza di due entità fiscali distinte in Eubea: Diacres dipendeva dall'orbita di Calcide presso lo stretto dell'Euripo, mentre Diacria gravitava nell'area costiera controllata da Eretria.
 
-![Rilievi montuosi dell'Eubea centrale alle spalle dei comprensori costieri antichi](/images/atlas/diacria-euboea-inline-3.webp)
+![Rilievi montuosi dell'Eubea centrale alle spalle dei comprensori costieri antichi](https://upload.wikimedia.org/wikipedia/commons/d/df/Mount_Olympus_%28Euboea%29_from_the_ancient_citadel_of_Eretria_on_January_16%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Rilievi montuosi dell'Eubea centrale alle spalle dei comprensori costieri antichi.*
 
 ## Topografia, demi e indagine archeologica

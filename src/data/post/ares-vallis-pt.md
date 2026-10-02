@@ -22,7 +22,7 @@ Através dos planaltos avermelhados de Marte, profundos desfiladeiros rasgam uma
 
 O imenso volume de rochas e sedimentos transportado ao longo de Ares Vallis indica vazões de água que superam amplamente qualquer registro na história da humanidade. Geólogos planetários estimam que as vazões máximas ultrapassaram dezenas de milhões de metros cúbicos por segundo. Essas inundações catastróficas removeram a cobertura superficial até o leito rochoso, deixando para trás monumentais ilhas hidrodinâmicas em formato de gota apontando para jusante na direção da enxurrada.
 
-![Perspective view of Ares Vallis showing teardrop-shaped islands](/images/atlas/ares-vallis-inline-1.webp)
+![Perspective view of Ares Vallis showing teardrop-shaped islands](https://upload.wikimedia.org/wikipedia/commons/2/21/Ares_Vallis_in_perspective_ESA229658.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Representação em perspectiva de Ares Vallis obtida pela sonda Mars Express da ESA, exibindo ilhas em forma de gota esculpidas por inundações cataclísmicas.*
 
 ## O colapso de Iani Chaos e os gatilhos vulcânicos
@@ -31,7 +31,7 @@ A origem dos volumes de água que esculpiram Ares Vallis encontra-se nos terreno
 
 Quando o gelo subterrâneo derreteu sob pressão, as camadas rochosas superiores perderam sustentação e colapsaram para o interior. A água brotou violentamente na superfície marciana em gêiseres de grande escala e torrentes torrenciais, fendendo o relevo adjacente e inaugurando o acesso meridional de Ares Vallis. Imagens orbitais de alta resolução mostram que redes de lagos interconectados cobriam os planaltos equatoriais. À medida que cada bacia atingia a capacidade máxima, as águas rompiam as bordas, entalhando canais sucessivos rumo às depressões mais baixas.
 
-![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](/images/atlas/ares-vallis-inline-2.webp)
+![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/3/3a/Sojourner_on_Mars_PIA01122.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: A sonda Mars Pathfinder da NASA e o veículo Sojourner inspecionando rochas vulcânicas na planície aluvial de Ares Vallis em 1997.*
 
 ## O pouso histórico da Mars Pathfinder
@@ -40,7 +40,7 @@ O leque aluvial onde Ares Vallis conflui para Chryse Planitia constituía um pon
 
 O Sojourner examinou seixos arredondados, blocos imbricados e inclinados no sentido das correntes do passado e fragmentos vulcânicos estratificados distribuídos pelo solo. A orientação dessas rochas confirmou a passagem de ondas d'água massivas sobre a região, comprovando em solo as teses formuladas na década de 1970 a partir das imagens orbitais das sondas Viking. Essa constatação redefiniu o entendimento da evolução ambiental de Marte, demonstrando que a água líquida modelou a paisagem muito tempo após a formação primária do planeta.
 
-![Channel meander and layered sedimentary deposits in Ares Vallis](/images/atlas/ares-vallis-inline-3.webp)
+![Channel meander and layered sedimentary deposits in Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_-_Channel_Meander_in_Ares_Vallis_Region_%28ESP_012992_1860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Registro orbital de alta resolução da Mars Reconnaissance Orbiter mostrando meandros e terraços sedimentares em Ares Vallis.*
 
 ## A hipótese da mega-rede de drenagem planetária

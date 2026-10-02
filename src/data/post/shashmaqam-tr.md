@@ -22,7 +22,7 @@ metadata:
 
 Altı makamın her biri, Buzruk, Rast, Neva, Dügah, Segah ve Irak, düzinelerce sözlü ve çalgısal bölümden oluşan kapsamlı bir döngüsel eser niteliğindedir. Basit halk ezgilerinden çok uzak olan bu besteler; makamsal geçişleri, usulleri ve şiirsel irticalleri belirleyen katı kurallara dayanır. Yüzyıllar boyunca Buhara emirlerinin saray himayesi, Yahudi, Tacik ve Özbek sanatkarların bir araya gelerek bu sözlü sanat formunu nesiller boyu geliştirdiği ve aktardığı resmi bir zemin sağladı.
 
-![Traditional folk music ensemble in Central Asia](/images/atlas/shashmaqam-inline-1.webp)
+![Traditional folk music ensemble in Central Asia](https://upload.wikimedia.org/wikipedia/commons/9/96/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Orta Asya'da akustik lavtalar ve çerçeve davullarıyla makam süitlerini icra eden geleneksel müzik topluluğu.*
 
 ## Makam süitlerinin akustik mimarisi
@@ -31,7 +31,7 @@ Altı makamın her biri, Buzruk, Rast, Neva, Dügah, Segah ve Irak, düzinelerce
 
 İcracılar yazılı notalara dayanmaz; mikrotonal perde nüanslarını ve ritmik yapıları ustod-şogird olarak bilinen doğrudan usta-çırak eğitimiyle kuşaktan kuşağa devrederler. Hanendeler, klasik Fars ve Çağatay Türkçesi şiirlerinden seçilen beyitleri okuyarak Hafız, Cami, Nevai ve Bedil gibi mutasavvıfların mistik metinlerini nağmelere dökerler. Bu edebi metinler, dünyevi aşk metaforlarını kullanarak ilahi aşk, ayrılık ve manevi vuslat gibi tasavvufi kavramları işler.
 
-![Uzbek musician playing the two-stringed dutar](/images/atlas/shashmaqam-inline-2.webp)
+![Uzbek musician playing the two-stringed dutar](https://upload.wikimedia.org/wikipedia/commons/e/e5/Joueur_de_dutar_ouzbek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Vokal süitlerin makamsal temelini oluşturan iki telli uzun saplı dutarı icra eden bir Özbek sanatkar.*
 
 ## İpek Yolu boyunca koruma ve siyasi değişimler
@@ -40,7 +40,7 @@ Yirminci yüzyılın siyasi çalkantıları, Şaşmakam'ın toplumsal bağlamın
 
 Kurumsal müdahalelere rağmen canlı usta-çırak geleneği, özellikle Buhara Yahudisi ve Tacik müzisyen ailelerinin hanedanlarında varlığını korudu. Yirminci yüzyılın sonlarındaki yoğun göç dalgaları sırasında usta icracılar bu mirası Tel Aviv ve New York'taki diaspora topluluklarına taşıyarak Orta Asya sahnelerinde kaybolmaya yüz tutan yerel üslupları muhafaza etti.
 
-![Traditional vocalists accompanied by long-necked lutes in Samarkand](/images/atlas/shashmaqam-inline-3.webp)
+![Traditional vocalists accompanied by long-necked lutes in Samarkand](https://upload.wikimedia.org/wikipedia/commons/b/b6/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F_%D0%B2_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_%D0%9D%D0%B0%D1%81%D0%B8%D0%B1%D1%8B_%D0%9E%D0%BC%D0%BE%D0%BD%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B8_%D0%9A%D0%B0%D0%BC%D0%BE%D0%BB%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BC%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Semerkant'ta uzun saplı lavtalar eşliğinde klasik tasavvuf şiirinden mısralar terennüm eden geleneksel hanendeler.*
 
 ## Küresel tescil ve yaşayan gelenek

@@ -22,7 +22,7 @@ Kontrol Hattı, Cammu ve Keşmir'in engebeli dağlık arazisi boyunca 740 kilome
 
 Hat, tüm uzanımı boyunca aşırı rakım farklılıklarını geride bırakır. Akhnoor yakınlarında Chenab Nehri boyunca uzanan güney ovalarından başlar, Pir Panjal sıradağlarındaki yoğun çam ormanlarının arasından geçer ve Kargil, Dras ile Saltoro Sırtı çevresindeki Büyük Himalaya buzullarının bulunduğu zirvelere yükselir. Her iki tarafta yüz binlerce asker, deniz seviyesinden 4.000 metreyi aşan yüksekliklerde konuşlu ileri karakollarda, beton sığınaklarda ve topçu gözetleme mevkilerinde nöbet tutmaktadır.
 
-![Keşmir'in Himalaya arazisinde Kontrol Hattı'nın güzergahını gösteren harita incelemesi](/images/atlas/line-of-control-kashmir-border-inline-1.webp)
+![Keşmir'in Himalaya arazisinde Kontrol Hattı'nın güzergahını gösteren harita incelemesi](https://upload.wikimedia.org/wikipedia/commons/0/03/Line_of_Control_LoC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 1: Keşmir'in Himalaya arazisinde Kontrol Hattı'nın güzergahını gösteren harita incelemesi.*
 
 ## Askeri sınır çizgisinin kökenleri
@@ -33,7 +33,7 @@ Bunun ardından Keşmir'in vadilerinde, dağ geçitlerinde ve karlı yaylaların
 
 27 Temmuz 1949'da imzalanan Karaçi Anlaşması ile resmi Ateşkes Hattı kuruldu. UNMOGIP çatısı altında örgütlenen Birleşmiş Milletler askeri gözlemcileri, ateşkese uyumu denetlemek ve ihlalleri kayda geçirmek için hat boyunca konuşlandırıldı. Bu hat tarihi prensliği ikiye böldü: Hindistan tarafı Keşmir Vadisi, Cammu ve Ladakh'ı kontrolü altında tutarken, Pakistan tarafı daha sonra Gilgit-Baltistan adını alacak olan Azad Keşmir ve Kuzey Bölgeleri'nin idaresini üstlendi.
 
-![Azad Keşmir'in batı yamaçlarından görülen tahkim edilmiş dağ sırtı ve sınır teli](/images/atlas/line-of-control-kashmir-border-inline-2.webp)
+![Azad Keşmir'in batı yamaçlarından görülen tahkim edilmiş dağ sırtı ve sınır teli](https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_and_India_Border_from_Azad_Kashmir_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 2: Azad Keşmir'in batı yamaçlarından görülen tahkim edilmiş dağ sırtı ve sınır teli.*
 
 ## 1972 Simla Anlaşması ile yaşanan dönüşüm
@@ -44,7 +44,7 @@ Pakistan'ın mağlubiyetinin ardından Hindistan Başbakanı Indira Gandhi ile P
 
 Ağustos ile Aralık 1972 arasında iki ordunun askeri haritacıları sahada ortak ölçüm çalışmaları yürüttü. Bu çalışmalar sonucunda güneydeki Chenab Nehri'nden Karakurum dağlarının derinliklerindeki ıssız bir noktaya kadar Kontrol Hattı'nın koordinatlarını kesinleştiren 19 ayrıntılı harita paftası hazırlandı.
 
-![İlk ateşkes hattı boyunca uzanan engebeli Dras sektörünü gösteren 1958 tarihli askeri harita](/images/atlas/line-of-control-kashmir-border-inline-3.webp)
+![İlk ateşkes hattı boyunca uzanan engebeli Dras sektörünü gösteren 1958 tarihli askeri harita](https://upload.wikimedia.org/wikipedia/commons/b/ba/Txu-pclmaps-oclc-181831961-dras-43-n-1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 3: İlk ateşkes hattı boyunca uzanan engebeli Dras sektörünü gösteren 1958 tarihli askeri harita.*
 
 ## Kuzey uç noktası ve buzullar savaşı
@@ -63,7 +63,7 @@ Kontrol Hattı, uzun yıllar boyunca sadece taş yığınları, ahşap direkler 
 
 Güvenlik çiti modern elektronik donanımlarla desteklenmektedir: yer altı sismik algılayıcıları, hareket sensörleri, termal kameralar ve gece görüş radarları. Devriyeler, sivil uçaklardan bile görülebilen aydınlatma projektörleri eşliğinde çit hattını aralıksız gözetler. Ağır kış şartları ve çığlar her yıl çitlerin bazı bölümlerini tahrip etse de istihkam taburları hasar gören kısımları her ilkbaharda onarmaktadır.
 
-![İhtilaflı sınır bölgesine komşu dağ vadileri ve taraçalı yerleşimler](/images/atlas/line-of-control-kashmir-border-inline-4.webp)
+![İhtilaflı sınır bölgesine komşu dağ vadileri ve taraçalı yerleşimler](https://upload.wikimedia.org/wikipedia/commons/7/73/Azad_Kashmire_of_Pakistan_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 4: İhtilaflı sınır bölgesine komşu dağ vadileri ve taraçalı yerleşimler.*
 
 ## Nehir hidrolojisi ve sınır rejimleri

@@ -22,7 +22,7 @@ Mars'ın pas rengi yaylaları boyunca uzanan dev kanyonlar, kraterlerle kaplı k
 
 Ares Vallis boyunca taşınan kaya ve tortul hacmi, insanlık tarihinde kaydedilmiş tüm olayların ötesinde bir su debisine işaret eder. Gezegen jeologları, zirve akış hızlarının saniyede on milyonlarca metreküpü aştığını tahmin etmektedir. Bu yıkıcı taşkınlar yüzeyi ana kayaya kadar sıyırmış, geride azgın akıntının yönünü gösteren aerodinamik su damlası biçiminde devasa akıntı adaları bırakmıştır.
 
-![Perspective view of Ares Vallis showing teardrop-shaped islands](/images/atlas/ares-vallis-inline-1.webp)
+![Perspective view of Ares Vallis showing teardrop-shaped islands](https://upload.wikimedia.org/wikipedia/commons/2/21/Ares_Vallis_in_perspective_ESA229658.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: ESA Mars Express tarafından çekilen ve tufan benzeri taşkınlarla şekillenmiş damla biçimli adaları gösteren Ares Vallis perspektif görünümü.*
 
 ## Iani Chaos'un çöküşü ve volkanik tetikleyiciler
@@ -31,7 +31,7 @@ Ares Vallis'i şekillendiren suların kaynağı güneydeki kaotik arazilerde yat
 
 Yeraltındaki buz basınç altında eridiğinde, üstteki kaya tabakaları taşıyıcı desteğini kaybederek içe doğru çöktü. Su, muazzam gayzerler ve ani taşkınlar halinde Mars yüzeyine fışkırarak çevredeki araziyi parçaladı ve Ares Vallis'in güney ağzını açtı. Yörünge araçlarının yüksek çözünürlüklü görüntüleri, ekvator yaylalarında birbirine bağlı göl sistemlerinin oluştuğunu kanıtlar. Her havza azami kapasitesine ulaştığında, taşan sular kenarları aşındırarak daha alçak çöküntülere doğru art arda derin kanallar oydu.
 
-![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](/images/atlas/ares-vallis-inline-2.webp)
+![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/3/3a/Sojourner_on_Mars_PIA01122.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: 1997 yılında NASA Mars Pathfinder iniş aracı ve Sojourner gezgini Ares Vallis alüvyon ovasındaki volkanik kayaları incelerken.*
 
 ## Mars Pathfinder'ın tarihi inişi
@@ -40,7 +40,7 @@ Ares Vallis'in Chryse Planitia ile birleştiği alüvyon yelpazesi, robotik keş
 
 Sojourner yuvarlak çakıl taşlarını, geçmiş akıntıların yönünde üst üste binmiş kaya bloklarını ve ovaya saçılmış tabakalı volkanik kayaları inceledi. Kayaların dizilimi, bölgeden muazzam su dalgalarının geçtiğini doğrulayarak ilk kez 1970'lerdeki Viking yörünge fotoğraflarından yola çıkılarak ortaya atılan tezler için doğrudan arazi kanıtı sağladı. Bu keşif, Mars'ın çevre tarihine ilişkin bilimsel kabulleri değiştirdi ve sıvı suyun gezegenin ilk oluşumundan çok sonra da yüzeyi biçimlendirdiğini kanıtladı.
 
-![Channel meander and layered sedimentary deposits in Ares Vallis](/images/atlas/ares-vallis-inline-3.webp)
+![Channel meander and layered sedimentary deposits in Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_-_Channel_Meander_in_Ares_Vallis_Region_%28ESP_012992_1860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Mars Reconnaissance Orbiter'ın Ares Vallis'teki kıvrımlı kanalları ve tortul taraçaları gösteren yüksek çözünürlüklü yörünge görüntüsü.*
 
 ## Gezegensel mega drenaj hipotezi

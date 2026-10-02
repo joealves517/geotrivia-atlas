@@ -22,7 +22,7 @@ metadata:
 
 دخل هذا المصطلح إلى المعجم العلمي عام 1849 عندما قام الباحث البريطاني ألغيرنون هربرت بدمج الكلمتين الإغريقيتين ميغاس (وتعني العظيم) وليثوس (وتعني الحجر) لتصنيف صروح شهيرة مثل ستونهنج. ولعدة قرون، نسب المؤرخون والرحالة القدامى الدوائر الحجرية والدولمينات والأنصاب القائمة إلى كائنات أسطورية: العمالقة القدامى أو كهنة الدرويد السلتيين أو البحارة الفينيقيين المتجولين. غير أن علم الآثار الحديث، متسلحاً بتأريخ الكربون المشع فائق الدقة، والنمذجة الإحصائية البايزية، وعلم الفلك الأثري، يقدم رواية أكثر إبهاراً بكثير عن هندسة مجتمعية متضافرة وشبكات ملاحة بحرية مبكرة بين مجتمعات العصر الحجري الحديث.
 
-![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-1.webp)
+![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](https://upload.wikimedia.org/wikipedia/commons/8/8c/Auchencar_standing_stone_-_facing_farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: النصب الحجري المنفرد (منهير) في أوشينكار بجزيرة أران في اسكتلندا. تصوير كولين (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ metadata:
 
 وقد حللت دراسة مرجعية بارزة قادتها عالمة الآثار بيتينا شولتز بولسون في جامعة غوتنبرغ أكثر من 2410 تواريخ بالكربون المشع مأخوذة من مقابر ميغاليثية أوروبية. وأنهت النتائج، التي نشرت عام 2019 في دورية وقائع الأكاديمية الوطنية للعلوم، جدلاً احتدم بين الباحثين لأكثر من قرن؛ إذ أثبتت أن العمارة الميغاليثية الأوروبية لم تتطور بشكل مستقل في بؤر إقليمية معزولة، بل انطلقت على طول ساحل الأطلسي في شمال غرب فرنسا، وتحديداً في منطقة بريتاني الحالية، حوالي عام 4500 قبل الميلاد. ومن هذا المهد البحري، انتشر التقليد في موجات متتابعة عبر الطرق البحرية الساحلية ليصل إلى شبه الجزيرة الإيبيرية والجزر البريطانية والدول الاسكندنافية.
 
-![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-2.webp)
+![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](https://upload.wikimedia.org/wikipedia/commons/c/c7/Machrie_moor_standing_stones.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: الأعمدة المتراصة من الحجر الرملي لمجمع الدوائر الحجرية في ماخري مور بغرب اسكتلندا. تصوير روين فلوردو (CC0).*
 
@@ -38,7 +38,7 @@ metadata:
 
 أما الدولمينات ومقابر الممرات فتمثل الشق الجنائزي للعمارة الميغاليثية. ويتألف الدولمن النموذجي من عمودين حجرين قائمين أو أكثر يدعمان حجر غطاء مسطحاً ضخماً، صانعاً حجرة دفن مغلقة. وفي مواقع كبرى مثل نيوغرانج في أيرلندا أو غافرينيس في فرنسا، غطى البناؤون هذه الغرف الحجرية بتلال ترابية وركامية هائلة يُدخل إليها عبر ممرات حجرية تحت أرضية طويلة. وخلال الانقلاب الشتوي في نيوغرانج، تتسلل أشعة الشمس المشرقة عبر فتحة علوية مخصصة فوق المدخل، لتضيء الحجرة المركزية بدقة فلكية وحسابية متناهية.
 
-![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-3.webp)
+![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](https://upload.wikimedia.org/wikipedia/commons/e/e8/Standing_Stone-1013137%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: حجر قائم من عصور ما قبل التاريخ تشكل بفعل العوامل الجوية مطلاً على مراعٍ ساحلية في شبه جزيرة دينغل بأيرلندا. تصوير مويليان (CC BY-SA 4.0).*
 
@@ -46,7 +46,7 @@ metadata:
 
 وإلى جانب البراعة اللوجستية، وثق الباحثون خصائص صوتية استثنائية داخل غرف مقابر الممرات. وتظهر قياسات علم الآثار الصوتي في مواقع بريطانية وأيرلندية أن العديد من الحجرات ترن بترددات تقارب 110 هرتز. ويولد الإنشاد الطقسي أو قرع الطبول داخل هذه المساحات الحجرية المغلقة موجات صوتية موقوفة تضاعف الاهتزازات السمعية، مما وفر تجارب حسية غامرة عززت من هيبة التجمعات والطقوس الموسمية.
 
-![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-4.webp)
+![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](https://upload.wikimedia.org/wikipedia/commons/9/9d/Komplek_Megalith_di_Taman_Nasional_Lore_Lindu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: تمثال ميغاليثي قديم مجسم بهيئة بشرية محفوظ في وادي بادا بحديقة لوري ليندو الوطنية في إندونيسيا. تصوير لو2اسينامورا (CC BY-SA 4.0).*
 

@@ -22,7 +22,7 @@ metadata:
 
 Geçit, Reggio Calabria Büyükşehir Şehri sınırları içerisindeki Cinquefrondi ve Mammola belediyelerinin arazileri arasındaki stratejik bir eyer noktasında bulunur. Geçidin hemen güneyinde yükselen 888 metre rakımlı Monte Limina, açık sabah saatlerinde Gioia Tauro ovasından Sicilya'daki Etna Yanardağı'nın konisine ve Aeolian Adaları'na kadar uzanan geniş bir manzara sunar. Günümüz yolcuları bu engebeli coğrafyayı çoğunlukla üç kilometrelik karayolu tüneliyle alttan geçerken, yüzeydeki geçit bin yıllık göçlerin, klasik ticaretin ve dağ kültürünün izlerini saklamaktadır.
 
-![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](/images/atlas/passo-della-limina-inline-1.webp)
+![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](https://upload.wikimedia.org/wikipedia/commons/b/b9/Limina_-_Paesaggio01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Passo della Limina yakınlarındaki sarp Apenin sırtının görünümü; Serre ve Aspromonte kayaçları arasındaki jeomorfolojik geçiş bölgesini gösterir.*
 
 ### Kıtasal bir sınırın etimolojisi
@@ -31,7 +31,7 @@ Limina adı, güney İtalya'nın antik coğrafyasına dayanan derin bir dilbilim
 
 İkinci dilbilimsel yaklaşım ise bataklık, gölet veya durgun su birikintisi anlamına gelen Eski Yunanca *limne* sözcüğünden türer. Tarihi kayıtlar ve yerel anlatılar, yirminci yüzyıldaki yol inşaatlarından önce geçidin düzlüğünde mevsimlik yağmur sularını toplayan doğal bir dağ göletinin bulunduğunu doğrular. Karayolu bağlantıları sırasındaki büyük hafriyat çalışmalarıyla bu sığ göl kurutulup doldurulmuş, orijinal hidrolojik yapı değişse de hatırası yerel toponimide yaşamaya devam etmiştir.
 
-![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](/images/atlas/passo-della-limina-inline-2.webp)
+![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](https://upload.wikimedia.org/wikipedia/commons/8/87/Limina_-_Paesaggio02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: İyon Denizi kıyısındaki Lokroi ile Tiren kıyılarını birbirine bağlamak için antik çağda Sentiero dei Greci güzergâhının aştığı 822 metre rakımlı dağ eyeri.*
 
 ### Antik Yunan ticaret yolu
@@ -40,7 +40,7 @@ Asfalt yollar Calabria'nın iç kısımlarına ulaşmadan çok önce Passo della
 
 Tarihte *Sentiero dei Greci* (Yunanlar Yolu) olarak bilinen bu ticaret arteri, İyon kıyısından Torbido nehri vadisi boyunca tırmanır, tam Passo della Limina noktasında sırtı aşar ve batı yamaçlarından Tiren havzasına doğru inerdi. Zeytinyağı, tahıl, seramik ve işlenmiş bronz taşıyan katır kervanları yüzyıllar boyunca bu geçidi aşmıştır. Bu rota, tüccarların deniz tehlikelerinden kaçınmasını sağlamış ve dağlık yarımadayı geçiş süresini tek bir günlük yürüyüşe indirmiştir.
 
-![Forested slopes and mountain ridges around the Limina pass corridor](/images/atlas/passo-della-limina-inline-3.webp)
+![Forested slopes and mountain ridges around the Limina pass corridor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Limina_-_Paesaggio03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Çobanlar, tüccarlar ve yolcular için güvenli koridorlar oluşturan tarihi patikaları çevreleyen kayın ve kestane ormanları.*
 
 ### Manastır inziva yerleri ve yaylacılık yolları
@@ -49,7 +49,7 @@ Orta Çağ ve Erken Modern dönem boyunca Passo della Limina'yı çevreleyen sı
 
 19. yüzyılda geçit, *Sentiero del Brigante* olarak bilinen dağ güzergâhında kilit bir kavşak noktası haline geldi. Bölge halkı ve dağ yolcuları, Serre ile Aspromonte'nin iç zirveleri arasında geçiş yapmak için Limina'nın girintili çıkıntılı dağ yapısından yararlandı. Patika aynı zamanda çobanların koyun ve sığır sürülerini yayla otlakları ile kışlık kıyı ovaları arasında sürdüğü kadim bir yaylacılık göç yolu işlevi gördü.
 
-![The plateau of Piani della Limina surrounded by Mediterranean highland forest](/images/atlas/passo-della-limina-inline-4.webp)
+![The plateau of Piani della Limina surrounded by Mediterranean highland forest](https://upload.wikimedia.org/wikipedia/commons/5/5c/Piani_della_Limina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Piani della Limina yaylası; günümüz ana ulaşım yolları yer altından geçerken tarihi yürüyüş rotaları dağ sırtlarını izler.*
 
 ### Modern mühendislik ve doğa koruma koridoru

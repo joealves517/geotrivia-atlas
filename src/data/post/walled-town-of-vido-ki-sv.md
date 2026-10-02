@@ -20,7 +20,7 @@ metadata:
 
 Ovanför dagens Stolac i södra Bosnien och Hercegovina reser sig den befästa staden Vidoški på en kalkstensrygg ovanför floden Bregavas dalgång. Försvarsanläggningen omfattar drygt 20 000 kvadratmeter och hör till de mest omfattande fästningskomplexen på västra Balkan. Murverket visar tydliga byggnadsfaser under mer än fem sekler och speglar maktstriderna mellan medeltida bosniska feodalherrar, Osmanska riket och den österrikisk-ungerska militärförvaltningen.
 
-![Reliefkarta över Stolac i södra Bosnien och Hercegovina](/images/atlas/walled-town-of-vido-ki-inline-1.webp)
+![Reliefkarta över Stolac i södra Bosnien och Hercegovina](https://upload.wikimedia.org/wikipedia/commons/5/50/Bosnia_and_Herzegovina_relief_location_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 1: Reliefkarta som visar den strategiska placeringen av Stolac i södra Bosnien och Hercegovina.*
 
 ## Strategisk geografi längs floden Bregava
@@ -29,7 +29,7 @@ Citadellet ligger på kullen Križevac, en höjd som kontrollerade de naturliga 
 
 Under 1400-talet vaktade fästningen den östra gränsen för Kosačas landområden mot expanderande grannhärskare. Namnet härrör från floden Vidoštica, det medeltida namnet på Bregava, samt den lokala Sankt Veit-kulten. Från branta kalkstensklippor övervakade försvarsmurarna karavaner lastade med havssalt, textilier och metaller som färdades mellan Dubrovnik och handelsstäderna i inlandet.
 
-![Karta över kantonen Hercegovina-Neretva](/images/atlas/walled-town-of-vido-ki-inline-2.webp)
+![Karta över kantonen Hercegovina-Neretva](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bosnia_and_Herzegovina_subdivision_map_Herzegovina-Neretva_Canton.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 2: Karta över kantonen Hercegovina-Neretva där fästningen överblickar floden Bregavas dalgång.*
 
 ## Tre försvarsnivåer och byggnadskonstruktion
@@ -40,7 +40,7 @@ Nedre staden täcker 8 481 kvadratmeter utmed den nordvästra sluttningen. Här 
 
 Övre staden kröner höjdplatån och omfattar 8 579 kvadratmeter. Fem torn bevakade denna översta försvarslinje. Det östligaste tornet tjänade som krutmagasin och ammunitionsförråd och överlevde flera blixtnedslag och belägringar. Insamling av regnvatten var avgörande för försvaret: tio stencisterner över hela fästningsområdet samlade upp bergsvatten för att försörja soldaterna under torra somrar och långvariga blockader.
 
-![Skulpterade medeltida stećci-gravstenar nära Stolac](/images/atlas/walled-town-of-vido-ki-inline-3.webp)
+![Skulpterade medeltida stećci-gravstenar nära Stolac](https://upload.wikimedia.org/wikipedia/commons/4/40/Bosniangraves_bosniska_gravar_februari_2007_stecak_stecci3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 3: Skulpterade medeltida stećci-gravstenar nära Stolac från det bosniska kungarrikets tid.*
 
 ## Osmansk expansion och österrikisk-ungersk omvandling

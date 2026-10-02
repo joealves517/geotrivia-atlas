@@ -24,7 +24,7 @@ El 23 de julio de 1948, el gobernador general Muhammad Ali Jinnah promulgó la O
 
 Esta reorganización territorial desató una enconada resistencia entre los dirigentes provinciales de Sindh. Los líderes políticos locales argumentaron que la escisión unilateral de Karachi despojaba a la provincia de su centro económico histórico y de su núcleo administrativo, incluido el recién construido Edificio de la Asamblea de Sindh en Court Road. Pese a las intensas protestas, el gobierno central sostuvo que un enclave federal neutral era indispensable para la gobernanza nacional y la estabilidad soberana.
 
-![Karachi Cantonment Railway Station, originally Frere Street Station](/images/atlas/federal-capital-territory-pakistan-inline-1.webp)
+![Karachi Cantonment Railway Station, originally Frere Street Station](https://upload.wikimedia.org/wikipedia/commons/1/13/PK_Karachi_asv2020-02_img54_Cantonment_Railway_Station.jpg)
 *Figura 1: Finalizada en 1898 en Doctor Daud Pota Road, la estación de trenes de Karachi Cantonment funcionó como el principal nudo de transporte terrestre que conectaba el Territorio de la Capital Federal con la cuenca del Indo. Foto: A.Savin, Wikimedia Commons (Licencia Arte Libre).*
 
 En términos geográficos, el Territorio de la Capital Federal abarcaba llanuras costeras áridas flanqueadas por colinas al norte y al oeste, el delta del río Indo al este y el mar Arábigo al sur. El territorio limitaba con la provincia de Sindh al noreste y con el estado principesco de Las Bela al noroeste, mientras los caudales estacionales de los ríos Layari y Malir cruzaban el perímetro urbano.
@@ -33,7 +33,7 @@ Entre 1947 y 1951, el enclave experimentó una honda transformación demográfic
 
 En el terreno económico, el territorio funcionó como la principal arteria marítima de Pakistán Occidental. A través del puerto de Karachi, el enclave canalizaba más del noventa por ciento del comercio marítimo exterior, a la vez que albergaba el flamante Banco Estatal de Pakistán y la Bolsa de Valores de Karachi. Las conexiones aéreas operaban desde el aeropuerto internacional Quaid-e-Azam y la base aérea militar de Mauripur, mientras los convoyes ferroviarios partían hacia el norte desde las estaciones de Karachi Cantonment y Karachi City.
 
-![Port of Karachi deep-water harbour on the Arabian Sea](/images/atlas/federal-capital-territory-pakistan-inline-2.webp)
+![Port of Karachi deep-water harbour on the Arabian Sea](https://upload.wikimedia.org/wikipedia/commons/a/af/Karachi_Seaport.jpg)
 *Figura 2: El puerto de Karachi en el mar Arábigo constituyó el único corredor marítimo de aguas profundas para Pakistán Occidental durante la existencia del enclave federal. Foto: King Eliot, Wikimedia Commons (CC BY-SA 4.0).*
 
 La vulnerabilidad estratégica de una capital costera pasó al primer plano tras el golpe militar de 1958 encabezado por el mariscal de campo Ayub Khan. Los analistas de defensa advirtieron que Karachi se hallaba expuesta a bombardeos navales y desembarcos anfibios, mientras que la cúpula política se sentía distanciada del cuartel general de las fuerzas armadas en Rawalpindi. En 1959, una comisión oficial de selección determinó que la capital nacional debía trasladarse hacia el interior, en la meseta de Potohar.

@@ -20,7 +20,7 @@ metadata:
 
 Boven het hedendaagse Stolac in het zuiden van Bosnië en Herzegovina rijst de ommuurde stad Vidoški op langs een markante kalksteenrug boven het dal van de rivier de Bregava. Met een oppervlakte van ruim 20.000 vierkante meter vormt dit verdedigingscomplex een van de grootste forten op de westelijke Balkan. Het metselwerk bewaart verschillende bouwfasen uit meer dan vijf eeuwen en weerspiegelt de machtsstrijd tussen middeleeuwse Bosnische heersers, het Ottomaanse Rijk en het Oostenrijks-Hongaarse legerbestuur.
 
-![Reliëfkaart van Stolac in het zuiden van Bosnië en Herzegovina](/images/atlas/walled-town-of-vido-ki-inline-1.webp)
+![Reliëfkaart van Stolac in het zuiden van Bosnië en Herzegovina](https://upload.wikimedia.org/wikipedia/commons/5/50/Bosnia_and_Herzegovina_relief_location_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 1: Reliëfkaart met de strategische ligging van Stolac in het zuiden van Bosnië en Herzegovina.*
 
 ## Strategische geografie langs de Bregava
@@ -29,7 +29,7 @@ De burcht bevindt zich op de heuvel Križevac, een verhoging die handelsroutes t
 
 Tijdens de vijftiende eeuw bewaakte het bolwerk de oostflank van Kosača's domein tegen naburige machthebbers. De burcht ontleent haar naam aan de rivier de Vidoštica, de middeleeuwse naam van de Bregava, en de verering van Sint-Vitus. Vanaf de steile kalksteenrotsen controleerden de weermuren karavanen met zeezout, laken en metaalertsen tussen Dubrovnik en de continentale handelsposten.
 
-![Kaart van het kanton Herzegovina-Neretva](/images/atlas/walled-town-of-vido-ki-inline-2.webp)
+![Kaart van het kanton Herzegovina-Neretva](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bosnia_and_Herzegovina_subdivision_map_Herzegovina-Neretva_Canton.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 2: Kaart van het kanton Herzegovina-Neretva waar de vesting uitkijkt over de Bregava-vallei.*
 
 ## Drie vestinggordels en bouwstructuur
@@ -40,7 +40,7 @@ De benedenstad beslaat 8.481 vierkante meter op de noordwestelijke helling. Hier
 
 De bovenstad bekroont het hoogste rotsplateau op een oppervlakte van 8.579 vierkante meter. Vijf torens bewaakten deze hoogste sector. De meest oostelijke toren diende als kruit- en munitiedepot en overleefde meerdere blikseminslagen en belegeringen. Regenwateropslag was onmisbaar voor het garnizoen: tien stenen waterbekkens verspreid over het terrein vingen bergwater op om soldaten tijdens droge zomers en belegeringen te bevoorraden.
 
-![Middeleeuwse bewerkte stećci-grafstenen bij Stolac](/images/atlas/walled-town-of-vido-ki-inline-3.webp)
+![Middeleeuwse bewerkte stećci-grafstenen bij Stolac](https://upload.wikimedia.org/wikipedia/commons/4/40/Bosniangraves_bosniska_gravar_februari_2007_stecak_stecci3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 3: Gebeeldhouwde middeleeuwse stećci-grafstenen in de buurt van Stolac uit de tijd van het Bosnische koninkrijk.*
 
 ## Ottomaanse heerschappij en Oostenrijks-Hongaarse ombouw

@@ -22,7 +22,7 @@ Cezayir'in Mila vilayetinin engebeli dağlık kesiminde, Aïn Mellouk kasabasın
 
 Miladi 893 yılında bu dağ kalesi, davetçi Abū ʿAbd Allāh al-Shīʿī için ana müstahkem üs ve Darü'l-Hicre olarak kuruldu. Yemen'den İsmaili önderlerince görevlendirilen Abū ʿAbd Allāh, dini ve siyasi hareketini Kutame Berberileri arasında yaymak amacıyla Küçük Kabiliye Dağları'na ulaştı. Kalabalık yerleşimlerde dirençle karşılaşınca, kendisine bu savunması kolay kayalık tepede koruma sağlayan müttefik kabilelere sığındı. Büyük kaya veya kayalık tepe anlamına gelen kadim Berberi köklerinden türetilen Tazrut adı, mevkinin hem fiziki coğrafyasını hem de askeri niteliğini tanımlamaktaydı.
 
-![Historical extent of Fatimid territorial control across North Africa](/images/atlas/tazrut-inline-1.webp)
+![Historical extent of Fatimid territorial control across North Africa](https://upload.wikimedia.org/wikipedia/commons/c/cd/Fatimid_control_in_Africa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Fatımi Hilafeti'nin Cezayir dağlarındaki başlangıcından itibaren Kuzey Afrika geneline yayılışını gösteren tarihi harita.*
 
 ## Kaf Tazrut'un stratejik coğrafyası
@@ -31,7 +31,7 @@ Tazrut'un seçilmesi tesadüfi bir yerleşim değil, planlı bir askeri coğrafy
 
 Tazrut, dokuz yıl boyunca filizlenen Fatımi Devleti'nin idari merkezi ve kutsal sığınağı olarak hizmet verdi. Bu dağ inzivasında Abū ʿAbd Allāh, Berberi savaşçıları eğitti, sivil teşkilatlanmayı kurdu ve dağınık Kutame klanlarından disiplinli bir ordu meydana getirdi. Kadı Nu'man gibi dönemin vakanüvisleri, kalenin bu hareketin ideolojik omurgasını oluşturduğunu ve aşiret hoşnutsuzluklarını Ağlebi garnizonlarına karşı organize bir askeri sefere dönüştürdüğünü kaydetmiştir.
 
-![Topographical relief map of Algeria showing the highlands of Mila](/images/atlas/tazrut-inline-2.webp)
+![Topographical relief map of Algeria showing the highlands of Mila](https://upload.wikimedia.org/wikipedia/commons/f/ff/Algeria_relief_location_map.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Tazrut'un inşa edildiği Mila vilayetinin dağlık plato coğrafyasını sergileyen Kuzey Cezayir fiziki haritası.*
 
 ## İkcan'a taşınma ve imparatorluğa yürüyüş
@@ -40,7 +40,7 @@ Miladi 902 yılının sonbaharına gelindiğinde, Tazrut'ta toplanan askeri gü�
 
 Tazrut'tan ayrıldıktan yedi yıl sonra Kutame orduları 909 yılında Ağlebi hanedanına son verdi, Kayrevan'ı zapt etti ve Ubeydullah el-Mehdi'yi ilk Fatımi halifesi ilan etti. Mila'nın sarp bir kayalığında tasarlanan bu devlet zamanla Mısır, Suriye ve Hicaz'a kadar genişleyerek Orta Çağ'ın en büyük Akdeniz imparatorluklarından biri haline geldi.
 
-![Historical map of the Fatimid Caliphate at its territorial zenith](/images/atlas/tazrut-inline-3.webp)
+![Historical map of the Fatimid Caliphate at its territorial zenith](https://upload.wikimedia.org/wikipedia/commons/4/42/The_Fatimid_Caliphate.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Fatımi İmparatorluğu'nun Akdeniz havzasındaki en geniş sınırlarını gösteren genel harita.*
 
 ## Mila kayalıklarındaki arkeolojik miras

@@ -22,7 +22,7 @@ In den schroffen Berglandschaften Ostalbaniens, wo das Mokra-Gebirge an den Ohri
 
 Über Jahrhunderte hinweg wurde das antike Illyrien vor allem durch den Blick griechisch-römischer Chronisten wahrgenommen, die seine Stämme oft auf kriegerische Überfälle und Seeräuberei reduzierten. Die archäologischen Befunde von Selcë e Poshtme widerlegen dieses einseitige Bild. Sie belegen eine hoch entwickelte illyrische Aristokratie, die hochentwickelte Steinmetzkunst beherrschte, klassische griechische Säulenordnungen übernahm und komplexe unterirdische Grabkammern anlegte, die zeitgenössischen makedonischen und epirotischen Monumenten in nichts nachstanden.
 
-![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-1.webp)
+![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/0/06/Selca_e_Poshtme_Tombs1-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Panoramablick auf die Gräber 1 bis 3, die in die gestufte Felswand über dem Flusstal des Shkumbin gehauen wurden. Foto von Albinfo (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ Die strategische Geografie des Shkumbin-Tals erklärt, warum dieser abgelegene G
 
 Zahlreiche Historiker setzen diese befestigte Akropolis mit Pelion gleich, jener königlichen Festung, die der Geschichtsschreiber Arrian in seinem Bericht über den Balkanfeldzug Alexanders des Großen erwähnt. Im Jahr 335 v. Chr. verbündete sich Kleitos, König der illyrischen Dassareten, mit Glaukias von den Taulantiern und verschanzte sich hinter den Wehrmauern von Pelion. Alexander führte eine verlustreiche Belagerung herbei, entkam in den Flussengen nur knapp einer Einkreisung und drängte die illyrischen Verbände schließlich in die umliegenden Wälder zurück. Während die Höhensiedlung auch nach Alexanders Abzug weiterbestand, wandelten ihre Fürsten die Steilwand unterhalb der Mauern in eine weithin sichtbare Grabstätte dynastischer Macht um.
 
-![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-2.webp)
+![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/2/25/Selca_e_Poshtme_Tomb4_Facade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Die klassische ionische Kolonnade und das Tympanon, die bei Grab 4 unmittelbar aus dem anstehenden Fels gearbeitet wurden. Foto von Albinfo (CC BY-SA 3.0).*
 
@@ -40,7 +40,7 @@ Grab 1 besitzt eine monumentale Fassade mit zwei ionischen Halbsäulen und quadr
 
 Das benachbarte Grab 2 folgt einem völlig eigenständigen architektonischen Konzept. Die Erbauer meißelten eine zweistufige Anlage in den Fels, bestehend aus einem halbkreisförmigen Theater mit Sitzreihen oberhalb einer unterirdischen Grabkammer. Forscher vermuten, dass diese steinerne Tribüne als Zeremonienstätte für Trankopfer und dynastische Gedenkfeiern diente. Die Trauernden konnten sich so unmittelbar über dem Grab versammeln, während sich vor ihnen das weite Flusstal öffnete.
 
-![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](/images/atlas/selce-e-poshtme-royal-tombs-inline-3.webp)
+![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](https://upload.wikimedia.org/wikipedia/commons/1/16/Selca_e_Poshtme_Tomb3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Das Innere der unterirdischen Grabkammer von Grab 3 mit der steinernen Klinen-Liege, die König Monunios zugeschrieben wird. Foto von Albinfo (CC BY-SA 3.0).*
 
@@ -50,7 +50,7 @@ Die bauhistorische Untersuchung ordnet Grab 3 König Monunios zu, einem illyrisc
 
 Grab 4 beeindruckt durch die imposanteste Schaufassade der Anlage. Die antiken Handwerker schlugen eine Tempelfront in die siebzig Meter aufragende Wand, komplett mit vier ionischen Säulen und einem markanten Dreiecksgiebel. Reliefs mit Darstellungen illyrischer Schilde und Reiterhelme flankieren den Eingangsbereich. Ein in den Fels geschlagener Dromos führt in eine weitläufige Kammer mit mehreren Nischen, die über Generationen hinweg als königliches Mausoleum genutzt wurde.
 
-![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](/images/atlas/selce-e-poshtme-royal-tombs-inline-4.webp)
+![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](https://upload.wikimedia.org/wikipedia/commons/6/69/Selca_e_Poshtme%2C_Albania_%E2%80%93_Monumental_antique_tombs_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Mauerwerk und Terrassenzugänge der königlichen Nekropole mit Blick auf das Mokra-Gebirge. Foto von Attila Terbócs (CC BY-SA 4.0).*
 

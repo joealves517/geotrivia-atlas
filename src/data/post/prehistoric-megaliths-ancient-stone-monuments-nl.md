@@ -22,7 +22,7 @@ Langs winderige Atlantische kusten, zonovergoten kapen aan de Middellandse Zee e
 
 Het woord werd in 1849 geïntroduceerd in het wetenschappelijke taalgebruik, toen de Britse oudheidkundige Algernon Herbert de Griekse termen megas (groot) en lithos (steen) samenvoegde om monumenten zoals Stonehenge te beschrijven. Eeuwenlang schreven kroniekschrijvers en vroege onderzoekers steencirkels, dolmens en alleenstaande menhirs toe aan mythische wezens: reuzen uit het verleden, Keltische druïden of rondtrekkende Fenicische zeelieden. De moderne archeologie vertelt met behulp van uiterst nauwkeurige radiokoolstofdateringen, Bayesiaanse statistiek en archeoastronomie een veel overtuigender verhaal over gecoördineerde techniek en maritieme navigatie binnen vroege neolithische gemeenschappen.
 
-![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-1.webp)
+![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](https://upload.wikimedia.org/wikipedia/commons/8/8c/Auchencar_standing_stone_-_facing_farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: De solitaire menhir van Auchencar op het eiland Arran in Schotland. Foto door Colin (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ De vroegste menselijke gemeenschappen die massieve natuursteen bewerkten, deden 
 
 Een toonaangevend onderzoek onder leiding van archeologe Bettina Schulz Paulsson aan de Universiteit van Göteborg analyseerde meer dan 2.410 radiokoolstofdateringen van Europese megalithische graven. De resultaten, in 2019 gepubliceerd in Proceedings of the National Academy of Sciences, beslechtten een debat dat prehistorici ruim een eeuw lang had verdeeld. In plaats van onafhankelijk te zijn ontstaan in geïsoleerde regionale clusters, ontstond de Europese megalithische bouwkunst rond 4500 v.Chr. langs de Atlantische kust van Noordwest-Frankrijk, specifiek in het huidige Bretagne. Vanuit deze maritieme bakermat verspreidde de traditie zich in opeenvolgende golven langs zeeroutes naar het Iberisch Schiereiland, de Britse Eilanden en Scandinavië.
 
-![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-2.webp)
+![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](https://upload.wikimedia.org/wikipedia/commons/c/c7/Machrie_moor_standing_stones.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Zandsteenmonolieten van het steencirkelcomplex Machrie Moor in West-Schotland. Foto door Rowyn flowerdew (CC0).*
 
@@ -38,7 +38,7 @@ Neolithische megalieten kennen verschillende constructievormen, elk ontworpen vo
 
 Dolmens en ganggraven vertegenwoordigen de grafarchitectuur van het megalithisme. Een dolmen bestaat doorgaans uit twee of meer staande draagstenen die een zware deksteen dragen en zo een afgesloten grafkamer omsluiten. Bij omvangrijke monumenten zoals Newgrange in Ierland of Gavrinis in Frankrijk overdekten de bouwers deze stenen kamers met reusachtige aarden of stenen heuvels, bereikbaar via lange ondergrondse gangen. Tijdens de winterzonnewende in Newgrange valt het opkomende zonlicht door een speciale opening boven de ingang en verlicht de centrale kamer met uiterste precisie.
 
-![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-3.webp)
+![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](https://upload.wikimedia.org/wikipedia/commons/e/e8/Standing_Stone-1013137%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Door weer en wind getekende prehistorische staande steen boven kustweiden op het schiereiland Dingle, Ierland. Foto door Maoileann (CC BY-SA 4.0).*
 
@@ -46,7 +46,7 @@ De fysieke realisatie van deze bouwwerken toont een opmerkelijke logistieke vind
 
 Naast de bouwtechniek hebben onderzoekers opmerkelijke akoestische eigenschappen aangetoond in de ganggraven. Akoestisch-archeologische metingen op locaties in Groot-Brittannië en Ierland laten zien dat veel kamers resoneren bij frequenties rond 110 hertz. Zang of trommelgeroffel in deze afgesloten ruimtes brengt staande geluidsgolven voort die akoestische trillingen versterken, wat diepe zintuiglijke ervaringen opriep tijdens seizoensgebonden rituelen.
 
-![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-4.webp)
+![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](https://upload.wikimedia.org/wikipedia/commons/9/9d/Komplek_Megalith_di_Taman_Nasional_Lore_Lindu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Eeuwenoud antropomorf megalithisch beeld in de Bada-vallei, Lore Lindu National Park, Indonesië. Foto door Lo2asinamura (CC BY-SA 4.0).*
 

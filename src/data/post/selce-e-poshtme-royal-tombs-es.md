@@ -22,7 +22,7 @@ En las escarpadas tierras altas del este de Albania, donde las montañas de Mokr
 
 Durante siglos, la antigua Iliria fue contemplada a través del prisma hostil de los cronistas grecorromanos, quienes solían describir a sus pueblos como belicosos asaltantes de montaña y temidos piratas navales. La realidad material descubierta en Selcë e Poshtme contradice este relato sesgado. En este lugar, una aristocracia iliria dominaba la cantería de precisión, asimilaba los órdenes arquitectónicos de Grecia y proyectaba complejas cámaras funerarias subterráneas capaces de competir con los panteones coetáneos de Macedonia y el Épiro.
 
-![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-1.webp)
+![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/0/06/Selca_e_Poshtme_Tombs1-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Vista panorámica de las tumbas 1 a 3 talladas en los cantiles escalonados sobre el valle del río Shkumbin. Fotografía de Albinfo (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ La posición geográfica del valle del río Shkumbin fundamenta la elección de 
 
 Diversos historiadores y arqueólogos identifican esta acrópolis fortificada con Pelión, la plaza fuerte mencionada por el historiador Arriano en su relato de las campañas balcánicas de Alejandro Magno. En el 335 a. C., Clito, rey de los ilirios dasaretas, unió sus huestes con las de Glaucias de los taulantios y se atrincheró tras los muros de Pelión. Alejandro entabló un asedio encarnizado, eludiendo a duras penas el cerco en los estrechos fluviales antes de empujar a las tropas ilirias hacia las espesuras boscosas. Aunque el enclave fortificado continuó habitado tras la marcha macedonia, sus monarcas convirtieron el precipicio que descendía de la muralla en un monumento imperecedero de su linaje.
 
-![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-2.webp)
+![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/2/25/Selca_e_Poshtme_Tomb4_Facade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Fachada jónica clásica y frontón tallados íntegramente en la roca viva en la tumba 4. Fotografía de Albinfo (CC BY-SA 3.0).*
 
@@ -40,7 +40,7 @@ La tumba 1 presenta una monumental fachada rupestre con dos semicolumnas jónica
 
 Muy cerca, la tumba 2 ofrece una concepción espacial insólita. Sus constructores labraron un monumento en dos niveles compuesto por un graderío semicircular semejante a un teatro situado sobre una cámara subterránea. Los investigadores plantean que esta cávea exterior servía de asamblea ceremonial para libaciones fúnebres y conmemoraciones cívicas, permitiendo a la corte honrar al monarca sepultado con el amplio horizonte del valle a la vista.
 
-![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](/images/atlas/selce-e-poshtme-royal-tombs-inline-3.webp)
+![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](https://upload.wikimedia.org/wikipedia/commons/1/16/Selca_e_Poshtme_Tomb3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Interior de la cripta funeraria de la tumba 3 con el lecho de piedra (kline) atribuido al rey Monunio. Fotografía de Albinfo (CC BY-SA 3.0).*
 
@@ -50,7 +50,7 @@ El estudio estratigráfico y material vincula con firmeza la tumba 3 al rey Monu
 
 La tumba 4 destaca por exhibir la fachada más llamativa del yacimiento. Los canteros esculpieron un frontispicio de templo helénico en un risco vertical de setenta metros, integrando cuatro columnas jónicas exentas bajo un frontón triangular. Relieves con escudos ovales ilirios y cascos de caballería decoran los costados de la entrada. Un dromos profundo se adentra en la peña hacia una espaciosa cámara con nichos (loculi) que sirvió de mausoleo familiar para sucesivas generaciones.
 
-![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](/images/atlas/selce-e-poshtme-royal-tombs-inline-4.webp)
+![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](https://upload.wikimedia.org/wikipedia/commons/6/69/Selca_e_Poshtme%2C_Albania_%E2%80%93_Monumental_antique_tombs_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Estructuras murarias y accesos abancalados en la necrópolis real con vistas a los montes de Mokra. Fotografía de Attila Terbócs (CC BY-SA 4.0).*
 

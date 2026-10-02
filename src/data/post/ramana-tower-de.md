@@ -22,7 +22,7 @@ Auf den trockenen Kalksteinplateaus der Halbinsel Abscheron erhebt sich der Turm
 
 Historische Aufzeichnungen datieren den heutigen Baukomplex in das 14. Jahrhundert, wenngleich einige Architekturhistoriker die ersten Befestigungen auf dem Felsvorsprung dem 12. Jahrhundert zuordnen. Der Staat der Schirwanschahs mit seinen Zentren Schamachi und später Baku sah sich wiederkehrenden Bedrohungen durch maritime Einfälle, Reitervölker und rivalisierende Herrscher ausgesetzt. Als Reaktion bauten Baumeister auf Abscheron ein Netz aus steinernen Wehrtürmen auf, die über Sichtachsen miteinander in Verbindung standen.
 
-![Kalksteinmauern und viereckiger Hauptturm der Festung Ramana vom Dorfrand aus gesehen](/images/atlas/ramana-tower-inline-1.webp)
+![Kalksteinmauern und viereckiger Hauptturm der Festung Ramana vom Dorfrand aus gesehen](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ramana_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 1: Kalksteinmauern und viereckiger Hauptturm der Festung Ramana vom Dorfrand aus gesehen.*
 
 ## Architektur des viereckigen Wohnturms
@@ -33,7 +33,7 @@ Im Unterschied zu den kreisrunden Wehrtürmen anderer Orte auf Abscheron, wie et
 
 Das Festungstor liegt geschützt im inneren Burghof, wodurch Angreifer in einen engen Durchgang unter direkter Beobachtung der Wehrgänge gerieten. Die obere Plattform schließt mit auskragenden Maschikulis und Zinnen ab, von denen aus Verteidiger den Mauerfuß überwachen und sichern konnten.
 
-![Südansicht mit abgerundeten Eckbastionen und mehrstufigen Festungsmauern](/images/atlas/ramana-tower-inline-2.webp)
+![Südansicht mit abgerundeten Eckbastionen und mehrstufigen Festungsmauern](https://upload.wikimedia.org/wikipedia/commons/7/78/Ramana_castle_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 2: Südansicht mit abgerundeten Eckbastionen und mehrstufigen Festungsmauern.*
 
 ## Strategische Verteidigung der Halbinsel Abscheron
@@ -44,7 +44,7 @@ Näherten sich feindliche Schiffe der Küste des Kaspischen Meeres, entzündeten
 
 Die Umgebung bot neben militärischen Vorteilen auch wirtschaftliche Ressourcen. Salzseen und natürliche Erdölaustritte um Ramana lieferten begehrte Handelsgüter des Mittelalters. Die Turmbesatzung sicherte diese Förderstätten und schützte Handelskarawanen auf ihrem Weg zu den Seidenmärkten von Schirwan und Täbris.
 
-![Obere Zinnen und Steinmetzarbeiten der Wachbastionen](/images/atlas/ramana-tower-inline-3.webp)
+![Obere Zinnen und Steinmetzarbeiten der Wachbastionen](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ramana_Castle_towers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 3: Obere Zinnen und Steinmetzarbeiten der Wachbastionen.*
 
 ## Erhaltung und kulturelles Erbe

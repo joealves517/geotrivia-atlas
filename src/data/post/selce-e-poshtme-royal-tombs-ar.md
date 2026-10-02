@@ -22,7 +22,7 @@ metadata:
 
 ولقرون طويلة، ظلت الحضارة الإيليرية القديمة تُفسر من خلال الروايات المعادية للمؤرخين الإغريق والرومان، الذين صوّروا قبائلها في كثير من الأحيان على أنهم مجرد غزاة جبال وقراصنة بحار. غير أن الحقائق المادية المكتشفة في سيلسيا إي بوشتمي تدحض هذه الرؤية القاصرة؛ إذ تؤكد وجود طبقة أرستقراطية إيليرية متطورة أتقنت فن نحت الحجارة، وتبنت الطرز المعمارية الإغريقية الكلاسيكية، وصممت غرف دفن سفلية معقدة نافست الأضرحة الملكية المعاصرة في مقدونيا وإبيروس.
 
-![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-1.webp)
+![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/0/06/Selca_e_Poshtme_Tombs1-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: مشهد بانورامي للمقابر من 1 إلى 3 المنحوتة في الجرف الصخري المدرج المطل على وادي نهر شكومبين. تصوير ألبينفو (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ metadata:
 
 ويربط العديد من المؤرخين وعلماء الآثار هذا الأكروبوليس الحصين بمدينة بيليون القديمة، المعقل الملكي الذي ذكره المؤرخ آريانوس في تأريخه لحملات الإسكندر الأكبر في البلقان. ففي عام 335 قبل الميلاد، تحالف كليتوس، ملك الداساريتيين الإيليريين، مع غلوكياس ملك تاولانتي، وتحصن بجيشه وراء أسوار بيليون. وخاض الإسكندر حصاراً محفوفاً بالمخاطر كاد ينتهي بمحاصرته في مضايق النهر قبل أن ينجح في إجبار القوات الإيليرية على التراجع نحو الغابات المجاورة. ورغم استمرار الحياة المدنية في الحصن بعد رحيل المقدونيين، فقد حول حكام المنطقة المنحدر الشاهق أسفل الأسوار إلى صرح دائم لترسيخ الهيبة السلالية.
 
-![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-2.webp)
+![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/2/25/Selca_e_Poshtme_Tomb4_Facade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: الأعمدة الأيونية الكلاسيكية والواجهة المثلثة المنحوتة مباشرة في الصخر بالمقبرة 4. تصوير ألبينفو (CC BY-SA 3.0).*
 
@@ -40,7 +40,7 @@ metadata:
 
 وعلى مسافة قريبة، تقدم المقبرة رقم 2 تصميماً معمارياً فريداً؛ إذ طوّع البناؤون الكتلة الصخرية ليصنعوا منها منشأة ذات مستويين تتألف من مدرج نصف دائري شبيه بالمسرح يرتفع فوق حجرة دفن تحت أرضية. ويرجح الباحثون أن هذا المدرج المكشوف كان يُستخدم كمنصة احتفالية لطقوس إراقة السوائل والذكرى السلالية، مما أتاح للحاشية الاجتماع تكريماً للملك الراحل مع التمتع بإطلالة واسعة على الوادي المقدس.
 
-![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](/images/atlas/selce-e-poshtme-royal-tombs-inline-3.webp)
+![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](https://upload.wikimedia.org/wikipedia/commons/1/16/Selca_e_Poshtme_Tomb3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: الحجرة السفلية للمقبرة 3 وسرير الدفن الحجري (كليني) المنسوب للملك مونونيوس. تصوير ألبينفو (CC BY-SA 3.0).*
 
@@ -50,7 +50,7 @@ metadata:
 
 وتبرز المقبرة رقم 4 بوصفها الواجهة الأكثر إبهاراً في سيلسيا إي بوشتمي؛ حيث حفر النحاتون واجهة معبد هلنستي كامل في قلب جرف صخري عمودي يبلغ ارتفاعه سبعين متراً، وتتألف من أربعة أعمدة أيونية قائمة بذاتها يعلوها جملون مثلث، وتزدان جوانب المدخل بنقوش بارزة تظهر الدروع البيضاوية وخوذات الخيالة الإيليرية. ويمتد ممر حجري عميق (دروموس) مخترقاً الجبل ليصل إلى قاعة فسيحة تضم نيشات متعددة استُخدمت كمدفن عائلي للأجيال المتعاقبة.
 
-![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](/images/atlas/selce-e-poshtme-royal-tombs-inline-4.webp)
+![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](https://upload.wikimedia.org/wikipedia/commons/6/69/Selca_e_Poshtme%2C_Albania_%E2%80%93_Monumental_antique_tombs_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: البناء الحجري والمسارات المدرجة في النكروبوليس الملكي المطل على جبال موكرا. تصوير أتيلا تيربوتش (CC BY-SA 4.0).*
 

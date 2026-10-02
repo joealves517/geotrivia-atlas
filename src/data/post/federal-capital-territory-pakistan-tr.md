@@ -24,7 +24,7 @@ Ağustos 1947'de Hindistan alt kıtasının bölünmesi, yabancı bir toprakla b
 
 Bu idari yeniden yapılanma, Sindh genelindeki eyalet yöneticilerinin sert direnişiyle karşılaştı. Yerel siyasi liderler, Karaçi'nin tek taraflı olarak ayrılmasının eyaleti tarihi ekonomik merkezinden ve Court Road üzerindeki yeni tamamlanan Sindh Meclisi Binası dahil idari kalbinden mahrum bıraktığını savundu. Şiddetli protestolara rağmen merkezi yönetim, tarafsız bir federal bölgenin ulusal yönetim ve egemenlik istikrarı açısından vazgeçilmez olduğunu vurguladı.
 
-![Karachi Cantonment Railway Station, originally Frere Street Station](/images/atlas/federal-capital-territory-pakistan-inline-1.webp)
+![Karachi Cantonment Railway Station, originally Frere Street Station](https://upload.wikimedia.org/wikipedia/commons/1/13/PK_Karachi_asv2020-02_img54_Cantonment_Railway_Station.jpg)
 *Şekil 1: 1898 yılında Doctor Daud Pota Road üzerinde tamamlanan Karachi Cantonment Tren İstasyonu, Federal Başkent Bölgesi'ni İndus havzasına bağlayan ana kara taşımacılığı merkezi olarak hizmet verdi. Fotoğraf: A.Savin, Wikimedia Commons (Özgür Sanat Lisansı).*
 
 Coğrafi olarak Federal Başkent Bölgesi, kuzey ve batıda tepelerle, doğuda İndus Nehri deltasıyla ve güneyde Umman Denizi ile çevrili kurak kıyı ovalarını kapsıyordu. Bölge, kuzeydoğuda Sindh eyaletiyle ve kuzeybatıda Las Bela prenslik devletiyle sınır komşusuydu; Layari ve Malir nehirlerinin mevsimlik akıntıları ise kentsel sınırları keserek akıyordu.
@@ -33,7 +33,7 @@ Coğrafi olarak Federal Başkent Bölgesi, kuzey ve batıda tepelerle, doğuda �
 
 Ekonomik açıdan bölge, Batı Pakistan'ın hayati tek deniz koridoru işlevini gördü. Karaçi Limanı aracılığıyla dış deniz ticaretinin yüzde doksanından fazlasını gerçekleştiren anklav, aynı zamanda yeni kurulan Pakistan Devlet Bankası'na ve Karaçi Menkul Kıymetler Borsası'na ev sahipliği yaptı. Uluslararası uçuşlar Quaid-e-Azam Havalimanı ve Mauripur askeri hava üssü üzerinden yürütülürken, demiryolu seferleri Karachi Cantonment ve Karachi City istasyonlarından kuzeye hareket etti.
 
-![Port of Karachi deep-water harbour on the Arabian Sea](/images/atlas/federal-capital-territory-pakistan-inline-2.webp)
+![Port of Karachi deep-water harbour on the Arabian Sea](https://upload.wikimedia.org/wikipedia/commons/a/af/Karachi_Seaport.jpg)
 *Şekil 2: Umman Denizi kıyısındaki Karaçi Limanı, federal bölgenin varlığı boyunca Batı Pakistan'ın derin su limanına sahip tek deniz ticareti koridorunu oluşturdu. Fotoğraf: King Eliot, Wikimedia Commons (CC BY-SA 4.0).*
 
 Kıyı şeridindeki bir başkentin stratejik savunma zafiyeti, 1958 yılında Mareşal Eyüp Han liderliğindeki askeri darbenin ardından temel bir güvenlik kaygısı haline geldi. Savunma stratejistleri, Karaçi'nin denizden bombardıman ve amfibi harekatlara karşı açık olduğunu, siyasi yönetimin ise Ravalpindi'deki askeri karargahtan yalıtılmış hissettiğini belirtti. 1959'da resmi bir yer belirleme komisyonu, ulusal başkentin iç kesimlere, Potohar Platosu'na taşınması gerektiği sonucuna vardı.

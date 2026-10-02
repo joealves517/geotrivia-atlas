@@ -22,7 +22,7 @@ Laddove le ampie acque del fiume Volchov defluiscono verso nord dal lago Il'men'
 
 La collocazione geografica della città costituì la chiave della sua indipendenza. Posta all'incrocio delle rotte fluviali che collegavano l'Europa del Nord a Bisanzio e al bacino del Caspio, Novgorod fiorì come avamposto commerciale più orientale della Lega Anseatica. Il fiume Volchov separava l'abitato in due metà complementari: la riva di Santa Sofia, sede del potere amministrativo ed ecclesiastico sulla sponda occidentale, e la riva Commerciale, mercantile e laboriosa sulla sponda orientale. Questa suddivisione spaziale rifletteva l'equilibrio costituzionale che contraddistinse la città per oltre tre secoli.
 
-![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](/images/atlas/veliky-novgorod-medieval-republic-inline-1.webp)
+![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](https://upload.wikimedia.org/wikipedia/commons/6/62/VNovogorod_Detinets_VN13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Le mura e le torri in mattoni rossi del Cremlino (Detinec) di Velikij Novgorod, affacciate sulla riva occidentale del fiume Volchov.*
 
 ### Il Veče e l'ordinamento repubblicano
@@ -31,7 +31,7 @@ Il modello politico della Novgorod medievale segnò una rottura rispetto alle co
 
 Il governo civile era retto dal posadnik, un sindaco eletto tra le principali famiglie patrizie, affiancato dal tysjackij, figura militare a capo delle corporazioni mercantili. La comunità cittadina ingaggiava il principe come condottiero militare e supremo magistrato giudiziario. Prima di assumere l'incarico, ciascun principe sottoscriveva un patto vincolante, il rjad, che gli vietava di acquistare terre nel territorio della repubblica, di nominare giudici senza consenso o di imporre tributi senza l'approvazione del posadnik. Qualora il principe violasse tali obblighi, il Veče manteneva il diritto costituzionale di deporlo.
 
-![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](/images/atlas/veliky-novgorod-medieval-republic-inline-2.webp)
+![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](https://upload.wikimedia.org/wikipedia/commons/f/f3/Center_of_Veliky_Novgorod_Peterhof_Gotenhof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Pianta storica della Novgorod medievale con la separazione tra la riva di Santa Sofia e la riva Commerciale, sede del fondaco anseatico Peterhof.*
 
 ### Il fondaco anseatico e i manoscritti su corteccia di betulla
@@ -40,7 +40,7 @@ La prosperità economica di Novgorod dipendeva dalla sua stretta integrazione ne
 
 Nel sottosuolo della città commerciale è avvenuto uno dei ritrovamenti più rilevanti dell'archeologia medievale: i manoscritti su corteccia di betulla (beresty). Portati alla luce nel 1951 dall'archeologo Artemij Arcichovskij, i terreni argillosi e privi di ossigeno di Novgorod hanno conservato oltre mille frammenti incisi databili tra l'XI e il XV secolo. Vergati in antico slavo orientale per mezzo di uno stilo metallico o d'osso, questi messaggi privati, registri di cassa, ricevute e compiti scolastici dimostrano che la scrittura non era riservata agli ambienti religiosi. Artigiani, commercianti e donne nubili o capofamiglia comunicavano regolarmente per iscritto in merito a prestiti, compravendite di bestiame e questioni domestiche.
 
-![The 14th-century Church of the Transfiguration on Ilyina Street](/images/atlas/veliky-novgorod-medieval-republic-inline-3.webp)
+![The 14th-century Church of the Transfiguration on Ilyina Street](https://upload.wikimedia.org/wikipedia/commons/7/70/Kaniisadda_isbeddelka_ee_Ilina_Street_%28Veliky_Novgorod%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: La chiesa della Trasfigurazione del Salvatore in via Il'ina, rinomata per gli affreschi realizzati all'interno nel 1378 da Teofane il Greco.*
 
 ### Architettura monumentale e apporto bizantino
@@ -49,7 +49,7 @@ Il patrimonio monumentale di Novgorod rifletteva la ricchezza e l'orgoglio civic
 
 Nel XIV secolo, i proventi del commercio favorirono la costruzione di numerose chiese rionali finanziate da congregazioni mercantili (skladčiny). Sulla riva Commerciale, la chiesa della Trasfigurazione in via Il'ina, portata a termine nel 1374, incarna i canoni architettonici locali con le sue testate a cuspide e le cornici in cotto. Nel 1378, il maestro bizantino Teofane il Greco ne decorò le pareti e la cupola con affreschi monocromi raffiguranti anacoreti e profeti, caratterizzati da un tratto compendiario che influenzò la pittura di icone nei secoli a venire.
 
-![The historic Yuriev Monastery near the outflow of Lake Ilmen](/images/atlas/veliky-novgorod-medieval-republic-inline-4.webp)
+![The historic Yuriev Monastery near the outflow of Lake Ilmen](https://upload.wikimedia.org/wikipedia/commons/0/0a/Veliky_Novgorod._Yuriev_Monastery_P7211049_2350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Gli edifici in pietra bianca del monastero di San Giorgio (Jur'ev), fondato nell'XI secolo per presidiare l'accesso fluviale a sud della città.*
 
 ### La conservazione di un patrimonio storico

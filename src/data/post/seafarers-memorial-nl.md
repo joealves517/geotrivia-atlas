@@ -22,7 +22,7 @@ Twintig kilometer ten zuiden van de commerciële haven van Chittagong verbreedt 
 
 De koopvaardijvaart blijft een van de meest veeleisende beroepen in de moderne wereldhandel. Waar militaire gedenktekens doorgaans oorlogshandelingen of gevechtsverliezen herdenken, eert het Seafarers' Memorial een civiel offer. Commerciële schepen vervoeren meer dan tachtig procent van de wereldwijde handel en doorkruisen open oceanen, seizoensgebonden tyfonen en gevaarlijke doorvaartroutes. Voor de jonge officieren die in Juldia worden opgeleid, begint de maritieme plicht met een strenge discipline aan land en zet zich voort in jarenlange internationale zeereizen ver van huis.
 
-![Parade Ground at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-1.webp)
+![Parade Ground at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/5/58/ParadeGround_BMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Het ceremoniële paradeterrein van de Bangladesh Marine Academy met uitzicht op het estuarium van de Karnaphuli in Juldia, Chittagong.*
 
 ## De maritieme toegangspoort van de Karnaphuli
@@ -31,7 +31,7 @@ De ligging van het monument weerspiegelt de geografie van de commerciële verbin
 
 Het dagelijks leven aan de academie volgt een strikte militaire discipline, waarbij studenten worden verdeeld over nautische wetenschappen en scheepswerktuigbouwkunde. De opleidingsprogramma's combineren theorieonderwijs met intensieve technische praktijklessen, zwemproeven en oceaanreizen. In de loop van zes decennia traden duizenden afgestudeerden in dienst bij commerciële vloten van nationale rederijen en internationale scheepvaartbedrijven. Als officieren uit Bangladesh de wacht hielden op containerschepen, bulkcarriers en chemicaliëntankers, kregen zij te maken met de onvermijdelijke gevaren van de oceaanvaart.
 
-![Seafarers Memorial BMA](/images/atlas/seafarers-memorial-inline-2.webp)
+![Seafarers Memorial BMA](https://upload.wikimedia.org/wikipedia/commons/0/04/Seafarers_Memorial_BMA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: De centrale stenen constructie van het Seafarers' Memorial, ingewijd door de Internationale Maritieme Organisatie in 2011.*
 
 ## De onthulling door de Internationale Maritieme Organisatie
@@ -40,7 +40,7 @@ Op 13 januari 2011 vond op de campus een officiële internationale plechtigheid 
 
 Het ontwerp van het monument vermijdt overbodige versieringen. Opgetrokken uit strak metselwerk met duidelijke inscripties vormt het een ingetogen middelpunt op het centrale plein van de academie. De cadetten verzamelen zich op het plein tijdens ceremoniële bijeenkomsten, diploma-uitreikingen en avondappèls. De centrale locatie zorgt ervoor dat de herinnering een vast onderdeel blijft van de dagelijkse opleiding en niet beperkt blijft tot een jaarlijkse herdenkingsdag.
 
-![Cadets during graduation parade at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-3.webp)
+![Cadets during graduation parade at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/3/30/Bangladesh_Marine_Academy_Officer_Cadets_Graduation_%26_Passing_Out_Parade.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Officierscadetten opgesteld in formatie tijdens de jaarlijkse afstudeer- en afscheidsparade aan de academie.*
 
 ## Het dagelijks leven en ingetogen herdenken

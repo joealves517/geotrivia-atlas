@@ -22,7 +22,7 @@ Resande sig över trehundra meter över floden Drinos bäcken i södra Albanien 
 
 Arkeologiska fynd bekräftar att en befäst bosättning existerade på bergskammen redan under 1100-talet under Despotatet Epirus, omtalad i bysantinska krönikor som Argyrokastro eller Silverslottet. När osmanska styrkor avancerade över södra Balkan under det tidiga 1400-talet kapitulerade citadellet efter förhandlingar år 1419 och omvandlades till ett regionalt förvaltningscentrum under namnet Ergiri.
 
-![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](/images/atlas/gjirokast-r-fortress-inline-1.webp)
+![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](https://upload.wikimedia.org/wikipedia/commons/4/42/Gjirokast%C3%ABr%2C_st%C5%99ed_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 1: Den övre exercisplatsen med klocktornet som restes under 1800-talet av Ali Pascha av Tepelena.*
 
 ### Ali Paschas monumentala ombyggnad
@@ -31,7 +31,7 @@ Dagens imponerande silhuett har fästningen främst krigsherren Ali Pascha av Te
 
 Ali Pascha utökade försvarsmurarna till att omsluta i det närmaste hela högplatån och uppförde välvda kasematter kapabla att hysa garnisonstrupper och tunga kanonbatterier. För att övervinna fästningens historiska sårbarhet vid utdragna belägringar lät hans ingenjörer bygga en tio kilometer lång stenakvedukt som ledde källvatten från berget Sopot över djupa bergsklyftor. På det norra krönet reste han ett karaktäristiskt klocktorn som än idag utgör dalens främsta landmärke.
 
-![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](/images/atlas/gjirokast-r-fortress-inline-2.webp)
+![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gjirokast%C3%ABr%2C_interi%C3%A9r_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 2: Massiva välvda kasematter i sten uthuggna direkt ur kalkberget för att motstå fientligt artilleribombardemang.*
 
 ### Underjordiska fängelsehålor och politisk terror
@@ -40,7 +40,7 @@ Under de öppna skyttegångarna rymmer fästningen en vidsträckt labyrint av un
 
 Fästningens mörkaste kapitel inleddes efter 1944 under Enver Hoxhas kommunistiska diktatur, själv född i Gjirokastër. Regimen omvandlade citadellets underjordiska valv till ett beryktat fängelse för politiska dissidenter och intellektuella motståndare. Bevakade av säkerhetspolisen Sigurimi utstod fångarna extrem isolering i bergrum som huggits ut ur urberget. Fängelset förblev i drift ända fram till 1968, då internationell uppmärksamhet och förändrade politiska prioriteringar förmådde regeringen att omvandla anläggningen till ett museum.
 
-![Interior armament gallery displaying artillery captured during World War II and the Cold War era](/images/atlas/gjirokast-r-fortress-inline-3.webp)
+![Interior armament gallery displaying artillery captured during World War II and the Cold War era](https://upload.wikimedia.org/wikipedia/commons/0/0c/Gjirokast%C3%ABr_Festung_-_Kasematten_1a_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 3: Det underjordiska vapengalleriet med artilleripjäser erövrade under andra världskriget och kalla kriget.*
 
 ### Kalla krigets trofé och modernt kulturarv

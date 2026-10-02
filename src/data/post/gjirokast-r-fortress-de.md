@@ -22,7 +22,7 @@ Mehr als dreihundert Meter über dem Becken des Flusses Drino in Südalbanien er
 
 Archäologische Befunde belegen, dass bereits im zwölften Jahrhundert unter dem Despotat Epirus eine befestigte Höhensiedlung auf dem Bergkamm existierte, die in byzantinischen Chroniken als Argyrokastro oder die Silberne Burg Erwähnung fand. Als die osmanischen Truppen zu Beginn des fünfzehnten Jahrhunderts den südlichen Balkan unterwarfen, ergab sich die Zitadelle im Jahr 1419 nach Verhandlungen und stieg unter dem Namen Ergiri zum regionalen Verwaltungszentrum auf.
 
-![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](/images/atlas/gjirokast-r-fortress-inline-1.webp)
+![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](https://upload.wikimedia.org/wikipedia/commons/4/42/Gjirokast%C3%ABr%2C_st%C5%99ed_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 1: Der obere Paradeplatz mit dem im 19. Jahrhundert unter Ali Pascha von Tepelena errichteten Uhrturm.*
 
 ### Der monumentale Umbau unter Ali Pascha
@@ -31,7 +31,7 @@ Ihre heutige monumentale Gestalt verdankt die Festung in erster Linie Ali Pascha
 
 Ali Pascha dehnte die Wehrmauern über das gesamte Plateau aus und ließ gewölbte Kasematten errichten, die Truppenkontingente und schwere Geschütze aufnehmen konnten. Um die historische Anfälligkeit der Anlage gegenüber langen Belagerungen zu beheben, bauten seine Baumeister ein zehn Kilometer langes Steinaquädukt, das Quellwasser vom Berg Sopot über tiefe Bergschluchten heranführte. Am markanten Nordvorsprung ließ er einen weithin sichtbaren Uhrturm erbauen, der zur beherrschenden Landmarke des gesamten Flusstals wurde.
 
-![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](/images/atlas/gjirokast-r-fortress-inline-2.webp)
+![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gjirokast%C3%ABr%2C_interi%C3%A9r_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 2: Gewaltige gewölbte Steinkasematten, die in das Kalkgestein gehauen wurden, um feindlichem Artilleriebeschuss standzuhalten.*
 
 ### Unterirdische Kerker und politische Finsternis
@@ -40,7 +40,7 @@ Unterhalb der offenen Zinnen birgt das Bauwerk ein weit verzweigtes Labyrinth un
 
 Das finsterste Kapitel der Burg begann nach 1944 unter der stalinistischen Diktatur von Enver Hoxha, der selbst in Gjirokastra geboren wurde. Das Regime wandelte die unterirdischen Kammern in ein berüchtigtes Gefängnis für politische Häftlinge und regimekritische Intellektuelle um. Bewacht von der Geheimpolizei Sigurimi litten die Gefangenen unter extremen Isolationsbedingungen in Felszellen, die direkt in den Berghang geschlagen worden waren. Die Haftanstalt blieb bis 1968 in Betrieb, ehe internationaler Druck und veränderte innenpolitische Prioritäten dazu führten, die Anlage in einen Museumskomplex umzuwandeln.
 
-![Interior armament gallery displaying artillery captured during World War II and the Cold War era](/images/atlas/gjirokast-r-fortress-inline-3.webp)
+![Interior armament gallery displaying artillery captured during World War II and the Cold War era](https://upload.wikimedia.org/wikipedia/commons/0/0c/Gjirokast%C3%ABr_Festung_-_Kasematten_1a_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 3: Die unterirdische Waffengalerie mit Geschützen aus dem Zweiten Weltkrieg und der Ära des Kalten Krieges.*
 
 ### Trophäen des Kalten Krieges und modernes Erbe

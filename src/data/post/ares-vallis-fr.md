@@ -22,7 +22,7 @@ metadata:
 
 Le volume considérable de roches et de sédiments déplacé le long d'Ares Vallis témoigne de débits liquides sans équivalent dans l'histoire humaine. Les géologues planétaires estiment que les débits de pointe dépassaient plusieurs dizaines de millions de mètres cubes par seconde. Ces crues cataclysmiques ont décapé les terrains jusqu'au socle rocheux, laissant derrière elles des îles monumentales profilées en forme de larmes aérodynamiques pointant vers l'aval dans la direction empruntée par le torrent.
 
-![Perspective view of Ares Vallis showing teardrop-shaped islands](/images/atlas/ares-vallis-inline-1.webp)
+![Perspective view of Ares Vallis showing teardrop-shaped islands](https://upload.wikimedia.org/wikipedia/commons/2/21/Ares_Vallis_in_perspective_ESA229658.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Rendu en perspective d'Ares Vallis capturé par la sonde Mars Express de l'ESA, montrant des îles en goutte d'eau profilées par des crues cataclysmiques.*
 
 ## L'effondrement d'Iani Chaos et les déclencheurs volcaniques
@@ -31,7 +31,7 @@ L'origine des masses d'eau qui ont sculpté Ares Vallis se trouve dans les terra
 
 Lorsque la glace souterraine a fondu sous l'effet conjugué de la chaleur et de la pression, les couches supérieures ont perdu leur assise et se sont effondrées vers l'intérieur. L'eau a alors jailli à la surface sous la forme de geysers et d'inondations subites d'une rare violence, fracturant le relief environnant et ouvrant l'embouchure méridionale d'Ares Vallis. Les images à haute résolution transmises par les sondes orbitales révèlent que des systèmes de lacs interconnectés occupaient les hautes terres équatoriales. Dès qu'un bassin atteignait sa capacité maximale, les eaux rompaient ses berges et creusaient des brèches successives vers les dépressions inférieures.
 
-![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](/images/atlas/ares-vallis-inline-2.webp)
+![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/3/3a/Sojourner_on_Mars_PIA01122.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: L'atterrisseur Mars Pathfinder de la NASA et le rover Sojourner analysant des blocs volcaniques dans la plaine d'épandage d'Ares Vallis en 1997.*
 
 ## L'atterrissage historique de Mars Pathfinder
@@ -40,7 +40,7 @@ Le cône de déjection alluvial où Ares Vallis rejoint Chryse Planitia constitu
 
 Sojourner a ainsi examiné des galets émoussés, des blocs imbriqués et inclinés dans le sens des anciens courants, ainsi que des roches volcaniques stratifiées réparties sur le régolithe martien. L'orientation des galets a confirmé le passage d'immenses lames d'eau, apportant la confirmation directe sur le terrain d'hypothèses formulées dès les années 1970 grâce aux photographies orbitales des sondes Viking. Ces observations ont profondément transformé la compréhension de l'histoire climatique de Mars en prouvant l'action de l'eau liquide bien après la formation initiale de la planète.
 
-![Channel meander and layered sedimentary deposits in Ares Vallis](/images/atlas/ares-vallis-inline-3.webp)
+![Channel meander and layered sedimentary deposits in Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_-_Channel_Meander_in_Ares_Vallis_Region_%28ESP_012992_1860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Cliché orbital à haute résolution de Mars Reconnaissance Orbiter dévoilant des méandres et des terrasses sédimentaires dans Ares Vallis.*
 
 ## L'hypothèse du méga-réseau de drainage planétaire

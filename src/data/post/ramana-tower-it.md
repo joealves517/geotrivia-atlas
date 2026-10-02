@@ -22,7 +22,7 @@ Sui pianori calcarei della penisola di Absheron sorge la torre di Ramana, situat
 
 I documenti storici collocano la costruzione del complesso odierno nel XIV secolo, benché diversi studiosi d'architettura ritengano che i primi apprestamenti difensivi sul rilievo risalgano al XII secolo. Lo stato degli Shirvanshah, con capitali prima Shamakhi e poi Baku, doveva far fronte a continue pressioni dal mare e da dinastie rivali. Per questo motivo gli ingegneri militari fortificarono Absheron con torri di guardia collegate tramite segnalazioni ottiche.
 
-![Cortina muraria in pietra e mastio quadrangolare della fortezza di Ramana visti dai margini del villaggio](/images/atlas/ramana-tower-inline-1.webp)
+![Cortina muraria in pietra e mastio quadrangolare della fortezza di Ramana visti dai margini del villaggio](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ramana_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Cortina muraria in pietra e mastio quadrangolare della fortezza di Ramana visti dai margini del villaggio.*
 
 ## Architettura del mastio quadrangolare
@@ -33,7 +33,7 @@ A differenza delle strutture a pianta circolare diffuse nella penisola, come la 
 
 L'ingresso principale si apre in una corte interna riparata, inducendo gli assalitori in un passaggio stretto e dominato dall'alto degli spalti. La copertura sommitale termina con caditoie a sbalzo e una merlatura continua, utile per controllare e difendere la base delle mura.
 
-![Prospetto meridionale con bastioni d'angolo semicircolari e cortine difensive graduate](/images/atlas/ramana-tower-inline-2.webp)
+![Prospetto meridionale con bastioni d'angolo semicircolari e cortine difensive graduate](https://upload.wikimedia.org/wikipedia/commons/7/78/Ramana_castle_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Prospetto meridionale con bastioni d'angolo semicircolari e cortine difensive graduate.*
 
 ## Funzione strategica nella difesa di Absheron
@@ -44,7 +44,7 @@ In caso di navi nemiche in avvicinamento lungo la costa caspica, le sentinelle a
 
 L'area circostante racchiudeva rilevanti risorse economiche accanto a quelle difensive. Gli specchi salmastri e le sorgenti naturali di greggio attorno a Ramana fornivano materie prime ricercate nel Medioevo. Il presidio militare della torre tutelava queste estrazioni e scortava i mercanti diretti verso i mercati di Shirvan e Tabriz.
 
-![Merlatura sommitale e dettagli costruttivi dei bastioni di vedetta](/images/atlas/ramana-tower-inline-3.webp)
+![Merlatura sommitale e dettagli costruttivi dei bastioni di vedetta](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ramana_Castle_towers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Merlatura sommitale e dettagli costruttivi dei bastioni di vedetta.*
 
 ## Tutela e patrimonio culturale

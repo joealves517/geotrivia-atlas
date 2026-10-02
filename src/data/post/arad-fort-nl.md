@@ -20,7 +20,7 @@ metadata:
 
 Als wachter over de maritieme toegangen tot Muharraq in het noorden van Bahrein vormt Fort Arad een van de best bewaarde voorbeelden van vroegere islamitische militaire architectuur in de Perzische Golf. Het compacte fort werd in de vijftiende eeuw opgetrokken op wat toen een geïsoleerd barrière-eiland was, en beheerste de ondiepe kustwateren die de open golf verbonden met de natuurlijke havens van Bahrein. Hoewel moderne landaanwinning het eiland Arad met Muharraq heeft verbonden, behoudt het fort zijn oorspronkelijke geometrische grondplan en maritieme ligging.
 
-![Buitengracht en koraalstenen weermuren van Fort Arad](/images/atlas/arad-fort-inline-1.webp)
+![Buitengracht en koraalstenen weermuren van Fort Arad](https://upload.wikimedia.org/wikipedia/commons/f/f8/Arad_Qalat_Arad_Exterior_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 1: De buitengracht en de muren van zeesteen van Fort Arad met uitzicht op Muharraq.*
 
 ## Kustverdediging op een voormalig barrière-eiland
@@ -29,7 +29,7 @@ Voordat grootschalige waterbouwkundige werken in de twintigste eeuw de kustlijn 
 
 Om deze natuurlijke bescherming te versterken, groeven de bouwers een kunstmatige gracht rondom de vierkante muren. In een droge kustomgeving waar zout zeewater de funderingen had kunnen aantasten, sloegen ingenieurs zoetwaterputten in nabijgelegen waterlagen om de gracht te vullen. Deze waterhindernis verhinderde ondermijning van de muren en voorzag de bezetting tevens van drinkwater tijdens maritieme blokkades.
 
-![Binnenplaats en hoektorens van Fort Arad](/images/atlas/arad-fort-inline-2.webp)
+![Binnenplaats en hoektorens van Fort Arad](https://upload.wikimedia.org/wikipedia/commons/d/d4/Arad_Fort%2C_Bahrain%2C_15th_century_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 2: De centrale binnenplaats en cilindrische torens ontworpen volgens klassieke islamitische vestingbouwprincipes.*
 
 ## Koraalsteenmetselwerk en islamitische vestingbouw
@@ -38,7 +38,7 @@ De plattegrond van Fort Arad volgt de klassieke geometrische tradities van de is
 
 De weermuren beschikken over twee afzonderlijke verdedigingsniveaus. Lagere weergangen stelden boogschutters en schutters in staat om aanvallers door verticale schietspleten onder vuur te nemen, terwijl de bovenste borstweringen ruimte boden aan geschut en uitkijkposten. Elke ronde toren steekt buiten de muren uit, wat kruisend vuur mogelijk maakte en dode hoeken aan de voet van het fort wegnam. Kraagstenen werpgaten met neusvormige openingen kronen de borstwering boven de toegangspoort om projectielen en hete vloeistoffen op belagers te werpen.
 
-![Schietspleten en uitkijkopeningen op de bovenste weermuren van Fort Arad](/images/atlas/arad-fort-inline-3.webp)
+![Schietspleten en uitkijkopeningen op de bovenste weermuren van Fort Arad](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arad_Fort%2C_Bahrain%2C_15th_century_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 3: Verdedigingsopeningen en schietspleten gepositioneerd om de vaarroutes te beheersen.*
 
 ## Machtsverschuivingen in de Perzische Golf

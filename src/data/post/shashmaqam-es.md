@@ -22,7 +22,7 @@ A través de las ciudades oasis de Transoxiana, donde las caravanas de la Ruta d
 
 Cada una de las seis suites, Buzruk, Rost, Navo, Dugoh, Segoh e Iroq, funciona como una extensa composición cíclica que comprende decenas de piezas vocales e instrumentales. Lejos de ser simples melodías populares, estas obras se rigen por estrictas normas teóricas que articulan la modulación tonal, los ciclos métricos y la improvisación lírica. Durante siglos, el mecenazgo de los emires de Bujará brindó el entorno formal en el que músicos judíos, tayikos y uzbekos confluían para perfeccionar y legar esta compleja manifestación oral a las siguientes generaciones.
 
-![Traditional folk music ensemble in Central Asia](/images/atlas/shashmaqam-inline-1.webp)
+![Traditional folk music ensemble in Central Asia](https://upload.wikimedia.org/wikipedia/commons/9/96/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Conjunto de música tradicional en Asia Central interpretando suites modales con laúdes acústicos y tambores de marco.*
 
 ## La arquitectura acústica de las suites modales
@@ -31,7 +31,7 @@ La estructura del Shashmaqam asocia una instrumentación acústica austera con u
 
 Los intérpretes prescinden de partituras escritas y transmiten las sutilezas microtonales y las cadencias rítmicas mediante el método de discipulado directo denominado ustod-shogird. Los vocalistas entonan versos procedentes de la poesía clásica persa y túrquica chagatai, dando vida a las composiciones místicas de autores como Hafez, Jami, Navoiy y Bedil. Estos textos emplean alegorías del amor terrenal para evocar las inquietudes sufíes del anhelo divino, la separación y el reencuentro trascendente.
 
-![Uzbek musician playing the two-stringed dutar](/images/atlas/shashmaqam-inline-2.webp)
+![Uzbek musician playing the two-stringed dutar](https://upload.wikimedia.org/wikipedia/commons/e/e5/Joueur_de_dutar_ouzbek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Músico uzbeko tañendo el dutar, laúd tradicional de mástil largo y dos cuerdas que conforma la base modal de las suites vocales.*
 
 ## Preservación y transformaciones políticas en la Ruta de la Seda
@@ -40,7 +40,7 @@ Las convulsiones sociopolíticas del siglo XX alteraron profundamente el context
 
 Pese a esta reestructuración oficial, la cadena viva de aprendizaje perduró en el seno de estirpes familiares, con especial arraigo entre dinastías musicales tayikas y de la comunidad judía bujariana. Con las corrientes migratorias de finales del siglo XX, insignes maestros trasladaron la tradición a núcleos diaspóricos en Tel Aviv y Nueva York, salvaguardando matices estilísticos locales que habían decaído en las salas de conciertos de Asia Central.
 
-![Traditional vocalists accompanied by long-necked lutes in Samarkand](/images/atlas/shashmaqam-inline-3.webp)
+![Traditional vocalists accompanied by long-necked lutes in Samarkand](https://upload.wikimedia.org/wikipedia/commons/b/b6/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F_%D0%B2_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_%D0%9D%D0%B0%D1%81%D0%B8%D0%B1%D1%8B_%D0%9E%D0%BC%D0%BE%D0%BD%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B8_%D0%9A%D0%B0%D0%BC%D0%BE%D0%BB%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BC%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Cantantes tradicionales acompañados por laúdes en Samarcanda, entonando pasajes selectos de la lírica sufí clásica.*
 
 ## Reconocimiento internacional y práctica contemporánea

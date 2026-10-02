@@ -22,7 +22,7 @@ Rüzgârların savrulduğu Atlantik kıyılarında, güneşli Akdeniz burunları
 
 Bu sözcük bilim dünyasına ilk kez 1849 yılında, İngiliz antikacı Algernon Herbert'in Stonehenge gibi anıtları tanımlamak için Yunanca büyük anlamına gelen megas ve taş anlamına gelen lithos sözcüklerini birleştirmesiyle girdi. Yüzyıllar boyunca eski vakanüvisler ve araştırmacılar taş çemberleri, dolmenleri ve dikilitaşları efsanevi varlıklara atfettiler: kadim devler, Kelt druidleri veya denizci Fenikeliler. Yüksek hassasiyetli radyokarbon tarihleme, Bayes istatistiksel modellemesi ve arkeoastronomiyle güçlenen çağdaş arkeoloji, erken Neolitik toplumlar arasındaki kolektif mühendislik ve denizcilik bağlantılarına dair çok daha büyüleyici bir tablo sunmaktadır.
 
-![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-1.webp)
+![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](https://upload.wikimedia.org/wikipedia/commons/8/8c/Auchencar_standing_stone_-_facing_farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: İskoçya'daki Arran Adası'nda yer alan Auchencar dikilitaşı (menhir). Fotoğraf: Colin (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ Masif doğal taşları işleyen en eski insan toplulukları, bunu tarımın veya
 
 Göteborg Üniversitesi'nden arkeolog Bettina Schulz Paulsson öncülüğünde yürütülen çığır açıcı bir çalışma, Avrupa genelindeki megalit mezarlardan alınan 2.410'dan fazla radyokarbon verisini inceledi. 2019 yılında Proceedings of the National Academy of Sciences dergisinde yayımlanan sonuçlar, tarih öncesi uzmanlarını bir asırdır bölen tartışmayı sonlandırdı. Avrupa megalit mimarisi birbirinden bağımsız bölgesel odaklarda kendiliğinden doğmamış, MÖ 4500 civarında Kuzeybatı Fransa'nın Atlantik kıyısında, bugünkü Bretonya bölgesinde ortaya çıkmıştır. Bu denizci beşikten itibaren gelenek, deniz ticaret yollarını izleyen ardışık dalgalarla İber Yarımadası'na, Britanya Adaları'na ve İskandinavya'ya yayılmıştır.
 
-![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-2.webp)
+![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](https://upload.wikimedia.org/wikipedia/commons/c/c7/Machrie_moor_standing_stones.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Batı İskoçya'daki Machrie Moor taş çember kompleksinin kumtaşı monolitleri. Fotoğraf: Rowyn flowerdew (CC0).*
 
@@ -38,7 +38,7 @@ Neolitik megalitler, her biri belirli toplumsal amaçlara hizmet eden farklı mi
 
 Dolmenler ve koridorlu mezarlar megalit mimarisinin cenaze boyutunu oluşturur. Tipik bir dolmen, kapalı bir mezar odası oluşturan ve ağır bir kapak taşını taşıyan iki veya daha fazla dik taştan meydana gelir. İrlanda'daki Newgrange veya Fransa'daki Gavrinis gibi anıtsal alanlarda inşaatçılar, bu taş odaları uzun yeraltı koridorlarıyla ulaşılan devasa toprak ve taş yığınlarıyla örttüler. Newgrange'de kış gündönümünde doğan güneş, girişin üzerindeki özel çatı açıklığından süzülerek merkezi odayı kusursuz bir astronomik hesapla aydınlatır.
 
-![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-3.webp)
+![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](https://upload.wikimedia.org/wikipedia/commons/e/e8/Standing_Stone-1013137%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: İrlanda'nın Dingle Yarımadası'ndaki kıyı otlaklarına bakan hava şartlarıyla aşınmış tarih öncesi dikilitaş. Fotoğraf: Maoileann (CC BY-SA 4.0).*
 
@@ -46,7 +46,7 @@ Bu anıtların inşasındaki fiziksel çaba, hayranlık uyandırıcı bir lojist
 
 İnşaat lojistiğinin yanı sıra araştırmacılar, megalit mezar odalarında dikkat çekici akustik özellikler tespit ettiler. Britanya ve İrlanda'daki alanlarda yapılan arkeoakustik ölçümler, birçok odanın 110 hertz civarındaki frekanslarda rezonansa girdiğini göstermektedir. Bu kapalı taş mekânlarda yapılan ritüel şarkıları veya davul vuruşları, akustik titreşimleri güçlendiren duran ses dalgaları üreterek mevsimsel törenlerde yoğun duyusal deneyimler yaratıyordu.
 
-![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-4.webp)
+![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](https://upload.wikimedia.org/wikipedia/commons/9/9d/Komplek_Megalith_di_Taman_Nasional_Lore_Lindu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Endonezya'daki Lore Lindu Milli Parkı Bada Vadisi'nde korunan antik insan biçimli megalit heykel. Fotoğraf: Lo2asinamura (CC BY-SA 4.0).*
 

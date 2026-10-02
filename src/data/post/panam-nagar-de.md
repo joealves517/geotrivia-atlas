@@ -22,7 +22,7 @@ Im Upazila Sonargaon des Distrikts Narayanganj, rund dreißig Kilometer südöst
 
 Die geografische Lage von Panam Nagar war durch Flussläufe und Wasserwege geprägt. An drei Seiten von schützenden Kanälen umgeben, die als Pankhiraj Khal bekannt sind, fungierte die Siedlung als Binnenhafen mit direkter Anbindung an die Flusssysteme von Meghna und Shitalakshya. Dieser Wasserzugang ermöglichte es Handelsschiffen, Agrargüter, Rohbaumwolle und feine Webwaren aus Ostbengalen direkt in maritime Handelsnetze über den Golf von Bengalen zu transportieren.
 
-![Zweistöckiges Kaufmannshaus mit indo-europäischen Kolonialfassaden und Rundbogenarkaden in Panam Nagar](/images/atlas/panam-nagar-inline-1.webp)
+![Zweistöckiges Kaufmannshaus mit indo-europäischen Kolonialfassaden und Rundbogenarkaden in Panam Nagar](https://upload.wikimedia.org/wikipedia/commons/5/5c/A_dwelling_at_Panam_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 1: Zweistöckiges Kaufmannshaus mit indo-europäischen Kolonialfassaden und Rundbogenarkaden in Panam Nagar.*
 
 ## Vom Sultanatssitz zum kolonialen Handelszentrum
@@ -33,7 +33,7 @@ Ein tiefer wirtschaftlicher Einschnitt erfolgte im Jahr 1610, als der Mogul-Vize
 
 Eine wirtschaftliche Renaissance erlebte die Siedlung zu Beginn des 19. Jahrhunderts unter britischer Kolonialherrschaft. Wohlhabende Händlerfamilien, die lokal als Poddars und Tilis bekannt waren, machten Panam Nagar zu ihrem geschäftlichen Hauptquartier und handelten mit Garnen, Rohbaumwolle, Jute und Indigo. Zwischen 1810 und 1910 errichteten diese Händlerdynastien geschlossene Reihen stattlicher Stadthäuser entlang der Hauptstraße und verbanden europäische Formensprachen mit traditionellen bengalischen Bautechniken.
 
-![Die 600 Meter lange gepflasterte Kolonialstraße, gesäumt von verlassenen Kaufmannshäusern des 19. Jahrhunderts](/images/atlas/panam-nagar-inline-2.webp)
+![Die 600 Meter lange gepflasterte Kolonialstraße, gesäumt von verlassenen Kaufmannshäusern des 19. Jahrhunderts](https://upload.wikimedia.org/wikipedia/commons/d/d2/Panam_City%2C_Sonargaon%2C_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 2: Die 600 Meter lange gepflasterte Kolonialstraße, gesäumt von verlassenen Kaufmannshäusern des 19. Jahrhunderts.*
 
 ## Verbindung architektonischer Stile
@@ -44,7 +44,7 @@ Lokale Baumeister verbanden klassizistische Elemente mit einheimischen Handwerks
 
 Die Raumaufteilung der Gebäude erfüllte geschäftliche und private Zwecke zugleich. Die Straßenräume im Erdgeschoss dienten als Kontore, Ausstellungsflächen und feuerfeste Lagerräume für Textilien. Die oberen Stockwerke beherbergten Wohnräume um offene Innenhöfe, die für Belüftung und Tageslicht im feuchtheißen Monsunklima sorgten. Rückwärtige Ausgänge führten zu Nutzgärten und Kanälen, sodass Waren direkt auf Boote verladen werden konnten, ohne den Straßenverkehr zu behindern.
 
-![Historischer Terrakotta-Backsteintempel und Wohngebäude innerhalb der Denkmalzone von Sonargaon](/images/atlas/panam-nagar-inline-3.webp)
+![Historischer Terrakotta-Backsteintempel und Wohngebäude innerhalb der Denkmalzone von Sonargaon](https://upload.wikimedia.org/wikipedia/commons/1/13/An_ancient_temple_in_Panam_Nagar%2C_Bangladesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Abbildung 3: Historischer Terrakotta-Backsteintempel und Wohngebäude innerhalb der Denkmalzone von Sonargaon.*
 
 ## Niedergang, Denkmalschutz und modernes Erbe

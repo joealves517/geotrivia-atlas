@@ -22,7 +22,7 @@ metadata:
 
 في زمن كانت فيه القصور الملكية مثل فرساي تعتمد على آلات هائلة وعرضة للأعطال المتكررة مثل آلة مارلي لضخ المياه صعوداً من نهر السين، استغنت قلعة أنفوا تماماً عن الضخ الميكانيكي. حوّل مهندسوها الهيدرولوجيا الطبيعية لهضبة كوندروس إلى محرك ذاتي التشغيل. فكل نافورة مائية، وحوض قناة، وشلال متدرج يعمل وفق مبادئ حفظ الطاقة وميكانيكا الموائع في الأواني المستطرقة، مما يشكل دورة مائية متواصلة استمرت بعد اندثار السلالة التي صممتها.
 
-![Annevoie Castle reflected in the lower pool](/images/atlas/annevoie-castle-gravity-water-gardens-inline-1.webp)
+![Annevoie Castle reflected in the lower pool](https://upload.wikimedia.org/wikipedia/commons/c/c2/Le_ch%C3%A2teau_de_Rouillon_et_son_reflet_%2828049915762%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: الواجهة الكلسية لقلعة أنفوا تنعكس على سطح الحوض السفلي، حيث تتجمع مياه التصريف قبل خروجها إلى نهر رويون.*
 
 ### مختبر صانع الحديد
@@ -31,7 +31,7 @@ metadata:
 
 وعندما ورث حفيد جان، شارل ألكسي دي مونبلييه (1717-1807)، العقار في منتصف القرن الثامن عشر، كان يحمل المنصب الرفيع كعمدة لصنّاع الحديد في كونتية نامور. لم يتعامل شارل ألكسي مع الأراضي المحيطة بقصره كأحد رجال البلاط العاطلين، بل بعقلية مهندس متمرس في ديناميكا السوائل وعلم المعادن. وخلال رحلاته الطويلة عبر فرنسا وإيطاليا وإنجلترا، لاحظ التكاليف الباهظة والأعطال المستمرة للمضخات الميكانيكية في حدائق الترفيه في ذلك العصر. وبعد عودته إلى موطنه في أنفوا-رويون، أمضى عشرين عاماً في تحويل وادي نهر رويون إلى محمية مائية تتغذى حصرياً بالجاذبية الطبيعية.
 
-![Classical sculptures above the waterways](/images/atlas/annevoie-castle-gravity-water-gardens-inline-2.webp)
+![Classical sculptures above the waterways](https://upload.wikimedia.org/wikipedia/commons/7/7f/Statues_dominant_les_fontaines_et_le_ch%C3%A2teau_de_Rouillons_%2828467282904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: تماثيل أسطورية من الحجر تقف حارسة على طول المنحدر المتدرج، حيث تغذي القنوات الباطنية الشلالات والمجاري المائية.*
 
 ### فيزياء الخزان المرتفع
@@ -42,7 +42,7 @@ metadata:
 
 وبخلاف شبكات المياه الحضرية أو الأنظمة الحديثة المزودة بمضخات إعادة التدوير، لا تُعاد المياه في أنفوا إلى الوراء على الإطلاق. فالحديقة بأكملها تعمل كدارة هيدروليكية مفتوحة التدفق؛ حيث تنحدر المياه من ينابيع المرتفعات عبر القناة الكبرى، وتمر في الأنابيب الجوفية لتغذي نوافير شهيرة مثل بوفيه المياه وحوض نبتون، ثم تسيل في برك الانعكاس السفلية، وتفرغ في نهر رويون الذي يحملها إلى نهر الموز. وباعتمادها الحصري على الجاذبية والضغط الجوي، تعمل المنظومة دون وقود أو تروس ميكانيكية أو كهرباء.
 
-![The limestone manor from the canal](/images/atlas/annevoie-castle-gravity-water-gardens-inline-3.webp)
+![The limestone manor from the canal](https://upload.wikimedia.org/wikipedia/commons/a/aa/ChateaudAnnevoie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: مشهد للقصر المشيد في القرن الثامن عشر عبر القناة المائية الرئيسية العليا، مبرزاً التناسق الهندسي الدقيق للمحاور الهيدروليكية.*
 
 ### توليف متناغم بين ثلاثة تقاليد أوروبية للحدائق
@@ -53,7 +53,7 @@ metadata:
 
 وحول هذه المحاور المنظمة، تتلاشى أطراف الحديقة نحو الطراز الريفي الإنجليزي الناشئ. فالمسارات المتعرجة، والبحيرات غير المنتظمة، وأشجار الصفصاف الباكي، والواحات الشجرية تمنح الزائر إحساساً بالطبيعة العفوية. وهذا التمازج يمنح أنفوا مكانة فريدة في تاريخ فن الحدائق؛ إذ ينتقل المتنزه بسلاسة بين الهندسة الديكارتية، ومشهد المياه الباروكي، والجمال الرومانسي داخل حديقة متصلة تمتد على مساحة عشرين هكتاراً.
 
-![Geometric waterways and natural spring basins](/images/atlas/annevoie-castle-gravity-water-gardens-inline-4.webp)
+![Geometric waterways and natural spring basins](https://upload.wikimedia.org/wikipedia/commons/3/31/Annevoie_-_Le_ch%C3%A2teau_et_son_plan_d%27eau_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: اللقاء بين الحواف الحجرية المنتظمة للقنوات وأحواض الينابيع الطبيعية يوضح التدرج المدروس بين دقة البناء والطبيعة الحرة.*
 
 ### قرنان ونصف من التدفق الهيدروليكي المتواصل

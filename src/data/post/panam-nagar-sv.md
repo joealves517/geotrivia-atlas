@@ -22,7 +22,7 @@ I Sonargaon upazila i distriktet Narayanganj, ungefär tre mil sydost om Dhaka, 
 
 Panam Nagars geografiska läge formades av deltanas vattenleder. Omgiven på tre sidor av skyddande kanaler, kända som Pankhiraj Khal, fungerade staden som en inre hamn med direkt förbindelse till floderna Meghna och Shitalakshya. Denna vattenburna tillgång gjorde det möjligt för handelsbåtar att frakta jordbruksprodukter, råbomull och vävda textilier från östra Bengalen direkt ut till de internationella sjörutterna i Bengaliska viken.
 
-![Tvåvånings köpmansresidens med indoeuropeiska kolonialfasader och valvportiker i Panam Nagar](/images/atlas/panam-nagar-inline-1.webp)
+![Tvåvånings köpmansresidens med indoeuropeiska kolonialfasader och valvportiker i Panam Nagar](https://upload.wikimedia.org/wikipedia/commons/5/5c/A_dwelling_at_Panam_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 1: Tvåvånings köpmansresidens med indoeuropeiska kolonialfasader och valvportiker i Panam Nagar.*
 
 ## Från sultanatets huvudstad till kolonialt handelscentrum
@@ -33,7 +33,7 @@ En genomgripande förändring inträffade år 1610, då mogulernas vicekung Isla
 
 Området upplevde en renässans under det tidiga 1800-talet under brittiskt styre. Förmögna hinduiska köpmanssläkter, lokalt benämnda Poddars och Tilis, gjorde Panam Nagar till sitt affärscentrum och handlade med industrigarn, råbomull, jute och indigo. Mellan 1810 och 1910 uppförde dessa köpmannadynastier sammanhängande rader av stadspalats längs huvudgatan, där västerländska stilelement förenades med traditionell bengalisk byggnadskonst.
 
-![Den 600 meter långa stenlagda kolonialgatan kantad av övergivna handelshus från 1800-talet](/images/atlas/panam-nagar-inline-2.webp)
+![Den 600 meter långa stenlagda kolonialgatan kantad av övergivna handelshus från 1800-talet](https://upload.wikimedia.org/wikipedia/commons/d/d2/Panam_City%2C_Sonargaon%2C_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 2: Den 600 meter långa stenlagda kolonialgatan kantad av övergivna handelshus från 1800-talet.*
 
 ## Sammanflätning av arkitektoniska stilar
@@ -44,7 +44,7 @@ Lokala murarmästare kombinerade klassiska ornament med inhemska hantverkstradit
 
 Byggnadernas rumsdisposition var anpassad för såväl affärsverksamhet som familjeliv. Bottenvåningens rum mot gatan fungerade som kontor, utställningslokaler och brandsäkra lager för tyger. De övre våningarna inrymde bostadsrum grupperade kring öppna innergårdar som gav svalka och dagsljus i det fuktiga monsunklimatet. Utgångar på baksidan ledde mot sidoledande kanaler, vilket underlättade lastning av gods på pråmar utan att störa gatutrafiken.
 
-![Historiskt terrakottatempel och bostadshus inom Sonargaons kulturarvsområde](/images/atlas/panam-nagar-inline-3.webp)
+![Historiskt terrakottatempel och bostadshus inom Sonargaons kulturarvsområde](https://upload.wikimedia.org/wikipedia/commons/1/13/An_ancient_temple_in_Panam_Nagar%2C_Bangladesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 3: Historiskt terrakottatempel och bostadshus inom Sonargaons kulturarvsområde.*
 
 ## Förfall, bevarande och kulturarvsstatus

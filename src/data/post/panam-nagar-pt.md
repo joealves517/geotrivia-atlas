@@ -22,7 +22,7 @@ Situada no upazila de Sonargaon, no distrito de Narayanganj, a cerca de trinta q
 
 A implantação territorial de Panam Nagar foi condicionada pela dinâmica fluvial da bacia hidrográfica. Circundado em três direções por canais de proteção chamados de Pankhiraj Khal, o povoamento funcionava como um porto interior conectado diretamente às águas dos rios Meghna e Shitalakshya. Essa via navegável possibilitava que embarcações transportassem mercadorias agrícolas, fardos de algodão e peças de tecelagem fina do leste de Bengala diretamente às rotas de navegação da baía de Bengala.
 
-![Residência comercial de dois andares com fachadas coloniais indo-europeias e arcos em Panam Nagar](/images/atlas/panam-nagar-inline-1.webp)
+![Residência comercial de dois andares com fachadas coloniais indo-europeias e arcos em Panam Nagar](https://upload.wikimedia.org/wikipedia/commons/5/5c/A_dwelling_at_Panam_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Residência comercial de dois andares com fachadas coloniais indo-europeias e arcos em Panam Nagar.*
 
 ## Da capital do sultanato ao polo mercantil colonial
@@ -33,7 +33,7 @@ Uma alteração institucional marcante ocorreu em 1610, ano em que o vice-rei mo
 
 O núcleo viveu expressiva recuperação econômica no início do século XIX. Famílias mercantis hindus abastadas, conhecidas pelas designações de Poddars e Tilis, elegeram Panam Nagar para residência e sede de negócios, negociando fios industriais, algodão cru, juta e anil. Entre 1810 e 1910, essas linhagens comerciais ergueram casarões geminados ao longo da rua central, associando soluções formais europeias aos sistemas tradicionais da construção civil de Bengala.
 
-![A rua colonial calçada de 600 metros margeada por casarões comerciais desocupados do século XIX](/images/atlas/panam-nagar-inline-2.webp)
+![A rua colonial calçada de 600 metros margeada por casarões comerciais desocupados do século XIX](https://upload.wikimedia.org/wikipedia/commons/d/d2/Panam_City%2C_Sonargaon%2C_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: A rua colonial calçada de 600 metros margeada por casarões comerciais desocupados do século XIX.*
 
 ## Encontro de linguagens arquitetônicas
@@ -44,7 +44,7 @@ Construtores locais articularam motivos de feição clássica com as artes ornam
 
 O arranjo interno das dependências conciliava atividades comerciais e vida doméstica. Os recintos térreos voltados para a via pública operavam como escritórios, mostruários e depósitos resguardados para tecidos. Os pavimentos superiores acolhiam os aposentos familiares distribuídos em torno de pátios centrais abertos que garantiam circulação de ar e luminosidade sob o clima das monções. As passagens dos fundos davam para canais secundários, permitindo o embarque de cargas em barcaças sem prejudicar o tráfego viário.
 
-![Templo histórico em alvenaria de tijolos e construções residenciais no complexo de Sonargaon](/images/atlas/panam-nagar-inline-3.webp)
+![Templo histórico em alvenaria de tijolos e construções residenciais no complexo de Sonargaon](https://upload.wikimedia.org/wikipedia/commons/1/13/An_ancient_temple_in_Panam_Nagar%2C_Bangladesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Templo histórico em alvenaria de tijolos e construções residenciais no complexo de Sonargaon.*
 
 ## Abandono, preservação e reconhecimento cultural

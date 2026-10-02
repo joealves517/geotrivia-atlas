@@ -22,7 +22,7 @@ A lo largo de costas atlánticas azotadas por el viento, promontorios soleados d
 
 El vocablo ingresó formalmente en el léxico científico en 1849, cuando el anticuario británico Algernon Herbert unió las raíces griegas megas, que significa grande, y lithos, piedra, para clasificar monumentos de la envergadura de Stonehenge. Durante siglos, cronistas y eruditos atribuyeron los círculos de piedra, dólmenes y menhires solitarios a figuras de leyenda: gigantes pretéritos, druidas celtas o navegantes fenicios. La arqueología contemporánea, sustentada en dataciones por radiocarbono de alta resolución, modelos estadísticos bayesianos y arqueoastronomía, relata una historia mucho más elocuente de ingeniería cooperativa y navegación marítima entre las primeras comunidades neolíticas.
 
-![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-1.webp)
+![Auchencar solitary standing stone menhir on the Isle of Arran, Scotland](https://upload.wikimedia.org/wikipedia/commons/8/8c/Auchencar_standing_stone_-_facing_farm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: El menhir solitario de Auchencar en la isla de Arran, Escocia. Fotografía de Colin (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ Los primeros grupos humanos que trabajaron bloques pétreos de grandes dimension
 
 Un estudio fundamental dirigido por la arqueóloga Bettina Schulz Paulsson en la Universidad de Gotemburgo examinó más de 2.410 dataciones por radiocarbono procedentes de sepulturas megalíticas europeas. Sus conclusiones, publicadas en 2019 en la revista Proceedings of the National Academy of Sciences, zanjaron un debate que había confrontado a los investigadores durante más de un siglo. Lejos de surgir de forma inconexa en focos aislados, la arquitectura megalítica europea nació en el litoral atlántico del noroeste de Francia, en la actual Bretaña, alrededor del 4500 a. C. A partir de este foco marítimo, la costumbre se expandió en oleadas marítimas sucesivas que alcanzaron la península ibérica, las islas británicas y Escandinavia.
 
-![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-2.webp)
+![Machrie Moor Neolithic stone circle on the Isle of Arran in Scotland](https://upload.wikimedia.org/wikipedia/commons/c/c7/Machrie_moor_standing_stones.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Monolitos de arenisca del complejo de círculos líticos de Machrie Moor en el oeste de Escocia. Fotografía de Rowyn flowerdew (CC0).*
 
@@ -38,7 +38,7 @@ Los megalitos del Neolítico adoptan distintas tipologías estructurales, diseñ
 
 Los dólmenes y las tumbas de corredor integran la vertiente funeraria del fenómeno megalítico. Un dolmen básico se compone de dos o más bloques verticales que soportan una losa horizontal de cubierta, delimitando un recinto mortuorio protegido. En complejos destacados como Newgrange en Irlanda o Gavrinis en Francia, las cámaras se cubrían bajo inmensos túmulos de tierra y piedras a los que se accedía por largos pasillos pétreos. Durante el solsticio de invierno en Newgrange, el sol naciente penetra por un vano superior especialmente concebido sobre el acceso, iluminando el corazón de la cámara con cálculo astronómico riguroso.
 
-![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-3.webp)
+![Prehistoric upright standing stone on the Dingle Peninsula in County Kerry, Ireland](https://upload.wikimedia.org/wikipedia/commons/e/e8/Standing_Stone-1013137%2C_Dingle_Peninsula%2C_Co._Kerry%2C_Ireland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Menhir prehistórico desgastado por la intemperie sobre los pastos litorales de la península de Dingle, Irlanda. Fotografía de Maoileann (CC BY-SA 4.0).*
 
@@ -46,7 +46,7 @@ La logística empleada en estas obras revela una inventiva técnica admirable. E
 
 Junto a la pericia del transporte, los investigadores han documentado notables propiedades acústicas en el interior de estas cámaras megalíticas. Diversos estudios de arqueoacústica en yacimientos británicos e irlandeses evidencian que muchas cámaras resuenan en torno a los 110 hercios. El canto rítmico o los toques de tambor en estos recintos cerrados generan ondas estacionarias que amplifican las vibraciones acústicas, induciendo experiencias sensoriales envolventes en ceremonias y reuniones comunitarias.
 
-![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](/images/atlas/prehistoric-megaliths-ancient-stone-monuments-inline-4.webp)
+![Carved prehistoric megalithic anthropomorphic statue in Lore Lindu National Park, Central Sulawesi](https://upload.wikimedia.org/wikipedia/commons/9/9d/Komplek_Megalith_di_Taman_Nasional_Lore_Lindu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Estatua megalítica antropomorfa conservada en el valle de Bada, Parque Nacional Lore Lindu, Indonesia. Fotografía de Lo2asinamura (CC BY-SA 4.0).*
 

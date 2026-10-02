@@ -22,7 +22,7 @@ Negli aspri altipiani dell'Albania orientale, dove i monti di Mokra lambiscono l
 
 Per molti secoli, l'antica Illiria è stata narrata quasi esclusivamente attraverso la prospettiva ostile dei cronisti greco-romani, che ne descrivevano le popolazioni come bellicosi predoni montani o audaci pirati marittimi. Il patrimonio materiale scoperto a Selcë e Poshtme sovverte questo stereotipo. In questo luogo, un'aristocrazia illirica padroneggiava l'arte della pietra lavorata, adottava gli ordini architettonici ellenici ed erigeva elaborate camere funerarie sotterranee capaci di rivaleggiare con i monumenti dinastici della vicina Macedonia e dell'Epiro.
 
-![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-1.webp)
+![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/0/06/Selca_e_Poshtme_Tombs1-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Veduta panoramica delle tombe da 1 a 3 ricavate nel costone roccioso a gradoni che domina la valle dello Shkumbin. Foto di Albinfo (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ La collocazione geografica della valle dello Shkumbin rivela il motivo per cui q
 
 Numerosi studiosi associano questa acropoli fortificata all'antica Pelion, la piazzaforte menzionata dallo storico Arriano nelle sue cronache delle campagne balcaniche di Alessandro Magno. Nel 335 a.C., Clito, re degli Illiri Dassareti, si alleò con Glaucia dei Taulanti e si trincerò dietro le possenti mura di Pelion. Alessandro condusse un assedio drammatico, scampando per poco all'accerchiamento nelle gole del fiume prima di disperdere le formazioni illiriche nelle foreste circostanti. Sebbene la cittadella rimase un polo abitato anche dopo il passaggio macedone, i suoi regnanti trasformarono il dirupo sottostante le difese urbane in un teatro perenne di sovranità dinastica.
 
-![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-2.webp)
+![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/2/25/Selca_e_Poshtme_Tomb4_Facade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Il colonnato ionico classico e il timpano intagliati direttamente nel banco roccioso della tomba 4. Foto di Albinfo (CC BY-SA 3.0).*
 
@@ -40,7 +40,7 @@ La tomba 1 mostra una monumentale facciata rupestre scandita da due semicolonne 
 
 Poco distante, la tomba 2 propone una configurazione architettonica singolare. I costruttori modellarono la parete rocciosa realizzando una struttura su due livelli composta da una gradinata semicircolare a forma di teatro, posta al di sopra di un ipogeo sepolcrale. Gli archeologi ritengono che questa tribuna servisse come luogo di adunanza per libagioni cerimoniali e commemorazioni dinastiche, permettendo ai dignitari di rendere omaggio al re defunto contemplando al contempo il panorama della valle sottostante.
 
-![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](/images/atlas/selce-e-poshtme-royal-tombs-inline-3.webp)
+![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](https://upload.wikimedia.org/wikipedia/commons/1/16/Selca_e_Poshtme_Tomb3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Interno della cripta funeraria della tomba 3 con il letto funebre in pietra (kline) attribuito a re Monunio. Foto di Albinfo (CC BY-SA 3.0).*
 
@@ -50,7 +50,7 @@ L'analisi dei contesti archeologici riconduce con forti evidenze la tomba 3 alla
 
 La tomba 4 si distingue come la facciata più spettacolare del sito. I lapicidi intagliarono un vero e proprio prospetto templare in una falesia verticale di settanta metri, inserendo quattro colonne ioniche isolate sotto un frontone triangolare. Rilievi raffiguranti scudi ovali illirici ed elmi da cavalleria decorano i fianchi dell'ingresso. Un profondo corridoio dromos scende nel cuore della roccia conducendo a una spaziosa camera funeraria con loculi multipli, utilizzata per generazioni come mausoleo familiare.
 
-![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](/images/atlas/selce-e-poshtme-royal-tombs-inline-4.webp)
+![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](https://upload.wikimedia.org/wikipedia/commons/6/69/Selca_e_Poshtme%2C_Albania_%E2%80%93_Monumental_antique_tombs_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Strutture murarie e percorsi terrazzati della necropoli reale con vista sui monti di Mokra. Foto di Attila Terbócs (CC BY-SA 4.0).*
 

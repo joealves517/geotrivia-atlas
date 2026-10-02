@@ -22,7 +22,7 @@ La Linea di Controllo si sviluppa per oltre 740 chilometri attraverso il terreno
 
 Lungo il suo percorso, il tracciato attraversa quote altimetriche estreme. Prende avvio nelle pianure meridionali presso il corso del fiume Chenab vicino ad Akhnoor, risale le fitte foreste della catena montuosa del Pir Panjal e raggiunge i crinali glaciali del Grande Himalaya attorno a Kargil, Dras e alla dorsale di Saltoro. Su entrambi i fronti, centinaia di migliaia di soldati occupano postazioni avanzate, bunker in calcestruzzo e osservatori d'artiglieria posizionati a quote superiori a 4.000 metri sopra il livello del mare.
 
-![Rilievo cartografico che illustra il tracciato della Linea di Controllo attraverso il territorio himalayano del Kashmir](/images/atlas/line-of-control-kashmir-border-inline-1.webp)
+![Rilievo cartografico che illustra il tracciato della Linea di Controllo attraverso il territorio himalayano del Kashmir](https://upload.wikimedia.org/wikipedia/commons/0/03/Line_of_Control_LoC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Rilievo cartografico che illustra il tracciato della Linea di Controllo attraverso il territorio himalayano del Kashmir.*
 
 ## Origini della demarcazione militare
@@ -33,7 +33,7 @@ Seguirono quattordici mesi di scontri convenzionali attraverso valli, valichi e 
 
 Sottoscritto il 27 luglio 1949, l'Accordo di Karachi istituì formalmente la Linea di Cessate il Fuoco. Gli osservatori militari dell'ONU, inquadrati nell'UNMOGIP, furono schierati lungo il tracciato per monitorare il rispetto della tregua e indagare sulle violazioni. La linea separò il principato: l'India mantenne la valle del Kashmir, Jammu e il Ladakh, mentre il Pakistan assunse il controllo di Azad Kashmir e delle Northern Areas, divenute poi Gilgit-Baltistan.
 
-![Crinale montuoso fortificato e recinzione visti dai pendii occidentali in Azad Kashmir](/images/atlas/line-of-control-kashmir-border-inline-2.webp)
+![Crinale montuoso fortificato e recinzione visti dai pendii occidentali in Azad Kashmir](https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_and_India_Border_from_Azad_Kashmir_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Crinale montuoso fortificato e recinzione visti dai pendii occidentali in Azad Kashmir.*
 
 ## La trasformazione sancita dall'Accordo di Simla del 1972
@@ -44,7 +44,7 @@ Dopo la resa pakistana, la prima ministra indiana Indira Gandhi e il presidente 
 
 Fra l'agosto e il dicembre del 1972, ufficiali topografi di entrambi gli eserciti compirono ricognizioni congiunte sul terreno. Il lavoro portò alla stesura di 19 tavole cartografiche dettagliate che fissarono le coordinate della Linea di Controllo dal fiume Chenab a sud fino a un punto isolato tra le cime del Karakoram.
 
-![Tavola topografica del 1958 raffigurante il settore montuoso di Dras lungo il primitivo tracciato di cessate il fuoco](/images/atlas/line-of-control-kashmir-border-inline-3.webp)
+![Tavola topografica del 1958 raffigurante il settore montuoso di Dras lungo il primitivo tracciato di cessate il fuoco](https://upload.wikimedia.org/wikipedia/commons/b/ba/Txu-pclmaps-oclc-181831961-dras-43-n-1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Tavola topografica del 1958 raffigurante il settore montuoso di Dras lungo il primitivo tracciato di cessate il fuoco.*
 
 ## Il capolinea settentrionale e la guerra dei ghiacciai
@@ -63,7 +63,7 @@ Per contenere i passaggi clandestini, le forze armate indiane avviarono nel 2003
 
 L'infrastruttura integra sistemi di rilevamento avanzati: sensori sismici interrati, rilevatori di movimento, telecamere termiche e radar per la visione notturna. Pattuglie presidiano la recinzione giorno e notte con l'ausilio di potenti riflettori visibili dagli aerei di linea. Sebbene le abbondanti nevicate invernali e le valanghe abbattano regolarmente interi tratti di rete, i genieri militari provvedono al ripristino delle sezioni danneggiate a ogni primavera.
 
-![Valli montane e insediamenti a terrazza adiacenti alla contesa fascia di demarcazione](/images/atlas/line-of-control-kashmir-border-inline-4.webp)
+![Valli montane e insediamenti a terrazza adiacenti alla contesa fascia di demarcazione](https://upload.wikimedia.org/wikipedia/commons/7/73/Azad_Kashmire_of_Pakistan_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 4: Valli montane e insediamenti a terrazza adiacenti alla contesa fascia di demarcazione.*
 
 ## Idrologia fluviale e regimi confinari

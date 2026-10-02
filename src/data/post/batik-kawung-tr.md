@@ -22,7 +22,7 @@ Orta Cava'nın hükümdarlık saraylarında tekstil tasarımı, siyasi hiyerarş
 
 Desenin günümüze ulaşan en eski somut izleri, Doğu Cava'da 13. yüzyıldan kalma taş heykellerde, özellikle Singhasari ve Majapahit hanedanları döneminde inşa edilen tapınak kabartmalarında görülür. Tanrı ve hükümdar tasvirlerinin üzerindeki sarong kumaşlarında birbirine kenetlenmiş dört yapraklı dairelerin yer alması, bu geometrik biçimin modern balmumu direnç tekniğinden yüzyıllar önce kullanıldığını kanıtlamaktadır.
 
-![Archival sample of Kawung kemplung batik pattern collected before 1891](/images/atlas/batik-kawung-inline-1.webp)
+![Archival sample of Kawung kemplung batik pattern collected before 1891](https://upload.wikimedia.org/wikipedia/commons/3/32/Collectie_NMvWereldculturen%2C_RV-847-76%2C_Batikpatroon%2C_%27Kawung_kemplung%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 1: 1891 yılından önce derlenen ve Ulusal Dünya Kültürleri Müzesi'nde korunan Kawung kemplung desenine ait arşiv örneği.*
 
 ### Botanik Bilmece: Palmiye Meyvesi mi, Kutsal Nilüfer mi?
@@ -31,7 +31,7 @@ Etimologlar ve kültür tarihçileri *kawung* kelimesini doğadaki iki farklı e
 
 Klasik Hindu-Budist ikonografisine dayanan paralel bir yorum ise bu dört lobu açmış bir nilüfer çiçeğinin (*padma*) taç yaprakları olarak görür. Cava düşünce dünyasında nilüfer, bulanık gölet balçığında kök salmasına karşın su yüzeyinde lekesizce açtığı için saflığın ve uzun ömrün sembolü kabul edilir. İster mütevazı şeker palmiyesinden ister kutsal nilüferden ilham alsın, bu tasarım dört dış yapının dingin ve yalın bir merkezi koruduğu doğal bir dengeyi temsil eder.
 
-![Stone architectural relief featuring the repetitive circular Kawung pattern](/images/atlas/batik-kawung-inline-2.webp)
+![Stone architectural relief featuring the repetitive circular Kawung pattern](https://upload.wikimedia.org/wikipedia/commons/9/95/Kawung_motif_in_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 2: Klasik Cava tapınak kabartmalarını anımsatan, dört yönlü Kawung geometrisine sahip mimari taş kabartma.*
 
 ### Kozmoloji ve Dört Muhafız
@@ -40,7 +40,7 @@ Batik Kawung'un geometrik yapısı, geleneksel Cava kozmolojisinin ana omurgası
 
 Dört dış taç yaprağın kesiştiği merkezde ise beşinci unsur yer alır: insanın ilahi ruhu ve ahlaki vicdanı. Kawung desenli giysiler giymek, birey için daimi bir manevi hatırlatıcı işlevi görürdü. Deseni üzerinde taşıyan kişi, dışarıdan gelen dürtüleri dizginlemek, dünyevi karmaşanın ortasında iç sükunetini korumak ve teenniyle hükmetmekle yükümlüydü. Dört yapraklı her grubu çevreleyen dairesel hat irade hakimiyetini temsil eder, saray erkanına ölçüsüz gücün er ya da geç yıkım getireceğini ihtar ederdi.
 
-![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](/images/atlas/batik-kawung-inline-3.webp)
+![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](https://upload.wikimedia.org/wikipedia/commons/b/bd/Collectie_NMvWereldculturen%2C_RV-847-85%2C_Batikpatroon%2C_%27Kawung_picis%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 3: Dönemin madeni paraları ölçeğinde hazırlanan Kawung picis desenini gösteren 19. yüzyıl sonu tekstil parçası.*
 
 ### Kraliyet Fermanları ve Yasaklı Desenler

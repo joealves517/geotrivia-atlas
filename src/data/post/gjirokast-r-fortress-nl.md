@@ -22,7 +22,7 @@ Zich meer dan driehonderd meter verheffend boven het stroomgebied van de rivier 
 
 Archeologisch onderzoek wijst uit dat er al in de twaalfde eeuw onder het Despotaat Epirus een versterkte nederzetting op de heuvelrug bestond, in Byzantijnse kronieken opgetekend als Argyrokastro, oftewel het Zilveren Kasteel. Toen de Ottomaanse legers zich in het begin van de vijftiende eeuw over de zuidelijke Balkan verspreidden, capituleerde het bolwerk in 1419 na onderhandelingen, waarna het uitgroeide tot het regionale bestuurscentrum onder de naam Ergiri.
 
-![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](/images/atlas/gjirokast-r-fortress-inline-1.webp)
+![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](https://upload.wikimedia.org/wikipedia/commons/4/42/Gjirokast%C3%ABr%2C_st%C5%99ed_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 1: De bovenste paradeplaats met de negentiende-eeuwse klokkentoren die werd opgericht onder Ali Pasja van Tepelena.*
 
 ### De monumentale herinrichting onder Ali Pasja
@@ -31,7 +31,7 @@ Het huidige indrukwekkende silhouet dankt zijn schaal aan Ali Pasja van Tepelena
 
 Ali Pasja breidde de verdedigingsmuren uit zodat deze vrijwel het gehele hoogplateau omsloten, en liet gewelfde kazematten bouwen die geschikt waren om garnizoenstroepen en zware kanonnen te herbergen. Om de historische kwetsbaarheid van het fort bij langdurige belegeringen weg te nemen, legden zijn ingenieurs een tien kilometer lang stenen aquaduct aan dat bronwater van de berg Sopot over diepe bergkloven leidde. Op het noordelijke voorgebergte verrees een markante klokkentoren die tot op de dag van vandaag het dal domineert.
 
-![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](/images/atlas/gjirokast-r-fortress-inline-2.webp)
+![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gjirokast%C3%ABr%2C_interi%C3%A9r_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 2: Monumentale gewelfde kazematten uitgehouwen in de kalkrots om vijandelijk artillerievuur te weerstaan.*
 
 ### Ondergrondse kerkers en politieke onderdrukking
@@ -40,7 +40,7 @@ Onder de open weergangen herbergt het bastion een uitgestrekt doolhof van ondera
 
 De donkerste periode van het fort begon na 1944 onder de communistische dictatuur van Enver Hoxha, die zelf in Gjirokastër was geboren. Het regime veranderde de ondergrondse ruimtes in een beruchte strafinrichting voor politieke dissidenten en intellectuele tegenstanders. Onder toezicht van de geheime dienst Sigurimi ondergingen gevangenen een meedogenloos isolement in cellen die rechtstreeks in de bergwand waren uitgekapt. De gevangenis bleef tot 1968 in gebruik, waarna internationale druk en verschuivende beleidsprioriteiten leidden tot de transformatie naar een museumcomplex.
 
-![Interior armament gallery displaying artillery captured during World War II and the Cold War era](/images/atlas/gjirokast-r-fortress-inline-3.webp)
+![Interior armament gallery displaying artillery captured during World War II and the Cold War era](https://upload.wikimedia.org/wikipedia/commons/0/0c/Gjirokast%C3%ABr_Festung_-_Kasematten_1a_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 3: De ondergrondse wapengalerij met artilleriestukken buitgemaakt tijdens de Tweede Wereldoorlog en de Koude Oorlog.*
 
 ### De trofee van de Koude Oorlog en modern erfgoed

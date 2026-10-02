@@ -22,7 +22,7 @@ Aan de vorstelijke hoven van Midden-Java fungeerde textieldesign als een strikte
 
 De vroegste materiële voorlopers van het patroon zijn aangetroffen op dertiende-eeuwse stenen standbeelden op Oost-Java, in het bijzonder tempelreliëfs uit de tijd van de Singhasari- en Majapahit-dynastieën. Gebeeldhouwde beeltenissen van godheden en vorstelijke personages dragen heupkleden versierd met in elkaar grijpende vierbladige cirkels, wat bewijst dat deze geometrie al verscheidene eeuwen bestond vóór de opkomst van de moderne wasresisttechnieken.
 
-![Archival sample of Kawung kemplung batik pattern collected before 1891](/images/atlas/batik-kawung-inline-1.webp)
+![Archival sample of Kawung kemplung batik pattern collected before 1891](https://upload.wikimedia.org/wikipedia/commons/3/32/Collectie_NMvWereldculturen%2C_RV-847-76%2C_Batikpatroon%2C_%27Kawung_kemplung%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 1: Archiefstaal van het Kawung kemplung-patroon verzameld vóór 1891, bewaard in het Nationaal Museum van Wereldculturen.*
 
 ### Het botanische raadsel: Palmvrucht of heilige lotus
@@ -31,7 +31,7 @@ Etymologen en cultuurhistorici herleiden het woord *kawung* tot twee verschillen
 
 Een parallelle interpretatie, geworteld in de klassieke hindoe-boeddhistische iconografie, ziet in de vier lobben de uitgevouwen bloembladen van een open lotusbloem (*padma*). In de Javaanse filosofie staat de lotus symbool voor zuiverheid en een lang leven, omdat hij wortelt in modderig vijverslib maar smetteloos bloeit boven het wateroppervlak. Of het nu ontsproten is aan de nederige suikerpalm of de heilige lotus, het ontwerp verbeeldt een natuurlijk evenwicht waarin vier buitenstructuren een sereen en leeg centrum beschermen.
 
-![Stone architectural relief featuring the repetitive circular Kawung pattern](/images/atlas/batik-kawung-inline-2.webp)
+![Stone architectural relief featuring the repetitive circular Kawung pattern](https://upload.wikimedia.org/wikipedia/commons/9/95/Kawung_motif_in_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 2: Architectonisch steenreliëf met de viervoudige Kawung-geometrie, herinnerend aan klassieke Javaanse tempelreliëfs.*
 
 ### Kosmologie en de vier beschermers
@@ -40,7 +40,7 @@ De geometrische compositie van Batik Kawung visualiseert rechtstreeks een hoekst
 
 Op het snijpunt van de vier buitenste bloembladen rust het vijfde element: de goddelijke ziel en het morele anker van de mens. Het dragen van het Kawung-motief gold als een voortdurende spirituele vermaning. De drager werd geacht uiterlijke verlangens te beteugelen, innerlijke rust te bewaren te midden van wereldse stormen en weloverwogen te regeren. De cirkelvormige omtrek die elke groep van vier bladen omvat, symboliseerde zelfbeheersing en herinnerde hofwaardigheidsbekleders eraan dat macht zonder zelfbeheersing onvermijdelijk leidt tot de ondergang.
 
-![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](/images/atlas/batik-kawung-inline-3.webp)
+![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](https://upload.wikimedia.org/wikipedia/commons/b/bd/Collectie_NMvWereldculturen%2C_RV-847-85%2C_Batikpatroon%2C_%27Kawung_picis%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 3: Laat-negentiende-eeuws textielfragment van Kawung picis, afgestemd op het formaat van koloniale muntstukken.*
 
 ### Vorstelijke decreten en de verboden patronen

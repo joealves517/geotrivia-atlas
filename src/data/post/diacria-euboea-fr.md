@@ -22,7 +22,7 @@ Le long de la côte nord-est de l'île d'Eubée, des villages de pêcheurs et de
 
 Le terme géographique Diacria provient du grec désignant un relief montagneux ou une région d'altitude, qualifiant des habitats établis sur des versants escarpés. Sur l'île d'Eubée, le territoire de la cité se situait à proximité du village actuel de Pili, sur la façade égéenne. Contrairement aux eaux calmes du golfe séparant l'Eubée de la Béotie et de l'Attique, cette côte extérieure donnait sur le large, exposant la navigation à des courants changeants, à des vents de nord saisonniers et à des caps abrupts.
 
-![Maçonnerie classique sur les remparts de l'acropole d'Érétrie sur l'île d'Eubée](/images/atlas/diacria-euboea-inline-1.webp)
+![Maçonnerie classique sur les remparts de l'acropole d'Érétrie sur l'île d'Eubée](https://upload.wikimedia.org/wikipedia/commons/a/ac/Part_of_the_wall_of_the_Acropolis_of_Eretria_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1 : Maçonnerie classique sur les remparts de l'acropole d'Érétrie sur l'île d'Eubée.*
 
 ## Poésie antique et récits maritimes
@@ -33,7 +33,7 @@ Lycophron mentionne le territoire des Diacriens parmi les rivages où des rescap
 
 Même si les épopées homériques ne nomment pas directement Diacria, Lycophron a puisé dans les traditions insulaires pour enrichir sa nomenclature géographique. L'association de Diacria à des zones maritimes périlleuses illustre les difficultés nautiques qui caractérisaient le littoral oriental d'Eubée dans l'Antiquité.
 
-![Enceintes fortifiées des cités eubéennes antiques surveillant les approches côtières](/images/atlas/diacria-euboea-inline-2.webp)
+![Enceintes fortifiées des cités eubéennes antiques surveillant les approches côtières](https://upload.wikimedia.org/wikipedia/commons/0/01/Eretria_ancient_city_walls_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2 : Enceintes fortifiées des cités eubéennes antiques surveillant les approches côtières.*
 
 ## Contributions financières au sein de la Ligue de Délos
@@ -44,7 +44,7 @@ Des stèles de marbre retrouvées sur l'Acropole d'Athènes attestent des versem
 
 Un décret financier athénien de 425/424 avant notre ère apporte une précision topographique utile en mentionnant distinctement Diacria et un autre district nommé Diacres des Chalcidiens. Les historiens confirment qu'il s'agissait de deux entités fiscales séparées en Eubée : Diacres relevait de Chalcis près du détroit de l'Euripe, tandis que Diacria dépendait de la sphère côtière d'Érétrie.
 
-![Crêtes montagneuses du centre de l'Eubée surplombant les zones de peuplement côtier](/images/atlas/diacria-euboea-inline-3.webp)
+![Crêtes montagneuses du centre de l'Eubée surplombant les zones de peuplement côtier](https://upload.wikimedia.org/wikipedia/commons/d/df/Mount_Olympus_%28Euboea%29_from_the_ancient_citadel_of_Eretria_on_January_16%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3 : Crêtes montagneuses du centre de l'Eubée surplombant les zones de peuplement côtier.*
 
 ## Topographie, dèmes et recherches archéologiques

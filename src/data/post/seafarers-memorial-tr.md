@@ -22,7 +22,7 @@ Ticari liman kenti Chittagong'un yirmi kilometre güneyinde, Karnaphuli Nehri Be
 
 Ticaret gemisi zabitliği, modern küresel ticaretin en zorlu mesleklerinden biri olmayı sürdürmektedir. Askeri anıtlar genellikle savaş dönemindeki çatışmaları veya muharebe kayıplarını anarken, Seafarers' Memorial sivil bir fedakarlığı simgeler. Ticari yük gemileri, açık okyanusları, mevsimsel tayfunları ve tehlikeli boğazları aşarak küresel ticaret hacminin yüzde sekseninden fazlasını taşır. Juldia'da eğitim gören genç zabitler için denizcilik görevi, karadaki katı disiplinle başlar ve memleketten uzakta yıllarca süren uluslararası seferlerle devam eder.
 
-![Parade Ground at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-1.webp)
+![Parade Ground at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/5/58/ParadeGround_BMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Juldia, Chittagong'da Karnaphuli halicine bakan Bangladesh Marine Academy resmi tören alanı.*
 
 ## Karnaphuli Nehri'nin deniz kapısı
@@ -31,7 +31,7 @@ Anıtın konumu, Bangladeş'in denizle olan ticari bağının coğrafyasını do
 
 Akademideki öğrenci yaşamı, güverte ve makine bölümleri arasında paylaştırılan öğrencilerin askeri nizamdaki disiplinine dayanır. Eğitim müfredatı, teorik sınıf derslerini pratik atölye çalışmaları, yüzme sınavları ve açık deniz stajlarıyla birleştirir. Altmış yılı aşkın süre zarfında binlerce mezun, yerli ve uluslararası armatörlük şirketlerinin ticaret filolarında göreve başladı. Bangladeşli zabitler konteyner gemilerinde, dökme yük gemilerinde ve kimyasal tankerlerde vardiya tuttukça açık deniz seferlerinin kaçınılmaz tehlikeleriyle karşılaştılar.
 
-![Seafarers Memorial BMA](/images/atlas/seafarers-memorial-inline-2.webp)
+![Seafarers Memorial BMA](https://upload.wikimedia.org/wikipedia/commons/0/04/Seafarers_Memorial_BMA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: 2011 yılında Uluslararası Denizcilik Örgütü tarafından açılışı yapılan Seafarers' Memorial merkez taş anıtı.*
 
 ## Uluslararası Denizcilik Örgütü tarafından açılış
@@ -40,7 +40,7 @@ Akademideki öğrenci yaşamı, güverte ve makine bölümleri arasında paylaş
 
 Anıtın mimari tasarımı abartılı süslemelerden uzaktır. Sade taş işçiliği ve net kitabelerle inşa edilen yapı, yerleşkenin orta meydanında vakar dolu bir odak noktası oluşturur. Harbiyeliler resmi törenlerde, mezuniyet günlerinde ve akşam yoklamalarında bu meydanda bir araya gelirler. Anıtın konumu, hatıranın yılda sadece bir gün anılan özel bir an olmaktan çıkıp günlük eğitim rutinlerinin kalıcı bir parçası olmasını sağlar.
 
-![Cadets during graduation parade at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-3.webp)
+![Cadets during graduation parade at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/3/30/Bangladesh_Marine_Academy_Officer_Cadets_Graduation_%26_Passing_Out_Parade.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Akademideki yıllık mezuniyet ve uğurlama töreninde nizam düzeninde duran harbiyeliler.*
 
 ## Günlük yaşam ve sessiz hatıra

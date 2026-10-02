@@ -22,7 +22,7 @@ metadata:
 
 Chacune des six suites, Buzruk, Rost, Navo, Dugoh, Segoh et Iroq, forme une vaste composition cyclique comprenant des dizaines de pièces vocales et instrumentales. Loin des simples mélodies folkloriques, ces œuvres obéissent à des règles théoriques rigoureuses régissant la progression modale, les métriques rythmiques et l'improvisation poétique. Durant des siècles, le mécénat des émirs de Boukhara a offert le cadre solennel au sein duquel des musiciens juifs, tadjiks et ouzbeks se rassemblaient pour perfectionner et transmettre cet art savant de tradition orale.
 
-![Traditional folk music ensemble in Central Asia](/images/atlas/shashmaqam-inline-1.webp)
+![Traditional folk music ensemble in Central Asia](https://upload.wikimedia.org/wikipedia/commons/9/96/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Ensemble traditionnel d'Asie centrale interprétant des suites modales sur des luths acoustiques et des tambours sur cadre.*
 
 ## L'architecture acoustique des suites modales
@@ -31,7 +31,7 @@ L'agencement du Shashmaqam associe une instrumentation acoustique sobre à une o
 
 Les interprètes ne s'appuient pas sur des partitions écrites, mais transmettent les nuances microtonales et les cadences rythmiques par l'enseignement direct de maître à disciple, le système de l'ustod-shogird. Les chanteurs déclament des poèmes classiques persans et tchaghataïs, mettant en musique les écrits mystiques de poètes tels que Hafez, Djami, Navoï et Bedil. Ces textes emploient les métaphores de la dévotion terrestre pour explorer les thèmes soufis de l'amour divin, de la séparation et de l'élévation spirituelle.
 
-![Uzbek musician playing the two-stringed dutar](/images/atlas/shashmaqam-inline-2.webp)
+![Uzbek musician playing the two-stringed dutar](https://upload.wikimedia.org/wikipedia/commons/e/e5/Joueur_de_dutar_ouzbek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Musicien ouzbek jouant du dutar, luth traditionnel à long manche à deux cordes qui fournit l'assise modale des suites vocales.*
 
 ## Préservation et mutations politiques sur la Route de la Soie
@@ -40,7 +40,7 @@ Les bouleversements politiques du vingtième siècle ont profondément transform
 
 En dépit de cette réorganisation étatique, la chaîne de transmission traditionnelle a survécu au sein de dynasties familiales, notamment chez les musiciens juifs de Boukhara et les maîtres tadjiks. Lors des mouvements d'émigration de la fin du siècle, ces maîtres ont emporté la tradition vers les communautés de la diaspora à Tel Aviv et New York, sauvegardant des variantes régionales qui s'étaient effacées des salles de concert d'Asie centrale.
 
-![Traditional vocalists accompanied by long-necked lutes in Samarkand](/images/atlas/shashmaqam-inline-3.webp)
+![Traditional vocalists accompanied by long-necked lutes in Samarkand](https://upload.wikimedia.org/wikipedia/commons/b/b6/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F_%D0%B2_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_%D0%9D%D0%B0%D1%81%D0%B8%D0%B1%D1%8B_%D0%9E%D0%BC%D0%BE%D0%BD%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B8_%D0%9A%D0%B0%D0%BC%D0%BE%D0%BB%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BC%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Chanteurs traditionnels accompagnés de luths à Samarcande, déclamant des distiques issus de la poésie soufie classique.*
 
 ## Consécration mondiale et pratique vivante

@@ -22,7 +22,7 @@ Langs de winderige kustlijn van de Côte d’Opale in Noord-Frankrijk, waar het 
 
 Het verdedigingswerk werd in 1680 gebouwd in opdracht van koning Lodewijk XIV om een strategische ankerplaats aan het noordelijke Kanaal te beveiligen. Bij vloed scheiden opkomende golven de stenen citadel van het vasteland en verandert het bouwwerk in een eiland; bij eb legt het terugtrekkende water een robuust stenen fundament bloot op de rotsachtige zeebodem en zandbanken. Terwijl kustbastions in Noord-Europa door de eeuwen heen verdwenen door kusterosie of havenuitbreidingen, bleef Fort Mahon behouden dankzij een doordachte hydrodynamische geometrie, sterke natuursteen en toegewijd burgerinitiatief in de twintigste eeuw.
 
-![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](/images/atlas/fort-mahon-vauban-sea-fortress-inline-1.webp)
+![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](https://upload.wikimedia.org/wikipedia/commons/e/e0/Ambleteuse.-_Fort_Vauban_en2019_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: De hoefijzervormige granieten weermuur en de centrale geschutstoren van Fort Mahon op de rotsachtige kuststrook bij eb.*
 
 ### De regionale geografie van het Slack-estuarium
@@ -31,7 +31,7 @@ Het besluit om Ambleteuse te versterken vloeide voort uit de zeventiende-eeuwse 
 
 Vauban begreep al snel dat maritieme constructies bestand moesten zijn tegen de aanhoudende kinetische kracht van het zeewater. Rechthoekige of veelhoekige muren liepen zware schade op wanneer Atlantische golven er loodrecht tegenaan beukten. In Ambleteuse koos Vauban daarom voor een afgerond profiel zonder scherpe hoeken. De bouw begon omstreeks 1680 en werd voor 1690 afgerond. Op een rotsbank die bekendstond als Roc Noir verrees een geschutsredoute, ontworpen om de zeestraat te bestrijken en tegelijkertijd brandinggolven langs de gebogen wal af te buigen.
 
-![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](/images/atlas/fort-mahon-vauban-sea-fortress-inline-2.webp)
+![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](https://upload.wikimedia.org/wikipedia/commons/5/57/Fort_Mahon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Panoramisch zicht over de wadden van de Slack-monding, dat de maritieme ligging toont als enige overgebleven zeebastion van Vauban aan de noordkust.*
 
 ### Bouwkundige anatomie van een getijdenbastion
@@ -42,7 +42,7 @@ Om het zoute zeewater te weerstaan, gebruikten steenhouwers zandsteen uit de nab
 
 Zeventiende-eeuwse militaire registers vermeldden het bouwwerk simpelweg als Tour d’Ambleteuse. De naam Fort Mahon verscheen pas rond 1840 in overheidsdocumenten, vermoedelijk door een verschrijving van een ambtenaar die verwees naar Port Mahón op de Balearen. Ondanks deze administratieve verwarring bleven omwonenden en cartografen het fort aanduiden als Fort Vauban of het Oude Fort.
 
-![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-3.webp)
+![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/c/ca/Dunes_de_Fort_Mahon_%28Eden62%29_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Kustduinen langs het natuurreservaat van de Slack, waar zand en getijdenstromen het zeventiende-eeuwse bolwerk omringen.*
 
 ### Bouwkundige aanpassingen door de eeuwen heen
@@ -51,7 +51,7 @@ Het gebruik van het fort veranderde mee met de Franse geschiedenis. Aan het begi
 
 In het midden van de twintigste eeuw werd het fort gebruikt door kusteenheden, die een vloer van gewapend beton aanbrachten in de ringkazemat om de gewelfde ruimte in twee niveaus te splitsen. Hoewel de centrale toren zware zeestormen doorstond, raakten delen van de zeewaartse weermuur beschadigd door ontploffingen in het water tegen het einde van het conflict in 1945.
 
-![High-resolution perspective of the restored stone masonry of Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-4.webp)
+![High-resolution perspective of the restored stone masonry of Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/7/78/Fort_Mahon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Detail van het gerestaureerde natuursteenmetselwerk en de schietgaten, hersteld door vrijwilligers na de muurbeschadigingen in 1945.*
 
 ### Vrijwillig herstel en hedendaags kustbehoud

@@ -22,7 +22,7 @@ Doğu Arnavutluk'un dağlık yaylalarında, Mokra dağlarının Ohri Gölü'ne y
 
 Yüzyıllar boyunca antik İlirya dünyası, bu halkları çoğunlukla dağ yağmacıları veya korsanlar olarak betimleyen Greko-Romen vakanüvislerin taraflı bakış açısıyla değerlendirildi. Selcë e Poshtme'de ortaya çıkarılan maddi kültür bulguları bu anlatıyı kökten sarsmaktadır. Bu arkeolojik alan, gelişmiş taş işçiliğine hâkim olan, klasik Yunan mimari düzenlerini benimseyen ve çağdaşı Makedon ile Epir krallıklarının anıtlarıyla boy ölçüşebilen karmaşık yer altı mezar odaları inşa eden bir İlirya aristokrasisinin varlığını kanıtlar.
 
-![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-1.webp)
+![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/0/06/Selca_e_Poshtme_Tombs1-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Shkumbin Nehri vadisine bakan kademeli kaya yamacına oyulmuş 1 ila 3 numaralı mezarların panoramik görünümü. Fotoğraf: Albinfo (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ Shkumbin Nehri vadisinin stratejik coğrafyası, bu ücra dağ sırtının neden
 
 Birçok tarihçi ve arkeolog bu korunaklı akropolü, Arrianos'un Büyük İskender'in Balkan seferini anlattığı metinlerde adı geçen Pelion kraliyet kalesiyle özdeşleştirir. MÖ 335 yılında İlirya Dassaret kabilesinin kralı Kleitos, Taulantii hükümdarı Glaukias ile birleşerek ordusunu Pelion surlarının ardına konuşlandırdı. İskender nehri çevreleyen boğazlarda kuşatılmaktan son anda kurtularak zorlu bir muharebe yürüttü ve İlirya güçlerini çevre ormanlara çekilmeye zorladı. Kent yerleşimi İskender'in ayrılışından sonra da varlığını sürdürürken, dördüncü yüzyıl hükümdarları surların altındaki sarp kayalıkları hanedan gücünü ölümsüzleştiren anıtsal bir alana dönüştürdüler.
 
-![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-2.webp)
+![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/2/25/Selca_e_Poshtme_Tomb4_Facade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: 4 numaralı mezarda doğrudan ana kayaya oyulmuş klasik İyon sütun dizisi ve alınlık. Fotoğraf: Albinfo (CC BY-SA 3.0).*
 
@@ -40,7 +40,7 @@ Arnavut arkeolog Neritan Ceka önderliğinde 1964 ile 1972 yılları arasında g
 
 Hemen yakındaki 2 numaralı mezar ise büsbütün özgün bir mekân düzenlemesine sahiptir. Mimarlar kayayı işleyerek yer altı mezar odasının üzerinde oturma sıraları bulunan yarım daire biçimli küçük bir tiyatro inşa etmişlerdir. Araştırmacılar, bu açık hava taş tribününün adak ayinleri ve anma törenleri için toplanma alanı olarak kullanıldığını, böylece katılımcıların nehir vadisine bakarken ölen kralı anabildiklerini belirtmektedir.
 
-![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](/images/atlas/selce-e-poshtme-royal-tombs-inline-3.webp)
+![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](https://upload.wikimedia.org/wikipedia/commons/1/16/Selca_e_Poshtme_Tomb3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: 3 numaralı mezarın yer altı odasının içi; Kral Monunios'a atfedilen taştan oyma kline sediri. Fotoğraf: Albinfo (CC BY-SA 3.0).*
 
@@ -50,7 +50,7 @@ Arkeolojik incelemeler 3 numaralı mezarı, MÖ 280 civarında hüküm süren İ
 
 4 numaralı mezar, Selcë e Poshtme'deki en gösterişli cephe düzenlemesiyle dikkat çeker. Taş ustaları, yetmiş metrelik dik kaya yüzeyine üçgen alınlıklı ve dört bağımsız İyon sütunlu tam teşekküllü bir tapınak cephesi oymuşlardır. Girişin yanlarında oval İlirya kalkanları ve süvari miğferlerini tasvir eden kabartmalar yer alır. Kayaya açılan derin bir dromos koridoru, nesiller boyu hanedan mozolesi olarak kullanılan çok nişli (loculi) geniş bir mezar salonuna bağlanır.
 
-![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](/images/atlas/selce-e-poshtme-royal-tombs-inline-4.webp)
+![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](https://upload.wikimedia.org/wikipedia/commons/6/69/Selca_e_Poshtme%2C_Albania_%E2%80%93_Monumental_antique_tombs_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Mokra dağlarına bakan kraliyet nekropolündeki taş duvar örgüleri ve teras yolları. Fotoğraf: Attila Terbócs (CC BY-SA 4.0).*
 

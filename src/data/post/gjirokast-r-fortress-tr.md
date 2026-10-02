@@ -22,7 +22,7 @@ Güney Arnavutluk'taki Drino Nehri havzasının üç yüz metre üzerinde yükse
 
 Arkeolojik araştırmalar, 12. yüzyılda Epir Despotluğu idaresi altında bu kayalık sırtta müstahkem bir yerleşimin varlığını ve Bizans vakayinamelerinde buranın Argyrokastro (Gümüş Kale) olarak anıldığını doğrulamaktadır. Osmanlı orduları 15. yüzyılın başlarında güney Balkanlar'da hakimiyet kurduğunda, kale 1419 yılında yapılan müzakereler sonucunda teslim olmuş ve Ergiri adıyla anılan sancak merkezine dönüştürülmüştür.
 
-![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](/images/atlas/gjirokast-r-fortress-inline-1.webp)
+![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](https://upload.wikimedia.org/wikipedia/commons/4/42/Gjirokast%C3%ABr%2C_st%C5%99ed_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 1: 19. yüzyılda Tepedelenli Ali Paşa tarafından inşa ettirilen saat kulesi ve üst tören meydanı.*
 
 ### Tepedelenli Ali Paşa'nın Büyük İmarı
@@ -31,7 +31,7 @@ Kalenin bugünkü heybetli silüeti, 1787 ile 1822 yılları arasında Yanya Pa�
 
 Ali Paşa, kale surlarını yüksek platonun neredeyse tamamını kuşatacak biçimde genişletti; garnizon birliklerini ve ağır sahra toplarını barındıracak tonozlu kazamatlar inşa ettirdi. Kalenin uzun süreli kuşatmalara karşı bilinen su sıkıntısını gidermek amacıyla mimarları, Sopot Dağı'ndan derin uçurumlar üzerinden kaynak suyu getiren on kilometre uzunluğunda kesme taştan bir su kemeri kurdular. Kuzey burcuna diktirdiği saat kulesi ise günümüzde de tüm vadinin ana silüetini oluşturmaktadır.
 
-![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](/images/atlas/gjirokast-r-fortress-inline-2.webp)
+![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gjirokast%C3%ABr%2C_interi%C3%A9r_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 2: Ağır top atışlarına dayanması için kireçtaşı ana kayaya oyulmuş devasa tonozlu taş kazamatlar.*
 
 ### Yeraltı Zindanları ve Siyasi Karanlık
@@ -40,7 +40,7 @@ Gökyüzüne açık seyir mazgallarının altında kale, geniş bir yeraltı ton
 
 Kalenin en acı safhası, 1944 sonrasında bizzat Ergiri doğumlu olan Enver Hoca'nın komünist rejiminde yaşandı. Diktatörlük, kalenin zemin altı odalarını siyasi muhalifler ve aydınlar için korkulan bir tecrit merkezine dönüştürdü. Gizli polis teşkilatı Sigurimi gözetiminde tutulan mahkumlar, dağ kayalarına oyulmuş hücrelerde ağır tecrit şartlarına maruz kaldı. Zindan 1968 yılına kadar faaliyetini sürdürdü; bu tarihten sonra uluslararası gelişmeler ve iç politika değişiklikleri yapının bir müze kompleksine dönüştürülmesini sağladı.
 
-![Interior armament gallery displaying artillery captured during World War II and the Cold War era](/images/atlas/gjirokast-r-fortress-inline-3.webp)
+![Interior armament gallery displaying artillery captured during World War II and the Cold War era](https://upload.wikimedia.org/wikipedia/commons/0/0c/Gjirokast%C3%ABr_Festung_-_Kasematten_1a_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 3: İkinci Dünya Savaşı ve Soğuk Savaş döneminde ele geçirilen topların sergilendiği yeraltı silah galerisi.*
 
 ### Soğuk Savaş Hatırası ve Çağdaş Miras

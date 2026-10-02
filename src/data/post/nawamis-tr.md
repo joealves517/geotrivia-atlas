@@ -22,7 +22,7 @@ Güney Sina Yarımadası'nın kurak platolarında, kireçtaşı tepelere karşı
 
 Namus adı, Arapçada sivrisinek anlamına gelen kelimeden türemiştir. Bedevi halk anlatıları bir zamanlar bu yapıları Çıkış dönemindeki İsrailoğullarına atfetmiş, gezginlerin çöldeki böcek sürülerinden korunmak amacıyla taş sığınaklar inşa ettiğini rivayet etmiştir. Yirminci yüzyılın sonlarında Beno Rothenberg başkanlığında yürütülen arkeolojik kazılar, bu yapıların insan iskeletleri, deniz kabuğu kolyeler, taş boncuklar ve çakmaktaşı ok uçları içeren ortak mezar odaları olduğunu kanıtlamıştır.
 
-![Sina Çölü'ndeki tarih öncesi Nawamis taş mezarı](/images/atlas/nawamis-inline-1.webp)
+![Sina Çölü'ndeki tarih öncesi Nawamis taş mezarı](https://upload.wikimedia.org/wikipedia/commons/0/05/Nawamis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Sina Çölü'nde ayakta duran bir namus mezarının dairesel harçsız taş mimarisi.*
 
 ## Dairesel mezarların mimarisi
@@ -31,7 +31,7 @@ Nawamisler tek tip bir inşa yöntemi sergiler. İnşaatçılar yerel kayalıkla
 
 Bütünlüğünü koruyan her namus, batıya veya güneybatıya bakan bir giriş açıklığına sahiptir. Bir metreyi nadiren aşan alçak kare kapılar, içeri girmek isteyenlerin sürünmesini gerektirir. Araştırmacılar, bu yönelimin batan güneşle bağlantılı olduğunu ve Kuzey Afrika ile Levant'taki çeşitli tarih öncesi kültürler tarafından paylaşılan astronomik bir düzeni temsil ettiğini belirtir. Batı yönelimi, gök cisimlerinin batışını ölülerin ata dünyasına geçişiyle ilişkilendiriyordu.
 
-![Bat, Al-Khutm ve Al-Ayn'daki megalitik arı kovanı mezarları](/images/atlas/nawamis-inline-2.webp)
+![Bat, Al-Khutm ve Al-Ayn'daki megalitik arı kovanı mezarları](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bat%2C_al-khutm_and_al-Ayn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Umman'daki arı kovanı mezar kompleksleri bölgesel Tunç Çağı geleneklerini gösterir.*
 
 ## Kalkolitik odaların tarihlendirilmesi
@@ -40,7 +40,7 @@ Dahab ile Azize Katerina arasındaki güzergâhta yer alan ve en iyi korunan kü
 
 Arkeologlar arasındaki temel tartışmalardan biri, taş mezarlar ile içlerindeki iskeletler arasındaki kronolojik ilişkiye odaklanır. Çeşitli araştırmacılar, kumtaşı yapıların en erken gömülerden yüzyıllar sonra inşa edilmiş olabileceğini ve göçebe klanların ata kemiklerini yeniden gömdüğü ikincil kemklikler olarak işlev gördüğünü savunur. Kumtaşı bloklara uygulanan lüminesans tarihleme yöntemi, Erken Tunç Çağı'na kadar uzanan düzenli onarımlara ve mimari eklemelere işaret ederek bu ücra çöl noktalarının bin yıllar boyunca törensel duraklar olarak kaldığını gösterir.
 
-![Yemen'deki Cebel Ruwaik kule mezarı](/images/atlas/nawamis-inline-3.webp)
+![Yemen'deki Cebel Ruwaik kule mezarı](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tombe_tour_de_Jebel_Ruwaik_-_Y%C3%A9men.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Güney Arabistan mezar mimarisini belgeleyen Yemen'deki Cebel Ruwaik kule mezarı.*
 
 ## Kızıldeniz boyunca uzanan mezar ağları

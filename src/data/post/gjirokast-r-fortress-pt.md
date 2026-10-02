@@ -22,7 +22,7 @@ Erguendo-se a mais de trezentos metros sobre a bacia do rio Drino, no sul da Alb
 
 As pesquisas arqueológicas comprovam que um assentamento fortificado já ocupava esta crista rochosa no século XII, sob a autoridade do Despotado do Épiro, identificado nas crônicas bizantinas sob o nome de Argyrokastro, ou Castelo de Prata. Quando os exércitos otomanos avançaram sobre os Bálcãs meridionais no início do século XV, a praça capitulou sob termos negociados em 1419, convertendo-se no centro administrativo regional conhecido como Ergiri.
 
-![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](/images/atlas/gjirokast-r-fortress-inline-1.webp)
+![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](https://upload.wikimedia.org/wikipedia/commons/4/42/Gjirokast%C3%ABr%2C_st%C5%99ed_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: A esplanada superior e a torre do relógio construída no século XIX sob as ordens de Ali Paxá de Tepelena.*
 
 ### A monumental reconstrução de Ali Paxá
@@ -31,7 +31,7 @@ A imponente fisionomia atual deve a sua monumentalidade a Ali Paxá de Tepelena,
 
 Ali Paxá expandiu a muralha exterior para envolver praticamente todo o planalto rochoso, erguendo amplas casamatas abobadadas capazes de aquartelar regimentos inteiros e baterias de artilharia pesada. Com o objetivo de solucionar a histórica vulnerabilidade da fortificação a cercos prolongados, os seus arquitetos construíram um aqueduto de pedra com dez quilômetros de extensão, que transportava água pura da nascente do monte Sopot através de profundas ravinas montanhosas. No esporão setentrional fez erguer uma torre do relógio que vigia toda a planície.
 
-![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](/images/atlas/gjirokast-r-fortress-inline-2.webp)
+![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gjirokast%C3%ABr%2C_interi%C3%A9r_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Monumentais casamatas abobadadas de pedra escavadas no leito calcário para repelir o bombardeio de artilharia.*
 
 ### Masmorras subterrâneas e opressão política
@@ -40,7 +40,7 @@ Sob os adarves abertos para o vale, o baluarte oculta um complexo labirinto de g
 
 O período mais sombrio da fortaleza manifestou-se a partir de 1944 sob a ditadura comunista de Enver Hoxha, ele próprio natural de Gjirokastër. O regime transformou as galerias subterrâneas em um temido centro de detenção para dissidentes ideológicos e intelectuais insubmissos. Sob a custódia da polícia política Sigurimi, os reclusos enfrentavam um isolamento severo em celas cavadas diretamente na rocha da serra. A prisão permaneceu operacional até 1968, momento em que a repercussão internacional e a reorientação das políticas internas levaram o governo a converter o espaço em museu.
 
-![Interior armament gallery displaying artillery captured during World War II and the Cold War era](/images/atlas/gjirokast-r-fortress-inline-3.webp)
+![Interior armament gallery displaying artillery captured during World War II and the Cold War era](https://upload.wikimedia.org/wikipedia/commons/0/0c/Gjirokast%C3%ABr_Festung_-_Kasematten_1a_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Galeria subterrânea de armamentos exibindo artilharia apreendida durante a Segunda Guerra Mundial e a Guerra Fria.*
 
 ### O troféu da Guerra Fria e a preservação contemporânea

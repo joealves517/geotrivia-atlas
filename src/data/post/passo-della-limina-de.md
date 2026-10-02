@@ -22,7 +22,7 @@ metadata:
 
 Der Pass liegt auf einem strategischen Sattel zwischen den Gemeindegebieten von Cinquefrondi und Mammola in der Metropolitanstadt Reggio Calabria. Unmittelbar südlich des Passes erhebt sich der Monte Limina auf 888 Meter, dessen Gipfel an wolkenlosen Vormittagen weite Ausblicke über die Ebene von Gioia Tauro bis hin zum Vulkankegel des Ätna auf Sizilien und den Äolischen Inseln eröffnet. Während heutige Reisende dieses Gebirge meist über einen drei Kilometer langen Straßentunnel unterqueren, bewahrt der eigentliche Pass jahrtausendealte Spuren von Migrationen quer über die Halbinsel, klassischem Fernhandel und regionaler Gebirgskultur.
 
-![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](/images/atlas/passo-della-limina-inline-1.webp)
+![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](https://upload.wikimedia.org/wikipedia/commons/b/b9/Limina_-_Paesaggio01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Blick auf den schroffen Apenninenkamm nahe dem Passo della Limina, der die geomorphologische Übergangszone zwischen den Gesteinen der Serre und des Aspromonte verdeutlicht.*
 
 ### Die Etymologie einer kontinentalen Grenze
@@ -31,7 +31,7 @@ Der Name Limina besitzt tiefe sprachliche Wurzeln in der antiken Geografie Südi
 
 Ein zweiter etymologischer Ansatz verweist auf das altgriechische Wort *limne*, das einen Sumpf, ein Feuchtgebiet oder ein stehendes Gewässer bezeichnet. Historische Aufzeichnungen und mündliche Überlieferungen belegen, dass vor dem Ausbau der modernen Straßeninfrastruktur im 20. Jahrhundert ein kleiner Bergsee das saisonale Regenwasser direkt auf der Passhöhe sammelte. Im Zuge umfangreicher Erdarbeiten für die Straßenanbindung wurde dieses flache Gewässer trockengelegt und verfüllt, sodass das ursprüngliche hydrologische Element verschwand, im lokalen Sprachgebrauch jedoch weiterlebt.
 
-![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](/images/atlas/passo-della-limina-inline-2.webp)
+![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](https://upload.wikimedia.org/wikipedia/commons/8/87/Limina_-_Paesaggio02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Der 822 Meter hoch gelegene Bergsattel, über den historisch der Sentiero dei Greci verlief, um Lokroi am Ionischen Meer mit der tyrrhenischen Küste zu verbinden.*
 
 ### Der antike Handelsweg der Griechen
@@ -40,7 +40,7 @@ Lange bevor Asphaltstraßen das kalabrische Binnenland erschlossen, diente der P
 
 Die daraus entstandene Handelsader, historisch als *Sentiero dei Greci* (Pfad der Griechen) bekannt, stieg vom Ionischen Meer durch das Flusstal des Torbido an, überquerte den Gebirgskamm exakt am Passo della Limina und führte durch die westlichen Ausläufer hinab zur tyrrhenischen Tiefebene. Karawanen mit Olivenöl, Getreide, Keramik und Bronzewaren passierten diesen Übergang über Jahrhunderte. Die Route ermöglichte es den Händlern, riskante Seewege zu vermeiden und die Überquerung der gebirgigen Halbinsel auf einen einzigen Tagesmarsch zu verkürzen.
 
-![Forested slopes and mountain ridges around the Limina pass corridor](/images/atlas/passo-della-limina-inline-3.webp)
+![Forested slopes and mountain ridges around the Limina pass corridor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Limina_-_Paesaggio03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Buchen- und Kastanienwälder säumen die alten Saumpfade, die Hirten, Händlern und Reisenden als geschützte Routen dienten.*
 
 ### Einsiedeleien und traditionelle Hirtenpfade
@@ -49,7 +49,7 @@ Während des Mittelalters und der Frühen Neuzeit boten die dichten Buchen- und 
 
 Im 19. Jahrhundert etablierte sich der Pass zudem als wichtiger Knotenpunkt entlang der Gebirgsroute *Sentiero del Brigante*. Die ländliche Bevölkerung und Reisende nutzten das unübersichtliche Relief der Limina-Berge für Übergänge zwischen den Serre und den Höhenzügen des Aspromonte. Zugleich diente der Weg von jeher als traditionsreiche Transhumanz-Route, auf der Hirten ihre Schaf- und Rinderherden zwischen den sommerlichen Hochweiden und den winterlichen Küstenebenen führten.
 
-![The plateau of Piani della Limina surrounded by Mediterranean highland forest](/images/atlas/passo-della-limina-inline-4.webp)
+![The plateau of Piani della Limina surrounded by Mediterranean highland forest](https://upload.wikimedia.org/wikipedia/commons/5/5c/Piani_della_Limina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Das Hochplateau der Piani della Limina, unter dem heute moderne Verkehrsachsen verlaufen, während oben historische Wanderpfade die Kämme queren.*
 
 ### Moderne Ingenieurkunst und ökologischer Schutzraum

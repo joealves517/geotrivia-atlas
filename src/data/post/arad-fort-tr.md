@@ -20,7 +20,7 @@ metadata:
 
 Kuzey Bahreyn'de Muharrak adasına açılan kıyı yaklaşımlarını koruyan Arad Kalesi, Basra Körfezi'ndeki klasik İslam askerî mimarisinin günümüze ulaşan en seçkin örneklerinden biridir. On beşinci yüzyılda izole bir kıyı adacığı üzerinde inşa edilen bu kompakt hisar, açık körfez sularını Bahreyn'in doğal limanlarına bağlayan sığ kıyı geçitlerine hâkim bir noktadaydı. Modern deniz dolgusu projeleri Arad adasını Muharrak ile birleştirmiş olsa da kale, özgün geometrik düzenini ve kıyıdaki korunaklı konumunu korumaktadır.
 
-![Arad Kalesi'nin dış hendeği ve mercan taşından beden duvarları](/images/atlas/arad-fort-inline-1.webp)
+![Arad Kalesi'nin dış hendeği ve mercan taşından beden duvarları](https://upload.wikimedia.org/wikipedia/commons/f/f8/Arad_Qalat_Arad_Exterior_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 1: Arad Kalesi'nin Muharrak'a bakan dış hendeği ve deniz taşından örülen surları.*
 
 ## Eski bir kıyı adacığında deniz savunması
@@ -29,7 +29,7 @@ Yirminci yüzyıldaki bayındırlık çalışmaları Bahreyn'in kıyı çizgisin
 
 Bu doğal korumayı pekiştirmek amacıyla kale ustaları, kare surların etrafına yapay bir hendek kazdılar. Deniz suyunun temelleri aşındırabileceği kurak kıyı şartlarında istihkâmcılar, hendeği tatlı suyla doldurmak için kıyı akiferlerine özel su kuyuları açtılar. Bu hendek düşman kuvvetlerinin sur diplerine lağım kazmasını önlerken, kuşatma altındaki muhafız birliğine kesintisiz içme suyu temin ediyordu.
 
-![Arad Kalesi'nin iç avlusu ve köşe burçları](/images/atlas/arad-fort-inline-2.webp)
+![Arad Kalesi'nin iç avlusu ve köşe burçları](https://upload.wikimedia.org/wikipedia/commons/d/d4/Arad_Fort%2C_Bahrain%2C_15th_century_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 2: Klasik İslam kale mimarisi ilkelerine göre inşa edilmiş merkezî avlu ve silindirik kuleler.*
 
 ## Mercan taşı duvar örgüsü ve İslam istihkâm sanatı
@@ -38,7 +38,7 @@ Arad Kalesi'nin planı, klasik İslam istihkâm geometrisine bütünüyle uygund
 
 Beden duvarları iki ayrı savunma seviyesine sahiptir. Alt seğirdimler okçuların ve tüfekçilerin düşmana dikey mazgallardan ateş açmasını sağlarken, üst siperler top bataryalarına ve nöbetçilere ayrılmıştı. Dışa doğru çıkıntı yapan yuvarlak köşe kuleleri, sur diplerindeki kör noktaları ortadan kaldıran çapraz ateş hatları oluşturuyordu. Giriş kapısının üzerine yerleştirilen konsollu çıkıntılar, kapıyı zorlayan saldırganların üzerine kızgın yağ ve taş fırlatılmasına imkân veriyordu.
 
-![Arad Kalesi'nin üst siperlerindeki mazgal ve atış delikleri](/images/atlas/arad-fort-inline-3.webp)
+![Arad Kalesi'nin üst siperlerindeki mazgal ve atış delikleri](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arad_Fort%2C_Bahrain%2C_15th_century_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Şekil 3: Deniz geçitlerini denetlemek üzere tasarlanmış savunma mazgalları ve atış aralıkları.*
 
 ## Basra Körfezi'nde hâkimiyet mücadeleleri

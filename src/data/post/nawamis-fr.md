@@ -22,7 +22,7 @@ metadata:
 
 Le nom namus provient du mot arabe désignant le moustique. Le folklore bédouin attribuait autrefois ces édifices aux Hébreux de l'Exode, racontant que les voyageurs bâtissaient des abris de pierre pour se protéger des nuées d'insectes dans le désert. Des fouilles archéologiques dirigées par Beno Rothenberg à la fin du vingtième siècle ont révélé leur véritable fonction de chambres funéraires collectives renfermant des restes humains, des colliers de coquillages, des perles de pierre et des pointes de flèches en silex.
 
-![Tombe mégalithique de pierre de Nawamis dans le désert du Sinaï](/images/atlas/nawamis-inline-1.webp)
+![Tombe mégalithique de pierre de Nawamis dans le désert du Sinaï](https://upload.wikimedia.org/wikipedia/commons/0/05/Nawamis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Architecture circulaire en pierre sèche d'une tombe namus dans le désert du Sinaï.*
 
 ## Architecture des tombes circulaires
@@ -31,7 +31,7 @@ Les nawamis présentent une méthode de construction uniforme. Les bâtisseurs r
 
 Chaque namus intact comporte une ouverture d'accès orientée vers l'ouest ou le sud-ouest. Ces portes basses et carrées dépassent rarement un mètre de hauteur, obligeant les personnes à ramper pour pénétrer à l'intérieur. Les chercheurs soulignent que cette orientation correspond au soleil couchant, un alignement astronomique partagé par plusieurs cultures préhistoriques d'Afrique du Nord et du Levant. L'orientation occidentale reliait le déclin des astres au passage des défunts vers un monde ancestral.
 
-![Tombes mégalithiques en ruche à Bat, Al-Khutm et Al-Ayn](/images/atlas/nawamis-inline-2.webp)
+![Tombes mégalithiques en ruche à Bat, Al-Khutm et Al-Ayn](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bat%2C_al-khutm_and_al-Ayn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Complexes funéraires en ruche d'Oman illustrant les traditions régionales de l'âge du bronze.*
 
 ## Datation des chambres chalcolithiques
@@ -40,7 +40,7 @@ Les fouilles menées dans l'ensemble le mieux préservé de Hdhabat Chajaj, situ
 
 Un débat central parmi les archéologues concerne l'écart temporel entre les tombes et les squelettes qu'elles abritent. Plusieurs chercheurs soutiennent que les constructions en grès ont pu être bâties plusieurs siècles après les premières inhumations, servant d'ossuaires secondaires où les clans nomades réenterraient les ossements ancestraux. La datation par luminescence des blocs de grès suggère des restaurations et des extensions architecturales régulières jusqu'au début de l'âge du bronze, prouvant que ces sites désertiques isolés sont demeurés des étapes rituelles pendant des millénaires.
 
-![Tombe tour de Jebel Ruwaik au Yémen](/images/atlas/nawamis-inline-3.webp)
+![Tombe tour de Jebel Ruwaik au Yémen](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tombe_tour_de_Jebel_Ruwaik_-_Y%C3%A9men.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Tombe tour de Jebel Ruwaik au Yémen témoignant des architectures funéraires d'Arabie du Sud.*
 
 ## Réseaux funéraires à travers la mer Rouge

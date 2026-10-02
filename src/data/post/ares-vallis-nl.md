@@ -22,7 +22,7 @@ Over de roestkleurige hooglanden van Mars snijden immense canyons door een met k
 
 De enorme hoeveelheid gesteente en sediment die door Ares Vallis werd meegevoerd, wijst op waterdebieten die alles overtreffen wat ooit in de menselijke geschiedenis is waargenomen. Planeetgeologen schatten dat de piekdebieten tientallen miljoenen kubieke meters per seconde overstegen. Deze catastrofale overstromingen schraapten de bodem af tot op het vaste gesteente en lieten monumentale, gestroomlijnde eilanden achter in de vorm van aerodynamische druppels, stroomafwaarts wijzend in de richting van de kolkende vloedgolf.
 
-![Perspective view of Ares Vallis showing teardrop-shaped islands](/images/atlas/ares-vallis-inline-1.webp)
+![Perspective view of Ares Vallis showing teardrop-shaped islands](https://upload.wikimedia.org/wikipedia/commons/2/21/Ares_Vallis_in_perspective_ESA229658.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Perspectiefweergave van Ares Vallis vastgelegd door ESA Mars Express, met gestroomlijnde druppelvormige eilanden gevormd door catastrofale vloedgolven.*
 
 ## De instorting van Iani Chaos en vulkanische mechanismen
@@ -31,7 +31,7 @@ De oorsprong van de watermassa's die Ares Vallis hebben uitgesleten, ligt in de 
 
 Toen het ondergrondse ijs onder druk smolt, verloren de bovenliggende gesteentelagen hun draagkracht en stortten ze naar binnen. Het water brak met geweld door naar het Marsoppervlak in gigantische geisers en plotselinge overstromingen, waardoor het omringende landschap openscheurde en de zuidelijke ingang van Ares Vallis ontstond. Scherp beeldmateriaal van orbitale sondes laat zien dat er op de equatoriale hooglanden onderling verbonden merenstelsels ontstonden. Zodra een bekken zijn maximale capaciteit bereikte, braken de watermassa's door de randen en kerfden ze in opeenvolgende fasen diepe kanalen uit naar lagergelegen depressies.
 
-![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](/images/atlas/ares-vallis-inline-2.webp)
+![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/3/3a/Sojourner_on_Mars_PIA01122.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: NASA Mars Pathfinder en de Sojourner-rover die in 1997 vulkanische rotsblokken analyseren op de alluviale vlakte van Ares Vallis.*
 
 ## De historische landing van Mars Pathfinder
@@ -40,7 +40,7 @@ De afzettingswaaier waar Ares Vallis overgaat in Chryse Planitia vormde een uits
 
 Sojourner onderzocht afgeronde kiezels, dakpansgewijs gekantelde rotsblokken in de richting van vroegere stromingen en gelaagde vulkanische stenen die over de vlakte verspreid lagen. De oriëntatie van de rotsen bevestigde dat enorme watergolven over het gebied waren getrokken, wat direct bewijs ter plaatse leverde voor hypothesen die in de jaren zeventig voor het eerst waren opgesteld op basis van Viking-satellietfoto's. Deze ontdekking veranderde het inzicht in de milieugeschiedenis van Mars en toonde aan dat vloeibaar water het oppervlak nog lang na de vorming van de planeet heeft gevormd.
 
-![Channel meander and layered sedimentary deposits in Ares Vallis](/images/atlas/ares-vallis-inline-3.webp)
+![Channel meander and layered sedimentary deposits in Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_-_Channel_Meander_in_Ares_Vallis_Region_%28ESP_012992_1860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Baanopname in hoge resolutie van de Mars Reconnaissance Orbiter met meanderende kanalen en sedimentterrassen in Ares Vallis.*
 
 ## De hypothese van een planetair megadrainagesysteem

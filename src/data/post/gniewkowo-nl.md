@@ -20,7 +20,7 @@ metadata:
 
 Gelegen tussen Inowrocław en Toruń op de historische vlakten van Koejavië, vormt de stad Gniewkowo een van de meest bestendige middeleeuwse nederzettingen in noord-centraal Polen. De voor het eerst in 1185 vermelde plaats groeide van een vroege versterking van de Piastendynastie uit tot de hoofdstad van een zelfstandig hertogdom, dat aanvallen van de Duitse Orde, oorlogen met Zweden en twintigste-eeuwse bezettingen overleefde. Het stratenpatroon en de bakstenen monumenten herinneren aan meer dan acht eeuwen van politieke verschuivingen op de grens van Groot-Polen en Pommeren.
 
-![Kerk van de Heiligen Nicolaas en Constantia in Gniewkowo](/images/atlas/gniewkowo-inline-1.webp)
+![Kerk van de Heiligen Nicolaas en Constantia in Gniewkowo](https://upload.wikimedia.org/wikipedia/commons/f/f0/SM_Gniewkowo_ko%C5%9Bci%C3%B3%C5%82_Miko%C5%82aja_i_Konstancji_%286%29_ID_601858.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 1: De Kerk van de Heiligen Nicolaas en Constantia, een middeleeuws bakstenen heiligdom in Gniewkowo.*
 
 ## De Piastenvesting en het hertogdom Gniewkowo
@@ -29,7 +29,7 @@ Archeologische opgravingen bevestigen dat de vruchtbare gronden rondom Gniewkowo
 
 In 1314, na het overlijden van hertog Siemomysł van Inowrocław, werd zijn grondgebied in Koejavië verdeeld onder zijn drie zonen. Casimir III van Koejavië erfde het gebied en stichtte het onafhankelijke hertogdom Gniewkowo. Gelegen aan de frontlinie van de botsingen met de Staat van de Duitse Orde zag het kleine hertogdom zich voortdurend bedreigd. Toen troepen van de Duitse Orde de stad in 1332 omsingelden, stak hertog Casimir zijn eigen burcht in brand om gevangenneming te voorkomen. Hij trok zich terug totdat het Verdrag van Kalisz in 1343 zijn heerschappij herstelde. Zijn zoon, hertog Władysław de Witte, verpandde het hertogdom in de jaren zestig van de veertiende eeuw aan koning Casimir de Grote, waardoor Gniewkowo definitief toeviel aan de Poolse kroon.
 
-![Historische foto van de Sobieskistraat in Gniewkowo uit 1925](/images/atlas/gniewkowo-inline-2.webp)
+![Historische foto van de Sobieskistraat in Gniewkowo uit 1925](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gniewkowo._ul._Sobieskiego._1925_%2869106403%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 2: Archieffoto van de Sobieskistraat in Gniewkowo tijdens het interbellum in 1925.*
 
 ## Pruisische delingen en industriële spoorwegaanleg
@@ -38,7 +38,7 @@ Tijdens de vroegmoderne tijd diende Gniewkowo als koninklijke bestuursstad in he
 
 Het Pruisische bewind voerde strenge germaniseringsmaatregelen door, die in 1879 leidden tot de officiële naamsverandering naar het Duitse Argenau. Toen het Duits verplicht werd gesteld voor godsdienstonderwijs op scholen, organiseerden Poolse families schoolstakingen om hun taalrechten te verdedigen. Ondanks de culturele druk bracht het einde van de negentiende eeuw moderne infrastructuur. In 1873 verbond de spoorlijn Poznań-Toruń, thans spoorlijn 353, Gniewkowo met het regionale goederenvervoer, in 1908 gevolgd door elektriciteitsvoorziening. Na de opstand van 1918 drongen Poolse vrijwilligers de keizerlijke troepen terug, waardoor Gniewkowo in januari 1920 terugkeerde onder Pools bestuur.
 
-![Gedenknaald in de bossen van Gniewkowo](/images/atlas/gniewkowo-inline-3.webp)
+![Gedenknaald in de bossen van Gniewkowo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Obelisk_w_lasach_gniewkowskich-miejsce_upmi%C4%99tniaj%C4%85ce_rozstrzelanie_ponad_4_tysi%C4%99cy_os%C3%B3b_przez_zbrodniarzy_niemieckich_w_latach_1939-1943._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 3: Gedenknaald in de bossen van Gniewkowo ter nagedachtenis aan de slachtoffers van de Tweede Wereldoorlog.*
 
 ## Oorlogsjaren en historische herinnering

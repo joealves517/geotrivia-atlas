@@ -22,7 +22,7 @@ Langs de noordoostkust van het eiland Euboea verbergen kleine vissersdorpen en r
 
 De geografische aanduiding Diacria stamt af van het Griekse woord voor bergachtig hoogland en werd gebruikt voor nederzettingen op steile hellingen. Op Euboea lag het grondgebied van de stad nabij het huidige dorp Pili aan de Egeïsche kust. In tegenstelling tot de beschutte wateren van de golf die Euboea scheidt van Boeotië en Attica, keek deze buitenkust uit op de open zee, waardoor schepen blootstonden aan wisselende stromingen, noorderwinden en steile kapen.
 
-![Klassiek metselwerk langs de vestingmuren van de acropolis van Eretria op Euboea](/images/atlas/diacria-euboea-inline-1.webp)
+![Klassiek metselwerk langs de vestingmuren van de acropolis van Eretria op Euboea](https://upload.wikimedia.org/wikipedia/commons/a/ac/Part_of_the_wall_of_the_Acropolis_of_Eretria_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 1: Klassiek metselwerk langs de vestingmuren van de acropolis van Eretria op Euboea.*
 
 ## Epische poëzie en zeevaardersverhalen in de Egeïsche Zee
@@ -33,7 +33,7 @@ Lycophron noemt het gebied van de Diacriërs als een van de kusten waar overleve
 
 Hoewel de homerische epen Diacria niet met name noemen, baseerde Lycophron zich op regionale verhalen om zijn geografische catalogus samen te stellen. De associatie van Diacria met risicovolle zeeroutes weerspiegelt de nautische gevaren die kenmerkend waren voor de oostkust van Euboea in de oudheid.
 
-![Verdedigingsmuren van antieke Euboeïsche stadstaten die maritieme routes controleerden](/images/atlas/diacria-euboea-inline-2.webp)
+![Verdedigingsmuren van antieke Euboeïsche stadstaten die maritieme routes controleerden](https://upload.wikimedia.org/wikipedia/commons/0/01/Eretria_ancient_city_walls_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 2: Verdedigingsmuren van antieke Euboeïsche stadstaten die maritieme routes controleerden.*
 
 ## Belastingheffing in de Delische Bond
@@ -44,7 +44,7 @@ Marmeren steles op de Atheense Akropolis documenteren de afdrachten van Diacria 
 
 Een Atheens financieel decreet uit 425/424 v.Chr. verschaft topografische helderheid door zowel Diacria als een afzonderlijke eenheid genaamd Diacres van de Chalcidiërs te vermelden. Onderzoekers concluderen dat dit twee verschillende belastingdistricten op Euboea betrof: Diacres viel onder de invloedssfeer van Chalcis bij de zeestraat van Euripus, terwijl Diacria deel uitmaakte van het kustgebied van Eretria.
 
-![Bergkammen in Centraal-Euboea oprijzend achter de antieke kustnederzettingen](/images/atlas/diacria-euboea-inline-3.webp)
+![Bergkammen in Centraal-Euboea oprijzend achter de antieke kustnederzettingen](https://upload.wikimedia.org/wikipedia/commons/d/df/Mount_Olympus_%28Euboea%29_from_the_ancient_citadel_of_Eretria_on_January_16%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 3: Bergkammen in Centraal-Euboea oprijzend achter de antieke kustnederzettingen.*
 
 ## Topografie, demen en archeologisch onderzoek

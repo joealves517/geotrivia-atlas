@@ -22,7 +22,7 @@ Kuzey Fransa'nın rüzgârlı Opal Kıyısı boyunca, Manş Denizi'nin Dover Bo�
 
 1680 yılında Kral XIV. Louis'nin emriyle yaptırılan istihkâm, Manş Denizi'nin kuzeyindeki stratejik bir deniz demirleme alanını korumak üzere tasarlandı. Yükselen sular taştan kaleyi tamamen kuşatarak bir ada haline getirir; sular çekildiğinde ise deniz yatağındaki kayalıklar ve kumullar üzerinde duran heybetli taş kaide açığa çıkar. Kuzey Avrupa'daki kıyı tabyaları yüzyıllar boyunca dalgaların aşındırması ya da liman genişletmeleri nedeniyle yok olurken, Fort Mahon hidrodinamik geometrisi, sağlam taş işçiliği ve yirminci yüzyıldaki sivil koruma girişimi sayesinde varlığını sürdürmüştür.
 
-![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](/images/atlas/fort-mahon-vauban-sea-fortress-inline-1.webp)
+![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](https://upload.wikimedia.org/wikipedia/commons/e/e0/Ambleteuse.-_Fort_Vauban_en2019_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Fort Mahon'un at nalı biçimli granit surları ve suların çekildiği dönemde kayalık kıyı şeridinde açığa çıkan merkezi topçu kulesi.*
 
 ### Slack Halici'nin bölgesel coğrafyası
@@ -31,7 +31,7 @@ Ambleteuse'ün tahkim edilmesi kararı, 17. yüzyılda Manş Denizi çevresindek
 
 Vauban, deniz yapılarının açık suyun aralıksız hareket enerjisine karşı koyabilecek biçimde tasarlanması gerektiğini çok erken fark etti. Geleneksel düz ya da çokgen taş duvarlar, açık denizden gelen dalgalarla doğrudan karşılaştığında büyük hasar görüyordu. Ambleteuse'de Vauban, keskin köşeler yerine kıvrımlı ve yuvarlatılmış bir hat tercih etti. İnşaat 1680 civarında başladı ve 1690'dan önce tamamlandı. Roc Noir adı verilen kayalık üzerine kurulan topçu tabyası, boğazı denetlerken fırtına dalgalarını kavisli duvarları etrafından yumuşakça saptıracak şekilde konumlandırıldı.
 
-![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](/images/atlas/fort-mahon-vauban-sea-fortress-inline-2.webp)
+![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](https://upload.wikimedia.org/wikipedia/commons/5/57/Fort_Mahon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Slack halicinin kumulları üzerinden panoramik görünüm; kalenin kuzey kıyısındaki ayakta kalan tek Vauban deniz tabyası olarak yalnızlığını gösterir.*
 
 ### Bir gelgit tabyasının mimari yapısı
@@ -42,7 +42,7 @@ Deniz suyunun yıpratıcı etkisine direnebilmek amacıyla taş ustaları, dış
 
 17. yüzyıl askeri kayıtlarında yapı yalnızca Tour d’Ambleteuse olarak anılıyordu. Fort Mahon adı resmi belgelere ancak 1840 civarında, muhtemelen bir memurun Balear Adaları'ndaki Port Mahón'a atıfta bulunarak yaptığı bir yazım hatası sonucu girdi. Bu bürokratik karışıklığa rağmen yöre halkı ve haritacılar kaleyi Fort Vauban veya Eski Kale olarak adlandırmayı sürdürdü.
 
-![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-3.webp)
+![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/c/ca/Dunes_de_Fort_Mahon_%28Eden62%29_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Slack doğa koruma alanını çevreleyen sahil kumulları; kum hareketleri ve gelgit akıntıları 17. yüzyıl yapısını kuşatır.*
 
 ### Yüzyıllar boyunca mimari dönüşümler
@@ -51,7 +51,7 @@ Kalenin kullanımı Fransa tarihi boyunca pek çok evreden geçti. 19. yüzyıl�
 
 20. yüzyılın ortalarında kıyı birlikleri kaleyi kullandı ve tonozlu dairesel kazamatın ortasına betonarme bir ara kat dökerek iç mekânı iki seviyeye böldü. Ana taş kule deniz fırtınalarına göğüs gerse de, 1945 yılında çatışmaların son döneminde sudaki patlamalar denize bakan dış surların bir bölümünde hasara yol açtı.
 
-![High-resolution perspective of the restored stone masonry of Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-4.webp)
+![High-resolution perspective of the restored stone masonry of Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/7/78/Fort_Mahon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: 1945 yılındaki duvar hasarlarının ardından gönüllüler tarafından onarılan kesme taş işçiliği ve mazgalların ayrıntılı görünümü.*
 
 ### Gönüllü restorasyon ve çağdaş sahil koruma

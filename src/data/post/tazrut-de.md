@@ -22,7 +22,7 @@ Sieben Kilometer nordwestlich von Aïn Mellouk, in den schroffen Bergen der alge
 
 Im Jahr 893 n. Chr. wurde die Bergfestung als wichtigster befestigter Stützpunkt und Dar al-Hijra für den Missionar Abū ʿAbd Allāh al-Shīʿī gegründet. Von ismailitischen Führern aus dem Jemen entsandt, zog Abū ʿAbd Allāh in die Berge der Kleinen Kabylei, um seine religiöse und politische Bewegung unter den Kutama-Berbern zu verbreiten. Da er in größeren Ansiedlungen auf Widerstand stieß, fand er Zuflucht bei wohlgesinnten Gruppierungen, die ihm Schutz auf dieser leicht zu verteidigenden Klippe boten. Das berberische Toponym Tazrut, abgeleitet von antiken Amazigh-Wurzeln mit der Bedeutung großer Fels oder Felsvorsprung, beschrieb sowohl die physische Geografie als auch den militärischen Charakter der Stellung.
 
-![Historical extent of Fatimid territorial control across North Africa](/images/atlas/tazrut-inline-1.webp)
+![Historical extent of Fatimid territorial control across North Africa](https://upload.wikimedia.org/wikipedia/commons/c/cd/Fatimid_control_in_Africa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Historische Kartografie zur Ausdehnung des Fatimiden-Kalifats über Nordafrika von seinen Ursprüngen im algerischen Bergland aus.*
 
 ## Die strategische Geografie von Kaf Tazrut
@@ -31,7 +31,7 @@ Die Wahl von Tazrut entsprach einer wohlkalkulierten Militärgeografie. Gelegen 
 
 Neun Jahre lang fungierte Tazrut als politisches Zentrum und geheiligter Zufluchtsort des entstehenden Fatimidenstaates. In diesem Rückzugsort im Hochland bildete Abū ʿAbd Allāh berberische Rekruten aus, organisierte die zivile Verwaltung und formte aus disparaten Kutama-Klans ein schlagkräftiges Heer. Zeitgenössische Chronisten wie Al-Qadi al-Nu'man hielten fest, dass die Festung den ideologischen Anker der Bewegung bildete und verstreute Stammeskonflikte in einen geschlossenen militärischen Feldzug gegen die Garnisonen der Aghlabiden verwandelte.
 
-![Topographical relief map of Algeria showing the highlands of Mila](/images/atlas/tazrut-inline-2.webp)
+![Topographical relief map of Algeria showing the highlands of Mila](https://upload.wikimedia.org/wikipedia/commons/f/ff/Algeria_relief_location_map.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Topografische Reliefkarte Nordalgeriens mit Hervorhebung des gebirgigen Plateaulandes der Provinz Mila, in dem Tazrut errichtet wurde.*
 
 ## Die Verlegung nach Ikjan und der Marsch zur Großmacht
@@ -40,7 +40,7 @@ Bis zum Herbst 902 n. Chr. war die in Tazrut gebündelte militärische Macht üb
 
 Innerhalb von sieben Jahren nach dem Verlassen von Tazrut stürzten die Armeen der Kutama im Jahr 909 n. Chr. die Aghlabiden-Dynastie, nahmen Kairouan ein und setzten Abdallah al-Mahdi Billah als ersten Fatimiden-Kalifen ein. Der auf einem einsamen Gipfel in Mila gegründete Staat dehnte sich schließlich über Ägypten, Syrien und den Hedschas aus und schuf eines der bedeutendsten Reiche des mittelalterlichen Mittelmeerraums.
 
-![Historical map of the Fatimid Caliphate at its territorial zenith](/images/atlas/tazrut-inline-3.webp)
+![Historical map of the Fatimid Caliphate at its territorial zenith](https://upload.wikimedia.org/wikipedia/commons/4/42/The_Fatimid_Caliphate.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Übersichtskarte über die geografische Ausdehnung des Fatimidenreiches auf dem Höhepunkt seiner territorialen Macht im Mittelmeerraum.*
 
 ## Archäologische Zeugnisse auf dem Felsen von Mila

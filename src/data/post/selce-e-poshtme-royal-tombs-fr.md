@@ -22,7 +22,7 @@ Dans les hauts plateaux sauvages de l'est de l'Albanie, là où le massif de Mok
 
 Durant des siècles, l'Illyrie antique est restée perçue à travers le prisme hostile des historiens gréco-romains, qui dépeignaient volontiers ses peuples comme de simples pillards montagnards ou des pirates redoutés. Les découvertes de Selcë e Poshtme démentent cette vision réductrice. Elles attestent au contraire l'existence d'une élite illyrienne maîtrisant la taille de la pierre, intégrant les ordres architecturaux grecs et concevant des chambres funéraires souterraines comparables aux sépultures royales macédoniennes et épirotes contemporaines.
 
-![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-1.webp)
+![Panoramic view of Tombs 1 to 3 carved into the limestone cliff at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/0/06/Selca_e_Poshtme_Tombs1-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 1: Vue panoramique des tombeaux 1 à 3 sculptés dans la paroi rocheuse en gradins dominant la vallée du Shkumbin. Photo par Albinfo (CC BY-SA 3.0).*
 
@@ -30,7 +30,7 @@ La position géographique du bassin du Shkumbin permet de comprendre le choix de
 
 Plusieurs archéologues et historiens associent cette acropole fortifiée à Pelion, la forteresse royale mentionnée par Arrien lors de la campagne balkanique d'Alexandre le Grand. En 335 avant notre ère, Cleitos, roi des Dassorètes illyriens, s'allia à Glaukias des Taulantiens et retrancha ses forces derrière les remparts de Pelion. Alexandre dut mener un siège périlleux, échappant de justesse à l'encerclement dans les défilés du fleuve avant de disperser les combattants illyriens. Si la place forte conserva son importance après le passage macédonien, ses princes transformèrent la falaise abrupte sous les murailles en un monument dynastique impérissable.
 
-![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](/images/atlas/selce-e-poshtme-royal-tombs-inline-2.webp)
+![Rock-cut Ionic facade and carved columns of Tomb 4 at Selcë e Poshtme](https://upload.wikimedia.org/wikipedia/commons/2/25/Selca_e_Poshtme_Tomb4_Facade2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 2: Colonnade ionique classique et fronton taillés à même le rocher au tombeau 4. Photo par Albinfo (CC BY-SA 3.0).*
 
@@ -40,7 +40,7 @@ Le tombeau 1 présente une façade monumentale ornée de deux demi-colonnes ioni
 
 À proximité, le tombeau 2 adopte un parti architectural singulier. Les constructeurs ont sculpté un monument à deux niveaux comprenant un hémicycle étagé en forme de théâtre au-dessus d'une crypte souterraine. Les spécialistes estiment que cette tribune à ciel ouvert servait de lieu de rassemblement pour les cérémonies dynastiques et les libations rituelles. L'assemblée pouvait ainsi honorer le souverain disparu tout en contemplant le panorama de la vallée sacrée.
 
-![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](/images/atlas/selce-e-poshtme-royal-tombs-inline-3.webp)
+![Interior burial chamber with rock-hewn sarcophagus couch inside Tomb 3](https://upload.wikimedia.org/wikipedia/commons/1/16/Selca_e_Poshtme_Tomb3_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 3: Intérieur de la crypte funéraire du tombeau 3 avec le lit de pierre (kliné) attribué au roi Monounios. Photo par Albinfo (CC BY-SA 3.0).*
 
@@ -50,7 +50,7 @@ L'étude des vestiges rattache étroitement le tombeau 3 au roi Monounios, souve
 
 Le tombeau 4 se distingue par la façade la plus spectaculaire du site. Les sculpteurs ont taillé une véritable façade de temple au cœur d'une falaise verticale de soixante-dix mètres, avec quatre colonnes ioniques sous un fronton triangulaire. Des bas-reliefs représentant des boucliers ovales illyriens et des casques de cavalerie bordent l'entrée. Un long dromos creusé dans la roche dessert une vaste chambre pourvue de nombreuses niches (loculi), ayant servi de mausolée familial sur plusieurs générations.
 
-![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](/images/atlas/selce-e-poshtme-royal-tombs-inline-4.webp)
+![Archaeological excavation site and stone masonry of the Selcë e Poshtme royal necropolis](https://upload.wikimedia.org/wikipedia/commons/6/69/Selca_e_Poshtme%2C_Albania_%E2%80%93_Monumental_antique_tombs_2018_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 *Figure 4: Appareil de pierre et aménagements en terrasses de la nécropole royale face au massif de Mokra. Photo par Attila Terbócs (CC BY-SA 4.0).*
 

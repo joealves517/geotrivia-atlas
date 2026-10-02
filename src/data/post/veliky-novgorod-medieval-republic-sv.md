@@ -22,7 +22,7 @@ Där floden Volchovs breda strömmar rinner norrut från sjön Ilmen mot Ladoga,
 
 Stadens geografiska läge lade grunden för dess självständighet. Belägen i korsningen mellan de vattenvägar som knöt samman Nordeuropa med Bysans och Kaspiska havet, blomstrade Novgorod som Hansans östligaste handelspartner. Floden Volchov delade naturligt staden i två kompletterande delar: den administrativa och kyrkliga Sofiasidan på västra stranden och den livliga Handelssidan på östra stranden. Denna rumsliga uppdelning speglade den konstitutionella jämvikt som präglade republiken i mer än tre sekler.
 
-![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](/images/atlas/veliky-novgorod-medieval-republic-inline-1.webp)
+![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](https://upload.wikimedia.org/wikipedia/commons/6/62/VNovogorod_Detinets_VN13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: De röda tegelmurarna och tornen kring Kreml (Detinets) i Velikij Novgorod, belägna på floden Volchovs västra strand.*
 
 ### Vetje och det republikanska styrelseskicket
@@ -31,7 +31,7 @@ Det politiska systemet i det medeltida Novgorod innebar ett tydligt brott med de
 
 Den verkställande ledningen bars av posadniken, en vald civil borgmästare från stadens ledande patriciersläkter, vid sidan av tysjatskij, en militär ledare som företrädde hantverksskråna. Medborgarna anlitade fursten främst som en avlönad härförare och högste domare. Före sitt tillträde undertecknade varje furste ett bindande avtal, rjad, som förbjöd honom att äga jord inom republikens område, tillsätta domare på eget bevåg eller ta upp skatter utan posadnikens godkännande. Om fursten bröt mot avtalet förbehöll sig Vetje rätten att avsätta honom.
 
-![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](/images/atlas/veliky-novgorod-medieval-republic-inline-2.webp)
+![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](https://upload.wikimedia.org/wikipedia/commons/f/f3/Center_of_Veliky_Novgorod_Peterhof_Gotenhof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Historisk karta över medeltida Novgorod med indelningen i Sofiasidan och Handelssidan, där Hansans handelsgård Peterhof låg.*
 
 ### Hansans handelsgård och näverbrevens vittnesbörd
@@ -40,7 +40,7 @@ Novgorods ekonomiska välstånd vilade på dess integration i Östersjöns hande
 
 Under den historiska handelsmarken dolde sig en av den medeltida arkeologins mest märkliga upptäckter: näverbreven (beresty). De syrefattiga lerjordarna i Novgorod, där arkeologen Artemij Artsichovskij gjorde de första fynden 1951, har bevarat över tusen skrivna näverremsor från 1000-talet till 1400-talet. Ritsade med metall- eller benstift på fornryska visar dessa brev, räkenskaper, skuldsedlar och skolövningar att skrivkonsten inte var begränsad till klostren. Hantverkare, köpmän och kvinnor med egen egendom växlade regelbundet meddelanden om lån, boskapsaffärer och familjeärenden.
 
-![The 14th-century Church of the Transfiguration on Ilyina Street](/images/atlas/veliky-novgorod-medieval-republic-inline-3.webp)
+![The 14th-century Church of the Transfiguration on Ilyina Street](https://upload.wikimedia.org/wikipedia/commons/7/70/Kaniisadda_isbeddelka_ee_Ilina_Street_%28Veliky_Novgorod%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Frälsarens förklarings kyrka på Iljinagatan, känd för sina interiöra kalkmålningar utförda 1378 av Theofanes Greken.*
 
 ### Monumental stenarkitektur och bysantinskt måleri
@@ -49,7 +49,7 @@ Novgorods stadsmiljö återspeglade dess rikedom och borgerliga självständighe
 
 Under 1300-talet ledde handelsuppsvinget till att köpmannagillen (skladtjiny) bekostade uppförandet av sockenkyrkor i stadsdelarna. På Handelssidan framstår Frälsarens förklarings kyrka på Iljinagatan, fullbordad 1374, som en förebild för den lokala stilen med branta gavelrösten och dekorativt tegelmönster. År 1378 prydde den bysantinske mästaren Theofanes Greken kupolen och väggarna med uttrycksfulla, monokroma fresker av profeter och eremiter, vars dynamiska penselföring inspirerade generationer av ikonmålare.
 
-![The historic Yuriev Monastery near the outflow of Lake Ilmen](/images/atlas/veliky-novgorod-medieval-republic-inline-4.webp)
+![The historic Yuriev Monastery near the outflow of Lake Ilmen](https://upload.wikimedia.org/wikipedia/commons/0/0a/Veliky_Novgorod._Yuriev_Monastery_P7211049_2350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: De vita stenkyrkorna i Jurievklostret, grundat på 1000-talet för att bevaka flodvägen söder om staden.*
 
 ### Bevarandet av ett arkitektoniskt minnesmärke

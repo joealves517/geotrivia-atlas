@@ -22,7 +22,7 @@ De Bestandlijn strekt zich uit over meer dan 740 kilometer door het bergachtige 
 
 Over het gehele traject overbrugt de lijn aanzienlijke hoogteverschillen. Ze begint in het zuidelijke laagland langs de rivier de Chenab bij Akhnoor, loopt door de naaldbossen van het Pir Panjal-gebergte en klimt omhoog naar de gletsjers van de Grote Himalaya rond Kargil, Dras en de Saltoro-bergrug. Aan weerszijden bemannen honderdduizenden militairen vooruitgeschoven posten, betonnen bunkers en observatiepunten voor artillerie op hoogtes van meer dan 4.000 meter boven zeeniveau.
 
-![Cartografisch overzicht van het verloop van de Bestandlijn door het Himalayagebied van Kasjmir](/images/atlas/line-of-control-kashmir-border-inline-1.webp)
+![Cartografisch overzicht van het verloop van de Bestandlijn door het Himalayagebied van Kasjmir](https://upload.wikimedia.org/wikipedia/commons/0/03/Line_of_Control_LoC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 1: Cartografisch overzicht van het verloop van de Bestandlijn door het Himalayagebied van Kasjmir.*
 
 ## Oorsprong van de militaire demarcatie
@@ -33,7 +33,7 @@ Veertien maanden van zware gevechten volgden door valleien, bergpassen en besnee
 
 Met de ondertekening van het Akkoord van Karachi op 27 juli 1949 werd de officiële staakt-het-vurenlijn een feit. VN-militaire waarnemers, verenigd in UNMOGIP, werden langs het tracé gestationeerd om toezicht te houden op de naleving en incidenten te registreren. De lijn deelde het historische vorstendom op: India behield de Kasjmirvallei, Jammu en Ladakh, terwijl Pakistan het bestuur kreeg over Azad Kasjmir en de Noordelijke Gebieden, het latere Gilgit-Baltistan.
 
-![Versterkte bergkam en grenshek gezien vanaf de westelijke hellingen in Azad Kasjmir](/images/atlas/line-of-control-kashmir-border-inline-2.webp)
+![Versterkte bergkam en grenshek gezien vanaf de westelijke hellingen in Azad Kasjmir](https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_and_India_Border_from_Azad_Kashmir_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 2: Versterkte bergkam en grenshek gezien vanaf de westelijke hellingen in Azad Kasjmir.*
 
 ## De transformatie door het Akkoord van Simla van 1972
@@ -44,7 +44,7 @@ Na de Pakistaanse overgave kwamen de Indiase premier Indira Gandhi en de Pakista
 
 Tussen augustus en december 1972 voerden militaire landmeters van beide strijdkrachten gezamenlijke metingen uit in het terrein. Dit resulteerde in 19 stafkaarten waarop de coördinaten van de Bestandlijn exact werden vastgelegd, vanaf de rivier de Chenab in het zuiden tot een afgelegen punt in het hoge Karakoram-gebergte.
 
-![Historische topografische stafkaart uit 1958 van de Dras-sector langs het oorspronkelijke staakt-het-vurentracé](/images/atlas/line-of-control-kashmir-border-inline-3.webp)
+![Historische topografische stafkaart uit 1958 van de Dras-sector langs het oorspronkelijke staakt-het-vurentracé](https://upload.wikimedia.org/wikipedia/commons/b/ba/Txu-pclmaps-oclc-181831961-dras-43-n-1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 3: Historische topografische stafkaart uit 1958 van de Dras-sector langs het oorspronkelijke staakt-het-vurentracé.*
 
 ## Het noordelijke eindpunt en de gletsjeroorlog
@@ -63,7 +63,7 @@ Om ongeoorloofde grensoverschrijdingen tegen te gaan, begon het Indiase leger in
 
 Het hek is voorzien van detectieapparatuur: ondergrondse trillingssensoren, bewegingsmelders, warmtebeeldcamera's en nachtzichtradars. Patrouilles bewaken de omheining dag en nacht met behulp van krachtige schijnwerpers die zichtbaar zijn vanuit passagiersvliegtuigen. Hoewel sneeuwdruk en lawines in de winter geregeld delen van de afrastering vernielen, herstellen gespecialiseerde genie-eenheden de beschadigde delen ieder voorjaar opnieuw.
 
-![Bergdalen en terrasvormige dorpen grenzend aan de betwiste demarcatiezone](/images/atlas/line-of-control-kashmir-border-inline-4.webp)
+![Bergdalen en terrasvormige dorpen grenzend aan de betwiste demarcatiezone](https://upload.wikimedia.org/wikipedia/commons/7/73/Azad_Kashmire_of_Pakistan_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 4: Bergdalen en terrasvormige dorpen grenzend aan de betwiste demarcatiezone.*
 
 ## Rivierhydrologie en grensregimes

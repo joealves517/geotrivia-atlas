@@ -22,7 +22,7 @@ metadata:
 
 Var och en av de sex sviterna, Buzruk, Rost, Navo, Dugoh, Segoh och Iroq, fungerar som ett omfattande cykliskt verk bestående av dussintals vokala och instrumentala satser. Långt ifrån enkla folkmelodier styrs dessa kompositioner av strikta teoretiska regler för modal utveckling, rytmiska cykler och lyrisk improvisation. Under århundraden erbjöd emirernas hov i Buchara den formella miljö där judiska, tadzjikiska och uzbekiska musiker samlades för att förfina och muntligt föra vidare denna komplexa konstform över generationer.
 
-![Traditional folk music ensemble in Central Asia](/images/atlas/shashmaqam-inline-1.webp)
+![Traditional folk music ensemble in Central Asia](https://upload.wikimedia.org/wikipedia/commons/9/96/%D0%90%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Traditionell folkmusikensemble i Centralasien som framför modala sviter på akustiska lutor och ramtrummor.*
 
 ## De modala sviternas akustiska arkitektur
@@ -31,7 +31,7 @@ Strukturen i Shashmaqam förenar en stram akustisk instrumentation med virtuos v
 
 Musikerna förlitar sig inte på noter, utan överför mikrotonala tonhöjder och rytmiska mönster genom direkt mästarlära känd som ustod-shogird. Sångarna framför verser hämtade från klassisk persisk och tjagataisk poesi och tonsätter mystiska texter av skalder som Hafez, Jami, Navoiy och Bedil. Dessa texter använder det jordiska kärleksmotivet som en allegori för sufigrundade teman om gudomlig kärlek, smärtsam separation och andlig återförening.
 
-![Uzbek musician playing the two-stringed dutar](/images/atlas/shashmaqam-inline-2.webp)
+![Uzbek musician playing the two-stringed dutar](https://upload.wikimedia.org/wikipedia/commons/e/e5/Joueur_de_dutar_ouzbek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: En uzbekisk musiker som spelar på den tvåsträngade långhalsade lutan dutar, vilken utgör den modala grunden för vokalsviterna.*
 
 ## Bevarande och politiska omvälvningar längs Sidenvägen
@@ -40,7 +40,7 @@ Musikerna förlitar sig inte på noter, utan överför mikrotonala tonhöjder oc
 
 Trots denna institutionalisering överlevde den levande mästarläran inom familjedynastier, särskilt bland bucharisk-judiska och tadzjikiska musikerfamiljer. I samband med den omfattande emigrationen under sent 1900-tal förde framstående mästare traditionen vidare till diasporagrupper i Tel Aviv och New York, vilket bevarade lokala nyanser som annars riskerade att försvinna från Centralasiens konsertscener.
 
-![Traditional vocalists accompanied by long-necked lutes in Samarkand](/images/atlas/shashmaqam-inline-3.webp)
+![Traditional vocalists accompanied by long-necked lutes in Samarkand](https://upload.wikimedia.org/wikipedia/commons/b/b6/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F_%D0%B2_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B8_%D0%9D%D0%B0%D1%81%D0%B8%D0%B1%D1%8B_%D0%9E%D0%BC%D0%BE%D0%BD%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B8_%D0%9A%D0%B0%D0%BC%D0%BE%D0%BB%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD%D0%B0_%D0%A5%D0%B0%D0%BC%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Traditionella sångare ackompanjerade av lutor i Samarkand under framförandet av klassisk sufisk poesi.*
 
 ## Internationellt erkännande och levande tradition

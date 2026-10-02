@@ -24,7 +24,7 @@ Am 23. Juli 1948 erließ Generalgouverneur Muhammad Ali Jinnah den Erlass zur Er
 
 Diese territoriale Neuordnung stieß bei Provinzpolitikern in ganz Sindh auf entschiedenen Widerstand. Lokale Entscheidungsträger argumentierten, dass die einseitige Abspaltung Karatschis die Provinz ihres historischen Wirtschaftszentrums und administrativen Kerns beraube, einschließlich des neu errichteten Gebäudes der Provinzversammlung von Sindh an der Court Road. Trotz lautstarker Proteste beharrte die Zentralverwaltung darauf, dass eine neutrale Bundesenklave für die nationale Regierungsführung und staatliche Stabilität unerlässlich sei.
 
-![Karachi Cantonment Railway Station, originally Frere Street Station](/images/atlas/federal-capital-territory-pakistan-inline-1.webp)
+![Karachi Cantonment Railway Station, originally Frere Street Station](https://upload.wikimedia.org/wikipedia/commons/1/13/PK_Karachi_asv2020-02_img54_Cantonment_Railway_Station.jpg)
 *Abbildung 1: Der 1898 an der Doctor Daud Pota Road fertiggestellte Bahnhof Karachi Cantonment fungierte als primärer Überlandverkehrsknotenpunkt, der das Bundeshauptstadtterritorium mit dem Industal verband. Foto: A.Savin, Wikimedia Commons (Free Art License).*
 
 Geografisch erstreckte sich das Bundeshauptstadtterritorium über trockene Küstenebenen, die im Norden und Westen von Hügeln, im Osten vom Indus-Delta und im Süden vom Arabischen Meer begrenzt wurden. Das Territorium grenzte im Nordosten an die Provinz Sindh und im Nordwesten an den Fürstenstaat Las Bela, während die saisonalen Läufe der Flüsse Layari und Malir das städtische Areal durchschnitten.
@@ -33,7 +33,7 @@ Zwischen 1947 und 1951 erlebte die Enklave einen tiefgreifenden demografischen W
 
 Wirtschaftlich fungierte das Territorium als unverzichtbare maritime Lebensader für Westpakistan. Über den Hafen von Karatschi wurden mehr als neunzig Prozent des gesamten maritimen Außenhandels abgewickelt, während hier auch die neu gegründete State Bank of Pakistan und die Karachi Stock Exchange ihren Sitz hatten. Flugverbindungen liefen über den internationalen Flughafen Quaid-e-Azam sowie den Militärflugplatz Mauripur, während Eisenbahnzüge von den Bahnhöfen Karachi Cantonment und Karachi City nach Norden aufbrachen.
 
-![Port of Karachi deep-water harbour on the Arabian Sea](/images/atlas/federal-capital-territory-pakistan-inline-2.webp)
+![Port of Karachi deep-water harbour on the Arabian Sea](https://upload.wikimedia.org/wikipedia/commons/a/af/Karachi_Seaport.jpg)
 *Abbildung 2: Der Hafen von Karatschi am Arabischen Meer bildete während des gesamten Bestehens der Bundesenklave den einzigen Tiefwasser-Seekorridor für Westpakistan. Foto: King Eliot, Wikimedia Commons (CC BY-SA 4.0).*
 
 Die strategische Verwundbarkeit einer Küstenhauptstadt rückte nach dem Militärputsch unter Feldmarschall Ayub Khan im Jahr 1958 in den Mittelpunkt der Sicherheitsüberlegungen. Militärstrategen wiesen darauf hin, dass Karatschi maritimen Bombardements und amphibischen Angriffen ungeschützt ausgesetzt war, während sich die politische Führung vom militärischen Hauptquartier in Rawalpindi isoliert fühlte. 1959 kam eine offizielle Standortkommission zu dem Schluss, dass die Bundeshauptstadt ins Landesinnere auf das Potohar-Plateau verlegt werden sollte.

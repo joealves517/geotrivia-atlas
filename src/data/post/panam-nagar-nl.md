@@ -22,7 +22,7 @@ In het upazila Sonargaon van het district Narayanganj, ongeveer dertig kilometer
 
 De geografische ligging van Panam Nagar werd bepaald door de waterwegen van de rivierdelta. Aan drie zijden omgeven door beschermende kanalen, bekend als de Pankhiraj Khal, fungeerde de stad als een binnenhaven met directe verbindingen naar de rivieren Meghna en Shitalakshya. Dankzij deze vaarwegen konden handelsschepen landbouwproducten, ruwe katoen en fijn geweven textiel uit Oost-Bengalen rechtstreeks vervoeren naar maritieme handelsnetwerken in de Golf van Bengalen.
 
-![Twee verdiepingen tellend koopmanshuis met Indo-Europese koloniale gevels en boogportieken in Panam Nagar](/images/atlas/panam-nagar-inline-1.webp)
+![Twee verdiepingen tellend koopmanshuis met Indo-Europese koloniale gevels en boogportieken in Panam Nagar](https://upload.wikimedia.org/wikipedia/commons/5/5c/A_dwelling_at_Panam_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 1: Twee verdiepingen tellend koopmanshuis met Indo-Europese koloniale gevels en boogportieken in Panam Nagar.*
 
 ## Van sultanaatshoofdstad tot koloniaal handelscentrum
@@ -33,7 +33,7 @@ Een ingrijpende verandering vond plaats in 1610, toen de Mogol-onderkoning Islam
 
 De plaats beleefde een opmerkelijke heropleving in de vroege negentiende eeuw. Rijke hindoeïstische koopmansfamilies, lokaal bekend als Poddars en Tilis, kozen Panam Nagar als hun hoofdkwartier voor de handel in machinaal garen, ruwe katoen, jute en indigo. Tussen 1810 en 1910 bouwden deze handelsfamilies aaneengesloten stadshuizen langs de hoofdstraat, waarbij zij westerse architectuurelementen combineerden met traditionele Bengaalse bouwmethoden.
 
-![De 600 meter lange geplaveide koloniale straat geflankeerd door verlaten 19e-eeuwse handelspanden](/images/atlas/panam-nagar-inline-2.webp)
+![De 600 meter lange geplaveide koloniale straat geflankeerd door verlaten 19e-eeuwse handelspanden](https://upload.wikimedia.org/wikipedia/commons/d/d2/Panam_City%2C_Sonargaon%2C_33.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 2: De 600 meter lange geplaveide koloniale straat geflankeerd door verlaten 19e-eeuwse handelspanden.*
 
 ## Samensmelting van architectuurstijlen
@@ -44,7 +44,7 @@ Lokale meester-metselaars verwerkten westerse sierelementen in combinatie met tr
 
 De indeling van de panden was afgestemd op zowel zakelijk als huiselijk gebruik. De vertrekken op de begane grond aan de straatzijde dienden als kantoor, winkelruimte en brandveilige opslag voor textiel. De bovenverdiepingen bevatten woonvertrekken rond open binnenplaatsen die zorgden voor natuurlijke ventilatie en daglicht in het vochtige moessonklimaat. Aan de achterzijde boden doorgangen toegang tot secundaire waterwegen, waardoor goederen op boten konden worden geladen zonder het verkeer op straat te belemmeren.
 
-![Historische bakstenen tempel en woongebouwen binnen het erfgoedcomplex van Sonargaon](/images/atlas/panam-nagar-inline-3.webp)
+![Historische bakstenen tempel en woongebouwen binnen het erfgoedcomplex van Sonargaon](https://upload.wikimedia.org/wikipedia/commons/1/13/An_ancient_temple_in_Panam_Nagar%2C_Bangladesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 3: Historische bakstenen tempel en woongebouwen binnen het erfgoedcomplex van Sonargaon.*
 
 ## Verlating, behoud en modern erfgoed

@@ -22,7 +22,7 @@ Lungo la stretta penisola della Calabria meridionale, dove la terraferma italian
 
 Il valico si trova sulla linea di confine tra i territori comunali di Cinquefrondi e Mammola, nella Città Metropolitana di Reggio Calabria. Immediatamente a sud del passo si innalza il monte Limina, a quota 888 metri, dalla cui vetta nelle mattinate limpide si gode di una veduta panoramica che abbraccia la piana di Gioia Tauro, il cono vulcanico dell'Etna in Sicilia e l'arcipelago delle Isole Eolie. Sebbene oggi i viaggiatori percorrano quest'area attraversando una galleria stradale lunga tre chilometri, il valico in quota custodisce millenni di spostamenti trans-peninsulari, commerci arcaici e consuetudini montane.
 
-![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](/images/atlas/passo-della-limina-inline-1.webp)
+![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](https://upload.wikimedia.org/wikipedia/commons/b/b9/Limina_-_Paesaggio01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Scorcio del crinale appenninico nei pressi del Passo della Limina, che mostra la fascia di transizione geomorfologica tra le rocce delle Serre e dell'Aspromonte.*
 
 ### L'etimologia di un confine continentale
@@ -31,7 +31,7 @@ Il toponimo Limina possiede una profonda radice linguistica legata alla geografi
 
 Una seconda interpretazione riconduce al greco antico *limne*, vocabolo che indica una palude, uno stagno o una conca d'acqua ferma. Fonti storiche e testimonianze orali documentano che, prima degli interventi stradali del Novecento, un laghetto stagionale raccoglieva le acque piovane proprio sul pianoro del colle. Durante i grandi lavori di costruzione dei raccordi viari, questo specchio d'acqua naturale fu colmato e bonificato, cancellandone la conformazione originaria ma lasciandone viva la memoria nel toponimo locale.
 
-![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](/images/atlas/passo-della-limina-inline-2.webp)
+![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](https://upload.wikimedia.org/wikipedia/commons/8/87/Limina_-_Paesaggio02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: La sella montana a 822 metri, storicamente attraversata dal Sentiero dei Greci per mettere in comunicazione Locri sullo Ionio con la sponda tirrenica.*
 
 ### La via commerciale della Magna Grecia
@@ -40,7 +40,7 @@ Molto prima che le vie asfaltate raggiungessero l'entroterra calabrese, il Passo
 
 La via carovaniera che ne derivò, nota nella tradizione storiografica come *Sentiero dei Greci*, risaliva la valle della fiumara Torbido partendo dalla costa ionica, scollinava esattamente al Passo della Limina e scendeva lungo i contrafforti occidentali fino al bacino tirrenico. Muli carichi di olio d'oliva, cereali, manufatti ceramici e bronzi lavorati percorsero questa rotta per secoli. L'itinerario garantiva scambi mercantili costanti e riduceva la traversata della penisola montuosa a una sola giornata di cammino.
 
-![Forested slopes and mountain ridges around the Limina pass corridor](/images/atlas/passo-della-limina-inline-3.webp)
+![Forested slopes and mountain ridges around the Limina pass corridor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Limina_-_Paesaggio03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Boschi di faggio e castagno lungo le antiche mulattiere, corridoi montani usati da pastori, mercanti e viandanti.*
 
 ### Romitaggi monastici e percorsi di transumanza
@@ -49,7 +49,7 @@ Nel corso del Medioevo e della prima età moderna, i fitti boschi di faggio e ca
 
 Nell'Ottocento, il valico consolidò la sua importanza come nodo centrale lungo la direttrice montuosa del *Sentiero del Brigante*. Gli abitanti delle campagne e i viandanti d'alta quota sfruttavano l'articolata conformazione montuosa della Limina per muoversi tra le Serre e le cime interne dell'Aspromonte. Il tracciato mantenne ininterrottamente il suo ruolo di via della transumanza, lungo la quale i pastori guidavano greggi e mandrie dai pascoli estivi delle alture ai fondovalle costieri invernali.
 
-![The plateau of Piani della Limina surrounded by Mediterranean highland forest](/images/atlas/passo-della-limina-inline-4.webp)
+![The plateau of Piani della Limina surrounded by Mediterranean highland forest](https://upload.wikimedia.org/wikipedia/commons/5/5c/Piani_della_Limina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Il pianoro dei Piani della Limina, sotto cui scorrono le moderne infrastrutture mentre in superficie si snodano i sentieri storici.*
 
 ### Opere ingegneristiche e valorizzazione ambientale

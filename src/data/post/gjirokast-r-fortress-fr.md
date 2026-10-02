@@ -22,7 +22,7 @@ S'élevant à plus de trois cents mètres au-dessus du bassin du fleuve Drino da
 
 Les investigations archéologiques attestent l'existence d'une première place fortifiée sur cet éperon rocheux dès le XIIe siècle sous l'autorité du despotat d'Épire, consignée dans les chroniques byzantines sous le nom d'Argyrokastro, ou le Château d'Argent. Lorsque les armées ottomanes s'imposèrent dans le sud des Balkans au début du XVe siècle, la citadelle capitula par négociation en 1419 pour devenir un chef-lieu administratif désigné sous l'appellation d'Ergiri.
 
-![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](/images/atlas/gjirokast-r-fortress-inline-1.webp)
+![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](https://upload.wikimedia.org/wikipedia/commons/4/42/Gjirokast%C3%ABr%2C_st%C5%99ed_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: L'esplanade supérieure et la tour de l'horloge édifiée au XIXe siècle sous l'impulsion d'Ali Pacha de Janina.*
 
 ### La métamorphose monumentale d'Ali Pacha
@@ -31,7 +31,7 @@ La silhouette castrale actuelle doit son ampleur impressionnante à Ali Pacha de
 
 Ali Pacha prolongea les remparts pour enserrer la quasi-totalité du plateau sommital, érigeant de vastes casemates voûtées capables d'abriter des troupes de garnison et des pièces d'artillerie lourde. Afin de parer à la vulnérabilité historique de l'édifice lors de sièges prolongés, ses architectes bâtirent un aqueduc de dix kilomètres en pierre taillée, acheminant l'eau de source depuis le mont Sopot à travers de profondes gorges montagneuses. Sur la proue septentrionale de l'enceinte, il fit ériger une tour de l'horloge qui demeure le repère visuel majeur de toute la vallée.
 
-![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](/images/atlas/gjirokast-r-fortress-inline-2.webp)
+![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gjirokast%C3%ABr%2C_interi%C3%A9r_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Casemates voûtées monumentales aménagées dans le socle calcaire pour résister aux tirs de canons.*
 
 ### Prisons souterraines et répression politique
@@ -40,7 +40,7 @@ Sous ses chemins de ronde à ciel ouvert, la forteresse abrite un vaste labyrint
 
 La page la plus sombre du site s'ouvrit après 1944 sous le régime communiste d'Enver Hoxha, lui-même natif de Gjirokastër. La dictature convertit les salles souterraines de la citadelle en un centre de détention réputé pour sa sévérité, destiné aux opposants politiques et aux intellectuels dissidents. Surveillés étroitement par la police politique, les détenus y subissaient un isolement total dans des cellules taillées à même la roche montagnarde. La prison demeura active jusqu'en 1968, date à laquelle les pressions internationales et une inflexion des priorités intérieures incitèrent le gouvernement à transformer le complexe en musée.
 
-![Interior armament gallery displaying artillery captured during World War II and the Cold War era](/images/atlas/gjirokast-r-fortress-inline-3.webp)
+![Interior armament gallery displaying artillery captured during World War II and the Cold War era](https://upload.wikimedia.org/wikipedia/commons/0/0c/Gjirokast%C3%ABr_Festung_-_Kasematten_1a_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: La galerie intérieure des armements exposant des pièces d'artillerie de la Seconde Guerre mondiale et de la guerre froide.*
 
 ### Trophée de la guerre froide et préservation patrimoniale

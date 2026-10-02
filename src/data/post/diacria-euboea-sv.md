@@ -22,7 +22,7 @@ Längs den nordöstra kusten på ön Euboia döljer fiskebyar och klippor spåre
 
 Det geografiska namnet Diakria härstammar från det grekiska ordet för bergigt högland och betecknade orter belägna på branta sluttningar. På Euboia låg stadens territorium i närheten av den moderna byn Pili på kusten mot Egeiska havet. Till skillnad från det skyddade vattnet i sundet mellan Euboia, Boiotien och Attika låg denna yttre kust vänd mot öppet hav, vilket utsatte sjöfarten för skiftande strömmar, nordliga vindar och branta klippuddar.
 
-![Klassiskt murverk längs akropolens befästningar i Eretria på ön Euboia](/images/atlas/diacria-euboea-inline-1.webp)
+![Klassiskt murverk längs akropolens befästningar i Eretria på ön Euboia](https://upload.wikimedia.org/wikipedia/commons/a/ac/Part_of_the_wall_of_the_Acropolis_of_Eretria_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 1: Klassiskt murverk längs akropolens befästningar i Eretria på ön Euboia.*
 
 ## Episk diktning och sjöfararberättelser i Egeiska havet
@@ -33,7 +33,7 @@ Lykofron nämner diakriernas område som en av de kuster där skeppsbrutna sjöm
 
 Trots att de homeriska eperna inte nämner Diakria vid namn, använde Lykofron regionala berättelser för att sammanställa sitt geografiska register. Kopplingen mellan Diakria och riskabla sjövägar belyser de nautiska svårigheter som utmärkte Euboias östra kust under antiken.
 
-![Försvarsmurar tillhörande antika euboiska stadsstater som kontrollerade sjövägar](/images/atlas/diacria-euboea-inline-2.webp)
+![Försvarsmurar tillhörande antika euboiska stadsstater som kontrollerade sjövägar](https://upload.wikimedia.org/wikipedia/commons/0/01/Eretria_ancient_city_walls_Euboea_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 2: Försvarsmurar tillhörande antika euboiska stadsstater som kontrollerade sjövägar.*
 
 ## Beskattning inom det deliska förbundet
@@ -44,7 +44,7 @@ Marmorstelar på Akropolis i Aten redovisar de skatter som Diakria betalade unde
 
 Ett atenskt finansdekret från 425/424 f.Kr. ger geografisk precision genom att separat lista Diakria och en annan enhet kallad Diakres från Chalkis. Forskare menar att detta bekräftar två skilda skattedistrikt på Euboia: Diakres lydde under Chalkis vid Euripossundet, medan Diakria hörde till kustområdet knutet till Eretria.
 
-![Bergskammar i centrala Euboia som höjer sig bakom de antika kustbosättningarna](/images/atlas/diacria-euboea-inline-3.webp)
+![Bergskammar i centrala Euboia som höjer sig bakom de antika kustbosättningarna](https://upload.wikimedia.org/wikipedia/commons/d/df/Mount_Olympus_%28Euboea%29_from_the_ancient_citadel_of_Eretria_on_January_16%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 3: Bergskammar i centrala Euboia som höjer sig bakom de antika kustbosättningarna.*
 
 ## Topografi, demer och arkeologiska undersökningar

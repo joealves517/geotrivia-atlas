@@ -20,7 +20,7 @@ metadata:
 
 Situata tra Inowrocław e Toruń nelle fertili pianure della Cuiavia, la città di Gniewkowo costituisce uno degli insediamenti medievali più rilevanti della Polonia centro-settentrionale. Menzionata per la prima volta nel 1185, la località si sviluppò da avamposto difensivo della dinastia dei Piasti a capitale di un ducato autonomo, resistendo alle incursioni dei Cavalieri Teutonici, ai conflitti con la Svezia e alle occupazioni del Novecento. L'impianto stradale e i monumenti in mattoni documentano oltre otto secoli di rivolgimenti politici lungo il confine tra la Grande Polonia e la Pomerania.
 
-![Chiesa dei Santi Nicola e Costanza a Gniewkowo](/images/atlas/gniewkowo-inline-1.webp)
+![Chiesa dei Santi Nicola e Costanza a Gniewkowo](https://upload.wikimedia.org/wikipedia/commons/f/f0/SM_Gniewkowo_ko%C5%9Bci%C3%B3%C5%82_Miko%C5%82aja_i_Konstancji_%286%29_ID_601858.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: La chiesa dei Santi Nicola e Costanza, edificio di culto medievale in mattoni a Gniewkowo.*
 
 ## Il presidio dei Piasti e il Ducato di Gniewkowo
@@ -29,7 +29,7 @@ Le campagne di scavo attestano la presenza di comunità agricole nell'area di Gn
 
 Nel 1314, alla scomparsa del duca Siemomysł di Inowrocław, i possedimenti della Cuiavia vennero spartiti tra i suoi tre figli. Casimiro III di Cuiavia ottenne questo distretto, fondando il Ducato di Gniewkowo come entità sovrana. Posto sulla linea del fronte contro lo Stato monastico dei Cavalieri Teutonici, il piccolo principato visse momenti di estrema tensione. Nel 1332, durante l'assedio posto dalle forze teutoniche, il duca Casimiro scelse di incendiare il proprio castello per non consegnarlo al nemico, ritirandosi fino a quando il trattato di Kalisz del 1343 non gli restituì le sue terre. Suo figlio, il duca Ladislao il Bianco, cedette in pegno il feudo a re Casimiro il Grande negli anni Sessanta del Trecento, annettendo Gniewkowo alla Corona del Regno di Polonia.
 
-![Fotografia d'epoca di via Sobieski a Gniewkowo nel 1925](/images/atlas/gniewkowo-inline-2.webp)
+![Fotografia d'epoca di via Sobieski a Gniewkowo nel 1925](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gniewkowo._ul._Sobieskiego._1925_%2869106403%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Rara fotografia d'archivio di via Sobieski a Gniewkowo scattata nel periodo interbellico nel 1925.*
 
 ## La dominazione prussiana e l'espansione ferroviaria
@@ -38,7 +38,7 @@ In età moderna, Gniewkowo svolse la funzione di città regia all'interno del vo
 
 L'amministrazione prussiana avviò una politica di germanizzazione che culminò nel 1879 con la ridenominazione ufficiale della città in Argenau. A seguito dell'introduzione obbligatoria della lingua tedesca per l'insegnamento religioso, le famiglie polacche proclamarono scioperi scolastici per salvaguardare le proprie radici linguistiche. Sul finire dell'Ottocento giunsero importanti opere pubbliche. Nel 1873 l'inaugurazione della linea Poznań-Toruń, odierna linea ferroviaria statale 353, inserì la cittadina nelle direttrici industriali dell'area, cui seguì l'elettrificazione urbana nel 1908. Dopo l'insurrezione della Grande Polonia del 1918, le forze volontarie polacche costrinsero le truppe imperiali alla resa, restituendo Gniewkowo alla sovranità nazionale nel gennaio del 1920.
 
-![Monumento commemorativo nelle foreste di Gniewkowo](/images/atlas/gniewkowo-inline-3.webp)
+![Monumento commemorativo nelle foreste di Gniewkowo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Obelisk_w_lasach_gniewkowskich-miejsce_upmi%C4%99tniaj%C4%85ce_rozstrzelanie_ponad_4_tysi%C4%99cy_os%C3%B3b_przez_zbrodniarzy_niemieckich_w_latach_1939-1943._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Obelisco eretto nelle foreste di Gniewkowo in memoria delle migliaia di vittime delle esecuzioni di massa durante il secondo conflitto mondiale.*
 
 ## L'occupazione bellica e i luoghi della memoria

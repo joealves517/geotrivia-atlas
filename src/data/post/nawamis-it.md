@@ -22,7 +22,7 @@ Attraverso gli aridi altopiani della penisola meridionale del Sinai, strutture i
 
 Il termine namus deriva dalla parola araba che indica la zanzara. Le leggende beduine attribuivano un tempo queste costruzioni agli Israeliti dell'Esodo, narrando che i viandanti erigessero ripari in pietra per proteggersi dagli sciami di insetti nel deserto. Gli scavi archeologici condotti da Beno Rothenberg alla fine del ventesimo secolo ne hanno chiarito la funzione originaria di camere sepolcrali collettive, contenenti resti scheletrici umani, collane di conchiglie, perline di pietra e punte di freccia in selce.
 
-![Tomba megalitica in pietra di Nawamis nel deserto del Sinai](/images/atlas/nawamis-inline-1.webp)
+![Tomba megalitica in pietra di Nawamis nel deserto del Sinai](https://upload.wikimedia.org/wikipedia/commons/0/05/Nawamis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Architettura circolare in pietra a secco di una tomba namus nel deserto del Sinai.*
 
 ## Architettura delle tombe circolari
@@ -31,7 +31,7 @@ I nawamis presentano una tecnica costruttiva uniforme. I costruttori raccoglieva
 
 Ogni namus intatto presenta un varco di accesso rivolto a ovest o sud-ovest. Le basse aperture quadrangolari superano raramente il metro di altezza, costringendo i visitatori a entrare carponi. Gli studiosi rilevano che questo orientamento risponde al sole al tramonto, un allineamento astronomico condiviso da diverse culture preistoriche del Nord Africa e del Levante. L'orientamento verso occidente collegava il calare dei corpi celesti con il passaggio dei defunti nel mondo ancestrale.
 
-![Tombe megalitiche ad alveare a Bat, Al-Khutm e Al-Ayn](/images/atlas/nawamis-inline-2.webp)
+![Tombe megalitiche ad alveare a Bat, Al-Khutm e Al-Ayn](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bat%2C_al-khutm_and_al-Ayn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Complessi funerari ad alveare in Oman a testimonianza delle tradizioni dell'Età del Bronzo.*
 
 ## Datazione delle camere calcolitiche
@@ -40,7 +40,7 @@ Gli scavi condotti nel gruppo meglio conservato di Hdhabat Chajaj, lungo la pist
 
 Un tema di vivace confronto tra gli archeologi riguarda il rapporto cronologico tra le tombe e gli scheletri in esse custoditi. Diversi ricercatori ritengono che gli edifici in arenaria possano essere stati eretti secoli dopo le prime sepolture, con la funzione di ossari secondari nei quali i clan nomadi riponevano le ossa degli antenati. Le analisi di datazione a luminescenza sui conci di arenaria evidenziano interventi di manutenzione e aggiunte architettoniche protrattisi fino all'Antica Età del Bronce, confermando che queste remote coordinate desertiche rimasero tappe cerimoniali per millenni.
 
-![Tomba a torre di Jebel Ruwaik nello Yemen](/images/atlas/nawamis-inline-3.webp)
+![Tomba a torre di Jebel Ruwaik nello Yemen](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tombe_tour_de_Jebel_Ruwaik_-_Y%C3%A9men.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Tomba a torre di Jebel Ruwaik nello Yemen che documenta le architetture funerarie del Sud dell'Arabia.*
 
 ## Reti funerarie attraverso il Mar Rosso

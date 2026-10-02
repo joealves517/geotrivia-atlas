@@ -22,7 +22,7 @@ A lo largo de la estrecha península de la Calabria meridional, donde la masa te
 
 El puerto de montaña ocupa un punto de paso estratégico entre los términos municipales de Cinquefrondi y Mammola, en la Ciudad Metropolitana de Reggio Calabria. Inmediatamente al sur del collado se alza el monte Limina, con 888 metros de altura, cuya cima ofrece en mañanas despejadas amplias panorámicas que abarcan la llanura de Gioia Tauro hasta el cono volcánico del Etna en Sicilia y el archipiélago de las islas Eolias. Aunque el tráfico contemporáneo atraviesa hoy este relieve a través de un túnel carretero de tres kilómetros de longitud, el puerto en superficie custodia siglos de desplazamientos peninsulares, comercio clásico y cultura montañesa.
 
-![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](/images/atlas/passo-della-limina-inline-1.webp)
+![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](https://upload.wikimedia.org/wikipedia/commons/b/b9/Limina_-_Paesaggio01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Vista de la abrupta crestería apenínica cerca del Passo della Limina, donde se observa la transición geomorfológica entre las rocas de las Serre y el Aspromonte.*
 
 ### La etimología de una frontera continental
@@ -31,7 +31,7 @@ El topónimo Limina posee profundas raíces lingüísticas vinculadas a la geogr
 
 Una segunda interpretación lingüística remite al griego clásico *limne*, término con el que se designaba una ciénaga, charca o acumulación de agua estancada. Las crónicas históricas y la memoria comunitaria constatan que, antes del desarrollo de las infraestructuras viales en el siglo XX, una laguna estacional recogía las aguas de lluvia directamente en la cima del puerto. Durante las obras de ingeniería vial, esta cubeta natural fue drenada y rellenada, modificando la hidrología original del lugar pero manteniendo vivo su recuerdo en el habla tradicional.
 
-![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](/images/atlas/passo-della-limina-inline-2.webp)
+![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](https://upload.wikimedia.org/wikipedia/commons/8/87/Limina_-_Paesaggio02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: El collado a 822 metros de altitud, transitado históricamente por el Sentiero dei Greci para unir la colonia de Locri en el mar Jónico con la costa tirrena.*
 
 ### El camino comercial de la Magna Grecia
@@ -40,7 +40,7 @@ Mucho antes de que el asfalto comunicara el interior calabrés, el Passo della L
 
 Esta arteria de intercambio, recordada como el *Sentiero dei Greci* (Sendero de los Griegos), remontaba el valle del río Torbido desde el mar Jónico, coronaba la cordillera justo en el Passo della Limina y descendía por las estribaciones occidentales hacia la cuenca tirrena. Recuas de mulas cargadas con aceite de oliva, cereales, recipientes cerámicos y piezas de bronce transitaron por este paso durante siglos. El trazado permitía a los comerciantes asegurar sus suministros y reducir la travesía de la península a una sola jornada a pie.
 
-![Forested slopes and mountain ridges around the Limina pass corridor](/images/atlas/passo-della-limina-inline-3.webp)
+![Forested slopes and mountain ridges around the Limina pass corridor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Limina_-_Paesaggio03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Bosques de hayas y castaños que bordean los antiguos caminos de herradura, corredores frecuentados por pastores, comerciantes y viajeros.*
 
 ### Eremitorios monásticos y rutas de trashumancia
@@ -49,7 +49,7 @@ A lo largo de la Edad Media y los primeros siglos de la Edad Moderna, los espeso
 
 Durante el siglo XIX, el puerto cobró protagonismo como encrucijada del sendero de montaña conocido como *Sentiero del Brigante*. Los habitantes rurales y los viajeros aprovechaban el complejo relieve de Limina para desplazarse entre las Serre y las cumbres interiores del Aspromonte. El itinerario funcionó de manera ininterrumpida como vía de trashumancia tradicional, por la que los pastores conducían rebaños de ovejas y vacas entre los pastos altos de verano y los prados litorales en invierno.
 
-![The plateau of Piani della Limina surrounded by Mediterranean highland forest](/images/atlas/passo-della-limina-inline-4.webp)
+![The plateau of Piani della Limina surrounded by Mediterranean highland forest](https://upload.wikimedia.org/wikipedia/commons/5/5c/Piani_della_Limina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: La meseta de los Piani della Limina, por debajo de la cual discurren hoy vías de comunicación mientras los senderos recorren las crestas.*
 
 ### Obras contemporáneas y espacio de conservación

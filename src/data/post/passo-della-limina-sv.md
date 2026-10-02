@@ -22,7 +22,7 @@ metadata:
 
 Passet intar en strategisk position på sadeln mellan kommunerna Cinquefrondi och Mammola i storstadsområdet Reggio Calabria. Omedelbart söder om passet reser sig Monte Limina till 888 meter, vars topp under klara morgnar bjuder på en vidsträckt panoramautsikt över Gioia Tauro-slätten ända till Etnas vulkantopp på Sicilien och Eoliska öarna. Medan dagens resenärer oftast färdas rakt under detta berg genom en tre kilometer lång vägtunnel, bevarar passet ovan jord tusenåriga spår av vandringar, antik handel och traditionell bergskultur.
 
-![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](/images/atlas/passo-della-limina-inline-1.webp)
+![Rugged ridge line of the Calabrian Apennines viewed from Passo della Limina](https://upload.wikimedia.org/wikipedia/commons/b/b9/Limina_-_Paesaggio01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Vy över den kuperade Apenninerkammen nära Passo della Limina, som visar den geomorfologiska övergångszonen mellan bergarterna i Serre och Aspromonte.*
 
 ### Etymologin bakom en kontinental gräns
@@ -31,7 +31,7 @@ Namnet Limina bär på djupa språkliga rötter knutna till södra Italiens hist
 
 En annan språklig tolkning leder till klassisk grekiska och ordet *limne*, vilket betecknar ett träsk, en sankmark eller en vattensamling. Historiska källor och lokala berättelser vittnar om att det före 1900-talets vägbyggen fanns en naturlig tjärn på passhöjden som samlade regnvatten. Under omfattande schaktarbeten för vägförbindelserna dikades denna grunda sjö ut och fylldes igen, vilket förändrade den ursprungliga hydrologin men bevarade minnet i ortnamnet.
 
-![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](/images/atlas/passo-della-limina-inline-2.webp)
+![The mountain saddle connecting the Ionian and Tyrrhenian watersheds](https://upload.wikimedia.org/wikipedia/commons/8/87/Limina_-_Paesaggio02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Bergssadeln på 822 meters höjd, som historiskt korsades av Sentiero dei Greci för att knyta samman staden Lokroi vid Joniska havet med kusten vid Tyrrenska havet.*
 
 ### Antikens grekiska handelsled
@@ -40,7 +40,7 @@ Långt innan asfalterade vägar nådde Kalabriens inland var Passo della Limina 
 
 Handelsleden, i historien känd som *Sentiero dei Greci* (Grekernas stig), följde floden Torbidos dalgång upp från Joniska havet, korsade bergskammen precis vid Passo della Limina och fortsatte nedför de västra sluttningarna mot Tyrrenska havet. Klövjedjur lastade med olivolja, spannmål, keramik och bronsföremål färdades här under århundraden. Rutten gjorde det möjligt att upprätthålla stadiga varuflöden och korta ned resan över den bergiga halvön till en enda dagsmarsch.
 
-![Forested slopes and mountain ridges around the Limina pass corridor](/images/atlas/passo-della-limina-inline-3.webp)
+![Forested slopes and mountain ridges around the Limina pass corridor](https://upload.wikimedia.org/wikipedia/commons/d/d6/Limina_-_Paesaggio03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Bok- och kastanjeskogar kantar de gamla ridstigarna, som fungerade som färdvägar för herdar, köpmän och resenärer.*
 
 ### Eremitkloster och transhumanceleder
@@ -49,7 +49,7 @@ Under medeltiden och tidigmodern tid erbjöd de täta bok- och kastanjeskogarna 
 
 Under 1800-talet fick passet stor betydelse som en knutpunkt längs bergsleden *Sentiero del Brigante*. Landsbygdsbor och bergsresenärer utnyttjade Liminas kuperade terräng för att ta sig fram mellan Serre och Aspromontes inre höjder. Leden fungerade oavbrutet som en traditionell transhumanceväg, där herdar drev får och nötkreatur mellan sommarbetena på höjderna och vinterbetena nere vid kusten.
 
-![The plateau of Piani della Limina surrounded by Mediterranean highland forest](/images/atlas/passo-della-limina-inline-4.webp)
+![The plateau of Piani della Limina surrounded by Mediterranean highland forest](https://upload.wikimedia.org/wikipedia/commons/5/5c/Piani_della_Limina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Högplatån Piani della Limina, under vilken moderna transportleder i dag passerar medan vandringsleder följer bergsryggarna.*
 
 ### Modern vägbyggnadskonst och naturvård

@@ -20,7 +20,7 @@ metadata:
 
 Erguendo-se sobre a atual cidade de Stolac, no sul da Bósnia e Herzegovina, a cidade muralhada de Vidoški ocupa uma imponente crista de calcário sobre o vale do rio Bregava. Com mais de 20.000 metros quadrados de área, este complexo militar constitui uma das maiores fortalezas dos Balcãs ocidentais. As suas estruturas preservam fases construtivas sucessivas ao longo de mais de cinco séculos, documentando os conflitos territoriais entre nobres medievais bósnios, o Império Otomano e a administração militar austro-húngara.
 
-![Mapa de relevo com a localização de Stolac no sul da Bósnia e Herzegovina](/images/atlas/walled-town-of-vido-ki-inline-1.webp)
+![Mapa de relevo com a localização de Stolac no sul da Bósnia e Herzegovina](https://upload.wikimedia.org/wikipedia/commons/5/50/Bosnia_and_Herzegovina_relief_location_map.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Mapa em relevo com o enquadramento estratégico de Stolac no sul da Bósnia e Herzegovina.*
 
 ## Geografia estratégica ao longo do Bregava
@@ -29,7 +29,7 @@ A cidadela assenta sobre a colina de Križevac, uma elevação que vigiava as ro
 
 No século quinze, o bastião assegurava o limite oriental das terras dos Kosača perante o avanço de chefes rivais. O nome do sítio provém do rio Vidoštica, designação medieval do Bregava, e da devoção popular a São Vito. Estabelecidas sobre rochedos íngremes, as muralhas controlavam as caravanas de sal marinho, tecidos e minérios entre a República de Ragusa (Dubrovnik) e as praças comerciais do interior continental.
 
-![Mapa de subdivisões do cantão de Herzegovina-Neretva](/images/atlas/walled-town-of-vido-ki-inline-2.webp)
+![Mapa de subdivisões do cantão de Herzegovina-Neretva](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bosnia_and_Herzegovina_subdivision_map_Herzegovina-Neretva_Canton.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Mapa do cantão de Herzegovina-Neretva onde a fortaleza domina o vale do rio Bregava.*
 
 ## Três níveis defensivos e organização estrutural
@@ -40,7 +40,7 @@ A vila baixa estende-se por 8.481 metros quadrados na encosta noroeste. A sua en
 
 A vila alta coroa o cimo rochoso do monte, ocupando 8.579 metros quadrados. Cinco torres vigiavam esta posição de comando. A torre oriental servia de paiol de pólvora e munições, resistindo a descargas de raios e a ataques prolongados. Os reservatórios de água pluvial foram essenciais para as guarnições: dez cisternas de cantaria espalhadas pela praça acumulavam as águas das chuvas para sustentar as tropas durante verões secos e bloqueios militares.
 
-![Túmulos medievais esculpidos stećci perto de Stolac](/images/atlas/walled-town-of-vido-ki-inline-3.webp)
+![Túmulos medievais esculpidos stećci perto de Stolac](https://upload.wikimedia.org/wikipedia/commons/4/40/Bosniangraves_bosniska_gravar_februari_2007_stecak_stecci3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Lápides funerárias medievais esculpidas (stećci) perto de Stolac, datadas do reino bósnio.*
 
 ## Expansão otomana e modernização austro-húngara

@@ -22,7 +22,7 @@ Elevandosi per oltre trecento metri sul bacino del fiume Drino nell'Albania meri
 
 Le indagini archeologiche dimostrano che una prima piazzaforte sorgeva su questa dorsale rocciosa sin dal XII secolo sotto il Despotato d'Epiro, nota nelle cronache bizantine con il toponimo di Argyrokastro, ossia il Castello d'Argento. Quando l'espansionismo ottomano investì i Balcani meridionali all'inizio del Quattrocento, la rocca si arrese a condizioni concordate nel 1419, trasformandosi nel capoluogo amministrativo provinciale designato con il nome di Ergiri.
 
-![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](/images/atlas/gjirokast-r-fortress-inline-1.webp)
+![The upper parade grounds and nineteenth-century clock tower erected under Ali Pasha of Tepelena](https://upload.wikimedia.org/wikipedia/commons/4/42/Gjirokast%C3%ABr%2C_st%C5%99ed_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: La piazza d'armi superiore con la caratteristica torre dell'orologio innalzata nel XIX secolo da Alì Pascià di Tepeleni.*
 
 ### Il grandioso rinnovamento di Alì Pascià
@@ -31,7 +31,7 @@ L'attuale monumentalità architettonica si deve principalmente ad Alì Pascià d
 
 Alì Pascià ampliò la cinta muraria per racchiudere la quasi totalità dell'altopiano, realizzando ampie casematte voltate capaci di alloggiare reparti di guarnigione e pesanti pezzi d'artiglieria. Al fine di scongiurare la storica vulnerabilità della rocca durante i lunghi assedi, i suoi costruttori eressero un acquedotto in pietra lungo dieci chilometri, che convogliava l'acqua sorgiva dal monte Sopot attraverso aspri burroni montani. Sullo sperone settentrionale innalzò una torre dell'orologio che domina ancora oggi l'intera vallata.
 
-![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](/images/atlas/gjirokast-r-fortress-inline-2.webp)
+![Massive vaulted stone casemates built into the limestone bedrock to withstand siege artillery](https://upload.wikimedia.org/wikipedia/commons/e/e0/Gjirokast%C3%ABr%2C_interi%C3%A9r_pevnosti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Monumentali casematte in pietra a botte ricavate nel calcare vivo per resistere ai bombardamenti d'assedio.*
 
 ### Sotterranei carcerari e repressione politica
@@ -40,7 +40,7 @@ Sotto i camminamenti di ronda a cielo aperto, il bastione nasconde un articolato
 
 La pagina più dolorosa della fortezza si aprì dopo il 1944 sotto la dittatura comunista di Enver Hoxha, nativo della stessa Argirocastro. Il regime convertì le gallerie sotterranee della cittadella in un famigerato carcere per prigionieri politici e intellettuali dissidenti. Sorvegliati dalla polizia segreta Sigurimi, i reclusi vissero condizioni di estremo isolamento in celle cieche scavate direttamente nella roccia montana. La prigione restò in funzione fino al 1968, anno in cui le pressioni internazionali e il mutamento degli orientamenti statali spinsero le autorità a trasformare il presidio in polo museale.
 
-![Interior armament gallery displaying artillery captured during World War II and the Cold War era](/images/atlas/gjirokast-r-fortress-inline-3.webp)
+![Interior armament gallery displaying artillery captured during World War II and the Cold War era](https://upload.wikimedia.org/wikipedia/commons/0/0c/Gjirokast%C3%ABr_Festung_-_Kasematten_1a_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: La galleria d'armi sotterranea che espone artiglierie catturate durante il secondo conflitto mondiale e la Guerra Fredda.*
 
 ### Il trofeo della Guerra Fredda e la tutela odierna

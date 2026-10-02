@@ -20,7 +20,7 @@ metadata:
 
 Arads fästning vakar över havsinloppet till Muharraq i norra Bahrain och utgör ett av de bäst bevarade exemplen på förmodern islamisk militärarkitektur i Persiska viken. Borgen uppfördes under 1400-talet på vad som ursprungligen var en isolerad barriärö, och behärskade de grunda kustfarlederna mellan öppna havet och Bahrains naturliga ankarplatser. Även om moderna markutfyllnader har förenat ön Arad med Muharraq, har fästningen bevarat sin ursprungliga geometriska form och sitt kustnära läge.
 
-![Yttre vallgrav och korallstensmurar vid Arads fästning](/images/atlas/arad-fort-inline-1.webp)
+![Yttre vallgrav och korallstensmurar vid Arads fästning](https://upload.wikimedia.org/wikipedia/commons/f/f8/Arad_Qalat_Arad_Exterior_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 1: Den yttre vallgraven och murarna av marin sten vid Arads fästning med utsikt mot Muharraq.*
 
 ## Kustförsvar på en tidigare barriärö
@@ -29,7 +29,7 @@ Innan 1900-talets anläggningsarbeten förändrade Bahrains kustlinje reste sig 
 
 För att förstärka detta naturliga skydd grävde byggmästarna en vallgrav runt den kvadratiska borganläggningen. I ett torrt kustklimat där havsvatten kunde skada grunden borrade man brunnar ned i sötvattenförande skikt för att fylla vallgraven. Detta vattenhinder försvårade stormningsförsök och säkrade samtidigt dricksvattentillgången för försvararna under sjöblockader.
 
-![Inre borggård och hörntorn vid Arads fästning](/images/atlas/arad-fort-inline-2.webp)
+![Inre borggård och hörntorn vid Arads fästning](https://upload.wikimedia.org/wikipedia/commons/d/d4/Arad_Fort%2C_Bahrain%2C_15th_century_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 2: Den centrala borggården och de cylindriska tornen uppförda enligt klassisk islamisk fästningsbyggnadskonst.*
 
 ## Korallstensmurverk och islamisk borgarkitektur
@@ -38,7 +38,7 @@ Planlösningen för Arads fästning följer den islamiska militärarkitekturens 
 
 Försvarsmurarna är utformade i två skilda stridsnivåer. De nedre skyttegångarna gjorde det möjligt för bågskyttar och musketörer att beskjuta anfallare genom lodräta gluggar, medan de övre bröstvärnen rymde artilleripjäser och utkiksposter. De runda hörntornen skjuter ut från murarna för att skapa korseld och eliminera döda vinklar längs fästningens fot. Fribärande kastgluggar med näbbliknande öppningar kröner bröstvärnet ovanför porten för att kasta projektiler och heta vätskor mot anfallare.
 
-![Skottgluggar på de övre murarna vid Arads fästning](/images/atlas/arad-fort-inline-3.webp)
+![Skottgluggar på de övre murarna vid Arads fästning](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arad_Fort%2C_Bahrain%2C_15th_century_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 3: Skottgluggar och försvarsöppningar anordnade för att övervaka sjöfarten.*
 
 ## Maktkamper i Persiska viken

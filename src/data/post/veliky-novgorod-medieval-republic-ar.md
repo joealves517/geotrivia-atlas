@@ -22,7 +22,7 @@ metadata:
 
 شكّل الموقع الجغرافي للمدينة الركيزة الأساسية لاستقلاليتها السياسية. فبفضل وقوعها عند ملتقى شبكات الأنهار التي ربطت شمال أوروبا بالقسطنطينية وحوض بحر قزوين، ازدهرت نوفغورود كأقصى شريك تجاري شرقاً للرابطة الهانزية. وقسم نهر فولخوف المدينة طبيعياً إلى شطرين متكاملين: جانب صوفيا الإداري والديني على الضفة الغربية، والجانب التجاري الحيوي على الضفة الشرقية. وقد عكست هذه الثنائية المكانية التوازن الدستوري الذي حكم المدينة لأكثر من ثلاثة قرون.
 
-![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](/images/atlas/veliky-novgorod-medieval-republic-inline-1.webp)
+![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](https://upload.wikimedia.org/wikipedia/commons/6/62/VNovogorod_Detinets_VN13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: أسوار وأبراج الطوب الأحمر لكرملين (ديتينيتس) فيليكي نوفغورود المرتفعة فوق الضفة الغربية لنهر فولخوف.*
 
 ### مجلس الفيتشي والحكم الجمهوري
@@ -31,7 +31,7 @@ metadata:
 
 وكانت الإدارة التنفيذية بيد "البوسادنيك" (Posadnik)، وهو عمدة مدني منتخب من بين العائلات النبيلة، يعاونه "التيسياتسكي" (Tysyatsky)، القائد العسكري الذي يمثل طوائف الحرفيين. وكان المواطنون يتعاقدون مع الأمير بوصفه قائداً عسكرياً مأجوراً وقاضياً أعلى. وقبل مباشرة مهامه، يوقع كل أمير عقداً ملزماً يُعرف باسم "الرياد" (Ryad)، يحظر عليه امتلاك أراضٍ داخل حدود الجمهورية، أو تعيين قضاة دون موافقة مسبقة، أو فرض ضرائب دون موافقة البوسادنيك. وإذا أخل الأمير ببنود العقد، احتفظ مجلس الفيتشي بالحق الدستوري في عزله.
 
-![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](/images/atlas/veliky-novgorod-medieval-republic-inline-2.webp)
+![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](https://upload.wikimedia.org/wikipedia/commons/f/f3/Center_of_Veliky_Novgorod_Peterhof_Gotenhof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: مخطط تاريخي لمدينة نوفغورود في العصور الوسطى يوضح التقسيم بين جانب صوفيا والجانب التجاري مقر وكالة بيترهوف الهانزية.*
 
 ### الوكالة الهانزية ومخطوطات لحاء الشجر
@@ -40,7 +40,7 @@ metadata:
 
 وتحت طبقات التربة التجارية، كشفت الحفريات عن واحد من أعظم الاكتشافات الأثرية في العصور الوسطى: مخطوطات لحاء شجر البتول (Beresty). وقد اكتشفها لأول مرة عام 1951 عالم الآثار أرتيمي أرتسيخوفسكي في التربة الطينية الرطبة الخالية من الأكسجين، والتي حفظت أكثر من ألف قطعة مكتوبة تعود إلى القرنين الحادي عشر والخامس عشر. ودُونت هذه النصوص بالسلافية الشرقية القديمة باستخدام أقلام عظمية أو معدنية، لتكشف أن معرفة الكتابة لم تكن مقصورة على الرهبان؛ إذ تبادل الحرفيون وصغار التجار والنساء رسائل دورية تتعلق بالديون، وتجارة الماشية، والشؤون العائلية والسفر.
 
-![The 14th-century Church of the Transfiguration on Ilyina Street](/images/atlas/veliky-novgorod-medieval-republic-inline-3.webp)
+![The 14th-century Church of the Transfiguration on Ilyina Street](https://upload.wikimedia.org/wikipedia/commons/7/70/Kaniisadda_isbeddelka_ee_Ilina_Street_%28Veliky_Novgorod%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: كنيسة تجلي المخلص في شارع إيلينا، المشهورة بجدارياتها الداخلية التي رسمها ثيوفانيس الإغريقي عام 1378.*
 
 ### العمارة الحجرية والإشعاع البيزنطي
@@ -49,7 +49,7 @@ metadata:
 
 وفي القرن الرابع عشر، أدى الرواج التجاري إلى بناء العديد من كنائس الأحياء بتمويل من جمعيات التجار التعاونية. وفي الجانب التجاري، تقف كنيسة التجلي بشارع إيلينا، المكتملة عام 1374، نموذجاً ساطعاً للمدرسة المعمارية المحلية بأسقفها الجملونية وزخارفها الطوبية. وفي عام 1378، زين المعلم البيزنطي ثيوفانيس الإغريقي قبتها وجدرانها بجداريات أحادية اللون لرهبان وأنبياء، تميزت بضربات فرشاة ديناميكية ألهمت أجيالاً من رسامي الأيقونات.
 
-![The historic Yuriev Monastery near the outflow of Lake Ilmen](/images/atlas/veliky-novgorod-medieval-republic-inline-4.webp)
+![The historic Yuriev Monastery near the outflow of Lake Ilmen](https://upload.wikimedia.org/wikipedia/commons/0/0a/Veliky_Novgorod._Yuriev_Monastery_P7211049_2350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: الكنائس الحجرية البيضاء لدير يورييف، الذي تأسس في القرن الحادي عشر لحراسة المدخل المائي الجنوبي للمدينة.*
 
 ### صمود الإرث العمراني والتاريخي

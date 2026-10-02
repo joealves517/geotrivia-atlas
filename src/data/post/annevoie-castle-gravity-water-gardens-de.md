@@ -22,7 +22,7 @@ Tief im Tal der Maas in der Wallonie, auf halber Strecke zwischen Namur und Dina
 
 Zu einer Zeit, als königliche Residenzen wie Versailles auf monumentale, störungsanfällige Maschinen wie die Maschine von Marly angewiesen waren, um Wasser aus der Seine bergauf zu pumpen, verzichtete Annevoie vollständig auf mechanische Pumpen. Seine Schöpfer machten die natürliche Hydrologie des Condroz-Plateaus zu einem sich selbst tragenden Antrieb. Jeder Springbrunnen, jedes Kanalbecken und jede gestufte Kaskade funktioniert über Energieerhaltung und die Strömungsmechanik kommunizierender Röhren und bildet einen geschlossenen hydrologischen Kreislauf, der die Dynastie seiner Erbauer überdauert hat.
 
-![Annevoie Castle reflected in the lower pool](/images/atlas/annevoie-castle-gravity-water-gardens-inline-1.webp)
+![Annevoie Castle reflected in the lower pool](https://upload.wikimedia.org/wikipedia/commons/c/c2/Le_ch%C3%A2teau_de_Rouillon_et_son_reflet_%2828049915762%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Die gestreckte Kalksteinfassade von Schloss Annevoie spiegelt sich im unteren Becken wider, in dem sich das abfließende Wasser sammelt, bevor es in den Rouillon mündet.*
 
 ### Das Laboratorium des Eisenhüttenmeisters
@@ -31,7 +31,7 @@ Der Ursprung der Wasseranlagen von Annevoie liegt in der Schwerindustrie und nic
 
 Als Jeans Enkel Charles-Alexis de Montpellier (1717–1807) das Anwesen Mitte des 18. Jahrhunderts übernahm, bekleidete er das angesehene Amt des Bürgermeisters der Eisenhüttenmeister der Grafschaft Namur. Charles-Alexis näherte sich den Ländereien um seinen Herrensitz nicht als untätiger Höfling, sondern als in Hydrodynamik und Metallurgie geschulter Ingenieur. Auf ausgedehnten Reisen durch Frankreich, Italien und England beobachtete er die enormen Investitionskosten und häufigen Ausfälle mechanischer Wasserpumpen in zeitgenössischen Lustgärten. Nach seiner Rückkehr auf den Familiensitz in Annevoie-Rouillon widmete er zwanzig Jahre der Umgestaltung des Tals des Rouillon in ein durch Schwerkraft gespeistes Wasserrefugium.
 
-![Classical sculptures above the waterways](/images/atlas/annevoie-castle-gravity-water-gardens-inline-2.webp)
+![Classical sculptures above the waterways](https://upload.wikimedia.org/wikipedia/commons/7/7f/Statues_dominant_les_fontaines_et_le_ch%C3%A2teau_de_Rouillons_%2828467282904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Mythologische Steinstatuen säumen die terrassierten Hänge, wo verborgene unterirdische Leitungen gestufte Kaskaden und Seitenkanäle speisen.*
 
 ### Die Physik des Hochebenen-Reservoirs
@@ -42,7 +42,7 @@ Indem der Grand Canal Tausende Kubikmeter Wasser in erhöhter Lage vorhält, erz
 
 Im Gegensatz zu herkömmlichen städtischen Wassersystemen oder modernen Umwälzpumpen wird das Wasser in Annevoie nie im Kreis gepumpt. Der gesamte Garten fungiert als kontinuierliche Durchflussanlage. Das Wasser strömt von den Höhenquellen durch den Grand Canal, fließt durch die unterirdischen Rohre zu Wasserspielen wie dem Buffet d'Eau und dem Neptunbecken, ergießt sich in die unteren Teiche und fließt schließlich in den Rouillon ab, der es in die Maas trägt. Weil das System ausschließlich auf Schwerkraft und atmosphärischem Druck basiert, funktioniert es ohne Treibstoff, Getriebe oder elektrische Energie.
 
-![The limestone manor from the canal](/images/atlas/annevoie-castle-gravity-water-gardens-inline-3.webp)
+![The limestone manor from the canal](https://upload.wikimedia.org/wikipedia/commons/a/aa/ChateaudAnnevoie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Blick auf das zentrale Schloss aus dem 18. Jahrhundert über den oberen Hauptwasserlauf, der die strikte Ausrichtung der hydraulischen Achsen verdeutlicht.*
 
 ### Eine Synthese dreier europäischer Gartenlandschaften
@@ -53,7 +53,7 @@ Die zentrale Blickachse folgt der französischen formalen Tradition im Stil Andr
 
 Um diese strengen Achsen herum geht der Park fließend in den damals aufkommenden englischen Landschaftsstil über. Verschlungene Pfade, unregelmäßig geformte Teiche, Trauerweiden und überraschende Waldlichtungen vermitteln den Eindruck unberührter Natur. Diese Kombination macht Annevoie einzigartig in der Geschichte der Gartenkunst: Auf zwanzig Hektar verbinden sich kartesische Geometrie, barockes Wasserschauspiel und romantische Natürlichkeit zu einem geschlossenen Gesamtkunstwerk.
 
-![Geometric waterways and natural spring basins](/images/atlas/annevoie-castle-gravity-water-gardens-inline-4.webp)
+![Geometric waterways and natural spring basins](https://upload.wikimedia.org/wikipedia/commons/3/31/Annevoie_-_Le_ch%C3%A2teau_et_son_plan_d%27eau_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Der Übergang von formalen Kanalrändern zu naturnahen Quellbecken veranschaulicht die feine Abstimmung zwischen baulicher Präzision und organischer Parklandschaft.*
 
 ### Zweieinhalb Jahrhunderte hydraulische Kontinuität

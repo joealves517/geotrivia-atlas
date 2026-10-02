@@ -22,7 +22,7 @@ Ao longo do litoral batido pelos ventos da Costa de Opala, no norte de França, 
 
 Encomendada em 1680 pelo rei Luís XIV, a fortificação foi concebida para salvaguardar um ancoradouro naval estratégico no canal setentrional. Durante a preia-mar, as vagas isolam a cidadela de cantaria, transformando-a numa ilha batida pelas águas; na baixa-mar, o recuo do oceano revela um plinto rochoso firme, assente no leito marinho e nos bancos de areia. Enquanto os baluartes costeiros do norte da Europa foram desaparecendo sob a ação erosiva das ondas ou com a modernização dos portos, o Fort Mahon sobreviveu graças a uma geometria hidrodinâmica inovadora, à robustez dos seus materiais e a uma admirável mobilização cívica no século XX.
 
-![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](/images/atlas/fort-mahon-vauban-sea-fortress-inline-1.webp)
+![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](https://upload.wikimedia.org/wikipedia/commons/e/e0/Ambleteuse.-_Fort_Vauban_en2019_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: O parapeito semicircular em cantaria e a torre central de artilharia do Fort Mahon assentes no leito rochoso descoberto durante a baixa-mar.*
 
 ### A geografia regional do estuário do Slack
@@ -31,7 +31,7 @@ A decisão de fortificar Ambleteuse resultou das dinâmicas territoriais do séc
 
 Vauban compreendeu com rapidez que as obras marítimas exigiam traçados capazes de suportar o impacto ininterrupto das ondas. As muralhas tradicionais de traçado reto ou poligonal sofriam danos profundos quando atingidas frontalmente pelas tempestades oceânicas. Em Ambleteuse, Vauban abandonou as arestas vivas em favor de um perfil curvo contínuo. As obras iniciaram-se cerca de 1680 e ficaram concluídas antes de 1690, implantando um reduto artilheiro sobre um cabeço rochoso denominado Roc Noir, apto a vigiar a barra e a desviar as vagas em redor da sua muralha em ferradura.
 
-![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](/images/atlas/fort-mahon-vauban-sea-fortress-inline-2.webp)
+![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](https://upload.wikimedia.org/wikipedia/commons/5/57/Fort_Mahon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Vista panorâmica do estuário do Slack, evidenciando o isolamento do forte como o único bastião marítimo de Vauban sobrevivente no litoral norte.*
 
 ### Anatomia arquitetónica de um baluarte de maré
@@ -42,7 +42,7 @@ Para resistir à agressão do sal marinho, os mestres canteiros ergueram o param
 
 Os registos militares do século XVII identificavam a posição simplesmente como Tour d’Ambleteuse. A designação Fort Mahon só começou a surgir nos arquivos governamentais por volta de 1840, muito provavelmente devido a um lapso de transcrição cometido por um escrivão ministerial em alusão a Port Mahón, nas Baleares. Não obstante o equívoco documental, as comunidades locais e os cartógrafos mantiveram o hábito de lhe chamar Fort Vauban ou Forte Velho.
 
-![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-3.webp)
+![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/c/ca/Dunes_de_Fort_Mahon_%28Eden62%29_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Cordões dunares contíguos à reserva natural do Slack, onde as areias e as correntes de maré emolduram a fortificação do século XVII.*
 
 ### Adaptações estruturais ao longo das épocas
@@ -51,7 +51,7 @@ A ocupação do forte conheceu vários ciclos na história francesa. No início 
 
 A meio do século XX, forças costeiras ocuparam a estrutura e instalaram uma laje de betão armado no interior da casamata anular, repartindo o espaço abobadado em dois pisos. Embora a torre central tenha superado as invernias marítimas, deflagrações costeiras causaram danos em panos da muralha marítima na fase terminal do conflito em 1945.
 
-![High-resolution perspective of the restored stone masonry of Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-4.webp)
+![High-resolution perspective of the restored stone masonry of Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/7/78/Fort_Mahon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Pormenor dos silhares recuperados e das canhoneiras, reabilitados por equipas voluntárias após os danos materiais ocorridos em 1945.*
 
 ### Restauro associativo e preservação do litoral

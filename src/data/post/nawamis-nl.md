@@ -22,7 +22,7 @@ Over de dorre hoogvlakten van het zuidelijke Sinaï-schiereiland verheffen zich 
 
 De naam namus stamt af van het Arabische woord voor mug. Bedoeïenenlegenden schreven deze bouwwerken ooit toe aan de Israëlieten van de Exodus en vertelden dat reizigers stenen schuilplaatsen optrokken om zich te beschermen tegen zwermen insecten in de woestijn. Archeologische opgravingen onder leiding van Beno Rothenberg aan het einde van de twintigste eeuw onthulden hun feitelijke functie als gemeenschappelijke grafkamers met menselijke skeletresten, halskettingen van zeeschelpen, stenen kralen en vuurstenen pijlpunten.
 
-![Prehistorisch steengraf van Nawamis in de Sinaï-woestijn](/images/atlas/nawamis-inline-1.webp)
+![Prehistorisch steengraf van Nawamis in de Sinaï-woestijn](https://upload.wikimedia.org/wikipedia/commons/0/05/Nawamis.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Cirkelvormige stapelsteenarchitectuur van een namus-graf in de Sinaï-woestijn.*
 
 ## Architectuur van de cirkelvormige graven
@@ -31,7 +31,7 @@ Nawamis vertonen een uniforme bouwtrant. De bouwers verzamelden onbewerkte zands
 
 Elke intacte namus beschikt over een toegang gericht op het westen of zuidwesten. De lage vierkante deuropeningen zijn zelden hoger dan één meter, waardoor bezoekers naar binnen moeten kruipen. Onderzoekers merken op dat deze richtingsoriëntatie samenhangt met de ondergaande zon, een astronomische uitlijning die werd gedeeld door verschillende prehistorische beschavingen in Noord-Afrika en de Levant. De westelijke gerichtheid verbond de neergang van hemellichamen met de overgang van de overledenen naar de wereld der voorouders.
 
-![Megalithische bijenkorfgraven in Bat, Al-Khutm en Al-Ayn](/images/atlas/nawamis-inline-2.webp)
+![Megalithische bijenkorfgraven in Bat, Al-Khutm en Al-Ayn](https://upload.wikimedia.org/wikipedia/commons/c/cd/Bat%2C_al-khutm_and_al-Ayn.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Bijenkorfgrafcomplexen in Oman die regionale bronstijdtradities tonen.*
 
 ## Datering van de chalcolithische kamers
@@ -40,7 +40,7 @@ Opgravingen in het best bewaarde complex bij Hdhabat Chajaj, gelegen langs de ro
 
 Een centraal twistpunt onder archeologen betreft het chronologische verband tussen de graven en de daarin aangetroffen skeletten. Verschillende onderzoekers betogen dat de zandstenen constructies eeuwen na de vroegste begravingen kunnen zijn gebouwd, functionerend als secundaire ossuaria waar trekkende clans voorouderlijke beenderen opnieuw ter aarde bestelden. Luminescentiedatering van de zandsteenblokken wijst op doorlopend onderhoud en bouwkundige toevoegingen tot in de vroege bronstijd, wat aantoont dat deze afgelegen woestijnlocaties millennia lang ceremoniële rustplaatsen bleven.
 
-![Torentombe van Jebel Ruwaik in Jemen](/images/atlas/nawamis-inline-3.webp)
+![Torentombe van Jebel Ruwaik in Jemen](https://upload.wikimedia.org/wikipedia/commons/d/d2/Tombe_tour_de_Jebel_Ruwaik_-_Y%C3%A9men.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Torentombe van Jebel Ruwaik in Jemen die getuigt van Zuid-Arabische grafarchitectuur.*
 
 ## Grafnetwerken over de Rode Zee

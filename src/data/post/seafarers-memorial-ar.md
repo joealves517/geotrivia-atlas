@@ -22,7 +22,7 @@ metadata:
 
 تعد الملاحة التجارية من أكثر المهن تطلباً ومشقة في حركة التجارة المعاصرة. وبينما تخلد النصب العسكرية عادة بطولات الحروب وضحايا المعارك، يجسد هذا النصب تضحية مدنية بحتة. تنقل السفن التجارية أكثر من ثمانين بالمائة من حجم التجارة الدولية، مبحرة عبر المحيطات المفتوحة والأعاصير الموسمية والمضائق الملاحية الخطرة. وبالنسبة للضباط الشباب الذين يتلقون تدريبهم في جولديا، يبدأ الواجب البحري بانضباط عسكري صارم على اليابسة ويمتد إلى سنوات طويلة من الأسفار الدولية بعيداً عن الوطن.
 
-![Parade Ground at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-1.webp)
+![Parade Ground at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/5/58/ParadeGround_BMA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: ساحة العروض الرسمية في الأكاديمية البحرية البنغلاديشية المطلة على مصب نهر كارنافولي في جولديا، تشاتوغرام.*
 
 ## البوابة البحرية لنهر كارنافولي
@@ -31,7 +31,7 @@ metadata:
 
 تخضع حياة الطلاب في الأكاديمية لتقاليد الانضباط الصارم، موزعين بين تخصصي العلوم الملاحية والهندسة البحرية. وتجمع برامج التأهيل بين الدروس النظرية في الفصول والتدريبات التقنية في الورش واختبارات السباحة ورحلات التدريب في أعالي البحار. وعلى مدى ستة عقود، التحق آلاف الخريجين بالأساطيل التجارية التابعة لشركات وطنية ودولية. ومع توليهم نوبات الحراسة والقيادة على متن سفن الحاويات وناقلات البضائع والمواد الكيميائية، واجه الضباط البنغلاديشيون المخاطر الطبيعية المتأصلة في الرحلات المحيطية.
 
-![Seafarers Memorial BMA](/images/atlas/seafarers-memorial-inline-2.webp)
+![Seafarers Memorial BMA](https://upload.wikimedia.org/wikipedia/commons/0/04/Seafarers_Memorial_BMA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: الهيكل الحجري الرئيس للنصب التذكاري للبحارة، الذي دشنه الأمين العام للمنظمة البحرية الدولية عام 2011.*
 
 ## التدشين برعاية المنظمة البحرية الدولية
@@ -40,7 +40,7 @@ metadata:
 
 يتسم التصميم المعماري للنصب بالبساطة والابتعاد عن الزخارف المتكلفة. وقد شُيد من حجارة مصقولة ونقوش واضحة ليشكل نقطة التقاء مهيبة في الساحة المركزية للأكاديمية. ويتجمع الطلاب حول باحته في المناسبات الأكاديمية وحفلات التخرج وطوابير المساء. ويضمن هذا الموقع بقاء ذكرى الراحلين جزءاً حياً من البيئة التدريبية اليومية، بدلاً من حصرها في مناسبة احتفالية تمر مرة واحدة كل عام.
 
-![Cadets during graduation parade at Bangladesh Marine Academy](/images/atlas/seafarers-memorial-inline-3.webp)
+![Cadets during graduation parade at Bangladesh Marine Academy](https://upload.wikimedia.org/wikipedia/commons/3/30/Bangladesh_Marine_Academy_Officer_Cadets_Graduation_%26_Passing_Out_Parade.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: طلاب الأكاديمية البحرية مصطفون في تشكيلات نظامية خلال طابور التخرج السنوي.*
 
 ## الحياة اليومية والذكرى الدائمة

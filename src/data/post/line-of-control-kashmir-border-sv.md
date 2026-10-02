@@ -22,7 +22,7 @@ Kontrollinjen sträcker sig över mer än 740 kilometer genom den bergiga terrä
 
 Under hela sin sträckning passerar linjen extrema höjdskillnader. Den tar sin början på de södra slätterna vid floden Chenab nära Akhnoor, klättrar genom tallskogarna i Pir Panjal-massivet och når de glaciärtäckta topparna i Stora Himalaya runt Kargil, Dras och Saltororyggen. På båda sidor bemannar hundratusentals soldater befästa utposter, betongbunkrar och artilleriobservationspunkter på höjder över 4 000 meter över havet.
 
-![Kartografisk översikt som visar Kontrollinjens dragning genom Himalayas bergstrakter i Kashmir](/images/atlas/line-of-control-kashmir-border-inline-1.webp)
+![Kartografisk översikt som visar Kontrollinjens dragning genom Himalayas bergstrakter i Kashmir](https://upload.wikimedia.org/wikipedia/commons/0/03/Line_of_Control_LoC.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 1: Kartografisk översikt som visar Kontrollinjens dragning genom Himalayas bergstrakter i Kashmir.*
 
 ## Den militära demarkationslinjens ursprung
@@ -33,7 +33,7 @@ Fjorton månader av konventionella strider följde genom dalar, bergspass och sn
 
 När Karachi-avtalet undertecknades den 27 juli 1949 etablerades den officiella stilleståndslinjen. FN-observatörer inom UNMOGIP placerades ut längs linjen för att övervaka efterlevnaden och utreda incidenter. Linjen klöv det historiska furstendömet: Indien behöll Kashmirdalen, Jammu och Ladakh, medan Pakistan administrerade Azad Kashmir och de norra territorierna, senare benämnda Gilgit-Baltistan.
 
-![Befäst bergskam och gränsstängsel sedda från de västra sluttningarna i Azad Kashmir](/images/atlas/line-of-control-kashmir-border-inline-2.webp)
+![Befäst bergskam och gränsstängsel sedda från de västra sluttningarna i Azad Kashmir](https://upload.wikimedia.org/wikipedia/commons/0/04/Pakistan_and_India_Border_from_Azad_Kashmir_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 2: Befäst bergskam och gränsstängsel sedda från de västra sluttningarna i Azad Kashmir.*
 
 ## Förvandlingen genom Simlaavtalet 1972
@@ -44,7 +44,7 @@ Efter den pakistanska kapitulationen möttes Indiens premiärminister Indira Gan
 
 Mellan augusti och december 1972 genomförde militära lantmätare från båda arméerna gemensamma fältmätningar. Arbetet resulterade i 19 detaljerade kartblad som fastställde Kontrollinjens koordinater från floden Chenab i söder till en avlägsen punkt i Karakorams höga bergsmassiv.
 
-![Historiskt topografiskt kartblad från 1958 över Dras-sektorn längs den ursprungliga stilleståndslinjen](/images/atlas/line-of-control-kashmir-border-inline-3.webp)
+![Historiskt topografiskt kartblad från 1958 över Dras-sektorn längs den ursprungliga stilleståndslinjen](https://upload.wikimedia.org/wikipedia/commons/b/ba/Txu-pclmaps-oclc-181831961-dras-43-n-1958.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 3: Historiskt topografiskt kartblad från 1958 över Dras-sektorn längs den ursprungliga stilleståndslinjen.*
 
 ## Den norra slutpunkten och glaciärkriget
@@ -63,7 +63,7 @@ För att stoppa de obehöriga gränspassagerna inledde indiska armén 2003 bygga
 
 Barriären är utrustad med elektronisk övervakning: seismiska markdetektorer, rörelsesensorer, värmekameror och mörkerseende radar. Patruller övervakar stängslet dygnet runt med stöd av kraftiga strålkastare som syns från civila flygplan. Trots att tunga snölaster och vinterlaviner regelbundet förstör delar av stängslet, reparerar ingenjörsenheter de skadade sektionerna varje vår.
 
-![Bergdalar och terrasserade odlingar intill den omstridda gränszonen](/images/atlas/line-of-control-kashmir-border-inline-4.webp)
+![Bergdalar och terrasserade odlingar intill den omstridda gränszonen](https://upload.wikimedia.org/wikipedia/commons/7/73/Azad_Kashmire_of_Pakistan_Side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figur 4: Bergdalar och terrasserade odlingar intill den omstridda gränszonen.*
 
 ## Flodhydrologi och gränsdefinitioner

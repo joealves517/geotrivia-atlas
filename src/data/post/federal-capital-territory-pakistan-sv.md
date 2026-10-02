@@ -24,7 +24,7 @@ Den 23 juli 1948 utfärdade generalguvernör Muhammad Ali Jinnah förordningen o
 
 Denna territoriella omorganisation väckte starkt motstånd bland provinsledarna i hela Sindh. Lokala politiska företrädare framhöll att den ensidiga avknoppningen av Karachi berövade provinsen dess historiska ekonomiska centrum och administrativa hjärta, inklusive den nybyggda parlamentsbyggnaden för Sindh Assembly vid Court Road. Trots kraftfulla protester hävdade centraladministrationen att en neutral federal enklav var oumbärlig för nationell styrning och suverän stabilitet.
 
-![Karachi Cantonment Railway Station, originally Frere Street Station](/images/atlas/federal-capital-territory-pakistan-inline-1.webp)
+![Karachi Cantonment Railway Station, originally Frere Street Station](https://upload.wikimedia.org/wikipedia/commons/1/13/PK_Karachi_asv2020-02_img54_Cantonment_Railway_Station.jpg)
 *Figur 1: Järnvägsstationen Karachi Cantonment, färdigställd 1898 vid Doctor Daud Pota Road, utgjorde den huvudsakliga landtransitknutpunkten som knöt det federala huvudstadsterritoriet till Indusbäckenet. Foto: A.Savin, Wikimedia Commons (Free Art License).*
 
 Geografiskt omfattade det federala huvudstadsterritoriet karga kustslätter som i norr och väster omgärdades av kullar, i öster av Indusdeltat och i söder av Arabiska havet. Territoriet gränsade till provinsen Sindh i nordost och furstestaten Las Bela i nordväst, samtidigt som de säsongsberoende floderna Layari och Malir skar genom det urbana landskapet.
@@ -33,7 +33,7 @@ Mellan 1947 och 1951 genomgick enklaven en genomgripande demografisk förvandlin
 
 Ekonomiskt fungerade territoriet som den oumbärliga maritima livlinan för Västpakistan. Via Karachis hamn hanterade enklaven mer än nittio procent av all utrikes sjöfartshandel, samtidigt som den inrymde den nygrundade State Bank of Pakistan och Karachibörsen. Flygförbindelserna utgick från den internationella flygplatsen Quaid-e-Azam samt militärbasen Mauripur, medan järnvägståg rullade norrut från stationerna Karachi Cantonment och Karachi City.
 
-![Port of Karachi deep-water harbour on the Arabian Sea](/images/atlas/federal-capital-territory-pakistan-inline-2.webp)
+![Port of Karachi deep-water harbour on the Arabian Sea](https://upload.wikimedia.org/wikipedia/commons/a/af/Karachi_Seaport.jpg)
 *Figur 2: Karachis djuphamn vid Arabiska havet utgjorde Västpakistans enda djupvattenkorridor för maritim handel under hela den federala enklavens existens. Foto: King Eliot, Wikimedia Commons (CC BY-SA 4.0).*
 
 Den strategiska sårbarheten hos en kustbelägen huvudstad blev en central angelägenhet efter militärkuppen 1958 ledd av fältmarskalk Ayub Khan. Försvarsstrateger påpekade att Karachi var exponerat för fientliga flottbombardemang och amfibieanfall, samtidigt som den politiska ledningen kände sig isolerad från försvarsmaktens högkvarter i Rawalpindi. År 1959 fastslog en officiell lokaliseringskommission att den nationella huvudstaden borde flyttas inåt landet mot Potoharplatån.

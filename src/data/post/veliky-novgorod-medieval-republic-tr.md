@@ -22,7 +22,7 @@ Volkhov Nehri'nin geniş sularının İlmen Gölü'nden kuzeye, Ladoga Gölü'ne
 
 Şehrin coğrafi konumu, siyasi bağımsızlığının en önemli dayanağıydı. Kuzey Avrupa'yı Bizans ve Hazar havzasına bağlayan su yollarının kavşağında yer alan Novgorod, Hansa Birliği'nin en doğudaki ticaret ortağı olarak zenginleşti. Volkhov Nehri kenti doğal olarak iki tamamlayıcı yakaya ayırıyordu: Batı yakasındaki idari ve dini Sofya Tarafı ile doğu yakasındaki hareketli Ticaret Tarafı. Bu mekânsal ayrım, kenti üç asrı aşkın bir süre yöneten anayasal dengenin bir yansımasıydı.
 
-![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](/images/atlas/veliky-novgorod-medieval-republic-inline-1.webp)
+![The red brick walls and towers of the Novgorod Detinets viewed across the Volkhov River](https://upload.wikimedia.org/wikipedia/commons/6/62/VNovogorod_Detinets_VN13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Volkhov Nehri'nin batı kıyısında yükselen Veliky Novgorod surları ve kızıl tuğlalı Detinets Kalesi.*
 
 ### Veçe ve cumhuriyetçi yönetim biçimi
@@ -31,7 +31,7 @@ Orta Çağ Novgorod'unun siyasi düzeni, çağdaşı Avrupa feodalizminden kökl
 
 Yürütme yetkisi, kentin soylu aileleri arasından seçilen posadnik adlı sivil belediye başkanı ile loncaları temsil eden askeri lider tysyatski'nin elindeydi. Kent halkı prensi öncelikle sözleşmeli bir askeri komutan ve yüksek yargıç olarak tutardı. Göreve başlamadan önce her prens, ryad adı verilen bağlayıcı bir sözleşme imzalayarak cumhuriyet topraklarında mülk edinmeyeceğine, keyfi yargıç atamayacağına ve posadnikin onayı olmadan vergi toplamayacağına söz verirdi. Prens bu kuralları ihlal ettiğinde, Veçe onu görevden alma anayasal hakkını saklı tutardı.
 
-![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](/images/atlas/veliky-novgorod-medieval-republic-inline-2.webp)
+![Historical map showing the Commercial Side and the Hanseatic Peterhof trading post](https://upload.wikimedia.org/wikipedia/commons/f/f3/Center_of_Veliky_Novgorod_Peterhof_Gotenhof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Orta Çağ Novgorod'unun Sofya Tarafı ve Hansa Birliği'nin Peterhof ticaret merkezi olan Ticaret Tarafı'nı gösteren tarihi şehir planı.*
 
 ### Hansa ticaret merkezi ve huş ağacı kabuğu yazmaları
@@ -40,7 +40,7 @@ Novgorod'un ekonomik zenginliği, Baltık deniz ticaret ağına entegre olmasın
 
 Bu ticari katmanların altında Orta Çağ arkeolojisinin en çarpıcı buluntularından biri yatıyordu: Huş ağacı kabuğu yazmaları (beresty). İlk kez 1951 yılında arkeolog Artemiy Artsikhovsky tarafından gün ışığına çıkarılan ve kentin oksijensiz killi topraklarında korunan, 11 ile 15. yüzyıllar arasına ait binden fazla yazılı huş kabuğu bulundu. Eski Doğu Slavcası ile kemik veya metal kalemlerle kazınan bu mektuplar, borç senetleri, hesap defterleri ve çocuk ders notları; okuryazarlığın manastırlarla sınırlı olmadığını kanıtladı. Zanaatkârlar, küçük tüccarlar ve bağımsız kadınlar borçlar, hayvan satışları ve aile meseleleri hakkında düzenli olarak yazışıyordu.
 
-![The 14th-century Church of the Transfiguration on Ilyina Street](/images/atlas/veliky-novgorod-medieval-republic-inline-3.webp)
+![The 14th-century Church of the Transfiguration on Ilyina Street](https://upload.wikimedia.org/wikipedia/commons/7/70/Kaniisadda_isbeddelka_ee_Ilina_Street_%28Veliky_Novgorod%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: İlyina Caddesi'ndeki Başkalaşım Kilisesi; 1378 yılında Bizanslı usta Theophanes the Greek tarafından yapılan iç duvar freskleriyle ünlüdür.*
 
 ### Anıtsal taş mimari ve Bizans sanatı
@@ -49,7 +49,7 @@ Novgorod'un mimari dokusu, zenginliğini ve kentsel bağımsızlığını yansı
 
 14. yüzyılda ticaretin gelişmesiyle tüccar birlikleri (skladchiny) mahalle kiliselerinin yapımını finanse etti. Ticaret Tarafı'nda 1374 yılında tamamlanan İlyina Caddesi'ndeki Başkalaşım Kilisesi, dik çatıları ve tuğla bezemeleriyle yerel mimarlık ekolünün en yetkin örneği sayılır. 1378 yılında Bizanslı usta Theophanes the Greek kilisenin kubbe ve duvarlarını peygamber ve münzevi tasvirleriyle donattı; dinamik fırça darbeleriyle yarattığı tek renkli freskler kuşaklar boyunca ikon sanatçılarına ilham verdi.
 
-![The historic Yuriev Monastery near the outflow of Lake Ilmen](/images/atlas/veliky-novgorod-medieval-republic-inline-4.webp)
+![The historic Yuriev Monastery near the outflow of Lake Ilmen](https://upload.wikimedia.org/wikipedia/commons/0/0a/Veliky_Novgorod._Yuriev_Monastery_P7211049_2350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Şehrin güneyindeki nehir girişini korumak üzere 11. yüzyılda kurulan Yuriev Manastırı'nın beyaz taş kiliseleri.*
 
 ### Tarihi mimari dokunun korunması

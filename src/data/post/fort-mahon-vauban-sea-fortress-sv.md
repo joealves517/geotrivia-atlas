@@ -22,7 +22,7 @@ Längs den vindpinade kusten vid Côte d’Opale i norra Frankrike, där Engelsk
 
 Fästningen uppfördes 1680 på order av kung Ludvig XIV för att skydda en strategisk ankringsplats i norra kanalen. Vid högvatten förvandlar vågorna stenborgen till en fristående ö omgiven av hav; vid lågvatten blottar det vikande vattnet en massiv stengrund vilande på klippbotten och sandbankar. Medan kustbastioner i norra Europa under seklernas lopp dukade under för vågornas nötning eller hamnutbyggnader, har Fort Mahon överlevt tack vare en genomtänkt hydrodynamisk form, tålig natursten och lokala medborgares engagemang under 1900-talet.
 
-![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](/images/atlas/fort-mahon-vauban-sea-fortress-inline-1.webp)
+![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](https://upload.wikimedia.org/wikipedia/commons/e/e0/Ambleteuse.-_Fort_Vauban_en2019_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Fort Mahons hästskoformade granitbröstvärn och centrala kanontorn på den klippiga stranden under lågvatten.*
 
 ### Slacks mynningsviks regionala geografi
@@ -31,7 +31,7 @@ Beslutet att befästa Ambleteuse växte fram ur 1600-talets territoriella spänn
 
 Vauban insåg tidigt att maritima försvarsverk måste tåla öppet vattens outtröttliga rörelseenergi. Traditionella rätvinkliga eller mångkantiga stenmurar drabbades av svåra skador när atlantdyningarna slog rakt mot dem. I Ambleteuse valde Vauban därför bort skarpa hörn till förmån för en anpassad, rundad profil. Byggnadsarbetena inleddes omkring 1680 och avslutades före 1690. På ett klipprev kallat Roc Noir uppfördes en artilleriredutt som kunde överblicka sundet samtidigt som stormvågorna leddes mjukt runt den böjda muren.
 
-![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](/images/atlas/fort-mahon-vauban-sea-fortress-inline-2.webp)
+![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](https://upload.wikimedia.org/wikipedia/commons/5/57/Fort_Mahon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Panoramavy över tidvattenslätterna vid Slack, som visar fortets marina isolering som Vaubans enda bevarade havsbastion längs nordkusten.*
 
 ### Det tidvattensomslutna fortets anatomi
@@ -42,7 +42,7 @@ För att motstå det frätande havsvattnet klädde stenhuggarna yttermuren med s
 
 1600-talets militära inventarier benämnde anläggningen helt kort Tour d’Ambleteuse. Namnet Fort Mahon dök upp i förvaltningshandlingar först kring 1840, troligen till följd av ett skrivfel av en tjänsteman som avsåg Port Mahón på Balearerna. Trots denna namnförväxling fortsatte traktens invånare och kartografer att kalla verket Fort Vauban eller Gamla fortet.
 
-![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-3.webp)
+![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/c/ca/Dunes_de_Fort_Mahon_%28Eden62%29_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Kustdyner vid Slacks naturreservat, där sand och tidvattenströmmar ramar in 1600-talsfästningen.*
 
 ### Byggnadshistoriska förändringar genom århundradena
@@ -51,7 +51,7 @@ Fortets användning anpassades efter skiftande skeden i Frankrikes historia. I b
 
 Vid mitten av 1900-talet tog kuststyrkor fortet i anspråk och göt ett bjälklag i armerad betong inuti den cirkulära kasematten, vilket delade det välvda rummet i två våningsplan. Medan det centrala tornet klarade havets påfrestningar skadades delar av den havsvända yttervallen av detonationer i vattnet mot slutet av konflikten 1945.
 
-![High-resolution perspective of the restored stone masonry of Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-4.webp)
+![High-resolution perspective of the restored stone masonry of Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/7/78/Fort_Mahon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Detalj av det restaurerade murverket och skottgluggarna, återuppbyggda av frivilliga efter skadorna 1945.*
 
 ### Ideellt bevarande och nutida kustskydd

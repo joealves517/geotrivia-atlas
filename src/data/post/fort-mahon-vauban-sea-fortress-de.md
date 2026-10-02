@@ -22,7 +22,7 @@ Entlang der windgepeitschten Küstenlinie der Côte d’Opale in Nordfrankreich,
 
 Die Befestigung wurde 1680 von König Ludwig XIV. in Auftrag gegeben, um einen strategischen maritimen Ankerplatz am nördlichen Kanal zu schützen. Bei Flut trennen heranrollende Wellen die gemauerte Zitadelle vollständig vom Festland und verwandeln sie in eine Insel; bei Ebbe gibt das zurückweichende Wasser einen massiven Steinsockel frei, der auf felsigem Grund und Sandbänken ruht. Während Küstenbastionen in ganz Nordeuropa im Laufe der Jahrhunderte durch Wellenschlag, Verlandung oder Modernisierungen zerstört wurden, überdauerte Fort Mahon durch eine seltene Kombination aus hydrodynamischer Geometrie, widerstandsfähigem Mauerwerk und bürgerschaftlichem Engagement im zwanzigsten Jahrhundert.
 
-![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](/images/atlas/fort-mahon-vauban-sea-fortress-inline-1.webp)
+![The horseshoe ramparts of Fort Vauban in Ambleteuse at low tide](https://upload.wikimedia.org/wikipedia/commons/e/e0/Ambleteuse.-_Fort_Vauban_en2019_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Die hufeisenförmige Granitwehrmauer und der zentrale Geschützturm von Fort Mahon bei Ebbe auf dem felsigen Küstenstreifen.*
 
 ### Die regionale Geografie der Slack-Mündung
@@ -31,7 +31,7 @@ Die Entscheidung, Ambleteuse zu befestigen, entstand aus den geopolitischen Span
 
 Vauban erkannte früh, dass Meeresbauwerke so konstruiert sein mussten, dass sie der unaufhörlichen Wucht des offenen Wassers standhalten konnten. Herkömmliche rechtwinklige oder vieleckige Steinmauern erlitten schwere Schäden, wenn atlantische Brecher frontal auf sie trafen. In Ambleteuse verzichtete Vauban auf scharfe Kanten zugunsten eines angepassten, geschwungenen Profils. Die Bauarbeiten begannen um 1680 und wurden vor 1690 abgeschlossen. Dabei entstand eine Artillerieredoute auf einem Felsvorsprung, dem sogenannten Roc Noir, die die Bucht überwachen und gleichzeitig Brandungswellen um die gebogene Mauer herum ablenken konnte.
 
-![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](/images/atlas/fort-mahon-vauban-sea-fortress-inline-2.webp)
+![Fort Mahon viewed across the sandy beaches and tidal flats of the Opal Coast](https://upload.wikimedia.org/wikipedia/commons/5/57/Fort_Mahon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: Panorama über das Wattgebiet der Slack-Mündung, das die maritime Isolierung des Forts als einziges erhaltenes Vauban-Seewerk an der nordfranzösischen Küste verdeutlicht.*
 
 ### Die Architektur einer Gezeitenfestung
@@ -42,7 +42,7 @@ Um dem aggressiven Salzwasser zu trotzen, fügten Steinmetze die äußere Ringma
 
 In offiziellen militärischen Verzeichnissen des siebzehnten Jahrhunderts wurde das Bauwerk schlicht als Tour d’Ambleteuse geführt. Der Name Fort Mahon tauchte erst um 1840 in Verwaltungsakten auf, vermutlich durch einen Schreibfehler eines Beamten, der sich auf Port Mahon auf den Balearen bezog. Ungeachtet dieser behördlichen Verwechslung bezeichneten Anwohner und regionale Kartografen die Anlage weiterhin als Fort Vauban oder Altes Fort.
 
-![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-3.webp)
+![Coastal sand dunes and protected estuary landscape surrounding Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/c/ca/Dunes_de_Fort_Mahon_%28Eden62%29_%2810%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Küstendünen am Rande des Naturschutzgebiets der Slack, wo wandernde Sande und Gezeitenströmungen die Festung aus dem 17. Jahrhundert umrahmen.*
 
 ### Bauliche Anpassungen im Wandel der Epochen
@@ -51,7 +51,7 @@ Die Nutzung des Forts veränderte sich im Lauf der französischen Geschichte meh
 
 Mitte des zwanzigsten Jahrhunderts nutzten Küsteneinheiten die Anlage und zogen eine Stahlbetondecke in die ringförmige Kasemate ein, wodurch der gewölbte Innenraum in zwei Ebenen unterteilt wurde. Während der Mauerturm heftigen Unwettern standhielt, beschädigten Detonationen im Wasser gegen Ende des Konflikts im Jahr 1945 Teile der seeseitigen Außenmauer.
 
-![High-resolution perspective of the restored stone masonry of Fort Mahon](/images/atlas/fort-mahon-vauban-sea-fortress-inline-4.webp)
+![High-resolution perspective of the restored stone masonry of Fort Mahon](https://upload.wikimedia.org/wikipedia/commons/7/78/Fort_Mahon_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 4: Nahaufnahme des restaurierten Quadermauerwerks und der Scharten, die von Freiwilligen nach den Mauerschäden von 1945 wieder instand gesetzt wurden.*
 
 ### Bürgerengagement und moderner Küstenschutz

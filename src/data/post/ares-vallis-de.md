@@ -22,7 +22,7 @@ metadata:
 
 Die schiere Menge an Gestein und Sediment, die durch Ares Vallis transportiert wurde, zeugt von Wassermassen jenseits aller in der Menschheitsgeschichte dokumentierten Ereignisse. Planetengeologen schätzen, dass die Spitzenabflussraten mehrere zehn Millionen Kubikmeter pro Sekunde überstiegen. Diese katastrophalen Fluten trugen das Deckgebirge bis auf das Grundgestein ab und hinterließen monumentale, stromlinienförmige Inseln in Form aerodynamischer Tropfen, die stromabwärts in Fließrichtung der Flutwelle weisen.
 
-![Perspective view of Ares Vallis showing teardrop-shaped islands](/images/atlas/ares-vallis-inline-1.webp)
+![Perspective view of Ares Vallis showing teardrop-shaped islands](https://upload.wikimedia.org/wikipedia/commons/2/21/Ares_Vallis_in_perspective_ESA229658.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1: Perspektivische Darstellung von Ares Vallis, aufgenommen von ESA Mars Express, mit stromlinienförmigen Tropfeninseln, die von katastrophalen Fluten geformt wurden.*
 
 ## Der Einsturz von Iani Chaos und vulkanische Auslöser
@@ -31,7 +31,7 @@ Der Ursprung des Wassers, das Ares Vallis formte, liegt in den chaotischen Gebie
 
 Als das Eis im Untergrund unter Druck schmolz, verlor das darüberliegende Gestein seine tragende Struktur und sackte in sich zusammen. Gewaltige Wassermassen brachen in gigantischen Fontänen und Sturzfluten an die Marsoberfläche hervor, rissen das umliegende Gelände auf und schufen den südlichen Einstieg von Ares Vallis. Hochauflösende Aufnahmen von Orbitalmissionen belegen, dass sich über die äquatorialen Hochebenen verbundene Seensysteme bildeten. Sobald ein Becken seine maximale Kapazität erreichte, durchbrachen die Fluten die Ränder und schnitten in gewaltiger Abfolge Kanäle in tiefer gelegene Senken.
 
-![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](/images/atlas/ares-vallis-inline-2.webp)
+![NASA Mars Pathfinder Sojourner rover on the plains of Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/3/3a/Sojourner_on_Mars_PIA01122.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2: NASA Mars Pathfinder und der Rover Sojourner bei der Analyse vulkanischer Felsblöcke in der Schwemmebene von Ares Vallis im Jahr 1997.*
 
 ## Die historische Landung von Mars Pathfinder
@@ -40,7 +40,7 @@ Der Mündungsschwemmfächer, an dem Ares Vallis in Chryse Planitia übergeht, st
 
 Sojourner untersuchte abgerundete Kieselsteine, dachziegelartig in Strömungsrichtung gekippte Felsblöcke und geschichtete vulkanische Gesteine, die über die staubige Ebene verteilt lagen. Die Ausrichtung der Steine bestätigte, dass gewaltige Flutwellen über das Areal geströmt waren, und lieferte den praktischen Vor-Ort-Beweis für Hypothesen, die erstmals in den 1970er Jahren anhand von Viking-Orbitalaufnahmen aufgestellt worden waren. Diese Entdeckung veränderte die wissenschaftlichen Modelle zur Umweltgeschichte des Mars nachhaltig und bewies, dass flüssiges Wasser die Oberfläche noch lange nach der Planetenentstehung formte.
 
-![Channel meander and layered sedimentary deposits in Ares Vallis](/images/atlas/ares-vallis-inline-3.webp)
+![Channel meander and layered sedimentary deposits in Ares Vallis](https://upload.wikimedia.org/wikipedia/commons/9/9c/Mars_-_Channel_Meander_in_Ares_Vallis_Region_%28ESP_012992_1860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3: Hochauflösende Orbitalaufnahmen des Mars Reconnaissance Orbiter zeigen gewundene Kanäle und Sedimentterrassen in Ares Vallis.*
 
 ## Die Hypothese eines planetaren Mega-Entwässerungssystems

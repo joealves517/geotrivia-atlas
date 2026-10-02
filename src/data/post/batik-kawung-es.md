@@ -22,7 +22,7 @@ En las cortes reales de Java Central, el arte textil funcionaba como un código 
 
 Los vestigios materiales más antiguos del patrón aparecen esculpidos en estatuas de piedra del siglo XIII en Java Oriental, principalmente en relieves de templos erigidos bajo las dinastías Singhasari y Majapahit. Esculturas de divinidades y dignatarios visten faldones decorados con círculos de cuatro pétalos entrelazados, lo que demuestra que esta estructura geométrica precedió en varios siglos a las técnicas modernas de teñido por reserva con cera.
 
-![Archival sample of Kawung kemplung batik pattern collected before 1891](/images/atlas/batik-kawung-inline-1.webp)
+![Archival sample of Kawung kemplung batik pattern collected before 1891](https://upload.wikimedia.org/wikipedia/commons/3/32/Collectie_NMvWereldculturen%2C_RV-847-76%2C_Batikpatroon%2C_%27Kawung_kemplung%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Muestra de archivo del patrón Kawung kemplung recopilada antes de 1891, resguardada en el Museo Nacional de las Culturas del Mundo.*
 
 ### El enigma botánico: Fruto de la palma o loto sagrado
@@ -31,7 +31,7 @@ Etimólogos e historiadores culturales vinculan el término *kawung* a dos fuent
 
 Una interpretación paralela, derivada de la iconografía clásica hindú y budista, contempla los cuatro lóbulos como los pétalos extendidos de una flor de loto (*padma*). En el pensamiento tradicional de Java, el loto simboliza pureza y vida prolongada porque enraíza en el lodo del estanque pero abre su corola inmaculada sobre la superficie del agua. Ya proceda de la modesta palma azucarera o del loto místico, el trazado proyecta un equilibrio natural donde cuatro estructuras periféricas resguardan un centro sereno y despojado.
 
-![Stone architectural relief featuring the repetitive circular Kawung pattern](/images/atlas/batik-kawung-inline-2.webp)
+![Stone architectural relief featuring the repetitive circular Kawung pattern](https://upload.wikimedia.org/wikipedia/commons/9/95/Kawung_motif_in_architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Relieve arquitectónico en piedra que exhibe la geometría cuádruple de Kawung, emulando la decoración de los templos javaneses clásicos.*
 
 ### Cosmología y los cuatro guardianes
@@ -40,7 +40,7 @@ La configuración geométrica del Batik Kawung representa visualmente uno de los
 
 En la encrucijada donde convergen los cuatro pétalos externos reside el quinto elemento: el alma divina y la conciencia moral del individuo. Lucir prendas con el diseño Kawung constituía un recordatorio espiritual continuo. Su portador asumía el deber de controlar sus impulsos externos, conservar la templanza ante las vicisitudes del entorno y gobernar con serenidad de juicio. El perímetro circular que envuelve a cada cuarteto de pétalos simbolizaba la contención personal, recordando a los ministros cortesanos que el poder ejercido sin mesura desemboca inevitablemente en el caos.
 
-![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](/images/atlas/batik-kawung-inline-3.webp)
+![Archival pattern of Kawung picis characterized by tight coin-sized geometric ellipses](https://upload.wikimedia.org/wikipedia/commons/b/bd/Collectie_NMvWereldculturen%2C_RV-847-85%2C_Batikpatroon%2C_%27Kawung_picis%27%2C_voor_1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Fragmento textil de finales del siglo XIX correspondiente a Kawung picis, proporcionado al tamaño de monedas coloniales.*
 
 ### Decretos reales y los patrones prohibidos

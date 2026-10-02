@@ -20,7 +20,7 @@ metadata:
 
 Veillant sur les approches côtières de Muharraq dans le nord de Bahreïn, le fort d'Arad constitue l'un des exemples les mieux préservés de l'architecture militaire islamique prémoderne dans le golfe Persique. Érigée au quinzième siècle sur ce qui était alors un îlot barrière isolé, cette forteresse compacte contrôlait les chenaux peu profonds reliant la haute mer aux rades naturelles de l'archipel bahreïni. Bien que les remblaiements modernes aient rattaché l'île d'Arad à Muharraq, l'ouvrage a conservé son plan géométrique d'origine et son implantation littorale.
 
-![Fossé extérieur et courtines en pierre de corail du fort d'Arad](/images/atlas/arad-fort-inline-1.webp)
+![Fossé extérieur et courtines en pierre de corail du fort d'Arad](https://upload.wikimedia.org/wikipedia/commons/f/f8/Arad_Qalat_Arad_Exterior_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 1 : Le fossé extérieur et les remparts en pierre marine du fort d'Arad surplombant Muharraq.*
 
 ## Défense côtière sur une ancienne île barrière
@@ -29,7 +29,7 @@ Avant que les travaux d'aménagement du vingtième siècle ne modifient le litto
 
 Pour renforcer ce rempart naturel, les concepteurs creusèrent un fossé artificiel ceinturant les courtines carrées. Dans un milieu aride où l'eau de mer aurait pu dégrader les fondations, les bâtisseurs forèrent des puits dans les nappes côtières pour alimenter le fossé en eau douce. Cet obstacle empêchait le travail de sape des assaillants tout en garantissant aux défenseurs une réserve d'eau potable essentielle durant les blocus navals.
 
-![Cour intérieure et tours d'angle du fort d'Arad](/images/atlas/arad-fort-inline-2.webp)
+![Cour intérieure et tours d'angle du fort d'Arad](https://upload.wikimedia.org/wikipedia/commons/d/d4/Arad_Fort%2C_Bahrain%2C_15th_century_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 2 : La cour centrale et les tours cylindriques conçues selon les règles classiques de la fortification islamique.*
 
 ## Maçonnerie de corail et architecture militaire islamique
@@ -38,7 +38,7 @@ Le tracé du fort d'Arad applique fidèlement les principes géométriques de la
 
 Les murailles défensives comportent deux niveaux de tir superposés. Des chemins de ronde inférieurs permettaient aux archers et aux mousquetaires de faire feu à travers des meurtrières verticales, tandis que les parapets supérieurs recevaient des pièces d'artillerie et des sentinelles. Chaque tour cylindrique fait saillie par rapport à la courtine, procurant des tirs croisés qui éliminaient les angles morts au pied des murs. Des mâchicoulis en encorbellement, appelés localement échauguettes en forme de nez, couronnent les parapets au-dessus de la porte principale afin de déverser projectiles et liquides enflammés sur les assaillants.
 
-![Meurtrières et embrasures sur les remparts supérieurs du fort d'Arad](/images/atlas/arad-fort-inline-3.webp)
+![Meurtrières et embrasures sur les remparts supérieurs du fort d'Arad](https://upload.wikimedia.org/wikipedia/commons/b/ba/Arad_Fort%2C_Bahrain%2C_15th_century_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figure 3 : Embrasures défensives et fentes de tir positionnées pour commander les chenaux maritimes.*
 
 ## Rivalités d'empires dans le golfe Persique

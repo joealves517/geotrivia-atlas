@@ -22,7 +22,7 @@ Boven de droge kalksteenplateaus van het schiereiland Apsjeron verheft zich de t
 
 Historische documenten dateren het huidige bouwwerk in de 14e eeuw, al veronderstellen sommige architectuurhistorici dat de eerste versterkingen op de rots teruggaan tot de 12e eeuw. De staat van de Shirvanshahs, bestuurd vanuit Sjamachi en later Bakoe, kreeg te maken met aanhoudende dreigingen vanaf zee en van rivaliserende vorstendommen. Als antwoord daarop versterkten militaire bouwmeesters Apsjeron met stenen donjons die via zichtlijnen met elkaar konden communiceren.
 
-![De kalkstenen weermuren en vierkante donjon van Ramana gezien vanaf de rand van het dorp](/images/atlas/ramana-tower-inline-1.webp)
+![De kalkstenen weermuren en vierkante donjon van Ramana gezien vanaf de rand van het dorp](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ramana_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 1: De kalkstenen weermuren en vierkante donjon van Ramana gezien vanaf de rand van het dorp.*
 
 ## Architectuur van de vierhoekige donjon
@@ -33,7 +33,7 @@ In tegenstelling tot de ronde torens elders op Apsjeron, zoals de ronde burcht v
 
 De toegangspoort bevindt zich op een afgesloten binnenplaats, waardoor aanvallers in een nauwe doorgang terechtkwamen die vanaf de weergang onder schot kon worden gehouden. Het dakplatform is voorzien van uitkragende werpgaten en kantelen, waarmee verdedigers de voet van de vestingmuren van bovenaf konden beveiligen.
 
-![Zuidgevel met afgeronde hoekbastions en getrapte verdedigingsmuren](/images/atlas/ramana-tower-inline-2.webp)
+![Zuidgevel met afgeronde hoekbastions en getrapte verdedigingsmuren](https://upload.wikimedia.org/wikipedia/commons/7/78/Ramana_castle_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 2: Zuidgevel met afgeronde hoekbastions en getrapte verdedigingsmuren.*
 
 ## Strategische verdediging van Apsjeron
@@ -44,7 +44,7 @@ Wanneer vijandelijke schepen de Kaspische kust naderden, ontstaken wachters vuur
 
 Het omliggende gebied bood behalve defensieve voordelen ook waardevolle grondstoffen. Zoutmeren en natuurlijke aardoliebronnen rond Ramana leverden geliefde handelswaren op in de middeleeuwen. Het garnizoen in de toren bewaakte deze vindplaatsen en beschermde handelskaravanen die westwaarts trokken naar de markten van Shirvan en Tabriz.
 
-![Bovenste kantelen en metselwerk van de uitkijktorens](/images/atlas/ramana-tower-inline-3.webp)
+![Bovenste kantelen en metselwerk van de uitkijktorens](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ramana_Castle_towers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figuur 3: Bovenste kantelen en metselwerk van de uitkijktorens.*
 
 ## Behoud en cultureel erfgoed

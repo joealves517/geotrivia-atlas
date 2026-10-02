@@ -22,7 +22,7 @@ Elevando-se sobre os planaltos calcários da península de Absheron, a Torre de 
 
 Registros históricos situam o conjunto atual no século XIV, embora vários historiadores da arquitetura sugiram que as primeiras estruturas defensivas no local remontem ao século XII. O estado dos Shirvanshahs, sediado em Shamakhi e depois em Baku, enfrentava pressões frequentes vindas do mar e de dinastias concorrentes. Em resposta, os construtores dotaram a península de Absheron de atalaias de pedra conectadas por postes de sinalização visual.
 
-![Muralhas de calcário e torre de menagem quadrangular de Ramana vistas do perímetro do vilarejo](/images/atlas/ramana-tower-inline-1.webp)
+![Muralhas de calcário e torre de menagem quadrangular de Ramana vistas do perímetro do vilarejo](https://upload.wikimedia.org/wikipedia/commons/7/7a/Ramana_castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 1: Muralhas de calcário e torre de menagem quadrangular de Ramana vistas do perímetro do vilarejo.*
 
 ## Arquitetura da torre quadrangular
@@ -33,7 +33,7 @@ Ao contrário das torres circulares comuns em outros pontos de Absheron, como no
 
 O acesso principal abre-se num pátio interno protegido, canalizando invasores para um corredor estreito dominado pelos caminhos de ronda. A cobertura do terraço conclui-se em matacães salientes e ameias recortadas, possibilitando vigiar e defender a base dos muros a partir do topo.
 
-![Fachada sul ilustrando os bastiões circulares de canto e as muralhas escalonadas](/images/atlas/ramana-tower-inline-2.webp)
+![Fachada sul ilustrando os bastiões circulares de canto e as muralhas escalonadas](https://upload.wikimedia.org/wikipedia/commons/7/78/Ramana_castle_from_the_south.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 2: Fachada sul ilustrando os bastiões circulares de canto e as muralhas escalonadas.*
 
 ## Papel estratégico na defesa de Absheron
@@ -44,7 +44,7 @@ Quando embarcações suspeitas navegavam próximas à costa cáspia, os vigias a
 
 O entorno oferecia recursos econômicos expressivos paralelamente às vantagens de vigília. Lagoas salinas e exsudações naturais de petróleo em Ramana forneciam artigos de grande procura comercial na Idade Média. A guarnição da torre resguardava essas lavras e escoltava caravanas mercantes destinadas às praças comerciais de Shirvan e Tabriz.
 
-![Ameias superiores e cantaria trabalhada dos bastiões de vigia](/images/atlas/ramana-tower-inline-3.webp)
+![Ameias superiores e cantaria trabalhada dos bastiões de vigia](https://upload.wikimedia.org/wikipedia/commons/c/c7/Ramana_Castle_towers_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 *Figura 3: Ameias superiores e cantaria trabalhada dos bastiões de vigia.*
 
 ## Conservação e legado cultural
