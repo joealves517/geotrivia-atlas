@@ -59,7 +59,7 @@ export function NavbarFloating({
     }
     return false;
   });
-  const [_isEmbedded, _setIsEmbedded] = useState<boolean>(() => {
+  const [isEmbedded, setIsEmbedded] = useState<boolean>(() => {
     if (typeof window !== "undefined") {
       try {
         const inIframe = window.self !== window.top;
@@ -387,18 +387,20 @@ export function NavbarFloating({
             )}
           </button>
 
-          {/* Primary CTA Button (Always visible to drive game conversion to main site) */}
-          <a
-            href="https://geotriviax.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label={t.nav.playGame || ctaLabel || "Play Game"}
-            className="flex h-9 items-center gap-1.5 rounded-full bg-gradient-to-r from-blue-600 via-[#3898ec] to-indigo-600 hover:from-blue-500 hover:to-indigo-500 px-3 sm:px-4 text-xs sm:text-sm font-bold text-white shadow-xs transition-all hover:shadow-md cursor-pointer select-none"
-            onClick={onCta}
-          >
-            <Gamepad2 className="size-4 shrink-0" strokeWidth={2.2} />
-            <span className="inline">{t.nav.playGame || ctaLabel || "Play Game"}</span>
-          </a>
+          {/* Primary CTA Button (Only visible on standalone Atlas to drive game conversion) */}
+          {!isEmbedded && (
+            <a
+              href="https://geotriviax.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={t.nav.playGame || ctaLabel || "Play Game"}
+              className="flex h-9 items-center gap-1.5 rounded-full bg-gradient-to-r from-blue-600 via-[#3898ec] to-indigo-600 hover:from-blue-500 hover:to-indigo-500 px-3 sm:px-4 text-xs sm:text-sm font-bold text-white shadow-xs transition-all hover:shadow-md cursor-pointer select-none"
+              onClick={onCta}
+            >
+              <Gamepad2 className="size-4 shrink-0" strokeWidth={2.2} />
+              <span className="inline">{t.nav.playGame || ctaLabel || "Play Game"}</span>
+            </a>
+          )}
 
           {/* Mobile Menu Toggle Button */}
           <button
@@ -447,7 +449,7 @@ export function NavbarFloating({
         ctaLabel={ctaLabel}
         ctaClassName="bg-[#3898ec] text-white hover:bg-[#529bf5]"
         showSignIn={false}
-        showCta={true}
+        showCta={!isEmbedded}
         currentLocale={currentLocale}
         onOpenSearch={() => setIsSearchOpen(true)}
         onSelectLanguage={handleSelectLanguage}

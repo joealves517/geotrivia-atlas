@@ -3,52 +3,52 @@
     "world-landmarks": {
       "slug": "world-landmarks",
       "en": {
-        "title": "World Landmarks & Iconic Monuments",
+        "title": "World Landmarks",
         "description": "Explore the architectural triumphs, ancient marvels, and iconic human monuments defining our planetary civilization.",
         "intro": "From the stone spires of Angkor Wat to the engineering feats of the modern era, examine humanity’s most enduring monumental achievements."
       },
       "es": {
-        "title": "Monumentos Mundiales y Maravillas Icónicas",
+        "title": "Monumentos del Mundo",
         "description": "Explora los triunfos arquitectónicos, maravillas antiguas y monumentos emblemáticos de la civilización planetaria.",
         "intro": "Desde las agujas de piedra de Angkor Wat hasta las hazañas de la era moderna, examina los logros monumentales de la humanidad."
       },
       "fr": {
-        "title": "Monuments du Monde et Merveilles Emblématiques",
+        "title": "Monuments du Monde",
         "description": "Explorez les triomphes architecturaux, les merveilles antiques et les monuments façonnant notre civilisation planétaire.",
         "intro": "Des tours de pierre d’Angkor Vat aux prouesses modernes, découvrez les réalisations monumentales les plus remarquables."
       },
       "de": {
-        "title": "Weltberühmte Wahrzeichen & Monumente",
+        "title": "Welt-Wahrzeichen",
         "description": "Entdecken Sie architektonische Meisterwerke, antike Wunder und ikonische Bauwerke der Menschheitsgeschichte.",
         "intro": "Von den Steintürmen von Angkor Wat bis hin zu modernen Ingenieurleistungen: Entdecken Sie die bleibenden Denkmäler unserer Erde."
       },
       "pt": {
-        "title": "Monumentos Mundiais e Marcos Históricos",
+        "title": "Monumentos do Mundo",
         "description": "Explore os triunfos arquitetônicos, maravilhas antigas e monumentos emblemáticos da civilização humana.",
         "intro": "Das agulhas de pedra de Angkor Wat às grandes façanhas modernas, conheça as realizações monumentais da humanidade."
       },
       "it": {
-        "title": "Monumenti Mondiali e Meraviglie Iconiche",
+        "title": "Monumenti del Mondo",
         "description": "Esplora i trionfi architettonici, le meraviglie antiche e i monumenti iconici che definiscono la civiltà globale.",
         "intro": "Dalle torri di pietra di Angkor Wat alle prodezze ingegneristiche moderne, scopri le opere monumentali più memorabili."
       },
       "nl": {
-        "title": "Wereldmonumenten & Iconische Bakens",
+        "title": "Wereldmonumenten",
         "description": "Verken de architecturale triomfen, oude wereldwonderen en iconische monumenten van onze beschaving.",
         "intro": "Van de stenen torens van Angkor Wat tot moderne meesterwerken: ontdek de meest indrukwekkende monumentale prestaties."
       },
       "sv": {
-        "title": "Världens Landmärken & Ikoniska Monument",
+        "title": "Världens Landmärken",
         "description": "Utforska arkitektoniska triumfer, antika underverk och ikoniska monument som präglar vår mänskliga civilisation.",
         "intro": "Från Angkor Wats stentorn till den moderna erans ingenjörskonst: upptäck mänsklighetens mest bestående byggnadsverk."
       },
       "tr": {
-        "title": "Dünya Simgeleri ve İkonik Anıtlar",
+        "title": "Dünya Simgeleri",
         "description": "Gezegenimizin medeniyetini şekillendiren mimari zaferleri, antik harikaları ve ikonik anıtları keşfedin.",
         "intro": "Angkor Wat’ın taş kulelerinden modern çağın mühendislik harikalarına kadar insanlığın en kalıcı anıtlarını inceleyin."
       },
       "ar": {
-        "title": "معالم العالم والآثار الأيقونية",
+        "title": "معالم العالم",
         "description": "استكشف الإنجازات المعمارية والعجائب القديمة والآثار الأيقونية التي تميز الحضارة الإنسانية عبر التاريخ.",
         "intro": "من أبراج أنغكور وات الحجرية إلى إنجازات العصر الحديث الهندسية، استكشف أبرز المعالم المعمارية الخالدة على كوكب الأرض."
       }
@@ -56,52 +56,52 @@
     "castles-and-palaces": {
       "slug": "castles-and-palaces",
       "en": {
-        "title": "Castles, Palaces & Royal Strongholds",
+        "title": "Castles & Palaces",
         "description": "Investigate feudal fortresses, opulent imperial residences, and strategic defensive architecture across royal dynasties.",
         "intro": "Explore centuries of monarchical ambition, defensive engineering, and architectural grandeur from European cliffside citadels to East Asian imperial palaces."
       },
       "es": {
-        "title": "Castillos, Palacios y Fortalezas Reales",
+        "title": "Castillos y Palacios",
         "description": "Investiga fortalezas feudales, opulentas residencias imperiales y arquitectura militar de dinastías reales.",
         "intro": "Descubre siglos de ambición cortesana, ingeniería defensiva y grandeza arquitectónica desde ciudadelas europeas hasta palacios asiáticos."
       },
       "fr": {
-        "title": "Châteaux, Palais et Forteresses Royales",
+        "title": "Châteaux & Palais",
         "description": "Découvrez les forteresses féodales, résidences impériales somptueuses et architectures défensives des dynasties mondiales.",
         "intro": "Explorez des siècles d’ambition royale, de génie militaire et d’opulence artistique à travers les châteaux emblématiques du globe."
       },
       "de": {
-        "title": "Burgen, Schlösser & Königliche Residenzen",
+        "title": "Burgen & Schlösser",
         "description": "Erforschen Sie feudale Festungen, prachtvolle Schlösser und wehrhafte Architektur weltweiter Herrscherdynastien.",
         "intro": "Erleben Sie Jahrhunderte monarchischer Machtentfaltung, Wehrtechnik und prunkvoller Baukunst von Europa bis Asien."
       },
       "pt": {
-        "title": "Castelos, Palácios e Fortalezas Reais",
+        "title": "Castelos e Palácios",
         "description": "Investigue fortalezas feudais, opulentas residências imperiais e arquitetura militar de dinastias soberanas.",
         "intro": "Descubra séculos de ambição régia, engenharia de defesa e esplendor arquitetônico em castelos e palácios de todo o globo."
       },
       "it": {
-        "title": "Castelli, Palazzi e Fortezze Reali",
+        "title": "Castelli e Palazzi",
         "description": "Esplora fortezze feudali, sontuose residenze imperiali e architetture difensive delle dinastie storiche.",
         "intro": "Un viaggio attraverso secoli di potenza regale, ingegneria militare e sfarzo artistico tra manieri e palazzi d’epoca."
       },
       "nl": {
-        "title": "Kastelen, Paleizen & Koninklijke Burchten",
+        "title": "Kastelen & Paleizen",
         "description": "Onderzoek feodale forten, weelderige keizerlijke residenties en defensieve vestingwerken door de eeuwen heen.",
         "intro": "Ontdek eeuwen van vorstelijke ambitie, militaire bouwkunst en architectonische pracht in wereldwijde burchten en paleizen."
       },
       "sv": {
-        "title": "Slott, Palats & Kungliga Fästningar",
+        "title": "Slott & Palats",
         "description": "Undersök feodala fästningar, överdådiga kejsarpalats och strategisk försvarsarkitektur från kungliga dynastier.",
         "intro": "Upptäck århundraden av kunglig makt, defensiv ingenjörskonst och storslagen arkitektur från fästningar till kejserliga gemak."
       },
       "tr": {
-        "title": "Kaleler, Saraylar ve Kraliyet Hisarları",
+        "title": "Kaleler ve Saraylar",
         "description": "Tarihi hanedanların feodal hisarlarını, görkemli imparatorluk saraylarını ve stratejik askeri mimarisini inceleyin.",
         "intro": "Avrupa hisarlarından Asya saraylarına kadar monarşik hırsın, savunma sanatının ve mimari ihtişamın izini sürün."
       },
       "ar": {
-        "title": "القلاع والقصور والحصون الملكية",
+        "title": "القلاع والقصور",
         "description": "استكشف القلاع الإقطاعية والقصور الإمبراطورية الفخمة والعمارة الدفاعية الإستراتيجية عبر العصور الملكية المتعاقبة.",
         "intro": "رحلة عبر قرون من الطموح الملكي والهندسة الدفاعية والفخامة المعمارية من قلاع أوروبا الحصينة إلى قصور الشرق الإمبراطورية."
       }
@@ -109,52 +109,52 @@
     "cities-and-capitals": {
       "slug": "cities-and-capitals",
       "en": {
-        "title": "Cities, Capitals & Urban Metropolises",
+        "title": "Cities & Capitals",
         "description": "Field studies on world capitals, planned administrative centers, urban enclaves, and high-altitude metropolitan hubs.",
         "intro": "An investigative exploration into how world capitals and major metropolitan centers evolve, govern, and anchor global civilization."
       },
       "es": {
-        "title": "Ciudades, Capitales y Metrópolis Globales",
+        "title": "Ciudades y Capitales",
         "description": "Estudios de campo sobre capitales mundiales, centros administrativos planificados y metrópolis estratégicas.",
         "intro": "Una investigación sobre la evolución, gobierno e impacto cultural de las grandes capitales y metrópolis de nuestro planeta."
       },
       "fr": {
-        "title": "Villes, Capitales et Métropoles Mondiales",
+        "title": "Villes & Capitales",
         "description": "Analyses des capitales mondiales, cités administratives planifiées et pôles urbains stratégiques de la Terre.",
         "intro": "Une exploration approfondie de l’évolution des capitales politiques et des grands carrefours urbains de la civilisation mondiale."
       },
       "de": {
-        "title": "Städte, Hauptstädte & Urbane Zentren",
+        "title": "Städte & Hauptstädte",
         "description": "Analysen von Welthauptstädten, geplanten Verwaltungszentren und faszinierenden urbanen Metropolen.",
         "intro": "Eine geographische Untersuchung der urbanen Evolution, Infrastruktur und Bedeutung globaler Hauptstädte."
       },
       "pt": {
-        "title": "Cidades, Capitais e Metrópoles Globais",
+        "title": "Cidades e Capitais",
         "description": "Estudos de campo sobre capitais mundiais, centros administrativos planejados e metrópoles estratégicas.",
         "intro": "Uma análise investigativa sobre como as capitais do mundo evoluem, administram territórios e moldam a cultura global."
       },
       "it": {
-        "title": "Città, Capitali e Metropoli Mondiali",
+        "title": "Città e Capitali",
         "description": "Studi su capitali globali, centri amministrativi pianificati e grandi metropoli urbane del nostro pianeta.",
         "intro": "Un’indagine approfondita sull’evoluzione urbanistica, il governo e il ruolo storico delle capitali mondiali."
       },
       "nl": {
-        "title": "Steden, Hoofdsteden & Wereldmetropolen",
+        "title": "Steden & Hoofdsteden",
         "description": "Veldonderzoek naar wereldhoofdsteden, geplande bestuurscentra en strategische stedelijke knooppunten.",
         "intro": "Ontdek hoe nationale hoofdsteden en wereldsteden zich ontwikkelen, besturen en het culturele hart van naties vormen."
       },
       "sv": {
-        "title": "Städer, Huvudstäder & Urbana Metropoler",
+        "title": "Städer & Huvudstäder",
         "description": "Fältstudier av världens huvudstäder, planerade administrativa centra och strategiska metropoler.",
         "intro": "En undersökning av hur huvudstäder formas, styrs och fungerar som knutpunkter för global kultur och politik."
       },
       "tr": {
-        "title": "Şehirler, Başkentler ve Küresel Metropoller",
+        "title": "Şehirler ve Başkentler",
         "description": "Dünya başkentleri, planlı idari merkezler ve stratejik kentsel metropoller üzerine coğrafi incelemeler.",
         "intro": "Dünya başkentlerinin nasıl evrildiğini, yönetildiğini ve küresel uygarlığın merkezleri haline geldiğini keşfedin."
       },
       "ar": {
-        "title": "المدن والعواصم والمتروبوليس العالمية",
+        "title": "المدن والعواصم",
         "description": "دراسات ميدانية معمقة حول عواصم العالم والمراكز الإدارية المخططة والتجمعات الحضرية الكبرى في كوكب الأرض.",
         "intro": "استكشاف تحليلي لتطور العواصم العالمية والمراكز الحضرية الكبرى وكيف تدير أراضيها وتشكل نسيج الحضارة الحديثة."
       }
@@ -162,52 +162,52 @@
     "natural-wonders": {
       "slug": "natural-wonders",
       "en": {
-        "title": "Natural Wonders & Geological Phenomena",
+        "title": "Natural Wonders",
         "description": "Explore the primordial power of tectonic rifts, glacial fjords, subterranean caves, and planetary geological extremes.",
         "intro": "Venture into Earth’s most awe-inspiring natural landscapes shaped by millions of years of volcanic, hydrological, and tectonic forces."
       },
       "es": {
-        "title": "Maravillas Naturales y Fenómenos Geológicos",
+        "title": "Maravillas Naturales",
         "description": "Explora la fuerza tectónica, fiordos glaciares, cavernas subterráneas y maravillas geológicas del planeta.",
         "intro": "Adéntrate en los paisajes naturales más asombrosos de la Tierra, esculpidos por millones de años de fuerzas geológicas."
       },
       "fr": {
-        "title": "Merveilles Naturelles et Phénomènes Géologiques",
+        "title": "Merveilles Naturelles",
         "description": "Explorez la puissance des failles tectoniques, fjords glaciaires, réseaux karstiques et paysages primordiaux.",
         "intro": "Plongez au cœur des paysages naturels les plus spectaculaires de la Terre, forgés par des millénaires d’érosion et de tectonique."
       },
       "de": {
-        "title": "Naturwunder & Geologische Phänomene",
+        "title": "Naturwunder",
         "description": "Erforschen Sie tektonische Gräben, eisige Fjorde, Höhlensysteme und die gewaltigen Naturgewalten unseres Planeten.",
         "intro": "Tauchen Sie ein in faszinierende Landschaften, die über Jahrmillionen durch vulkanische und tektonische Kräfte geformt wurden."
       },
       "pt": {
-        "title": "Maravilhas Naturais e Fenômenos Geológicos",
+        "title": "Maravilhas Naturais",
         "description": "Explore a força das falhas tectônicas, fiordes glaciares, cavernas subterrâneas e os extremos geológicos da Terra.",
         "intro": "Descubra as paisagens naturais mais impressionantes do planeta, esculpidas por forças vulcânicas e hidrológicas milenares."
       },
       "it": {
-        "title": "Meraviglie Naturali e Fenomeni Geologici",
+        "title": "Meraviglie Naturali",
         "description": "Esplora faglie tettoniche, fiordi glaciali, complessi carsici sotterranei ed estremi geologici del pianeta.",
         "intro": "Un viaggio tra i paesaggi naturali più spettacolari della Terra, plasmati da milioni di anni di forze primordiali."
       },
       "nl": {
-        "title": "Natuurwonderen & Geologische Fenomenen",
+        "title": "Natuurwonderen",
         "description": "Verken tektonische breuken, gletsjerfjorden, ondergrondse grotten en spectaculaire geologische extremen.",
         "intro": "Trek door de meest ontzagwekkende natuurlandschappen op aarde, gevormd door miljoenen jaren van vulkanische en tektonische krachten."
       },
       "sv": {
-        "title": "Naturunderverk & Geologiska Fenomen",
+        "title": "Naturunderverk",
         "description": "Utforska tektoniska sprickor, glaciärfjordar, underjordiska grottor och planetens mest dramatiska geologiska former.",
         "intro": "Upplev jordens mest hisnande naturlandskap, formade av årtusenden av tektonisk aktivitet, vatten och is."
       },
       "tr": {
-        "title": "Doğa Harikaları ve Jeolojik Fenomenler",
+        "title": "Doğa Harikaları",
         "description": "Tektonik fayların, buzul fiyortlarının, yer altı mağaralarının ve yeryüzü jeolojisinin büyüleyici güçlerini keşfedin.",
         "intro": "Milyonlarca yıllık volkanik ve tektonik güçlerin şekillendirdiği Dünya’nın en büyüleyici doğa harikalarını keşfedin."
       },
       "ar": {
-        "title": "عجائب الطبيعة والظواهر الجيولوجية",
+        "title": "عجائب الطبيعة",
         "description": "استكشف الصدوع التكتونية، والفيوردات الجليدية، والكهوف الجوفية، والظواهر الجيولوجية الخارقة لكوكب الأرض.",
         "intro": "رحلة إلى أكثر المناظر الطبيعية إثارة للدهشة على وجه الأرض، والتي شكلتها ملايين السنين من القوى التكتونية والبركانية."
       }
@@ -215,52 +215,52 @@
     "street-view-and-discovery": {
       "slug": "street-view-and-discovery",
       "en": {
-        "title": "Street View & Legendary Driving Routes",
+        "title": "Roads & Discovery",
         "description": "Journey across remote mountain passes, transcontinental highways, and atmospheric visual navigation corridors.",
         "intro": "From high alpine hairpins to isolated desert arteries, discover legendary overland routes through documentary photography and field notes."
       },
       "es": {
-        "title": "Street View y Rutas Legendarias",
+        "title": "Rutas y Descubrimiento",
         "description": "Viaja por pasos de montaña remotos, carreteras transcontinentales y corredores de navegación visual del mundo.",
         "intro": "De curvas alpinas a arterias desérticas aisladas, descubre las rutas terrestres más míticas de la geografía mundial."
       },
       "fr": {
-        "title": "Street View et Routes Légendaires",
+        "title": "Routes & Découvertes",
         "description": "Parcourez les cols de montagne vertigineux, routes transcontinentales et axes routiers légendaires de la planète.",
         "intro": "Des lacets alpins aux rubans d’asphalte traversant les déserts, partez sur les traces des plus grandes épopées routières."
       },
       "de": {
-        "title": "Street View & Legendäre Traumstraßen",
+        "title": "Routen & Entdeckungen",
         "description": "Reisen Sie über einsame Alpenpässe, transkontinentale Highways und ikonische Routen rund um den Globus.",
         "intro": "Von schwindelerregenden Passstraßen bis zu endlosen Wüstenpisten: Entdecken Sie legendäre Straßen der Weltgeschichte."
       },
       "pt": {
-        "title": "Street View e Rotas Lendárias",
+        "title": "Rotas e Descobertas",
         "description": "Viaje por desfiladeiros remotos, rodovias transcontinentais e corredores icônicos de navegação terrestre.",
         "intro": "De curvas alpinas vertiginosas a travessias desérticas isoladas, conheça as estradas mais fascinantes da geografia."
       },
       "it": {
-        "title": "Street View e Strade Leggendarie",
+        "title": "Strade e Scoperte",
         "description": "Viaggia lungo valichi montani remoti, autostrade transcontinentali e panoramici corridoi di guida nel mondo.",
         "intro": "Dai tornanti alpini più arditi alle rotte desertiche sterminate: una guida alle arterie stradali più celebri del pianeta."
       },
       "nl": {
-        "title": "Street View & Legendarische Autoroutes",
+        "title": "Wegen & Ontdekkingen",
         "description": "Reis over afgelegen bergpassen, transcontinentale snelwegen en adembenemende overlandroutes wereldwijd.",
         "intro": "Van haarspeldbochten in het hooggebergte tot eindeloze woestijnwegen: ontdek de meest iconische autoroutes ter wereld."
       },
       "sv": {
-        "title": "Street View & Legendariska Körvägar",
+        "title": "Vägar & Upptäckter",
         "description": "Res längs avlägsna bergspass, transkontinentala motorvägar och hisnande visuella navigeringssträckor.",
         "intro": "Från branta alpina kurvor till ödsliga ökenvägar: utforska världens mest ikoniska vägsträckningar och äventyr."
       },
       "tr": {
-        "title": "Street View ve Efsanevi Kara Yolları",
+        "title": "Yollar ve Keşifler",
         "description": "Uzak dağ geçitlerini, kıtalararası otoyolları ve dünyanın en nefes kesici sürüş rotalarını keşfedin.",
         "intro": "Yüksek rakımlı virajlardan ıssız çöl yollarına kadar küresel coğrafyanın en efsanevi kara rotalarında yolculuğa çıkın."
       },
       "ar": {
-        "title": "ستريت فيو والطرق البرية الأسطورية",
+        "title": "طرق واستكشافات",
         "description": "رحلات عبر الممرات الجبلية الوعرة، والطرق السريعة العابرة للقارات، والمحاور البصرية الخلابة حول العالم.",
         "intro": "من المنعطفات الجبلية الشاهقة إلى شرايين الصحراء النائية، استكشف أعظم المسارات البرية وطرق القيادة في التاريخ والجغرافيا."
       }
@@ -268,52 +268,52 @@
     "countries-and-territories": {
       "slug": "countries-and-territories",
       "en": {
-        "title": "Countries & Sovereign Territories",
+        "title": "Countries & Lands",
         "description": "Comprehensive geopolitical field studies of sovereign nations, dependencies, enclaves, and maritime jurisdictions.",
         "intro": "Examine the borders, constitutional systems, geographic contexts, and demographic landscapes of the world’s sovereign states."
       },
       "es": {
-        "title": "Países y Territorios Soberanos",
+        "title": "Países y Territorios",
         "description": "Estudios geopolíticos de naciones soberanas, dependencias insulares y jurisdicciones marítimas del planeta.",
         "intro": "Examina las fronteras, sistemas constitucionales y realidades demográficas de los estados soberanos del mundo."
       },
       "fr": {
-        "title": "Pays et Territoires Souverains",
+        "title": "Pays & Territoires",
         "description": "Études géopolitiques approfondies des nations souveraines, dépendances et territoires sous juridiction particulière.",
         "intro": "Une analyse rigoureuse des frontières, institutions politiques et contextes géographiques des États du monde."
       },
       "de": {
-        "title": "Länder & Souveräne Territorien",
+        "title": "Länder & Territorien",
         "description": "Geopolitische Analysen von Nationalstaaten, Überseegebieten, Enklaven und maritimen Zonen.",
         "intro": "Erfahren Sie alles über Grenzen, Verfassungsordnungen und geographische Besonderheiten der souveränen Staaten der Erde."
       },
       "pt": {
-        "title": "Países e Territórios Soberanos",
+        "title": "Países e Territórios",
         "description": "Estudos geopolíticos de nações soberanas, dependências ultramarinas e jurisdições territoriais globais.",
         "intro": "Analise as fronteiras, modelos constitucionais e realidades territoriais dos estados soberanos que compõem o globo."
       },
       "it": {
-        "title": "Paesi e Territori Sovrani",
+        "title": "Paesi e Territori",
         "description": "Studi geopolitici su nazioni sovrane, dipendenze, enclave e giurisdizioni territoriali del pianeta.",
         "intro": "Un quadro esaustivo sui confini, gli ordinamenti politici e il contesto geografico degli stati del mondo."
       },
       "nl": {
-        "title": "Landen & Soevereine Gebieden",
+        "title": "Landen & Gebieden",
         "description": "Geopolitieke studies van soevereine staten, overzeese gebiedsdelen, enclaves en maritieme zones.",
         "intro": "Onderzoek de grenzen, staatsinrichting en geografie van soevereine staten en bijzondere gebieden wereldwijd."
       },
       "sv": {
-        "title": "Länder & Suveräna Territorier",
+        "title": "Länder & Territorier",
         "description": "Geopolitiska fältstudier av suveräna stater, avhängiga territorier och internationella jurisdiktioner.",
         "intro": "Utforska gränser, statsskick och geografi för världens erkända stater och unika autonoma territorier."
       },
       "tr": {
-        "title": "Ülkeler ve Bağımsız Topraklar",
+        "title": "Ülkeler ve Bölgeler",
         "description": "Egemen uluslar, bağımlı bölgeler, anklavlar ve deniz sınırları üzerine kapsamlı jeopolitik incelemeler.",
         "intro": "Dünya devletlerinin sınırlarını, anayasal sistemlerini ve coğrafi özelliklerini derinlemesine analiz edin."
       },
       "ar": {
-        "title": "الدول والأقاليم السيادية",
+        "title": "الدول والأقاليم",
         "description": "دراسات جيوسياسية شاملة للدول المستقلة، والأقاليم التابعة، والجيوب الترابية، والولايات البحرية حول العالم.",
         "intro": "تحليل دقيق للحدود الدولية والأنظمة الدستورية والتوزيع السكاني والجغرافي لدول وأقاليم كوكب الأرض."
       }
@@ -321,52 +321,52 @@
     "flags-and-symbols": {
       "slug": "flags-and-symbols",
       "en": {
-        "title": "Flags, Vexillology & National Symbols",
+        "title": "Flags & Symbols",
         "description": "Vexillological explorations into national banners, historical ensigns, heraldic crests, and state iconography.",
         "intro": "Unravel the geometric logic, color symbolism, and historic struggles encoded into the world’s national flags and state seals."
       },
       "es": {
-        "title": "Banderas, Vexilología y Símbolos Patrios",
+        "title": "Banderas y Símbolos",
         "description": "Exploraciones vexilológicas sobre banderas nacionales, enseñas históricas, escudos y heráldica de estados.",
         "intro": "Descifra la geometría, simbolismo del color y luchas históricas plasmadas en los estandartes y emblemas del mundo."
       },
       "fr": {
-        "title": "Drapeaux, Vexillologie et Symboles Nationaux",
+        "title": "Drapeaux & Symboles",
         "description": "Analyses vexillologiques des bannières nationales, pavillons historiques, blasons et emblèmes d’États.",
         "intro": "Décodez la géométrie sacrée, la symbolique des couleurs et l’histoire gravée dans les drapeaux des nations."
       },
       "de": {
-        "title": "Flaggen, Vexillologie & Nationale Symbole",
+        "title": "Flaggen & Symbole",
         "description": "Vexillologische Erkundungen von Nationalflaggen, historischen Bannern und staatlicher Ikonographie.",
         "intro": "Entschlüsseln Sie geometrische Muster, Farbsymbolik und heraldische Traditionen der weltweiten Nationalfahnen."
       },
       "pt": {
-        "title": "Bandeiras, Vexilologia e Símbolos Nacionais",
+        "title": "Bandeiras e Símbolos",
         "description": "Estudos vexilológicos de pavilhões nacionais, estandartes históricos, brasões e iconografia de estado.",
         "intro": "Decifre a geometria, a simbologia cromática e as narrativas históricas codificadas nas bandeiras do mundo."
       },
       "it": {
-        "title": "Bandiere, Vessillologia e Simboli Nazionali",
+        "title": "Bandiere e Simboli",
         "description": "Indagini vessillologiche su stendardi nazionali, insegne storiche, stemmi e araldica di stato.",
         "intro": "Decifra il linguaggio geometrico, la simbologia cromatica e le vicende storiche racchiuse nelle bandiere del mondo."
       },
       "nl": {
-        "title": "Vlaggen, Vexillologie & Nationale Symbolen",
+        "title": "Vlaggen & Symbolen",
         "description": "Vexillologisch onderzoek naar nationale vlaggen, historische vaandels, wapenschilden en heraldiek.",
         "intro": "Ontrafel de geometrische structuren, kleurensymboliek en historische verhalen achter de vlaggen van alle landen."
       },
       "sv": {
-        "title": "Flaggor, Vexillologi & Nationella Symboler",
+        "title": "Flaggor & Symboler",
         "description": "Vexillologiska studier av nationalflaggor, historiska baner, vapensköldar och statliga emblem.",
         "intro": "Avkoda geometrin, färgsymboliken och den dramatiska historien bakom världens nationalflaggor och sigill."
       },
       "tr": {
-        "title": "Bayraklar, Veksilloloji ve Ulusal Simgeler",
+        "title": "Bayraklar ve Simgeler",
         "description": "Ulusal bayraklar, tarihi sancaklar, armalar ve devlet ikonografisi üzerine veksillolojik incelemeler.",
         "intro": "Dünya bayraklarında ve devlet mühürlerinde kodlanmış geometrik mantığı, renk simgelerini ve tarihi mücadeleleri keşfedin."
       },
       "ar": {
-        "title": "الأعلام وعلم الرايات والرموز الوطنية",
+        "title": "الأعلام والرموز",
         "description": "دراسات في علم الرايات (الفيكسيلولوجيا) حول الأعلام الوطنية، والرايات التاريخية، وشعارات النبالة الرسمية.",
         "intro": "اكتشف الدلالات الهندسية، وفلسفة الألوان، والملاحم التاريخية المشفرة في أعلام وشعارات دول العالم."
       }
@@ -374,52 +374,52 @@
     "culture-and-arts": {
       "slug": "culture-and-arts",
       "en": {
-        "title": "Culture, Arts & Intangible Heritage",
+        "title": "Culture & Heritage",
         "description": "Field dossiers on global folklore, traditional craftsmanship, regional gastronomy, performing arts, and living cultural traditions.",
         "intro": "Immerse in the rich human traditions, ritual celebrations, culinary masterworks, and artistic expressions across continental cultures."
       },
       "es": {
-        "title": "Cultura, Artes y Patrimonio Inmaterial",
+        "title": "Cultura y Patrimonio",
         "description": "Dossiers sobre folclore global, artesanías tradicionales, gastronomía regional y patrimonio vivo de la humanidad.",
         "intro": "Sumérgete en las tradiciones humanas, ritos ancestrales, gastronomías típicas y expresiones artísticas del mundo."
       },
       "fr": {
-        "title": "Culture, Arts et Patrimoine Immatériel",
+        "title": "Culture & Patrimoine",
         "description": "Dossiers sur les folklores, savoir-faire artisanaux, gastronomies régionales et chefs-d’œuvre immatériels mondiaux.",
         "intro": "Explorez la diversité des traditions vivantes, rituels festifs et créations artistiques qui font la richesse des civilisations."
       },
       "de": {
-        "title": "Kultur, Kunst & Immaterielles Welterbe",
+        "title": "Kultur & Erbe",
         "description": "Dossiers über Brauchtum, traditionelle Handwerkskunst, regionale Gastronomie und lebendige Kulturtraditionen.",
         "intro": "Tauchen Sie ein in faszinierende Rituale, kulinarische Schätze und künstlerische Ausdrucksformen aller Kontinente."
       },
       "pt": {
-        "title": "Cultura, Artes e Patrimônio Imaterial",
+        "title": "Cultura e Patrimônio",
         "description": "Dossiês sobre folclore mundial, artesanato tradicional, gastronomia regional e expressões artísticas dos povos.",
         "intro": "Mergulhe nas tradições vivas, celebrações rituais e manifestações artísticas que definem a herança cultural humana."
       },
       "it": {
-        "title": "Cultura, Arti e Patrimonio Immateriale",
+        "title": "Cultura e Tradizioni",
         "description": "Dossier su tradizioni popolari, artigianato storico, gastronomia regionale e patrimonio culturale intangibile.",
         "intro": "Un viaggio emozionante tra feste rituali, capolavori culinari e arti performative delle diverse civiltà del globo."
       },
       "nl": {
-        "title": "Cultuur, Kunst & Immaterieel Erfgoed",
+        "title": "Cultuur & Erfgoed",
         "description": "Dossiers over folklore, traditioneel ambachtswerk, streekgastronomie en levende culturele tradities wereldwijd.",
         "intro": "Ontdek de fascinerende feesten, culinaire hoogstandjes en kunstzinnige gebruiken die volkeren met elkaar verbinden."
       },
       "sv": {
-        "title": "Kultur, Konst & Immateriellt Kulturarv",
+        "title": "Kultur & Arv",
         "description": "Dossierer om global folklore, hantverkstraditioner, regional gastronomi och levande kulturarv från hela världen.",
         "intro": "Lär känna mänsklighetens levande traditioner, rituella firanden och konstnärliga uttryck över alla kontinenter."
       },
       "tr": {
-        "title": "Kültür, Sanat ve Somut Olmayan Miras",
+        "title": "Kültür ve Miras",
         "description": "Dünya folklorü, geleneksel zanaatlar, bölgesel mutfaklar ve insanlığın yaşayan kültürel mirası üzerine dosyalar.",
         "intro": "Farklı kıtalara yayılan köklü gelenekleri, ritüelleri, gastronomi hazinelerini ve sanatsal ifadeleri keşfedin."
       },
       "ar": {
-        "title": "الثقافة والفنون والتراث اللامادي",
+        "title": "الثقافة والتراث",
         "description": "ملفات استقصائية حول الفولكلور العالمي، والحرف اليدوية التقليدية، وفنون الطهي الإقليمية، والتراث الثقافي الحي.",
         "intro": "انغمس في التقاليد الإنسانية الغنية، والاحتفالات الطقسية، وروائع الطهي، والإبداعات الفنية عبر مختلف ثقافات العالم."
       }
@@ -427,52 +427,52 @@
     "history-and-civilization": {
       "slug": "history-and-civilization",
       "en": {
-        "title": "History, Empires & Ancient Civilizations",
+        "title": "History & Empires",
         "description": "Chronicles of ancient empires, pivotal historical turning points, trade routes, and archaeological breakthroughs.",
         "intro": "Retrace the rise and fall of great empires, maritime trade networks, and historic paradigm shifts that forged the modern world."
       },
       "es": {
-        "title": "Historia, Imperios y Civilizaciones Antiguas",
+        "title": "Historia e Imperios",
         "description": "Crónicas de imperios antiguos, rutas comerciales pioneras y puntos de inflexión que forjaron el mundo actual.",
         "intro": "Sigue el ascenso y caída de las grandes civilizaciones, redes de intercambio y batallas que moldearon la historia."
       },
       "fr": {
-        "title": "Histoire, Empires et Civilisations Antiques",
+        "title": "Histoire & Empires",
         "description": "Chroniques des grands empires, routes commerciales mythiques et tournants décisifs qui ont forgé notre monde.",
         "intro": "Revivez l’épopée des civilisations antiques, l’essor des routes caravanières et les bouleversements qui ont façonné l’humanité."
       },
       "de": {
-        "title": "Geschichte, Imperien & Antike Zivilisationen",
+        "title": "Geschichte & Reiche",
         "description": "Chroniken antiker Reiche, historischer Wendepunkte, alter Handelswege und archäologischer Entdeckungen.",
         "intro": "Erleben Sie den Aufstieg und Fall großer Weltreiche und die historischen Meilensteine, die unsere Epoche geprägt haben."
       },
       "pt": {
-        "title": "História, Impérios e Civilizações Antigas",
+        "title": "História e Impérios",
         "description": "Crônicas de grandes impérios, rotas comerciais lendárias e momentos decisivos que forjaram a história global.",
         "intro": "Reviva a ascensão e queda das civilizações clássicas e os acontecimentos históricos que moldaram o mundo contemporâneo."
       },
       "it": {
-        "title": "Storia, Imperi e Antiche Civiltà",
+        "title": "Storia e Imperi",
         "description": "Cronache di grandi imperi, rotte commerciali storiche, scoperte archeologiche e svolte epocali dell’umanità.",
         "intro": "Ripercorri la nascita e il declino dei grandi imperi e i passaggi storici fondamentali che hanno costruito il mondo moderno."
       },
       "nl": {
-        "title": "Geschiedenis, Rijken & Oude Beschavingen",
+        "title": "Geschiedenis & Rijken",
         "description": "Kronieken van oude wereldrijken, historische keerpunten, handelsroutes en baanbrekende archeologische vondsten.",
         "intro": "Volg de opkomst en ondergang van grote beschavingen en de historische transformaties die de wereld hebben gevormd."
       },
       "sv": {
-        "title": "Historia, Imperier & Antika Civilisationer",
+        "title": "Historia & Riken",
         "description": "Krönikor om antika imperier, avgörande historiska vändpunkter, handelsvägar och arkeologiska genombrott.",
         "intro": "Återupplev uppgången och fallet för historiens stora imperier och de historiska milstolpar som formade nutiden."
       },
       "tr": {
-        "title": "Tarih, İmparatorluklar ve Antik Medeniyetler",
+        "title": "Tarih ve İmparatorluklar",
         "description": "Antik imparatorluklar, tarihi dönüm noktaları, ticaret yolları ve dünyayı şekillendiren arkeolojik keşifler.",
         "intro": "Büyük imparatorlukların yükseliş ve çöküşünü, tarihi ticaret ağlarını ve modern dünyayı kuran medeniyetleri inceleyin."
       },
       "ar": {
-        "title": "التاريخ والإمبراطوريات والحضارات القديمة",
+        "title": "التاريخ والإمبراطوريات",
         "description": "سجلات تاريخية موثقة حول الإمبراطوريات القديمة، ونقاط التحول الكبرى، وطرق التجارة، والاكتشافات الأثرية.",
         "intro": "تتبع صعود وسقوط أعظم الحضارات والإمبراطوريات والشبكات التجارية التي شكلت ملامح العالم المعاصر."
       }
@@ -480,52 +480,52 @@
     "rankings": {
       "slug": "rankings",
       "en": {
-        "title": "Rankings, Indices & Geographic Superlatives",
+        "title": "Global Rankings",
         "description": "Rigorous comparative rankings of planetary extremes: largest countries, longest rivers, deepest lakes, and population densities.",
         "intro": "Empirical data breakdowns and comparative geographic indices quantifying Earth’s most extraordinary extremes and territorial metrics."
       },
       "es": {
-        "title": "Rankings, Índices y Superlativos Geográficos",
+        "title": "Rankings Mundiales",
         "description": "Rankings comparativos de extremos planetarios: países más grandes, ríos más largos, lagos más profundos y densidades.",
         "intro": "Análisis empírico e índices geográficos que cuantifican los récords territoriales y métricas más asombrosas de la Tierra."
       },
       "fr": {
-        "title": "Classements, Indices et Superlatifs Géographiques",
+        "title": "Classements Mondiaux",
         "description": "Palmarès comparatifs des extrêmes planétaires : plus grands pays, fleuves les plus longs, lacs les plus profonds.",
         "intro": "Analyses empiriques et données géographiques quantifiant les records naturels et territoriaux les plus spectaculaires."
       },
       "de": {
-        "title": "Rankings, Indizes & Geographische Rekorde",
+        "title": "Weltweite Rankings",
         "description": "Vergleichende Rankings planetarer Superlative: größte Länder, längste Flüsse, tiefste Seen und Bevölkerungsdichten.",
         "intro": "Fundierte Datenanalysen und geographische Kennzahlen über die extremsten Rekorde und Ausmaße unseres Planeten."
       },
       "pt": {
-        "title": "Rankings, Índices e Superlativos Geográficos",
+        "title": "Rankings Globais",
         "description": "Rankings comparativos rigorosos de extremos planetários: maiores países, rios mais extensos, lagos profundos e densidade.",
         "intro": "Análises empíricas de dados e índices geográficos quantificando os recordes territoriais e espaciais da Terra."
       },
       "it": {
-        "title": "Classifiche, Indici e Superlativi Geografici",
+        "title": "Classifiche Mondiali",
         "description": "Classifiche comparative sui record del pianeta: paesi più estesi, fiumi più lunghi, laghi profondi e densità abitative.",
         "intro": "Analisi approfondite e indici geografici per misurare gli estremi naturali e territoriali più straordinari della Terra."
       },
       "nl": {
-        "title": "Ranglijsten, Indices & Geografische Superlatieven",
+        "title": "Wereldwijde Ranglijsten",
         "description": "Vergelijkende ranglijsten van wereldrecords: grootste landen, langste rivieren, diepste meren en bevolkingsdichtheden.",
         "intro": "Grondige data-analyses en geografische vergelijkingen die de meest uitzonderlijke records op aarde in kaart brengen."
       },
       "sv": {
-        "title": "Rankningar, Index & Geografiska Superlativ",
+        "title": "Globala Rankningar",
         "description": "Jämförande rankningar av jordens ytterligheter: största länder, längsta floder, djupaste sjöar och befolkningstäthet.",
         "intro": "Empiriska dataanalyser och geografiska index som kvantifierar planetens mest häpnadsväckande geografiska rekord."
       },
       "tr": {
-        "title": "Sıralamalar, İndeksler ve Coğrafi Rekorlar",
+        "title": "Küresel Sıralamalar",
         "description": "Gezegenimizin coğrafi rekorları: en büyük ülkeler, en uzun nehirler, en derin göller ve nüfus yoğunlukları.",
         "intro": "Dünya üzerindeki en olağanüstü coğrafi rekorları ve bölgesel ölçümleri nicelendiren karşılaştırmalı veri analizleri."
       },
       "ar": {
-        "title": "التصنيفات والمؤشرات والأرقام القياسية الجغرافية",
+        "title": "تصنيفات عالمية",
         "description": "تصنيفات مقارنة دقيقة للأرقام القياسية: أكبر الدول مساحة، وأطول الأنهار، وأعمق البحيرات، والكثافة السكانية.",
         "intro": "تحليلات بيانات تجريبية ومؤشرات جغرافية تقيس أعظم الأرقام القياسية والظواهر المكانية على كوكب الأرض."
       }
@@ -533,52 +533,52 @@
     "paradoxes": {
       "slug": "paradoxes",
       "en": {
-        "title": "Geographic Paradoxes & Cartographic Anomalies",
+        "title": "Geographic Paradoxes",
         "description": "Investigation into spatial counter-intuitions, time zone distortions, counter-clockwise borders, and navigational paradoxes.",
         "intro": "Explore where standard geographical intuition breaks down: places where traveling south enters a northern country, or where time zones skip whole days."
       },
       "es": {
-        "title": "Paradojas Geográficas y Anomalías Cartográficas",
+        "title": "Paradojas Geográficas",
         "description": "Investigación sobre anomalías espaciales, distorsiones de husos horarios y paradojas de navegación en la Tierra.",
         "intro": "Lugares donde la intuición geográfica desafía la lógica: puntos donde viajar al sur te lleva al norte o zonas horarias que saltan días."
       },
       "fr": {
-        "title": "Paradoxes Géographiques et Anomalies Cartographiques",
+        "title": "Paradoxes Géographiques",
         "description": "Enquêtes sur les contre-intuitions spatiales, déformations de fuseaux horaires et énigmes cartographiques mondiales.",
         "intro": "Quand la réalité géographique défie le bon sens : découvrez ces lieux étranges où les points cardinaux et le temps bousculent la logique."
       },
       "de": {
-        "title": "Geographische Paradoxien & Kartographische Kuriositäten",
+        "title": "Geografische Paradoxien",
         "description": "Untersuchung von räumlichen Paradoxien, Zeitzonenverzerrungen und verblüffenden cartographischen Kuriositäten.",
         "intro": "Entdecken Sie Orte, an denen der gesunde Menschenverstand scheitert: wenn die Reise nach Süden nach Norden führt oder Zeitzonen Tage überspringen."
       },
       "pt": {
-        "title": "Paradoxos Geográficos e Anomalias Cartográficas",
+        "title": "Paradoxos Geográficos",
         "description": "Investigações sobre contra-intuições espaciais, distorções de fusos horários e paradoxos de navegação territorial.",
         "intro": "Lugares onde a intuição espacial não se aplica: regiões onde navegar para o sul leva a um país ao norte ou fusos que pulam dias inteiros."
       },
       "it": {
-        "title": "Paradossi Geografici e Anomalie Cartografiche",
+        "title": "Paradossi Geografici",
         "description": "Indagini su contro-intuizioni spaziali, distorsioni dei fusi orari e anomalie di confine che sfidano la logica.",
         "intro": "Esplora i luoghi in cui la geografia convenzionale crolla: rotte inaspettate, fusi orari paradossali e confini contorti."
       },
       "nl": {
-        "title": "Geografische Paradoxen & Cartografische Anomieën",
+        "title": "Geografische Paradoxen",
         "description": "Onderzoek naar ruimtelijke tegenstrijdigheden, tijdzonevervormingen en navigatieparadoxen op aarde.",
         "intro": "Ontdek plekken waar geografische logica op zijn kop staat: waar reizen naar het zuiden noordwaarts leidt of tijdzones dagen overslaan."
       },
       "sv": {
-        "title": "Geografiska Paradoxer & Kartografiska Anomalier",
+        "title": "Geografiska Paradoxer",
         "description": "Undersökning av rumsliga kontraintuitioner, tidszonsförvrängningar och häpnadsväckande kartografiska paradoxer.",
         "intro": "Platser där vanlig geografisk intuition inte gäller: områden där man reser söderut till ett nordligt land eller hoppar över dygn."
       },
       "tr": {
-        "title": "Coğrafi Paradokslar ve Harita Anomalileri",
+        "title": "Coğrafi Paradokslar",
         "description": "Mekânsal yanılsamalar, saat dilimi çarpıklıkları ve haritalardaki en şaşırtıcı sınır paradoksları üzerine araştırmalar.",
         "intro": "Coğrafi mantığın sınırlarını zorlayan yerler: güneye gidildiğinde kuzeydeki bir ülkeye varılan noktalar ve gün atlayan saat dilimleri."
       },
       "ar": {
-        "title": "المفارقات الجغرافية والشذوذ الكارتوغرافي",
+        "title": "مفارقات جغرافية",
         "description": "استكشاف المفارقات المكانية غير البديهية، وتداخل المناطق الزمنية، وحدود الخرائط التي تتحدى المنطق المألوف.",
         "intro": "أماكن تنهار فيها البديهيات الجغرافية المعتادة: مواقع تسافر فيها جنوباً لتجد نفسك في بلد شمالي، ومناطق زمنية تتجاوز أياماً كاملة."
       }
@@ -586,52 +586,52 @@
     "extremes": {
       "slug": "extremes",
       "en": {
-        "title": "Earth Extremes: Poles of Inaccessibility & Planetary Limits",
+        "title": "Earth Extremes",
         "description": "Expeditions to the hottest, coldest, driest, most isolated, and geologically violent frontiers of planet Earth.",
         "intro": "Documenting human survival, scientific stations, and severe natural phenomena at the outer thresholds of our biosphere."
       },
       "es": {
-        "title": "Extremos de la Tierra: Polos de Inaccesibilidad y Límites",
+        "title": "Extremos de la Tierra",
         "description": "Expediciones a los puntos más calurosos, fríos, secos y aislados de la biosfera planetaria.",
         "intro": "La vida en las fronteras extremas de la Tierra: estaciones científicas y ecosistemas que desafían los límites humanos."
       },
       "fr": {
-        "title": "Extrêmes de la Terre : Pôles d’Inaccessibilité et Limites",
+        "title": "Extrêmes de la Terre",
         "description": "Expéditions aux frontières des records climatiques : les lieux les plus chauds, froids, secs et inaccessibles de la Terre.",
         "intro": "Explorez la survie humaine et les conditions climatiques extrêmes aux confins absolus de notre biosphère."
       },
       "de": {
-        "title": "Extreme der Erde: Unzugänglichkeit & Planetare Grenzwerte",
+        "title": "Extreme der Erde",
         "description": "Expeditionen zu den heißesten, kältesten, trockensten und isoliertesten Orten unseres Planeten.",
         "intro": "Einblicke in menschliches Überleben, Forschungsstationen und extreme Naturgewalten an den Grenzen der bewohnbaren Welt."
       },
       "pt": {
-        "title": "Extremos da Terra: Polos de Inacessibilidade e Limites Globais",
+        "title": "Extremos da Terra",
         "description": "Expedições aos locais mais quentes, frios, secos, isolados e inóspitos do planeta Terra.",
         "intro": "Documentando a resiliência humana, estações científicas e paisagens severas nos limiares extremos da nossa biosfera."
       },
       "it": {
-        "title": "Estremi della Terra: Poli di Inaccessibilità e Confini Naturali",
+        "title": "Estremi della Terra",
         "description": "Spedizioni nei luoghi più caldi, freddi, aridi e isolati del pianeta, al limite della sopravvivenza umana.",
         "intro": "Viaggio tra le frontiere più estreme della biosfera: basi scientifiche isolate ed ecosistemi al limite del possibile."
       },
       "nl": {
-        "title": "Uitersten der Aarde: Polen van Ontoegankelijkheid & Extremen",
+        "title": "Extremen der Aarde",
         "description": "Expedities naar de heetste, koudste, droogste en meest afgelegen plekken op onze planeet.",
         "intro": "Ontdek hoe de mens en de natuur overleven op de meest onherbergzame en geïsoleerde uitersten van de aarde."
       },
       "sv": {
-        "title": "Jordens Ytterligheter: Otillgänglighetspoler & Extremer",
+        "title": "Jordens Extremer",
         "description": "Expeditioner till världens varmaste, kallaste, torraste och mest isolerade platser vid biosfärens gränser.",
         "intro": "En djupdykning i mänsklig överlevnad, polarstationer och naturkrafter vid planetens mest extrema gränsland."
       },
       "tr": {
-        "title": "Dünya Ekstremleri: Erişilemezlik Kutupları ve Uç Noktalar",
+        "title": "Dünyanın Uç Noktaları",
         "description": "Dünya’nın en sıcak, en soğuk, en kurak ve en izole sınırlarına yapılan coğrafi keşifler.",
         "intro": "Biyosferimizin sınırlarında hayatta kalma mücadelelerini, bilimsel üsleri ve aşırı doğa olaylarını keşfedin."
       },
       "ar": {
-        "title": "أقصى بقاع الأرض: أقطاب العزلة والحدود الطبيعية القصوى",
+        "title": "أقصى نقاط الأرض",
         "description": "رحلات استكشافية إلى أكثر الأماكن حرارة وبرودة وجفافاً وعزلة على سطح كوكب الأرض.",
         "intro": "توثيق دقيق لتجارب البقاء البشري والمحطات العلمية والظواهر الطبيعية القاسية عند التخوم القصوى للغلاف الحيوي."
       }
@@ -639,52 +639,52 @@
     "borders": {
       "slug": "borders",
       "en": {
-        "title": "Borders, Frontiers & Geopolitical Enclaves",
+        "title": "Borders & Enclaves",
         "description": "Field studies on complex enclaves, counter-enclaves, tripoints, neutral zones, and disputed demarcation lines.",
         "intro": "Unravel the historical treaties, cartographic accidents, and territorial disputes behind Earth’s most bizarre borders."
       },
       "es": {
-        "title": "Fronteras, Enclaves y Límites Geopolíticos",
+        "title": "Fronteras y Enclaves",
         "description": "Estudios de campo sobre enclaves complejos, contranclaves, trifinios y líneas de demarcación en disputa.",
         "intro": "Tratados históricos y accidentes cartográficos detrás de las fronteras más extrañas e intrigantes de la Tierra."
       },
       "fr": {
-        "title": "Frontières, Enclaves et Lignes de Démarcation",
+        "title": "Frontières & Enclaves",
         "description": "Analyses des enclaves enchevêtrées, tripoints internationaux, zones tampons et tracés frontaliers singuliers.",
         "intro": "Découvrez les traités séculaires et les curiosités cartographiques à l’origine des frontières les plus complexes du monde."
       },
       "de": {
-        "title": "Grenzen, Enklaven & Geopolitische Demarkationslinien",
+        "title": "Grenzen & Enklaven",
         "description": "Untersuchungen zu komplexen Enklaven, Dreiländerecken, neutralen Zonen und bizarren Grenzverläufen.",
         "intro": "Erforschen Sie historische Verträge und kartographische Kuriositäten hinter den verwickeltsten Grenzen der Erde."
       },
       "pt": {
-        "title": "Fronteiras, Enclaves e Demarcações Geopolíticas",
+        "title": "Fronteiras e Enclaves",
         "description": "Estudos de campo sobre enclaves complexos, contra-enclaves, trifínios e fronteiras internacionais disputadas.",
         "intro": "Tratados históricos e acidentes cartográficos por trás das fronteiras mais bizarras e fascinantes da Terra."
       },
       "it": {
-        "title": "Frontiere, Enclave e Confini Geopolitici",
+        "title": "Confini ed Enclavi",
         "description": "Studi su enclave complesse, triplici frontiere, zone franche e insoliti tracciati di confine nel mondo.",
         "intro": "I trattati storici e gli errori cartografici che hanno dato vita ai confini più incredibili e frammentati del pianeta."
       },
       "nl": {
-        "title": "Grenzen, Enclaves & Geopolitieke Scheidslijnen",
+        "title": "Grenzen & Enclaves",
         "description": "Veldstudies naar complexe enclaves, tegen-enclaves, drielandenpunten en betwiste demarcatielijnen.",
         "intro": "Ontrafel de historische verdragen en cartografische toevalligheden achter de meest bizarre grenzen op aarde."
       },
       "sv": {
-        "title": "Gränser, Enklaver & Geopolitiska Demarkationslinjer",
+        "title": "Gränser & Enklaver",
         "description": "Fältstudier av komplexa enklaver, trippelgränspunkter, buffertzoner och märkliga gränsdragningar.",
         "intro": "Historiska fördrag och kartografiska gåtor bakom världens mest intrikata och förbryllande nationsgränser."
       },
       "tr": {
-        "title": "Sınırlar, Anklavlar ve Jeopolitik Hatlar",
+        "title": "Sınırlar ve Enklavlar",
         "description": "Karmaşık anklavlar, üçlü sınır noktaları, tarafsız bölgeler ve tartışmalı sınır hatları üzerine incelemeler.",
         "intro": "Tarihi antlaşmaların ve harita tuhaflıklarının yarattığı dünyanın en karmaşık sınırlarını keşfedin."
       },
       "ar": {
-        "title": "الحدود الدولية والجيوب والخطوط الجيوسياسية",
+        "title": "الحدود والجيوب",
         "description": "دراسات ميدانية حول الجيوب الداخلية المعقدة، والنقاط الحدودية الثلاثية، والمناطق منزوعة السلاح والحدود المتنازع عليها.",
         "intro": "اكتشف المعاهدات التاريخية والأخطاء الخرائطية التي صنعت أغرب وأعقد الحدود السياسية على وجه الأرض."
       }
@@ -692,52 +692,52 @@
     "micronations": {
       "slug": "micronations",
       "en": {
-        "title": "Micronations, Self-Declared States & Territorial Experiments",
+        "title": "Micronations",
         "description": "Investigations into unrecognized sovereignty claims, offshore platform principalities, and utopian micro-republics.",
         "intro": "From Sealand to Liberland, explore the legal ambiguities, philosophical manifestos, and eccentric sovereignty projects of self-declared states."
       },
       "es": {
-        "title": "Micronaciones y Proyectos de Soberanía Autoproclamada",
+        "title": "Micronaciones",
         "description": "Investigaciones sobre reclamaciones de soberanía no reconocidas, plataformas marinas y micro-repúblicas utópicas.",
         "intro": "De Sealand a Liberland, examina las ambigüedades jurídicas y experimentos de soberanía más singulares del mundo."
       },
       "fr": {
-        "title": "Micronations, États Autoproclamés et Expériences Territoriales",
+        "title": "Micronations",
         "description": "Enquêtes sur les entités non reconnues, principautés sur plateformes marines et micro-républiques utopiques.",
         "intro": "De Sealand à Liberland, explorez les failles juridiques et les projets insolites de souveraineté autoproclamée."
       },
       "de": {
-        "title": "Mikronationen & Selbsternannte Staaten",
+        "title": "Mikronationen",
         "description": "Berichte über völkerrechtlich nicht anerkannte Staaten, Offshore-Fürstentümer und utopische Mikronationen.",
         "intro": "Von Sealand bis Liberland: Entdecken Sie juristische Schlupflöcher und faszinierende Unabhängigkeitsprojekte."
       },
       "pt": {
-        "title": "Micronações e Estados Autoproclamados",
+        "title": "Micronações",
         "description": "Investigações sobre soberanias não reconhecidas, principados marítimos e microrrepúblicas experimentais.",
         "intro": "De Sealand a Liberland, explore as brechas jurídicas e os projetos excêntricos de independência territorial."
       },
       "it": {
-        "title": "Micronazioni e Stati Autoproclamati",
+        "title": "Micronazioni",
         "description": "Inchieste su stati non riconosciuti, principati su piattaforme marine e micro-repubbliche utopiche.",
         "intro": "Da Sealand a Liberland: un viaggio tra audaci rivendicazioni legali, manifesti utopici ed esperimenti sovrani."
       },
       "nl": {
-        "title": "Micronaties & Zelfverklaarde Staten",
+        "title": "Micronaties",
         "description": "Onderzoek naar niet-erkende soevereiniteitsclaims, boorplatform-vorstendommen en utopische microrepublieken.",
         "intro": "Van Sealand tot Liberland: ontdek de juridische mazen in de wet en excentrieke onafhankelijkheidsprojecten."
       },
       "sv": {
-        "title": "Mikronationer & Självutropade Stater",
+        "title": "Mikronationer",
         "description": "Granskningar av icke-erkända stater, självutnämnda furstendömen och utopiska territoriella experiment.",
         "intro": "Från Sealand till Liberland: utforska juridiska kryphål och säregna projekt för nationellt självbestämmande."
       },
       "tr": {
-        "title": "Mikrouluslar ve Kendi Kendini İlan Eden Devletler",
+        "title": "Mikro Uluslar",
         "description": "Tanınmayan egemenlik iddiaları, açık deniz platform prenslikleri ve ütopik mikro cumhuriyetler üzerine dosyalar.",
         "intro": "Sealand’den Liberland’e kadar yasal boşlukları ve sıra dışı bağımsızlık projelerini keşfedin."
       },
       "ar": {
-        "title": "الدول المجهرية والكيانات ذات السيادة الذاتية المعلنة",
+        "title": "دول مجهرية",
         "description": "تحقيقات حول مطالبات السيادة غير المعترف بها دولياً، وإمارات المنصات البحرية، والتجارب الطوباوية للدول المصغرة.",
         "intro": "من سيلاند إلى ليبرلاند، استكشف الثغرات القانونية والمشاريع الغريبة لإعلان السيادة والاستقلال الإقليمي."
       }
@@ -745,52 +745,52 @@
     "abandoned": {
       "slug": "abandoned",
       "en": {
-        "title": "Ghost Towns, Modern Ruins & Abandoned Settlements",
+        "title": "Ghost Towns & Ruins",
         "description": "Field dispatches from deserted mining towns, irradiated exclusion zones, forgotten desert outposts, and reclaimed architecture.",
         "intro": "Walk through silent streets, decaying industrial complexes, and settlements suddenly frozen in time by economic collapse or disaster."
       },
       "es": {
-        "title": "Pueblos Fantasma, Ruinas Modernas y Asentamientos Abandonados",
+        "title": "Pueblos Fantasma",
         "description": "Expediciones a pueblos mineros desiertos, zonas de exclusión nuclear y asentamientos congelados en el tiempo.",
         "intro": "Camina por calles desiertas y complejos industriales devorados por la naturaleza tras colapsos económicos o desastres."
       },
       "fr": {
-        "title": "Villes Fantômes, Ruines Modernes et Lieux Abandonnés",
+        "title": "Villes Fantômes",
         "description": "Explorations de cités minières désertes, zones d’exclusion et vestiges urbains figés dans le temps.",
         "intro": "Pénétrez dans le silence des villes abandonnées, où la nature reprend ses droits sur les décombres de l’industrie."
       },
       "de": {
-        "title": "Geisterstädte, Moderne Ruinen & Verlassene Orte",
+        "title": "Geisterstädte & Ruinen",
         "description": "Reportagen aus verlassenen Bergbausiedlungen, Sperrzonen und vergessenen Relikten der Industriegeschichte.",
         "intro": "Erkunden Sie stille Straßen und verfallene Siedlungen, die durch Katastrophen oder wirtschaftlichen Wandel erstarrt sind."
       },
       "pt": {
-        "title": "Cidades-Fantasma, Ruínas Modernas e Lugares Abandonados",
+        "title": "Cidades-Fantasma",
         "description": "Expedições a vilas mineradoras desertas, zonas de exclusão e povoações congeladas no tempo.",
         "intro": "Caminhe por ruas silenciosas e complexos industriais tomados pela vegetação após catástrofes ou abandono econômico."
       },
       "it": {
-        "title": "Città Fantasma, Rovine Moderne e Luoghi Abbandonati",
+        "title": "Città Fantasma & Rovine",
         "description": "Reportage da villaggi minerari deserti, zone di esclusione nucleare e insediamenti dimenticati dal tempo.",
         "intro": "Un itinerario silenzioso tra strade deserte e architetture industriali riconquistate dalla natura selvaggia."
       },
       "nl": {
-        "title": "Spooksteden, Moderne Ruïnes & Verlaten Nederzettingen",
+        "title": "Spooksteden & Ruïnes",
         "description": "Verslagen uit verlaten mijnstadjes, radioactieve uitsluitingszones en vergeten nederzettingen wereldwijd.",
         "intro": "Dwaal door verlaten straten en vervallen industriële complexen die door economische neergang of rampen zijn achtergelaten."
       },
       "sv": {
-        "title": "Spökstäder, Moderna Ruiner & Övergivna Platser",
+        "title": "Spökstäder & Ruiner",
         "description": "Fältrapporter från övergivna gruvstäder, strålningszoner och bosättningar som frusit i tiden.",
         "intro": "Vandra genom tysta gator och förfallna industriminnen där naturen långsamt återtar det människan lämnat."
       },
       "tr": {
-        "title": "Hayalet Şehirler, Modern Harabeler ve Terk Edilmiş Yerler",
+        "title": "Hayalet Kasabalar",
         "description": "Terk edilmiş maden kasabaları, nükleer tahliye bölgeleri ve zamanın donup kaldığı unutulmuş yerleşimler.",
         "intro": "Ekonomik çöküş veya felaketler sonucu terk edilen sessiz sokakları ve doğanın geri aldığı yapıları inceleyin."
       },
       "ar": {
-        "title": "مدن الأشباح والأطلال المعاصرة والمستوطنات المهجورة",
+        "title": "مدن الأشباح والأنقاض",
         "description": "تحقيقات ميدانية في مدن التعدين المهجورة، والمناطق المعزولة، والمستوطنات التي تجمد فيها الزمن فجأة.",
         "intro": "جولة عبر الشوارع المهجورة والمجمعات الصناعية المتهالكة التي استعادتها الطبيعة بعد الكوارث أو الانهيارات الاقتصادية."
       }
@@ -798,52 +798,52 @@
     "enigmas": {
       "slug": "enigmas",
       "en": {
-        "title": "Earth Enigmas & Unexplained Geographic Mysteries",
+        "title": "Earth Enigmas",
         "description": "Investigative dossiers on magnetic anomalies, acoustic desert dunes, disappearing lakes, and mysterious terrain markings.",
         "intro": "Scrutinizing anomalous planetary phenomena where science, geology, and history intersect at the boundaries of explanation."
       },
       "es": {
-        "title": "Enigmas de la Tierra y Misterios Geográficos",
+        "title": "Enigmas de la Tierra",
         "description": "Dossiers sobre anomalías magnéticas, dunas sonoras, lagos que desaparecen y extrañas marcas terrestres.",
         "intro": "Examinando fenómenos planetarios inexplicables donde la ciencia, la geología y la leyenda se entrelazan."
       },
       "fr": {
-        "title": "Énigmes de la Terre et Mystères Géographiques",
+        "title": "Énigmes de la Terre",
         "description": "Dossiers sur les anomalies magnétiques, dunes chantantes, lacs éphémères et motifs géologiques mystérieux.",
         "intro": "Une analyse rigoureuse des anomalies terrestres où la géologie et l’histoire défient encore la science contemporaine."
       },
       "de": {
-        "title": "Rätsel der Erde & Unerklärliche Geographische Phänomene",
+        "title": "Rätsel der Erde",
         "description": "Analysen magnetischer Anomalien, singender Wüstendünen, verschwindender Seen und geheimnisvoller Bodenspuren.",
         "intro": "Wissenschaftliche Untersuchungen planetarer Rätsel an den Grenzen unseres geologischen Verständnisses."
       },
       "pt": {
-        "title": "Enigmas da Terra e Mistérios Geográficos",
+        "title": "Enigmas da Terra",
         "description": "Dossiês sobre anomalias magnéticas, dunas cantantes, lagos que desaparecem e marcas enigmáticas na paisagem.",
         "intro": "Examinando fenômenos anômalos onde geologia, física e história se encontram nas fronteiras do inexplicado."
       },
       "it": {
-        "title": "Enigmi della Terra e Misteri Geografici",
+        "title": "Enigmi della Terra",
         "description": "Inchieste su anomalie magnetiche, dune sonore, laghi che svaniscono e formazioni geologiche misteriose.",
         "intro": "Un’indagine sui fenomeni planetari più enigmatici, al confine tra spiegazione scientifica e mistero naturale."
       },
       "nl": {
-        "title": "Raadsels der Aarde & Onverklaarbare Geografische Mysteries",
+        "title": "Raadsels der Aarde",
         "description": "Onderzoek naar magnetische anomalieën, zingende zandduinen, verdwijnende meren en mysterieuze landpatronen.",
         "intro": "Wetenschappelijke verkenning van uitzonderlijke fenomenen die onze kennis van de aarde blijven uitdagen."
       },
       "sv": {
-        "title": "Jordens Gåtor & Oförklarliga Geografiska Mysterier",
+        "title": "Jordens Gåtor",
         "description": "Granskningar av magnetiska anomalier, sjungande dyner, försvinnande sjöar och märkliga landskapsmönster.",
         "intro": "En undersökning av planetära anomalier där vetenskap och geologi möter naturens mest svårförklarade gåtor."
       },
       "tr": {
-        "title": "Dünya Gizemleri ve Açıklanamayan Coğrafi Olaylar",
+        "title": "Dünya Gizemleri",
         "description": "Manyetik anomaliler, şarkı söyleyen kum tepeleri, kaybolan göller ve yeryüzündeki gizemli izler üzerine araştırmalar.",
         "intro": "Bilim, jeoloji ve doğanın sınırlarında açıklanmayı bekleyen en esrarengiz küresel olayları keşfedin."
       },
       "ar": {
-        "title": "ألغاز الأرض والأسرار الجغرافية غير المفسرة",
+        "title": "ألغاز الأرض",
         "description": "ملفات استقصائية حول الشذوذ المغناطيسي، والكثبان الرملية المغردة، والبحيرات المختفية، والتشكيلات الأرضية الغامضة.",
         "intro": "بحث علمي دقيق في الظواهر الكوكبية الشاذة حيث تلتقي الجيولوجيا والفيزياء عند حدود التفسير العلمي المعاصر."
       }
@@ -851,52 +851,52 @@
     "indigenous": {
       "slug": "indigenous",
       "en": {
-        "title": "Indigenous Peoples, Ancestral Lands & Cultural Sovereignty",
+        "title": "Indigenous Lands",
         "description": "Field studies on isolated tribes, customary land rights, linguistic heritage, and ancient stewardship systems.",
         "intro": "Highlighting the customary wisdom, territorial self-determination, and ecological knowledge of the world’s first peoples."
       },
       "es": {
-        "title": "Pueblos Indígenas, Tierras Ancestrales y Soberanía Cultural",
+        "title": "Tierras Indígenas",
         "description": "Estudios de campo sobre comunidades originarias, derechos territoriales consuetudinarios y lenguas milenarias.",
         "intro": "Conoce la sabiduría ancestral, autodeterminación territorial y custodia ecológica de los pueblos originarios del mundo."
       },
       "fr": {
-        "title": "Peuples Autochtones, Terres Ancestrales et Souveraineté Culturelle",
+        "title": "Terres Autochtones",
         "description": "Analyses des droits fonciers coutumiers, patrimoines linguistiques et systèmes ancestraux de gouvernance écologique.",
         "intro": "Un hommage aux savoirs écologiques traditionnels et à la résilience culturelle des premiers peuples de la planète."
       },
       "de": {
-        "title": "Indigene Völker, Ahnenerbe & Kulturelle Souveränität",
+        "title": "Indigene Gebiete",
         "description": "Untersuchungen über traditionelle Landrechte, bedrohte Sprachen und uralte ökologische Schutzsysteme.",
         "intro": "Einblicke in die Weisheit, Selbstbestimmung und das nachhaltige Naturverständnis indigener Gemeinschaften weltweit."
       },
       "pt": {
-        "title": "Povos Indígenas, Terras Ancestrais e Soberania Cultural",
+        "title": "Terras Indígenas",
         "description": "Estudos sobre direitos territoriais originários, salvaguarda linguística e saberes ecológicos tradicionais.",
         "intro": "Destacando a sabedoria ancestral, a autodeterminação e o papel dos povos indígenas como guardiões da biodiversidade."
       },
       "it": {
-        "title": "Popoli Indigeni, Terre Ancestrali e Sovranità Culturale",
+        "title": "Terre Indigene",
         "description": "Studi su diritti territoriali tradizionali, salvaguardia delle lingue madri e gestione ecologica millenaria.",
         "intro": "Un approfondimento sulla sapienza ecologica, l’autodeterminazione e la memoria storica dei popoli nativi della Terra."
       },
       "nl": {
-        "title": "Inheemse Volkeren, Voorouderlijke Gronden & Culturele Soevereiniteit",
+        "title": "Inheemse Gebieden",
         "description": "Veldstudies naar inheemse landrechten, taalerfgoed en traditioneel ecologisch beheer van kwetsbare ecosystemen.",
         "intro": "Aandacht voor de voorouderlijke kennis, zelfbeschikking en het natuurbeschermerschap van inheemse volkeren."
       },
       "sv": {
-        "title": "Ursprungsfolk, Traditionella Marker & Kulturell Suveränitet",
+        "title": "Ursprungsländer",
         "description": "Fältstudier om urfolks territoriella rättigheter, språkliga kulturarv och traditionell ekologisk förvaltning.",
         "intro": "Belyser den traditionella visdomen, självbestämmandet och miljöskyddet hos jordens ursprungliga befolkningar."
       },
       "tr": {
-        "title": "Yerli Halklar, Ata Toprakları ve Kültürel Egemenlik",
+        "title": "Yerli Toprakları",
         "description": "Geleneksel toprak hakları, nesli tükenmekte olan diller ve yerli toplulukların ekolojik koruma bilgeliği.",
         "intro": "Dünyanın ilk halklarının kadim bilgeliğini, bölgesel kendi kaderini tayin hakkını ve çevre koruyuculuğunu keşfedin."
       },
       "ar": {
-        "title": "الشعوب الأصلية والأراضي التاريخية والسيادة الثقافية",
+        "title": "أراضي الشعوب الأصلية",
         "description": "دراسات حول حقوق الأراضي العرفية، وحماية التراث اللغوي، والأنظمة البيئية المتوارثة للشعوب الأصلية حول العالم.",
         "intro": "إبراز الحكمة البيئية المتوارثة، وحق تقرير المصير الثقافي، ودور الشعوب الأصلية في حماية التنوع الحيوي لكوكبنا."
       }
