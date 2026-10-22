@@ -177,10 +177,15 @@ const getNormalizedPost = async (post: CollectionEntry<'post'>): Promise<Post> =
     isTranslation = false;
   }
 
-  const category = rawCategory
+  const catSlug = rawCategory ? resolveCategorySlug(rawCategory) : undefined;
+  const category = rawCategory && catSlug
     ? {
-        slug: resolveCategorySlug(rawCategory),
-        title: rawCategory,
+        slug: catSlug,
+        title: OPEN_WORLD_CATEGORIES[catSlug]?.title ||
+          rawCategory
+            .replace(/[-_]+/g, ' ')
+            .replace(/\b[a-z]/g, (c) => c.toUpperCase())
+            .trim(),
       }
     : undefined;
 

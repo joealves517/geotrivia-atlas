@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:36:21.645Z
-title: "Le Marteau de Thor : Le pilier arctique de deux tonnes pris pour une relique viking"
+title: "Le pilier arctique de deux tonnes pris pour une relique viking"
 excerpt: "À vingt-cinq kilomètres en amont de Kangirsuk, un pilier de pierre de 1 800 kilos domine la toundra du Québec et oppose mythe viking et génie inuit."
 image: "~/assets/images/atlas/hammer-of-thor-monument-hero.webp"
 imageAlt: "Silhouette and proportions of the Hammer of Thor inuksuk stone monument along the Arnaud River in the Ungava Peninsula, Quebec"

@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "Blythe İntaglyoları: Gökyüzünün Bakışları İçin Çöle Kazınan 52 Metrelik Devler"
+title: "Gökyüzünün Bakışları İçin Çöle Kazınan 52 Metrelik Devler"
 excerpt: "Colorado Çölü'nün çakıllarına kazınmış, boyları 52 metreyi bulan dev figürler yalnızca gökyüzünden bakıldığında şekil kazanıyor."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"

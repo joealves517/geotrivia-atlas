@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "Korala: The 15,000-Foot Valley That Is the Lowest Gap in the Himalayas"
+title: "The 15,000-Foot Valley That Formed the Lowest Gateway in the Himalayas"
 excerpt: "At 15,290 feet, Korala is an extreme mountain notch—yet it remains the lowest drivable gateway between the Tibetan Plateau and the Indian subcontinent."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "Blythe Intaglio's: De woestijnreuzen van 52 meter gemaakt voor het oog van de hemel"
+title: "De woestijnreuzen van 52 meter gemaakt voor het oog van de hemel"
 excerpt: "In het grind van de Colorado-woestijn liggen giganten tot 52 meter lang, ontworpen om alleen vanuit de hemel te worden aanschouwd."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"

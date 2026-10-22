@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "Korala: O vale a 4.660 metros que é a passagem mais baixa do Himalaia"
+title: "O vale a 4.660 metros que é a passagem mais baixa do Himalaia"
 excerpt: "A 4.660 metros de altitude, Korala parece inóspito e vertiginoso, mas constitui o colo transitável mais baixo entre o Tibete e o subcontinente indiano."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

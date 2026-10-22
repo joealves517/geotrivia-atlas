@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:36:21.645Z
-title: "El Martillo de Thor: El pilar ártico de dos toneladas confundido con una reliquia vikinga"
+title: "El pilar ártico de dos toneladas confundido con una reliquia vikinga"
 excerpt: "A veinticinco kilómetros río arriba de Kangirsuk, un pilar de piedra de 1.800 kilos domina la tundra de Quebec entre el mito vikingo y la obra inuit."
 image: "~/assets/images/atlas/hammer-of-thor-monument-hero.webp"
 imageAlt: "Silhouette and proportions of the Hammer of Thor inuksuk stone monument along the Arnaud River in the Ungava Peninsula, Quebec"

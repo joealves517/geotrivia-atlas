@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "نقوش بلايث: عمالقة الصحراء بطول 52 متراً المنحوتة لأنظار السماء"
+title: "عمالقة الصحراء بطول 52 متراً المنحوتة لأنظار السماء"
 excerpt: "محفورة في حصى صحراء كولورادو ترقد مجسمات عملاقة يصل طولها إلى 52 متراً، صُممت لتُرى حصراً من عنان السماء."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"

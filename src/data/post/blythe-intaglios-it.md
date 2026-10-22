@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "Intagli di Blythe: I giganti del deserto di 52 metri scolpiti per il cielo"
+title: "I giganti del deserto di 52 metri scolpiti per il cielo"
 excerpt: "Incisi nella ghiaia del deserto del Colorado, colossi lunghi fino a 52 metri svelano la loro forma solo a chi li osserva dal cielo."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"

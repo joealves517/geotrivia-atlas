@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "Korala: De 4.660 meter hoge vallei die de laagste bres in de Himalaya vormt"
+title: "De 4.660 meter hoge vallei die de laagste bres in de Himalaya vormt"
 excerpt: "Op 4.660 meter hoogte lijkt Korala extreem hoog, maar het is de laagste berijdbare doorgang tussen het Tibetaans Plateau en het Indiase subcontinent."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

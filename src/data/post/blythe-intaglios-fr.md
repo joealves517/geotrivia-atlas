@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "Intailles de Blythe : Les géants de 52 mètres tracés pour le regard du ciel"
+title: "Les géants de 52 mètres tracés pour le regard du ciel"
 excerpt: "Gravés dans les graviers du désert du Colorado, des géants mesurant jusqu'à 52 mètres ne révèlent leurs formes qu'aux regards venus du ciel."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"

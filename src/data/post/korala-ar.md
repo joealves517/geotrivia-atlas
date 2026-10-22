@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "كورالا: الوادي الواقع على ارتفاع 4660 متراً والذي يشكل أدنى ممر في الهيمالايا"
+title: "الوادي الواقع على ارتفاع 4660 متراً والذي يشكل أدنى ممر في الهيمالايا"
 excerpt: "على ارتفاع 4660 متراً، تبدو كورالا شديدة الارتفاع، لكنها تظل أدنى ممر طبيعي صالح لحركة المركبات بين هضبة التبت وشبه القارة الهندية."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

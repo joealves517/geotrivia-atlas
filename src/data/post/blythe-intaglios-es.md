@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "Intaglios de Blythe: Los colosos de 52 metros esculpidos para la mirada del cielo"
+title: "Los colosos de 52 metros esculpidos para la mirada del cielo"
 excerpt: "Trazadas en la grava del desierto de Colorado yacen colosales figuras de hasta 52 metros, concebidas para ser contempladas únicamente desde el cielo."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"

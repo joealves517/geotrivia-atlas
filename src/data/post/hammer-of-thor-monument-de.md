@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:36:21.645Z
-title: "Thors Hammer: Die zwei Tonnen schwere Arktis-Säule, die für ein Wikingerrelikt gehalten wurde"
+title: "Die zwei Tonnen schwere Arktis-Säule, die für ein Wikingerrelikt gehalten wurde"
 excerpt: "Sechzehn Meilen flussaufwärts von Kangirsuk ragt eine 1.800 Kilogramm schwere Steinsäule über die Tundra Québecs und entfacht ein Rätsel der Arktis."
 image: "~/assets/images/atlas/hammer-of-thor-monument-hero.webp"
 imageAlt: "Silhouette and proportions of the Hammer of Thor inuksuk stone monument along the Arnaud River in the Ungava Peninsula, Quebec"

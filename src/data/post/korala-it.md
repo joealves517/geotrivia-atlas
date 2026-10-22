@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "Korala: La valle a 4.660 metri che rappresenta il valico più basso dell'Himalaya"
+title: "La valle a 4.660 metri che rappresenta il valico più basso dell'Himalaya"
 excerpt: "A 4.660 metri di quota, Korala sembra un abisso d'altitudine, ma è il passaggio carrabile più basso tra l'altopiano tibetano e il subcontinente indiano."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

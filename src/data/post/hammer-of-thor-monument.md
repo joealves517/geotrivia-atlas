@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:36:21.645Z
-title: "Hammer of Thor: The Two-Ton Arctic Pillar Mistaken for a Viking Relic"
+title: "The Two-Ton Arctic Pillar Mistaken for a Viking Relic"
 excerpt: "Sixteen miles upriver from Kangirsuk, a 4,000-pound stone pillar towers over the Quebec tundra, sparking a debate over Vikings and Dorset builders."
 image: "~/assets/images/atlas/hammer-of-thor-monument-hero.webp"
 imageAlt: "Silhouette and proportions of the Hammer of Thor inuksuk stone monument along the Arnaud River in the Ungava Peninsula, Quebec"

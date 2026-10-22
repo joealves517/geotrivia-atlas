@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "Blythe-intaglios: De 52 meter långa ökenjättarna skapade för himlens blick"
+title: "De 52 meter långa ökenjättarna skapade för himlens blick"
 excerpt: "Utskrapade i Coloradoöknens grus vilar upp till 52 meter långa giganter, skapade för att enbart kunna betraktas från skyn."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"

@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "Korala: Den 4 660 meter höga dalen som utgör Himalayas lägsta klyfta"
+title: "Den 4 660 meter höga dalen som utgör Himalayas lägsta klyfta"
 excerpt: "Med sina 4 660 meter verkar Korala extremt högt, men är ändå den lägsta körbara passagen mellan den tibetanska högplatån och den indiska subkontinenten."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

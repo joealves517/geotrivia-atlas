@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "Korala: Himalayalar'ın En Alçak Geçidi Olan 4.660 Metrelik Vadi"
+title: "Himalayalar'ın En Alçak Geçidi Olan 4.660 Metrelik Vadi"
 excerpt: "4.660 metre rakımda Korala baş döndürücü görünse de, Tibet Platosu ile Hint Yarımadası arasındaki araçla geçilebilir en alçak doğal koridordur."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

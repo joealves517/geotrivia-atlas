@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "Korala : La vallée de 4 660 mètres qui constitue la plus basse brèche de l'Himalaya"
+title: "La vallée de 4 660 mètres qui constitue la plus basse brèche de l'Himalaya"
 excerpt: "À 4 660 mètres d'altitude, Korala semble vertigineux, mais demeure le plus bas passage carrossable entre le plateau tibétain et le sous-continent indien."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

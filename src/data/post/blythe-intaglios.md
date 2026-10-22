@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "Blythe Intaglios: The 171-Foot Desert Giants Built for Skyward Eyes"
+title: "The 171-Foot Desert Giants Built for Skyward Eyes"
 excerpt: "Scraped into the sun-scorched gravel of the Colorado Desert lie colossal figures up to 171 feet long, designed to be seen only from the heavens."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"

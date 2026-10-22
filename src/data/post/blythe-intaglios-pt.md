@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "Geoglifos de Blythe: Os gigantes do deserto de 52 metros talhados para o céu"
+title: "Os gigantes do deserto de 52 metros talhados para o céu"
 excerpt: "Entalhados no cascalho do deserto do Colorado, repousam colossos com até 52 metros de comprimento concebidos para serem vistos apenas do céu."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"

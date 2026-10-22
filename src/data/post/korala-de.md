@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "Korala: Das 4.660 Meter hohe Tal als niedrigste Lücke des Himalayas"
+title: "Das 4.660 Meter hohe Tal als niedrigste Lücke des Himalayas"
 excerpt: "Mit 4.660 Metern wirkt Korala extrem hoch – und ist dennoch die am niedrigsten befahrbare Pforte zwischen Tibet und dem indischen Subkontinent."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

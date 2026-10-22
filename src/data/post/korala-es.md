@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-20T14:41:10.438Z
-title: "Korala: El valle a 4.660 metros que es la brecha más baja del Himalaya"
+title: "El valle a 4.660 metros que es la brecha más baja del Himalaya"
 excerpt: "A 4.660 metros, Korala parece inhóspito y altísimo, pero es el paso transitable más bajo entre la meseta tibetana y el subcontinente indio."
 image: "~/assets/images/atlas/korala-hero.webp"
 imageAlt: "Korala mountain pass on the Nepal-Tibet border, marked by Border Pillar 24 and the Himalayan divide"

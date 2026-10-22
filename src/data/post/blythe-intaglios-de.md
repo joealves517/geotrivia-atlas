@@ -1,6 +1,6 @@
 ---
 publishDate: 2026-10-19T13:48:44.122Z
-title: "Blythe-Intaglios: Die 52-Meter-Wüstenriesen für den Blick aus dem Himmel"
+title: "Die 52-Meter-Wüstenriesen für den Blick aus dem Himmel"
 excerpt: "In den Schotter der Colorado-Wüste geschabt, ragen bis zu 52 Meter lange Kolosse auf, die geschaffen wurden, um vom Himmel aus gesehen zu werden."
 image: "~/assets/images/atlas/blythe-intaglios-hero.webp"
 imageAlt: "Blythe Intaglios landscape photography"
