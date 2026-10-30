@@ -41,18 +41,17 @@ export default defineConfig({
     defaultStrategy: 'viewport',
   },
 
-  // Native Fonts API: self-hosts + subsets + preloads Inter and generates
-  // metric-adjusted fallbacks. Injected via <Font /> in Layout.astro and
-  // consumed through the `--font-inter` CSS variable in CustomStyles.astro.
+  // Native Fonts API: self-hosts + subsets + preloads Fredoka matching GeoTrivia app brand
+  // Injected via <Font /> in Layout.astro and consumed through `--font-fredoka` in CustomStyles.astro.
   fonts: [
     {
       provider: fontProviders.fontsource(),
-      name: 'Inter',
-      cssVariable: '--font-inter',
-      weights: ['100 900'],
+      name: 'Fredoka',
+      cssVariable: '--font-fredoka',
+      weights: ['300 700'],
       styles: ['normal'],
       subsets: ['latin'],
-      fallbacks: ['sans-serif'],
+      fallbacks: ['Varela Round', 'Nunito', 'sans-serif'],
     },
   ],
 
