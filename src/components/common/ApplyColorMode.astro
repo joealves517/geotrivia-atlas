@@ -2,7 +2,24 @@
 import { UI } from 'astrowind:config';
 ---
 
+<style is:global>
+  html.is-embedded [data-theme-toggle] {
+    display: none !important;
+  }
+</style>
+
 <script is:inline define:vars={{ defaultTheme: UI.theme || 'system' }}>
+  // Detect embedded context immediately to suppress redundant in-app controls
+  try {
+    const inIframe = window.self !== window.top;
+    const urlParams = new URLSearchParams(window.location.search);
+    if (inIframe || urlParams.get('embedded') === 'true') {
+      document.documentElement.classList.add('is-embedded');
+    }
+  } catch (_e) {
+    document.documentElement.classList.add('is-embedded');
+  }
+
   // Single source of truth for applying the color theme with anti-FOUC support.
   function applyTheme(theme) {
     document.documentElement.classList[theme === 'dark' ? 'add' : 'remove']('dark');

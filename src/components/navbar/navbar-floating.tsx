@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import { AnimatePresence, motion, useReducedMotion } from "motion/react";
-import { ChevronDown, Menu, Search, X, Sun, Moon, Gamepad2 } from "lucide-react";
+import { ChevronDown, Menu, Search, X, Sun, Moon, Globe } from "lucide-react";
 import { cn } from "@/lib/cn";
 import { SPRING_PANEL } from "@/lib/motion-ease";
 import {
@@ -373,19 +373,22 @@ export function NavbarFloating({
             <Search className="size-4" strokeWidth={2.5} />
           </button>
 
-          {/* Theme Toggle Button */}
-          <button
-            type="button"
-            aria-label={t.nav.theme}
-            className="flex h-9 w-9 items-center justify-center rounded-full bg-surface text-chart-muted transition-colors hover:text-foreground cursor-pointer"
-            onClick={toggleTheme}
-          >
-            {isDark ? (
-              <Sun className="size-4 text-amber-400" strokeWidth={2.5} />
-            ) : (
-              <Moon className="size-4" strokeWidth={2.5} />
-            )}
-          </button>
+          {/* Theme Toggle Button (Hidden inside game app) */}
+          {!isEmbedded && (
+            <button
+              type="button"
+              data-theme-toggle
+              aria-label={t.nav.theme}
+              className="flex h-9 w-9 items-center justify-center rounded-full bg-surface text-chart-muted transition-colors hover:text-foreground cursor-pointer"
+              onClick={toggleTheme}
+            >
+              {isDark ? (
+                <Sun className="size-4 text-amber-400" strokeWidth={2.5} />
+              ) : (
+                <Moon className="size-4" strokeWidth={2.5} />
+              )}
+            </button>
+          )}
 
           {/* Primary CTA Button (Only visible on standalone Atlas to drive game conversion) */}
           {!isEmbedded && (
@@ -393,12 +396,12 @@ export function NavbarFloating({
               href="https://geotriviax.com"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label={t.nav.playGame || ctaLabel || "Play Game"}
+              aria-label={t.nav.playGame || ctaLabel || "Explore the World"}
               className="flex h-9 items-center gap-1.5 rounded-full bg-gradient-to-r from-blue-600 via-[#3898ec] to-indigo-600 hover:from-blue-500 hover:to-indigo-500 px-3 sm:px-4 text-xs sm:text-sm font-bold text-white shadow-xs transition-all hover:shadow-md cursor-pointer select-none"
               onClick={onCta}
             >
-              <Gamepad2 className="size-4 shrink-0" strokeWidth={2.2} />
-              <span className="inline">{t.nav.playGame || ctaLabel || "Play Game"}</span>
+              <Globe className="size-4 shrink-0" strokeWidth={2.2} />
+              <span className="inline">{t.nav.playGame || ctaLabel || "Explore the World"}</span>
             </a>
           )}
 

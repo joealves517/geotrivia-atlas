@@ -94,7 +94,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "All Articles",
       search: "Search Articles",
       theme: "Toggle Theme",
-      playGame: "Play Game",
+      playGame: "Explore the World",
       selectLanguage: "Select Language",
     },
     sections: {
@@ -172,7 +172,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "Alle Artikel",
       search: "Artikel durchsuchen",
       theme: "Design umschalten",
-      playGame: "Spiel starten",
+      playGame: "Die Welt erkunden",
       selectLanguage: "Sprache auswählen",
     },
     sections: {
@@ -250,7 +250,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "Todos los Artículos",
       search: "Buscar artículos",
       theme: "Cambiar tema",
-      playGame: "Jugar",
+      playGame: "Explorar el mundo",
       selectLanguage: "Seleccionar idioma",
     },
     sections: {
@@ -328,7 +328,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "Tous les articles",
       search: "Rechercher des articles",
       theme: "Changer de thème",
-      playGame: "Jouer",
+      playGame: "Explorer le monde",
       selectLanguage: "Choisir la langue",
     },
     sections: {
@@ -406,7 +406,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "Tutti gli Articoli",
       search: "Cerca articoli",
       theme: "Cambia tema",
-      playGame: "Gioca",
+      playGame: "Esplora il mondo",
       selectLanguage: "Seleziona lingua",
     },
     sections: {
@@ -484,7 +484,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "Alle Artikelen",
       search: "Artikelen zoeken",
       theme: "Thema wisselen",
-      playGame: "Spelen",
+      playGame: "Ontdek de wereld",
       selectLanguage: "Kies taal",
     },
     sections: {
@@ -562,7 +562,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "Todos os Artigos",
       search: "Pesquisar artigos",
       theme: "Alternar tema",
-      playGame: "Jogar",
+      playGame: "Explorar o mundo",
       selectLanguage: "Selecionar idioma",
     },
     sections: {
@@ -640,7 +640,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "Alla Artiklar",
       search: "Sök artiklar",
       theme: "Växla tema",
-      playGame: "Spela",
+      playGame: "Utforska världen",
       selectLanguage: "Välj språk",
     },
     sections: {
@@ -718,7 +718,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "Tüm Makaleler",
       search: "Makalelerde ara",
       theme: "Temayı değiştir",
-      playGame: "Oyna",
+      playGame: "Dünyayı Keşfet",
       selectLanguage: "Dil seçin",
     },
     sections: {
@@ -796,7 +796,7 @@ export const TRANSLATIONS: Record<SupportedLocale, TranslationDict> = {
       allArticles: "جميع المقالات",
       search: "بحث في المقالات",
       theme: "تبديل المظهر",
-      playGame: "ابدأ اللعب",
+      playGame: "استكشف العالم",
       selectLanguage: "اختر اللغة",
     },
     sections: {

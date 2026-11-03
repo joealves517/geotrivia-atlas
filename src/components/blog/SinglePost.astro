@@ -22,16 +22,16 @@ const t = getTranslation(currentLang);
 const topic = post.imageAlt || post.title.split(':')[0].trim();
 
 const GAME_BTN_I18N: Record<string, string> = {
-  en: 'Play GeoTrivia X Live',
-  de: 'GeoTrivia X live spielen',
-  es: 'Jugar a GeoTrivia X en vivo',
-  fr: 'Jouer à GeoTrivia X en direct',
-  it: 'Gioca a GeoTrivia X dal vivo',
-  nl: 'Speel GeoTrivia X live',
-  pt: 'Jogar GeoTrivia X ao vivo',
-  sv: 'Spela GeoTrivia X live',
-  tr: 'Canlı GeoTrivia X Oyna',
-  ar: 'العب GeoTrivia X مباشرة',
+  en: 'Explore the World',
+  de: 'Die Welt erkunden',
+  es: 'Explorar el mundo',
+  fr: 'Explorer le monde',
+  it: 'Esplora il mondo',
+  nl: 'Ontdek de wereld',
+  pt: 'Explorar o mundo',
+  sv: 'Utforska världen',
+  tr: 'Dünyayı Keşfet',
+  ar: 'استكشف العالم',
 };
 const gameBtnText = GAME_BTN_I18N[currentLang] || GAME_BTN_I18N.en;
 ---
@@ -106,7 +106,7 @@ const gameBtnText = GAME_BTN_I18N[currentLang] || GAME_BTN_I18N.en;
 
       <h1
         id="post-title"
-        class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-bold leading-tighter tracking-tighter font-heading transition-opacity duration-200"
+        class="px-4 sm:px-6 max-w-3xl mx-auto text-4xl md:text-5xl font-semibold leading-tighter tracking-tighter font-heading transition-opacity duration-200"
       >
         {post.title}
       </h1>
@@ -142,7 +142,7 @@ const gameBtnText = GAME_BTN_I18N[currentLang] || GAME_BTN_I18N.en;
     </header>
     <div
       id="post-content"
-      class="mx-auto px-6 sm:px-6 max-w-3xl prose lg:prose-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-bold prose-a:text-primary dark:prose-a:text-blue-400 prose-img:rounded-2xl prose-img:shadow-lg mt-8 prose-headings:scroll-mt-[80px] prose-li:my-0 transition-opacity duration-200"
+      class="mx-auto px-6 sm:px-6 max-w-3xl prose lg:prose-xl dark:prose-invert dark:prose-headings:text-slate-300 prose-headings:font-heading prose-headings:leading-tighter prose-headings:tracking-tighter prose-headings:font-semibold prose-a:text-primary dark:prose-a:text-blue-400 prose-img:rounded-2xl prose-img:shadow-lg mt-8 prose-headings:scroll-mt-[80px] prose-li:my-0 transition-opacity duration-200"
     >
       <slot />
     </div>
@@ -154,12 +154,13 @@ const gameBtnText = GAME_BTN_I18N[currentLang] || GAME_BTN_I18N.en;
     {/* Single clean CTA button linking to main game (below tags) */}
     <div class="mx-auto px-6 sm:px-6 max-w-3xl mt-8 mb-4 flex justify-center">
       <a
+        id="post-bottom-game-btn"
         href="https://geotriviax.com/?utm_source=atlas&utm_medium=post_cta_button"
         target="_blank"
         rel="noopener"
         class="inline-flex items-center gap-2.5 px-6 py-3 rounded-full text-sm sm:text-base font-bold text-white bg-blue-600 hover:bg-blue-700 dark:bg-blue-600 dark:hover:bg-blue-500 shadow-sm hover:shadow-md transition-all cursor-pointer select-none"
       >
-        <Icon name="tabler:device-gamepad-2" class="w-5 h-5 shrink-0" />
+        <Icon name="tabler:world" class="w-5 h-5 shrink-0" />
         <span id="post-bottom-game-btn-text">{gameBtnText}</span>
         <Icon name={currentLang === 'ar' ? "tabler:arrow-left" : "tabler:arrow-right"} class="w-4 h-4 shrink-0" />
       </a>
@@ -349,6 +350,18 @@ const gameBtnText = GAME_BTN_I18N[currentLang] || GAME_BTN_I18N.en;
       const queryLang = new URLSearchParams(window.location.search).get('lang');
       if (queryLang && queryLang !== currentActiveLang) {
         switchLanguage(queryLang);
+      }
+
+      // Handle seamless internal game app navigation when clicking Explore the World inside iframe
+      const gameBtn = document.getElementById('post-bottom-game-btn');
+      if (gameBtn) {
+        gameBtn.addEventListener('click', function(e) {
+          if (typeof window !== 'undefined' && window.self !== window.top) {
+            e.preventDefault();
+            e.stopPropagation();
+            window.parent.postMessage({ type: 'GEOTRIVIA_NAVIGATE', url: '/learn' }, '*');
+          }
+        });
       }
 
       // Event listeners for real-time language switching
