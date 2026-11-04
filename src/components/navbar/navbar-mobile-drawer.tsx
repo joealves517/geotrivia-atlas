@@ -89,7 +89,7 @@ export function NavbarMobileDrawer({
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             transition={{ duration: 0.15 }}
-            className="fixed inset-0 top-16 z-40 bg-black/40 backdrop-blur-2xs lg:hidden"
+            className="fixed inset-0 top-16 z-40 bg-black/50 lg:hidden"
             onClick={onClose}
             aria-hidden="true"
           />
@@ -106,7 +106,7 @@ export function NavbarMobileDrawer({
                 ? { duration: 0 }
                 : { duration: 0.2, ease: [0.16, 1, 0.3, 1] }
             }
-            className="fixed inset-x-0 top-16 z-50 lg:hidden max-h-[calc(100dvh-4rem)] overflow-y-auto overscroll-contain touch-pan-y bg-white/95 dark:bg-[#1a1a1c]/95 backdrop-blur-xl border-b border-border shadow-2xl"
+            className="fixed inset-x-0 top-16 z-50 lg:hidden max-h-[calc(100dvh-4rem)] overflow-y-auto overscroll-contain touch-pan-y bg-white dark:bg-[#121212] border-b border-border shadow-2xl"
             style={{ WebkitOverflowScrolling: "touch" }}
           >
             <div className="w-full max-w-7xl mx-auto px-4 sm:px-6">

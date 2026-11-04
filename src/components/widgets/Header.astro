@@ -20,15 +20,85 @@ const {
 } = Astro.props;
 ---
 
-<div
+<header
   id={id}
   class:list={[
     { 'sticky top-0 z-50': isSticky, relative: !isSticky },
-    'w-full bg-white/90 dark:bg-[#1a1a1c]/95 backdrop-blur-md shadow-xs',
+    'w-full bg-white dark:bg-[#121212] border-b border-border/40 shadow-xs transition-transform duration-300 ease-in-out will-change-transform',
   ]}
 >
   <div class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <NavbarFloating client:load />
   </div>
-</div>
+</header>
+
+<script is:inline>
+  (function () {
+    let lastScrollY = window.scrollY || 0;
+    let ticking = false;
+    const SCROLL_THRESHOLD = 8;
+    const HEADER_HEIGHT = 64;
+
+    function handleScroll() {
+      const header = document.getElementById('header');
+      if (!header) return;
+
+      const currentScrollY = window.scrollY || 0;
+
+      // Keep header visible if any menu, drawer or modal is active
+      const hasOpenMenu = document.querySelector('[aria-expanded="true"]') !== null;
+      if (hasOpenMenu) {
+        header.classList.remove('-translate-y-full');
+        lastScrollY = currentScrollY;
+        ticking = false;
+        return;
+      }
+
+      // iOS elastic bounce / rubber-banding protection at the top
+      if (currentScrollY <= 0) {
+        header.classList.remove('-translate-y-full');
+        lastScrollY = 0;
+        ticking = false;
+        return;
+      }
+
+      // Bottom bounce protection
+      const maxScrollY = document.documentElement.scrollHeight - window.innerHeight;
+      if (currentScrollY >= maxScrollY - 20) {
+        ticking = false;
+        return;
+      }
+
+      // Within top threshold -> keep visible
+      if (currentScrollY <= HEADER_HEIGHT) {
+        header.classList.remove('-translate-y-full');
+      } else if (currentScrollY > lastScrollY + SCROLL_THRESHOLD) {
+        // Scrolled down -> hide header to save screen space
+        header.classList.add('-translate-y-full');
+      } else if (currentScrollY < lastScrollY - SCROLL_THRESHOLD) {
+        // Scrolled up -> reveal header
+        header.classList.remove('-translate-y-full');
+      }
+
+      lastScrollY = currentScrollY;
+      ticking = false;
+    }
+
+    function onScroll() {
+      if (!ticking) {
+        window.requestAnimationFrame(handleScroll);
+        ticking = true;
+      }
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    document.addEventListener('astro:page-load', () => {
+      const header = document.getElementById('header');
+      if (header) {
+        header.classList.remove('-translate-y-full');
+      }
+      lastScrollY = window.scrollY || 0;
+    });
+  })();
+</script>
 

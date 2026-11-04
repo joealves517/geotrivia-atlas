@@ -26,7 +26,7 @@ export function FloatingMegaMenuPanel({
       animate={{ opacity: 1, y: 0, scale: 1 }}
       exit={reduceMotion ? undefined : { opacity: 0, y: 8, scale: 0.98 }}
       transition={reduceMotion ? { duration: 0 } : SPRING_PANEL}
-      className="overflow-hidden rounded-2xl border border-border bg-chart-metric-bg p-4 shadow-lg sm:p-5 backdrop-blur-md"
+      className="overflow-hidden rounded-2xl border border-border bg-chart-metric-bg p-4 shadow-lg sm:p-5"
     >
       <div
         className={cn(

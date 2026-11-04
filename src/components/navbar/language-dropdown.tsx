@@ -90,7 +90,7 @@ export function LanguageDropdown({
         transition={reduceMotion ? { duration: 0 } : SPRING_PANEL}
         className={cn(
           "w-[230px] sm:w-[240px] max-w-[calc(100vw-24px)]",
-          "overflow-hidden rounded-2xl border border-border bg-chart-metric-bg p-2 shadow-lg select-none backdrop-blur-md",
+          "overflow-hidden rounded-2xl border border-border bg-chart-metric-bg p-2 shadow-lg select-none",
           "max-h-[min(480px,calc(100vh-100px))] overflow-y-auto",
           className
         )}
