@@ -27,23 +27,26 @@ const {
   bg = await Astro.slots.render('bg'),
 } = Astro.props;
 
-const commandText = commands.map((command) => (typeof command === 'string' ? command : command.command)).join('\n');
+const commandText = (commands as Array<string | { command: string }>).map((command) => (typeof command === 'string' ? command : command.command)).join('\n');
 
 const escapeHtml = (text: string) =>
   text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 // Rendered as one string so the <pre> keeps no stray whitespace.
-const commandHtml = commands
+const commandHtml = (commands as Array<string | { command: string; comment?: string }>)
   .map((command) => {
     const { command: text, comment } = typeof command === 'string' ? { command, comment: undefined } : command;
     const commentLine = comment ? `<span class="block text-slate-500"># ${escapeHtml(comment)}</span>` : '';
     return `${commentLine}<span class="block"><span class="select-none text-slate-500">${escapeHtml(prompt)} </span><span class="text-slate-100">${escapeHtml(text)}</span></span>`;
   })
   .join('');
+
+const containerClass = `max-w-6xl mx-auto ${classes?.container ?? ''}`;
+const headlineClasses = classes?.headline as Record<string, string>;
 ---
 
-<WidgetWrapper id={id} isDark={isDark} containerClass={`max-w-6xl mx-auto ${classes?.container ?? ''}`} bg={bg}>
-  <Headline title={title} subtitle={subtitle} tagline={tagline} classes={classes?.headline as Record<string, string>} />
+<WidgetWrapper id={id} isDark={isDark} containerClass={containerClass} bg={bg}>
+  <Headline title={title} subtitle={subtitle} tagline={tagline} classes={headlineClasses} />
 
   <aw-copy data-text={commandText} class="mx-auto block max-w-3xl">
     <div
@@ -71,15 +74,15 @@ const commandHtml = commands
         </button>
       </div>
       <pre
-        class="whitespace-pre-wrap break-all px-5 py-5 font-mono text-base leading-relaxed md:px-8 md:py-6 md:text-lg"><code set:html={commandHtml} /></pre>
+        class="whitespace-pre-wrap break-all px-5 py-5 font-mono text-base leading-relaxed md:px-8 md:py-6 md:text-lg"><code set:html={commandHtml}></code></pre>
     </div>
     <span class="sr-only" aria-live="polite" data-aw-copy-status></span>
   </aw-copy>
 
   {
-    items.length > 0 && (
+    items && items.length > 0 && (
       <ul class="mx-auto mt-10 grid max-w-5xl gap-8 list-none sm:grid-cols-3 md:mt-12">
-        {items.map(({ title: itemTitle, description, icon }) => (
+        {items.map(({ title: itemTitle, description, icon }: any) => (
           <li class="text-center">
             <Icon
               name={icon || 'tabler:check'}
@@ -93,9 +96,9 @@ const commandHtml = commands
     )
   }
   {
-    actions.length > 0 && (
+    actions && actions.length > 0 && (
       <div class="mt-8 flex flex-wrap justify-center gap-3 md:mt-10">
-        {actions.map((action) => (
+        {actions.map((action: any) => (
           <Button {...action} />
         ))}
       </div>
@@ -107,9 +110,9 @@ const commandHtml = commands
 <script>
   class AwCopy extends HTMLElement {
     connectedCallback() {
-      const button = this.querySelector<HTMLButtonElement>('[data-aw-copy-button]');
-      const label = this.querySelector<HTMLElement>('[data-aw-copy-text]');
-      const status = this.querySelector<HTMLElement>('[data-aw-copy-status]');
+      const button = this.querySelector('[data-aw-copy-button]') as HTMLButtonElement | null;
+      const label = this.querySelector('[data-aw-copy-text]') as HTMLElement | null;
+      const status = this.querySelector('[data-aw-copy-status]') as HTMLElement | null;
       if (!button || !label || !navigator.clipboard) return;
       button.hidden = false;
       button.addEventListener('click', async () => {
