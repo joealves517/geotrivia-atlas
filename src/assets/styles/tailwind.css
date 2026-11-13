@@ -19,10 +19,10 @@
   --color-link: var(--aw-color-link, var(--aw-color-primary));
 
   --font-sans:
-    var(--aw-font-sans, "Fredoka"), "Fredoka", "Varela Round", "Nunito", ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    var(--aw-font-sans, var(--font-fredoka)), "Fredoka", "Varela Round", "Nunito", ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
     'Segoe UI Symbol', 'Noto Color Emoji';
-  --font-serif: var(--aw-font-serif, "Fredoka"), "Fredoka", "Varela Round", "Nunito", ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
-  --font-heading: var(--aw-font-heading, "Fredoka"), "Fredoka", "Varela Round", "Nunito", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--aw-font-serif, var(--font-fredoka)), "Fredoka", "Varela Round", "Nunito", ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
+  --font-heading: var(--aw-font-heading, var(--font-fredoka)), "Fredoka", "Varela Round", "Nunito", ui-sans-serif, system-ui, sans-serif;
 
   --animate-fade: fadeInUp 0.5s both;
 
@@ -67,19 +67,17 @@ a {
   -webkit-tap-highlight-color: transparent;
 }
 
-body,
-button,
-input,
-select,
-textarea {
-  font-family:
-    "Fredoka",
-    "Varela Round",
-    "Nunito",
-    system-ui,
-    -apple-system,
-    BlinkMacSystemFont,
-    sans-serif;
+/* WHY: Astro Fonts API exposes Fredoka via `--font-fredoka` (`--aw-font-sans`), not a literal
+   "Fredoka" family; keep base typography in `@layer base` so utility classes like `font-mono` win. */
+@layer base {
+  html,
+  body,
+  button,
+  input,
+  select,
+  textarea {
+    font-family: var(--font-sans);
+  }
 }
 
 button:focus,

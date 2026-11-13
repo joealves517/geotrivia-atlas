@@ -8,10 +8,10 @@ interface BrandLogoProps {
 export const BrandLogo: React.FC<BrandLogoProps> = ({ className }) => {
   return (
     <div className={cn("flex items-center", className)}>
-      {/* Desktop View: Official Ge[earth]Trivia X Logo */}
+      {/* Official Ge[earth]Trivia X Logo across mobile, tablet, and desktop */}
       <div
         dir="ltr"
-        className="hidden sm:flex items-center select-none font-sans font-extrabold text-[#3898ec] tracking-tight leading-none"
+        className="flex items-center select-none font-sans font-extrabold text-[#3898ec] tracking-tight leading-none"
       >
         <span className="text-xl sm:text-2xl font-bold tracking-tight leading-none text-[#3898ec]">
           Ge
@@ -49,16 +49,6 @@ export const BrandLogo: React.FC<BrandLogoProps> = ({ className }) => {
           </svg>
         </div>
       </div>
-
-      {/* Mobile View: Only 1 Earth Icon of the app */}
-      <img
-        src="/images/logo_icon.webp"
-        alt="GeoTrivia X"
-        width={32}
-        height={32}
-        className="size-8 object-contain rounded-lg block sm:hidden"
-        draggable={false}
-      />
     </div>
   );
 };
