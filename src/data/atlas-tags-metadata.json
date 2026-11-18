@@ -20091,5 +20091,509 @@
       "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت earth-enigmas في أطلس جيو تريفيا.",
       "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع earth-enigmas ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
     }
+  },
+  "countries-and-territories": {
+    "slug": "countries-and-territories",
+    "name": "countries-and-territories",
+    "category": "Countries & Territories",
+    "focusKeywords": [
+      "countries-and-territories",
+      "countries-and-territories geography",
+      "countries-and-territories world exploration",
+      "countries-and-territories field dispatches",
+      "Atlas countries-and-territories"
+    ],
+    "updatedAt": "2026-11-18T14:35:08.273Z",
+    "en": {
+      "title": "countries-and-territories — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under countries-and-territories.",
+      "intro": "Welcome to the countries-and-territories thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "countries-and-territories — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo countries-and-territories.",
+      "intro": "Bienvenido al archivo temático de countries-and-territories en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "countries-and-territories — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous countries-and-territories.",
+      "intro": "Bienvenue dans le dossier thématique countries-and-territories du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "countries-and-territories — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu countries-and-territories.",
+      "intro": "Willkommen im Themenarchiv zu countries-and-territories im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "countries-and-territories — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em countries-and-territories.",
+      "intro": "Bem-vindo ao arquivo temático de countries-and-territories no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "countries-and-territories — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a countries-and-territories.",
+      "intro": "Benvenuto nell'archivio tematico di countries-and-territories su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "countries-and-territories — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over countries-and-territories.",
+      "intro": "Welkom in het thematische archief over countries-and-territories in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "countries-and-territories — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om countries-and-territories.",
+      "intro": "Välkommen till temaarkivet för countries-and-territories i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "countries-and-territories — Coğrafi Arşiv ve Saha Raporları",
+      "description": "countries-and-territories kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas countries-and-territories tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "countries-and-territories — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت countries-and-territories في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع countries-and-territories ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "burundi": {
+    "slug": "burundi",
+    "name": "burundi",
+    "category": "Countries & Territories",
+    "focusKeywords": [
+      "burundi",
+      "burundi geography",
+      "burundi world exploration",
+      "burundi field dispatches",
+      "Atlas burundi"
+    ],
+    "updatedAt": "2026-11-18T14:35:08.273Z",
+    "en": {
+      "title": "burundi — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under burundi.",
+      "intro": "Welcome to the burundi thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "burundi — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo burundi.",
+      "intro": "Bienvenido al archivo temático de burundi en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "burundi — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous burundi.",
+      "intro": "Bienvenue dans le dossier thématique burundi du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "burundi — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu burundi.",
+      "intro": "Willkommen im Themenarchiv zu burundi im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "burundi — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em burundi.",
+      "intro": "Bem-vindo ao arquivo temático de burundi no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "burundi — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a burundi.",
+      "intro": "Benvenuto nell'archivio tematico di burundi su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "burundi — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over burundi.",
+      "intro": "Welkom in het thematische archief over burundi in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "burundi — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om burundi.",
+      "intro": "Välkommen till temaarkivet för burundi i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "burundi — Coğrafi Arşiv ve Saha Raporları",
+      "description": "burundi kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas burundi tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "burundi — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت burundi في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع burundi ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "east-africa": {
+    "slug": "east-africa",
+    "name": "east-africa",
+    "category": "Countries & Territories",
+    "focusKeywords": [
+      "east-africa",
+      "east-africa geography",
+      "east-africa world exploration",
+      "east-africa field dispatches",
+      "Atlas east-africa"
+    ],
+    "updatedAt": "2026-11-18T14:35:08.273Z",
+    "en": {
+      "title": "east-africa — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under east-africa.",
+      "intro": "Welcome to the east-africa thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "east-africa — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo east-africa.",
+      "intro": "Bienvenido al archivo temático de east-africa en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "east-africa — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous east-africa.",
+      "intro": "Bienvenue dans le dossier thématique east-africa du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "east-africa — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu east-africa.",
+      "intro": "Willkommen im Themenarchiv zu east-africa im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "east-africa — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em east-africa.",
+      "intro": "Bem-vindo ao arquivo temático de east-africa no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "east-africa — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a east-africa.",
+      "intro": "Benvenuto nell'archivio tematico di east-africa su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "east-africa — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over east-africa.",
+      "intro": "Welkom in het thematische archief over east-africa in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "east-africa — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om east-africa.",
+      "intro": "Välkommen till temaarkivet för east-africa i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "east-africa — Coğrafi Arşiv ve Saha Raporları",
+      "description": "east-africa kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas east-africa tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "east-africa — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت east-africa في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع east-africa ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "great-rift-valley": {
+    "slug": "great-rift-valley",
+    "name": "great-rift-valley",
+    "category": "Countries & Territories",
+    "focusKeywords": [
+      "great-rift-valley",
+      "great-rift-valley geography",
+      "great-rift-valley world exploration",
+      "great-rift-valley field dispatches",
+      "Atlas great-rift-valley"
+    ],
+    "updatedAt": "2026-11-18T14:35:08.273Z",
+    "en": {
+      "title": "great-rift-valley — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under great-rift-valley.",
+      "intro": "Welcome to the great-rift-valley thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "great-rift-valley — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo great-rift-valley.",
+      "intro": "Bienvenido al archivo temático de great-rift-valley en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "great-rift-valley — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous great-rift-valley.",
+      "intro": "Bienvenue dans le dossier thématique great-rift-valley du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "great-rift-valley — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu great-rift-valley.",
+      "intro": "Willkommen im Themenarchiv zu great-rift-valley im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "great-rift-valley — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em great-rift-valley.",
+      "intro": "Bem-vindo ao arquivo temático de great-rift-valley no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "great-rift-valley — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a great-rift-valley.",
+      "intro": "Benvenuto nell'archivio tematico di great-rift-valley su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "great-rift-valley — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over great-rift-valley.",
+      "intro": "Welkom in het thematische archief over great-rift-valley in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "great-rift-valley — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om great-rift-valley.",
+      "intro": "Välkommen till temaarkivet för great-rift-valley i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "great-rift-valley — Coğrafi Arşiv ve Saha Raporları",
+      "description": "great-rift-valley kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas great-rift-valley tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "great-rift-valley — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت great-rift-valley في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع great-rift-valley ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "history": {
+    "slug": "history",
+    "name": "history",
+    "category": "Countries & Territories",
+    "focusKeywords": [
+      "history",
+      "history geography",
+      "history world exploration",
+      "history field dispatches",
+      "Atlas history"
+    ],
+    "updatedAt": "2026-11-18T14:35:08.273Z",
+    "en": {
+      "title": "history — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under history.",
+      "intro": "Welcome to the history thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "history — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo history.",
+      "intro": "Bienvenido al archivo temático de history en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "history — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous history.",
+      "intro": "Bienvenue dans le dossier thématique history du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "history — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu history.",
+      "intro": "Willkommen im Themenarchiv zu history im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "history — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em history.",
+      "intro": "Bem-vindo ao arquivo temático de history no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "history — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a history.",
+      "intro": "Benvenuto nell'archivio tematico di history su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "history — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over history.",
+      "intro": "Welkom in het thematische archief over history in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "history — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om history.",
+      "intro": "Välkommen till temaarkivet för history i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "history — Coğrafi Arşiv ve Saha Raporları",
+      "description": "history kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas history tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "history — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت history في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع history ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "ancient-china": {
+    "slug": "ancient-china",
+    "name": "ancient-china",
+    "category": "Street View & Routes",
+    "focusKeywords": [
+      "ancient-china",
+      "ancient-china geography",
+      "ancient-china world exploration",
+      "ancient-china field dispatches",
+      "Atlas ancient-china"
+    ],
+    "updatedAt": "2026-11-18T16:35:21.407Z",
+    "en": {
+      "title": "ancient-china — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under ancient-china.",
+      "intro": "Welcome to the ancient-china thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "ancient-china — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo ancient-china.",
+      "intro": "Bienvenido al archivo temático de ancient-china en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "ancient-china — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous ancient-china.",
+      "intro": "Bienvenue dans le dossier thématique ancient-china du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "ancient-china — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu ancient-china.",
+      "intro": "Willkommen im Themenarchiv zu ancient-china im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "ancient-china — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em ancient-china.",
+      "intro": "Bem-vindo ao arquivo temático de ancient-china no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "ancient-china — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a ancient-china.",
+      "intro": "Benvenuto nell'archivio tematico di ancient-china su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "ancient-china — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over ancient-china.",
+      "intro": "Welkom in het thematische archief over ancient-china in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "ancient-china — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om ancient-china.",
+      "intro": "Välkommen till temaarkivet för ancient-china i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "ancient-china — Coğrafi Arşiv ve Saha Raporları",
+      "description": "ancient-china kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas ancient-china tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "ancient-china — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت ancient-china في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع ancient-china ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "historical-geography": {
+    "slug": "historical-geography",
+    "name": "historical-geography",
+    "category": "Street View & Routes",
+    "focusKeywords": [
+      "historical-geography",
+      "historical-geography geography",
+      "historical-geography world exploration",
+      "historical-geography field dispatches",
+      "Atlas historical-geography"
+    ],
+    "updatedAt": "2026-11-18T16:35:21.407Z",
+    "en": {
+      "title": "historical-geography — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under historical-geography.",
+      "intro": "Welcome to the historical-geography thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "historical-geography — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo historical-geography.",
+      "intro": "Bienvenido al archivo temático de historical-geography en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "historical-geography — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous historical-geography.",
+      "intro": "Bienvenue dans le dossier thématique historical-geography du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "historical-geography — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu historical-geography.",
+      "intro": "Willkommen im Themenarchiv zu historical-geography im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "historical-geography — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em historical-geography.",
+      "intro": "Bem-vindo ao arquivo temático de historical-geography no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "historical-geography — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a historical-geography.",
+      "intro": "Benvenuto nell'archivio tematico di historical-geography su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "historical-geography — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over historical-geography.",
+      "intro": "Welkom in het thematische archief over historical-geography in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "historical-geography — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om historical-geography.",
+      "intro": "Välkommen till temaarkivet för historical-geography i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "historical-geography — Coğrafi Arşiv ve Saha Raporları",
+      "description": "historical-geography kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas historical-geography tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "historical-geography — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت historical-geography في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع historical-geography ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "shaanxi-province": {
+    "slug": "shaanxi-province",
+    "name": "shaanxi-province",
+    "category": "Street View & Routes",
+    "focusKeywords": [
+      "shaanxi-province",
+      "shaanxi-province geography",
+      "shaanxi-province world exploration",
+      "shaanxi-province field dispatches",
+      "Atlas shaanxi-province"
+    ],
+    "updatedAt": "2026-11-18T16:35:21.407Z",
+    "en": {
+      "title": "shaanxi-province — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under shaanxi-province.",
+      "intro": "Welcome to the shaanxi-province thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "shaanxi-province — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo shaanxi-province.",
+      "intro": "Bienvenido al archivo temático de shaanxi-province en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "shaanxi-province — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous shaanxi-province.",
+      "intro": "Bienvenue dans le dossier thématique shaanxi-province du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "shaanxi-province — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu shaanxi-province.",
+      "intro": "Willkommen im Themenarchiv zu shaanxi-province im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "shaanxi-province — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em shaanxi-province.",
+      "intro": "Bem-vindo ao arquivo temático de shaanxi-province no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "shaanxi-province — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a shaanxi-province.",
+      "intro": "Benvenuto nell'archivio tematico di shaanxi-province su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "shaanxi-province — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over shaanxi-province.",
+      "intro": "Welkom in het thematische archief over shaanxi-province in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "shaanxi-province — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om shaanxi-province.",
+      "intro": "Välkommen till temaarkivet för shaanxi-province i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "shaanxi-province — Coğrafi Arşiv ve Saha Raporları",
+      "description": "shaanxi-province kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas shaanxi-province tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "shaanxi-province — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت shaanxi-province في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع shaanxi-province ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
   }
 }
