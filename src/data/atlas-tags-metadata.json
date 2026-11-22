@@ -6613,64 +6613,65 @@
   "japan": {
     "slug": "japan",
     "name": "Japan",
-    "category": "world-landmarks",
+    "category": "street-view-and-discovery",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "Japan",
-      "Japan geography",
-      "Japan world exploration",
-      "Japan field dispatches",
-      "Atlas Japan"
+      "japan geography",
+      "japanese history",
+      "honshu mountains",
+      "edo period roads"
     ],
-    "updatedAt": "2026-09-20T23:48:59.396Z",
+    "updatedAt": "2026-11-20T18:04:11.229Z",
     "en": {
-      "title": "Japan — Curated Geographic Dispatches & Archive",
-      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under Japan.",
-      "intro": "Welcome to the Japan thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+      "title": "Japan Geography, Passes, and Historic Routes | GeoTrivia Atlas",
+      "description": "Discover Japan's dramatic volcanic geography, historic samurai highways, and remote mountain passes on GeoTrivia Atlas.",
+      "intro": "Stretching across a mountainous volcanic archipelago, Japan combines steep alpine divides, ancient post-town highways, and deep prehistoric trade networks."
     },
     "es": {
-      "title": "Japan — Archivo Geográfico y Crónicas del Atlas",
-      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo Japan.",
-      "intro": "Bienvenido al archivo temático de Japan en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+      "title": "Geografía de Japón y Rutas Históricas | GeoTrivia Atlas",
+      "description": "Descubra la geografía volcánica de Japón, sus antiguas rutas samuráis y sus pasos de montaña en GeoTrivia Atlas.",
+      "intro": "A lo largo de un archipiélago volcánico y montañoso, Japón alberga divisorias alpinas, antiguas calzadas imperiales y redes comerciales prehistóricas."
     },
     "fr": {
-      "title": "Japan — Archives Géographiques et Dossiers de Terrain",
-      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous Japan.",
-      "intro": "Bienvenue dans le dossier thématique Japan du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+      "title": "Géographie du Japon et Routes Historiques | GeoTrivia Atlas",
+      "description": "Découvrez la géographie volcanique du Japon, ses anciennes routes de samouraïs et ses cols alpins sur GeoTrivia Atlas.",
+      "intro": "Déployé sur un archipel volcanique montagneux, le Japon réunit lignes de partage alpines, anciennes voies postales et réseaux d'échanges préhistoriques."
     },
     "de": {
-      "title": "Japan — Geografisches Archiv & Feldberichte",
-      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu Japan.",
-      "intro": "Willkommen im Themenarchiv zu Japan im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+      "title": "Japan: Geografie, Pässe und Geschichte | GeoTrivia Atlas",
+      "description": "Entdecken Sie Japans Geografie, historische Handelswege, Gebirgspässe und vulkanische Landschaften im GeoTrivia Atlas.",
+      "intro": "Japan erstreckt sich über einen vulkanischen Inselbogen, dessen zerklüftete Bergketten historische Straßen, isolierte Täler und jahrtausendealte Kulturlandschaften prägten."
     },
     "pt": {
-      "title": "Japan — Arquivo Geográfico e Crônicas de Exploração",
-      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em Japan.",
-      "intro": "Bem-vindo ao arquivo temático de Japan no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+      "title": "Geografia do Japão e Rotas Históricas | GeoTrivia Atlas",
+      "description": "Descubra a geografia vulcânica do Japão, antigas estradas samurais e passos montanhosos no GeoTrivia Atlas.",
+      "intro": "Estendendo-se por um arquipélago vulcânico e montanhoso, o Japão reúne divisores alpinos, antigas rotas postais e redes comerciais pré-históricas."
     },
     "it": {
-      "title": "Japan — Archivio Geografico e Reportage dal Mondo",
-      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a Japan.",
-      "intro": "Benvenuto nell'archivio tematico di Japan su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+      "title": "Geografia del Giappone e Valichi Storici | GeoTrivia Atlas",
+      "description": "Scopri la geografia vulcanica del Giappone, le antiche vie dei samurai e i valichi montani su GeoTrivia Atlas.",
+      "intro": "Esteso lungo un arcipelago vulcanico e montuoso, il Giappone unisce ripidi spartiacque alpini, storiche strade postali e antichissime reti commerciali."
     },
     "nl": {
-      "title": "Japan — Geografisch Archief & Veldkronieken",
-      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over Japan.",
-      "intro": "Welkom in het thematische archief over Japan in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+      "title": "Geografie van Japan en Historische Routes | GeoTrivia Atlas",
+      "description": "Ontdek de vulkanische geografie van Japan, historische samoeraiwegen en hoge bergpassen in de GeoTrivia Atlas.",
+      "intro": "Japan strekt zich uit over een bergachtige vulkanische archipel waar steile bergkammen, oude postwegen en prehistorische handelsroutes samenkomen."
     },
     "sv": {
-      "title": "Japan — Geografiskt Arkiv & Fältrapporter",
-      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om Japan.",
-      "intro": "Välkommen till temaarkivet för Japan i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+      "title": "Japans Geografi och Historiska Vägar | GeoTrivia Atlas",
+      "description": "Upptäck Japans vulkaniska geografi, historiska samurajvägar och höga bergspass på GeoTrivia Atlas.",
+      "intro": "Japan sträcker sig över en bergig vulkanisk ögrupp där branta vattendelare, gamla postvägar och förhistoriska handelsnätverk möts."
     },
     "tr": {
-      "title": "Japan — Coğrafi Arşiv ve Saha Raporları",
-      "description": "Japan kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
-      "intro": "GeoTrivia Atlas Japan tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+      "title": "Japonya Coğrafyası ve Tarihi Rotalar | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Japonya'nın volkanik coğrafyasını, tarihi samuray yollarını ve dağ geçitlerini keşfedin.",
+      "intro": "Dağlık ve volkanik bir takımada boyunca uzanan Japonya; sarp alp geçitlerini, kadim posta yollarını ve tarih öncesi ticaret ağlarını bir araya getirir."
     },
     "ar": {
-      "title": "Japan — الأرشيف الجغرافي والتقارير الاستكشافية",
-      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت Japan في أطلس جيو تريفيا.",
-      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع Japan ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+      "title": "جغرافيا اليابان ومعالمها التاريخية | أطلس جيو تريفيا",
+      "description": "اكتشف جغرافيا اليابان وتاريخها عبر الممرات الجبلية القديمة والقرى التاريخية والمعالم الطبيعية الفريدة.",
+      "intro": "تمتد اليابان عبر أرخبيل جبلي بركاني يجمع بين القمم الشاهقة والوديان الضيقة والطرق الإمبراطورية القديمة التي ربطت المدن التاريخية عبر قرون."
     }
   },
   "east-asia": {
@@ -16818,65 +16819,66 @@
   },
   "mountain-passes": {
     "slug": "mountain-passes",
-    "name": "mountain-passes",
-    "category": "natural-wonders",
+    "name": "Mountain Passes",
+    "category": "street-view-and-discovery",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "mountain-passes",
-      "mountain-passes geography",
-      "mountain-passes world exploration",
-      "mountain-passes field dispatches",
-      "Atlas mountain-passes"
+      "mountain passes",
+      "alpine corridors",
+      "watershed divides",
+      "historic crossings"
     ],
-    "updatedAt": "2026-09-24T03:39:40.336Z",
+    "updatedAt": "2026-11-20T18:04:11.951Z",
     "en": {
-      "title": "mountain-passes — Curated Geographic Dispatches & Archive",
-      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under mountain-passes.",
-      "intro": "Welcome to the mountain-passes thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+      "title": "Mountain Passes and Historic Alpine Crossings | GeoTrivia Atlas",
+      "description": "Explore strategic mountain passes, high-altitude chokepoints, and historic alpine crossings around the world on GeoTrivia Atlas.",
+      "intro": "Mountain passes have dictated trade, warfare, and migration for millennia, funneling human movement through narrow, weather-beaten saddles across continental divides."
     },
     "es": {
-      "title": "mountain-passes — Archivo Geográfico y Crónicas del Atlas",
-      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo mountain-passes.",
-      "intro": "Bienvenido al archivo temático de mountain-passes en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+      "title": "Pasos de Montaña y Cruces Históricos | GeoTrivia Atlas",
+      "description": "Explore pasos de montaña estratégicos, gargantas de gran altitud y cruces alpinos históricos en GeoTrivia Atlas.",
+      "intro": "Los pasos de montaña han condicionado el comercio, la guerra y las migraciones durante milenios al canalizar el tránsito por estrechos collados de altura."
     },
     "fr": {
-      "title": "mountain-passes — Archives Géographiques et Dossiers de Terrain",
-      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous mountain-passes.",
-      "intro": "Bienvenue dans le dossier thématique mountain-passes du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+      "title": "Cols de Montagne et Passages Historiques | GeoTrivia Atlas",
+      "description": "Explorez les cols de montagne stratégiques, goulets d'altitude et passages alpins historiques sur GeoTrivia Atlas.",
+      "intro": "Les cols de montagne ont dicté le commerce, les campagnes militaires et les migrations depuis des millénaires en canalisant le passage à travers des brèches d'altitude."
     },
     "de": {
-      "title": "mountain-passes — Geografisches Archiv & Feldberichte",
-      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu mountain-passes.",
-      "intro": "Willkommen im Themenarchiv zu mountain-passes im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+      "title": "Gebirgspässe und Alpine Übergänge | GeoTrivia Atlas",
+      "description": "Entdecken Sie historische Gebirgspässe, hochalpine Engpässe und bedeutende Wasserscheiden weltweit im GeoTrivia Atlas.",
+      "intro": "Gebirgspässe bildeten über Jahrtausende die entscheidenden Nadelöhre zwischen Kulturen, Wasserscheiden und strategischen Handelswegen."
     },
     "pt": {
-      "title": "mountain-passes — Arquivo Geográfico e Crônicas de Exploração",
-      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em mountain-passes.",
-      "intro": "Bem-vindo ao arquivo temático de mountain-passes no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+      "title": "Passos Montanhosos e Travessias Históricas | GeoTrivia Atlas",
+      "description": "Explore passos montanhosos estratégicos, gargalos de altitude e travessias históricas no GeoTrivia Atlas.",
+      "intro": "Os passos de montanha moldaram o comércio, a guerra e as migrações durante milênios ao concentrar o trânsito humano em fendas estreitas de grande altitude."
     },
     "it": {
-      "title": "mountain-passes — Archivio Geografico e Reportage dal Mondo",
-      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a mountain-passes.",
-      "intro": "Benvenuto nell'archivio tematico di mountain-passes su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+      "title": "Valichi Montani e Passaggi Storici | GeoTrivia Atlas",
+      "description": "Esplora valichi montani strategici, gole d'alta quota e attraversamenti alpini storici su GeoTrivia Atlas.",
+      "intro": "I valichi montani hanno governato commerci, battaglie e migrazioni per millenni, incanalando il passaggio umano attraverso strette selle d'alta quota."
     },
     "nl": {
-      "title": "mountain-passes — Geografisch Archief & Veldkronieken",
-      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over mountain-passes.",
-      "intro": "Welkom in het thematische archief over mountain-passes in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+      "title": "Bergpassen en Historische Overgangen | GeoTrivia Atlas",
+      "description": "Ontdek strategische bergpassen, hoge knelpunten en historische alpiene overgangen wereldwijd in de GeoTrivia Atlas.",
+      "intro": "Bergpassen bepaalden millennia lang handel, oorlogsvoering en migratie door reizigers via smalle, winderige zadels over bergketens te leiden."
     },
     "sv": {
-      "title": "mountain-passes — Geografiskt Arkiv & Fältrapporter",
-      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om mountain-passes.",
-      "intro": "Välkommen till temaarkivet för mountain-passes i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+      "title": "Bergspass och Historiska Övergångar | GeoTrivia Atlas",
+      "description": "Utforska strategiska bergspass, högalpina flaskhalsar och historiska övergångar runt om i världen på GeoTrivia Atlas.",
+      "intro": "Bergspass har styrt handel, krigföring och folkvandringar i årtusenden genom att leda resenärer över smala, väderpinade sadlar i bergskedjor."
     },
     "tr": {
-      "title": "mountain-passes — Coğrafi Arşiv ve Saha Raporları",
-      "description": "mountain-passes kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
-      "intro": "GeoTrivia Atlas mountain-passes tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+      "title": "Dağ Geçitleri ve Tarihi Geçişler | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas üzerinde stratejik dağ geçitlerini, yüksek rakımlı darboğazları ve tarihi alp geçişlerini keşfedin.",
+      "intro": "Dağ geçitleri binlerce yıl boyunca ticareti, savaşları ve göçleri belirleyerek insan hareketliliğini dar ve zorlu yüksek rakım boğazlarından geçirmiştir."
     },
     "ar": {
-      "title": "mountain-passes — الأرشيف الجغرافي والتقارير الاستكشافية",
-      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت mountain-passes في أطلس جيو تريفيا.",
-      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع mountain-passes ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+      "title": "الممرات الجبلية ونقاط العبور التاريخية | أطلس جيو تريفيا",
+      "description": "استكشف أخطر الممرات الجبلية وأعلى نقاط العبور التاريخية التي شكلت طرق التجارة والحروب عبر القارات.",
+      "intro": "تحدد الممرات الجبلية مصير الإمبراطوريات وطرق التجارة، إذ تفرض على المسافرين عبور ممرات ضيقة بين القمم الشاهقة والثلوج الكثيفة."
     }
   },
   "appennines": {
@@ -19590,65 +19592,66 @@
   },
   "street-view-and-discovery": {
     "slug": "street-view-and-discovery",
-    "name": "street-view-and-discovery",
-    "category": "Street View & Routes",
+    "name": "Street View & Discovery",
+    "category": "street-view-and-discovery",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "street-view-and-discovery",
-      "street-view-and-discovery geography",
-      "street-view-and-discovery world exploration",
-      "street-view-and-discovery field dispatches",
-      "Atlas street-view-and-discovery"
+      "street view discovery",
+      "hidden places",
+      "remote roads",
+      "historic routes"
     ],
-    "updatedAt": "2026-11-16T16:35:09.036Z",
+    "updatedAt": "2026-11-20T18:04:12.114Z",
     "en": {
-      "title": "street-view-and-discovery — Curated Geographic Dispatches & Archive",
-      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under street-view-and-discovery.",
-      "intro": "Welcome to the street-view-and-discovery thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+      "title": "Street View & Discovery: Remote Routes and Landmarks | GeoTrivia Atlas",
+      "description": "Explore remote roads, historic mountain passes, and overlooked geographic landmarks on GeoTrivia Atlas.",
+      "intro": "Street View & Discovery highlights remote corridors, historic overland routes, and overlooked geographic landmarks that reveal how human movement adapts to dramatic terrain."
     },
     "es": {
-      "title": "street-view-and-discovery — Archivo Geográfico y Crónicas del Atlas",
-      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo street-view-and-discovery.",
-      "intro": "Bienvenido al archivo temático de street-view-and-discovery en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+      "title": "Street View y Descubrimientos: Rutas Remotas | GeoTrivia Atlas",
+      "description": "Explore carreteras remotas, pasos de montaña históricos y enclaves geográficos singulares en GeoTrivia Atlas.",
+      "intro": "Street View & Discovery reúne corredores remotos, rutas históricas terrestres y enclaves geográficos poco conocidos que muestran cómo el ser humano supera terrenos extremos."
     },
     "fr": {
-      "title": "street-view-and-discovery — Archives Géographiques et Dossiers de Terrain",
-      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous street-view-and-discovery.",
-      "intro": "Bienvenue dans le dossier thématique street-view-and-discovery du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+      "title": "Street View & Découvertes : Routes Isolées | GeoTrivia Atlas",
+      "description": "Explorez des routes isolées, des cols historiques et des repères géographiques méconnus sur GeoTrivia Atlas.",
+      "intro": "Street View & Discovery met en lumière des corridors isolés, d'anciennes voies terrestres et des repères géographiques méconnus qui témoignent de l'adaptation humaine aux reliefs extrêmes."
     },
     "de": {
-      "title": "street-view-and-discovery — Geografisches Archiv & Feldberichte",
-      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu street-view-and-discovery.",
-      "intro": "Willkommen im Themenarchiv zu street-view-and-discovery im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+      "title": "Street View & Entdeckungen: Verborgene Wege | GeoTrivia Atlas",
+      "description": "Entdecken Sie abgelegene Straßen, historische Gebirgspässe und verborgene geografische Orte im GeoTrivia Atlas.",
+      "intro": "Street View & Discovery verbindet abgelegene Gebirgsstraßen, historische Handelsrouten und verborgene geografische Landmarken, die zeigen, wie Gesellschaften extreme Landschaften erschlossen haben."
     },
     "pt": {
-      "title": "street-view-and-discovery — Arquivo Geográfico e Crônicas de Exploração",
-      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em street-view-and-discovery.",
-      "intro": "Bem-vindo ao arquivo temático de street-view-and-discovery no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+      "title": "Street View & Descobertas: Rotas Remotas | GeoTrivia Atlas",
+      "description": "Explore estradas remotas, passos montanhosos históricos e marcos geográficos pouco conhecidos no GeoTrivia Atlas.",
+      "intro": "Street View & Discovery reúne corredores remotos, antigas rotas terrestres e marcos geográficos singulares que revelam como a humanidade superou terrenos extremos."
     },
     "it": {
-      "title": "street-view-and-discovery — Archivio Geografico e Reportage dal Mondo",
-      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a street-view-and-discovery.",
-      "intro": "Benvenuto nell'archivio tematico di street-view-and-discovery su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+      "title": "Street View & Scoperte: Vie Remote | GeoTrivia Atlas",
+      "description": "Esplora strade remote, valichi montani storici e punti di riferimento geografici sorprendenti su GeoTrivia Atlas.",
+      "intro": "Street View & Discovery raccoglie corridoi remoti, antiche vie terrestri e luoghi geografici trascurati che raccontano come l'uomo abbia attraversato territori impervi."
     },
     "nl": {
-      "title": "street-view-and-discovery — Geografisch Archief & Veldkronieken",
-      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over street-view-and-discovery.",
-      "intro": "Welkom in het thematische archief over street-view-and-discovery in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+      "title": "Street View & Ontdekkingen: Afgelegen Routes | GeoTrivia Atlas",
+      "description": "Ontdek afgelegen wegen, historische bergpassen en vergeten geografische oriëntatiepunten in de GeoTrivia Atlas.",
+      "intro": "Street View & Discovery belicht afgelegen doorgangen, historische landroutes en verborgen geografische plekken die laten zien hoe reizigers ruig terrein bedwongen."
     },
     "sv": {
-      "title": "street-view-and-discovery — Geografiskt Arkiv & Fältrapporter",
-      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om street-view-and-discovery.",
-      "intro": "Välkommen till temaarkivet för street-view-and-discovery i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+      "title": "Street View & Upptäckter: Avlägsna Vägar | GeoTrivia Atlas",
+      "description": "Utforska avlägsna vägar, historiska bergspass och förbisedda geografiska landmärken på GeoTrivia Atlas.",
+      "intro": "Street View & Discovery lyfter fram avlägsna korridorer, historiska landvägar och dolda geografiska landmärken som visar hur resenärer bemästrat dramatisk terräng."
     },
     "tr": {
-      "title": "street-view-and-discovery — Coğrafi Arşiv ve Saha Raporları",
-      "description": "street-view-and-discovery kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
-      "intro": "GeoTrivia Atlas street-view-and-discovery tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+      "title": "Sokak Görünümü ve Keşif: Ücra Rotalar | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas üzerinden ücra yolları, tarihi dağ geçitlerini ve gözden kaçan coğrafi dönüm noktalarını keşfedin.",
+      "intro": "Sokak Görünümü ve Keşif, insan hareketliliğinin zorlu arazilere nasıl uyum sağladığını gösteren ücra geçitleri, tarihi kara yollarını ve az bilinen coğrafi noktaları bir araya getirir."
     },
     "ar": {
-      "title": "street-view-and-discovery — الأرشيف الجغرافي والتقارير الاستكشافية",
-      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت street-view-and-discovery في أطلس جيو تريفيا.",
-      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع street-view-and-discovery ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+      "title": "الاكتشاف الجغرافي والطرق النائية | أطلس جيو تريفيا",
+      "description": "اكتشف طرقاً نائية ومعابر جبلية تاريخية ومعالم جغرافية مدهشة عبر أطلس جيو تريفيا.",
+      "intro": "تجمع فئة الاكتشاف والتجول الافتراضي بين الطرق الجبلية النائية والممرات التاريخية والزوايا الجغرافية الخفية التي تكشف كيف تتنقل الحضارات عبر التضاريس الوعرة."
     }
   },
   "afghanistan": {
@@ -21161,6 +21164,643 @@
       "title": "nagorno-karabakh — الأرشيف الجغرافي والتقارير الاستكشافية",
       "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت nagorno-karabakh في أطلس جيو تريفيا.",
       "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع nagorno-karabakh ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "nakasendo": {
+    "slug": "nakasendo",
+    "name": "Nakasendo",
+    "category": "street-view-and-discovery",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "nakasendo",
+      "edo highway",
+      "samurai road",
+      "post towns japan"
+    ],
+    "updatedAt": "2026-11-20T18:04:11.483Z",
+    "en": {
+      "title": "Nakasendo: Japan's Historic Inland Highway | GeoTrivia Atlas",
+      "description": "Discover the Nakasendo, the historic inland samurai highway that linked Edo and Kyoto across Japan's rugged mountain spine.",
+      "intro": "One of the Tokugawa shogunate's Five Routes, the Nakasendo wound through 69 post towns and treacherous alpine passes between Edo and Kyoto."
+    },
+    "es": {
+      "title": "Nakasendō: La Ruta Interior de Japón | GeoTrivia Atlas",
+      "description": "Descubra el Nakasendō, la ruta samurái interior que unía Edo y Kioto a través de las montañas de Japón en GeoTrivia Atlas.",
+      "intro": "Como una de las Cinco Rutas del shogunato Tokugawa, el Nakasendō conectaba Edo con Kioto mediante 69 estaciones de posta y pasos alpinos."
+    },
+    "fr": {
+      "title": "Nakasendō : La Route Intérieure du Japon | GeoTrivia Atlas",
+      "description": "Découvrez le Nakasendō, la route intérieure des samouraïs reliant Edo à Kyoto à travers les montagnes japonaises.",
+      "intro": "L'une des Cinq Routes du shogunat Tokugawa, le Nakasendō serpentait à travers 69 villes-étapes et des cols alpins escarpés entre Edo et Kyoto."
+    },
+    "de": {
+      "title": "Der Nakasendō: Japans Bergstraße | GeoTrivia Atlas",
+      "description": "Erfahren Sie mehr über den historischen Nakasendō, Japans Bergstraße der Samurai zwischen Edo und Kyōto, im GeoTrivia Atlas.",
+      "intro": "Der Nakasendō gehörte zu den fünf großen Hauptrouten der Edo-Zeit und führte Reisende, Händler und Samurai-Gefolge durch 69 Poststationen über steile Gebirgspässe."
+    },
+    "pt": {
+      "title": "Nakasendō: A Rota Interior do Japão | GeoTrivia Atlas",
+      "description": "Descubra a Nakasendō, a antiga estrada samurai pelo interior montanhoso entre Edo e Quioto no GeoTrivia Atlas.",
+      "intro": "Uma das Cinco Rotas do xogunato Tokugawa, a Nakasendō percorria 69 cidades-posto e passos alpinos rigorosos entre Edo e Quioto."
+    },
+    "it": {
+      "title": "Nakasendō: La Strada Interna del Giappone | GeoTrivia Atlas",
+      "description": "Scopri il Nakasendō, l'antica strada montana dei samurai che collegava Edo a Kyoto lungo l'entroterra giapponese.",
+      "intro": "Una delle Cinque Vie dello shogunato Tokugawa, il Nakasendō attraversava 69 stazioni di posta e ardui valichi alpini tra Edo e Kyoto."
+    },
+    "nl": {
+      "title": "Nakasendō: De Historische Bergweg van Japan | GeoTrivia Atlas",
+      "description": "Ontdek de Nakasendō, de historische samoeraiweg door het binnenland tussen Edo en Kyoto in de GeoTrivia Atlas.",
+      "intro": "Als een van de Vijf Routes van het Tokugawa-shogunaat slingerde de Nakasendō langs 69 poststadjes en steile bergpassen tussen Edo en Kyoto."
+    },
+    "sv": {
+      "title": "Nakasendō: Japans Historiska Bergsväg | GeoTrivia Atlas",
+      "description": "Upptäck Nakasendō, den historiska samurajvägen genom Japans inre bergskedjor mellan Edo och Kyoto på GeoTrivia Atlas.",
+      "intro": "Som en av Tokugawa-shogunatets fem huvudvägar slingrade sig Nakasendō genom 69 poststäder och krävande bergspass mellan Edo och Kyoto."
+    },
+    "tr": {
+      "title": "Nakasendō: Japonya'nın Tarihi İç Dağ Yolu | GeoTrivia Atlas",
+      "description": "Edo ile Kyoto'yu Japonya'nın sarp dağları üzerinden birbirine bağlayan tarihi Nakasendō yolunu GeoTrivia Atlas'ta keşfedin.",
+      "intro": "Tokugawa şogunluğunun Beş Ana Yolu'ndan biri olan Nakasendō, Edo ve Kyoto arasında 69 menzil kasabasından ve zorlu alp geçitlerinden geçiyordu."
+    },
+    "ar": {
+      "title": "طريق ناكاسيندو التاريخي في اليابان | أطلس جيو تريفيا",
+      "description": "تعرّف على طريق ناكاسيندو التاريخي ومحطاته الـ69 التي ربطت إيدو بكيوتو عبر جبال اليابان في عصر الساموراي.",
+      "intro": "كان طريق ناكاسيندو أحد الطرق الخمسة الكبرى في عصر إيدو، حيث امتد عبر قلب الجبال اليابانية حاملاً القوافل والتجار ومواكب الساموراي بين إيدو وكيوتو."
+    }
+  },
+  "obsidian": {
+    "slug": "obsidian",
+    "name": "Obsidian",
+    "category": "street-view-and-discovery",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "obsidian",
+      "volcanic glass",
+      "prehistoric trade",
+      "stone age tools"
+    ],
+    "updatedAt": "2026-11-20T18:04:12.518Z",
+    "en": {
+      "title": "Obsidian and Prehistoric Volcanic Glass Trade | GeoTrivia Atlas",
+      "description": "Explore how black volcanic obsidian shaped Stone Age toolmaking and long-distance prehistoric trade networks on GeoTrivia Atlas.",
+      "intro": "Formed from rapidly cooled volcanic lava, razor-sharp obsidian served as a prized Stone Age commodity traded across hundreds of kilometers."
+    },
+    "es": {
+      "title": "Obsidiana y Vidrio Volcánico Prehistórico | GeoTrivia Atlas",
+      "description": "Descubra cómo la obsidiana volcánica negra impulsó las herramientas de la Edad de Piedra y las rutas comerciales prehistóricas.",
+      "intro": "Nacida del enfriamiento rápido de la lava, la obsidiana afilada como el acero fue un recurso clave intercambiado a cientos de kilómetros en la prehistoria."
+    },
+    "fr": {
+      "title": "Obsidienne et Commerce Préhistorique | GeoTrivia Atlas",
+      "description": "Découvrez comment l'obsidienne volcanique noire a façonné l'outillage de l'âge de pierre et le commerce préhistorique.",
+      "intro": "Issu d'un refroidissement brutal de la lave, le verre volcanique d'obsidienne offrait des lames tranchantes échangées sur des centaines de kilomètres à la préhistoire."
+    },
+    "de": {
+      "title": "Obsidian und Prähistorisches Vulkanglas | GeoTrivia Atlas",
+      "description": "Erfahren Sie, wie schwarzer Obsidian als vulkanisches Glas prähistorische Handelsnetze und Steinzeit-Werkzeuge prägte.",
+      "intro": "Vulkanisches Glas wie Obsidian war in der Steinzeit ein begehrter Rohstoff, dessen scharfe Klingen über hunderte Kilometer hinweg gehandelt wurden."
+    },
+    "pt": {
+      "title": "Obsidiana e Comércio Pré-Histórico | GeoTrivia Atlas",
+      "description": "Explore como a obsidiana vulcânica negra impulsionou ferramentas da Idade da Pedra e rotas comerciais pré-históricas.",
+      "intro": "Formada pelo resfriamento rápido da lava, a obsidiana cortante tornou-se uma mercadoria valiosa negociada por centenas de quilômetros na pré-história."
+    },
+    "it": {
+      "title": "Ossidiana e Vetro Vulcanico Preistorico | GeoTrivia Atlas",
+      "description": "Scopri come l'ossidiana vulcanica nera abbia guidato la fabbricazione di utensili nell'Età della Pietra e i commerci preistorici.",
+      "intro": "Formatasi dal rapido raffreddamento della lava, l'ossidiana offriva lame affilatissime scambiate per centinaia di chilometri nella preistoria."
+    },
+    "nl": {
+      "title": "Obsidiaan en Prehistorisch Vulkanisch Glas | GeoTrivia Atlas",
+      "description": "Ontdek hoe zwart vulkanisch obsidiaan de werktuigbouw in de steentijd en prehistorische handelsroutes vormgaf.",
+      "intro": "Snel gestolde lava vormde vlijmscherp obsidiaan, een kostbare grondstof uit de steentijd die over honderden kilometers werd verhandeld."
+    },
+    "sv": {
+      "title": "Obsidian och Förhistoriskt Vulkanglas | GeoTrivia Atlas",
+      "description": "Utforska hur svart vulkanisk obsidian formade stenålderns redskap och långväga förhistorisk handel på GeoTrivia Atlas.",
+      "intro": "Snabbt avkyld lava bildade knivskarp obsidian, en eftertraktad råvara under stenåldern som handlades över hundratals kilometer."
+    },
+    "tr": {
+      "title": "Obsidyen ve Tarih Öncesi Volkanik Cam | GeoTrivia Atlas",
+      "description": "Siyah volkanik obsidyenin Taş Devri alet yapımını ve tarih öncesi uzun mesafeli ticaret ağlarını nasıl şekillendirdiğini keşfedin.",
+      "intro": "Lavın hızla soğumasıyla oluşan keskin obsidyen, tarih öncesi çağlarda yüzlerce kilometre öteye taşınan değerli bir Taş Devri hammaddesiydi."
+    },
+    "ar": {
+      "title": "السبج والزجاج البركاني في التاريخ | أطلس جيو تريفيا",
+      "description": "اكتشف دور حجر السبج البركاني في شبكات التجارة القديمة وصناعة الأدوات الحجرية عبر التاريخ البشري.",
+      "intro": "شكّل الزجاج البركاني الأسود المعروف بالسبج مادة استراتيجية في العصر الحجري، إذ انتقل عبر شبكات تجارية لمسافات شاسعة لصناعة أسلحة وشفرات بالغة الحدة."
+    }
+  },
+  "micronations": {
+    "slug": "micronations",
+    "name": "Micronations",
+    "category": "micronations",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "micronations",
+      "unrecognized states",
+      "artificial islands",
+      "sovereignty experiments"
+    ],
+    "updatedAt": "2026-11-21T18:23:57.248Z",
+    "en": {
+      "title": "Micronations and Unrecognized States | GeoTrivia Atlas",
+      "description": "Explore unrecognized micronations, offshore sovereignty experiments, and self-declared microstates around the world on GeoTrivia Atlas.",
+      "intro": "Micronations chronicle ambitious experiments in self-declared statehood, from dredged Pacific coral reefs to abandoned sea forts and contested border pockets."
+    },
+    "es": {
+      "title": "Micronaciones y Estados No Reconocidos | GeoTrivia Atlas",
+      "description": "Explore micronaciones no reconocidas, experimentos de soberanía en alta mar y Estados autoproclamados en GeoTrivia Atlas.",
+      "intro": "Las micronaciones reúnen audaces experimentos de soberanía autoproclamada sobre arrecifes oceánicos, plataformas marinas y enclaves olvidados."
+    },
+    "fr": {
+      "title": "Micronations et États Non Reconnus | GeoTrivia Atlas",
+      "description": "Explorez les micronations non reconnues, expériences de souveraineté en haute mer et micro-États autoproclamés sur GeoTrivia Atlas.",
+      "intro": "Les micronations retracent des expériences audacieuses de souveraineté autoproclamée, des récifs coralliens dragués du Pacifique aux anciens forts maritimes."
+    },
+    "de": {
+      "title": "Mikronationen und Souveränitätsexperimente | GeoTrivia Atlas",
+      "description": "Entdecken Sie selbsternannte Mikronationen, künstliche Inselstaaten und kuriose Souveränitätsexperimente im GeoTrivia Atlas.",
+      "intro": "Mikronationen entstehen dort, wo Einzelpersonen oder Gruppen auf Riffen, Plattformen oder vergessenen Landstrichen eigene Staaten ausrufen und die Grenzen des Völkerrechts herausfordern."
+    },
+    "pt": {
+      "title": "Micronações e Estados Não Reconhecidos | GeoTrivia Atlas",
+      "description": "Explore micronações não reconhecidas, experimentos de soberania em alto-mar e microestados autoproclamados no GeoTrivia Atlas.",
+      "intro": "As micronações reúnem experimentos ousados de soberania autoproclamada em recifes oceânicos, fortes marítimos e territórios contestados."
+    },
+    "it": {
+      "title": "Micronazioni e Stati Non Riconosciuti | GeoTrivia Atlas",
+      "description": "Esplora micronazioni non riconosciute, esperimenti di sovranità in mare aperto e microstati autoproclamati su GeoTrivia Atlas.",
+      "intro": "Le micronazioni raccontano ambiziosi esperimenti di statualità autoproclamata, tra barriere coralline dragate nel Pacifico e fortezze marine abbandonate."
+    },
+    "nl": {
+      "title": "Micronaties en Niet-Erkende Staten | GeoTrivia Atlas",
+      "description": "Ontdek niet-erkende micronaties, experimenten met soevereiniteit op zee en zelfverklaarde staatjes in de GeoTrivia Atlas.",
+      "intro": "Micronaties documenteren opmerkelijke experimenten met zelfverklaarde onafhankelijkheid op koraalriffen, boorplatforms en vergeten stukjes land."
+    },
+    "sv": {
+      "title": "Mikronationer och Icke-Erkända Stater | GeoTrivia Atlas",
+      "description": "Utforska icke-erkända mikronationer, suveränitetsexperiment till havs och självutnämnda stater på GeoTrivia Atlas.",
+      "intro": "Mikronationer skildrar djärva experiment i självutnämnd självständighet, från uppmuddrade korallrev i Stilla havet till övergivna havsfort."
+    },
+    "tr": {
+      "title": "Mikro Uluslar ve Egemenlik Deneyleri | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta tanınmayan mikro ulusları, açık deniz egemenlik deneylerini ve kendi kendini ilan eden devletleri keşfedin.",
+      "intro": "Mikro uluslar, Pasifik'teki mercan resiflerinden terk edilmiş deniz kalelerine kadar kendi kendini ilan eden sıra dışı egemenlik deneylerini belgeler."
+    },
+    "ar": {
+      "title": "الدويلات المجهرية وتجارب السيادة | أطلس جيو تريفيا",
+      "description": "استكشف الدويلات المجهرية غير المعترف بها والتجارب السيادية الغريبة والجزر الاصطناعية عبر أطلس جيو تريفيا.",
+      "intro": "تجمع الدويلات المجهرية بين الطموحات السياسية الجريئة والشعاب المرجانية النائية والحصون البحرية المهجورة، حيث أعلن أفراد أو مجموعات قيام دول مستقلة خارج الخرائط الرسمية."
+    }
+  },
+  "south-pacific": {
+    "slug": "south-pacific",
+    "name": "South Pacific",
+    "category": "micronations",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "south pacific",
+      "oceania geography",
+      "coral atolls",
+      "maritime history"
+    ],
+    "updatedAt": "2026-11-21T18:23:55.930Z",
+    "en": {
+      "title": "South Pacific Atolls and Maritime History | GeoTrivia Atlas",
+      "description": "Explore the South Pacific's remote coral atolls, volcanic archipelagos, and maritime territorial histories on GeoTrivia Atlas.",
+      "intro": "Spanning vast stretches of ocean, the South Pacific encompasses submerged coral atolls, volcanic island chains, and complex maritime boundaries."
+    },
+    "es": {
+      "title": "Pacífico Sur: Atolones e Historia Marítima | GeoTrivia Atlas",
+      "description": "Explore los atolones remotos del Pacífico Sur, sus archipiélagos volcánicos e historia marítima en GeoTrivia Atlas.",
+      "intro": "Extendido por inmensas rutas oceánicas, el Pacífico Sur alberga atolones sumergidos, islas volcánicas y complejas fronteras marítimas."
+    },
+    "fr": {
+      "title": "Pacifique Sud : Atolls et Histoire Maritime | GeoTrivia Atlas",
+      "description": "Explorez les atolls isolés du Pacifique Sud, ses archipels volcaniques et son histoire maritime sur GeoTrivia Atlas.",
+      "intro": "Couvrant d'immenses étendues océaniques, le Pacifique Sud rassemble atolls coralliens, îles volcaniques et frontières maritimes disputées."
+    },
+    "de": {
+      "title": "Südpazifik: Atolle und Maritime Geschichte | GeoTrivia Atlas",
+      "description": "Entdecken Sie den Südpazifik, entlegene Korallenatolle und maritime Grenzgeschichten im GeoTrivia Atlas.",
+      "intro": "Der Südpazifik erstreckt sich über tausende Vulkaninseln und Korallenatolle, die Schauplatz kühner Seefahrt und territorialer Streitigkeiten wurden."
+    },
+    "pt": {
+      "title": "Pacífico Sul: Atóis e História Marítima | GeoTrivia Atlas",
+      "description": "Explore os atóis remotos do Pacífico Sul, arquipélagos vulcânicos e fronteiras marítimas no GeoTrivia Atlas.",
+      "intro": "Abrangendo vastas extensões oceânicas, o Pacífico Sul reúne atóis de coral submersos, ilhas vulcânicas e disputas marítimas históricas."
+    },
+    "it": {
+      "title": "Pacifico Meridionale: Atolli e Storia Marittima | GeoTrivia Atlas",
+      "description": "Esplora i remoti atolli del Pacifico meridionale, gli arcipelaghi vulcanici e la storia marittima su GeoTrivia Atlas.",
+      "intro": "Esteso su vaste distese oceaniche, il Pacifico meridionale racchiude atolli corallini sommersi, isole vulcaniche e confini marittimi contesi."
+    },
+    "nl": {
+      "title": "Stille Zuidzee: Atollen en Maritieme Geschiedenis | GeoTrivia Atlas",
+      "description": "Ontdek de afgelegen koraalatollen, vulkanische archipels en maritieme geschiedenis van de Stille Zuidzee in de GeoTrivia Atlas.",
+      "intro": "De Stille Zuidzee omvat talloze koraalatollen, vulkanische eilandketens en complexe maritieme grenzen verspreid over enorme oceaanvlakten."
+    },
+    "sv": {
+      "title": "Södra Stilla Havet: Atoller och Maritim Historia | GeoTrivia Atlas",
+      "description": "Utforska södra Stilla havets avlägsna korallatoller, vulkaniska ögrupper och maritima historia på GeoTrivia Atlas.",
+      "intro": "Södra Stilla havet spänner över vidsträckta vatten med nedsänkta korallatoller, vulkaniska ökedjor och omstridda sjögränser."
+    },
+    "tr": {
+      "title": "Güney Pasifik Atolleri ve Deniz Tarihi | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Güney Pasifik'in ücra mercan atollerini, volkanik takımadalarını ve denizcilik tarihini keşfedin.",
+      "intro": "Geniş okyanus alanlarına yayılan Güney Pasifik, su altı mercan atollerini, volkanik adaları ve karmaşık deniz sınırlarını barındırır."
+    },
+    "ar": {
+      "title": "جزر جنوب المحيط الهادئ وجغرافيته | أطلس جيو تريفيا",
+      "description": "استكشف جزر جنوب المحيط الهادئ والشعاب المرجانية النائية والنزاعات البحرية التاريخية عبر أطلس جيو تريفيا.",
+      "intro": "يمتد جنوب المحيط الهادئ عبر آلاف الجزر البركانية والشعاب المرجانية التي شكلت مسرحاً للملاحة البولينيزية والنزاعات البحرية الحديثة."
+    }
+  },
+  "tonga": {
+    "slug": "tonga",
+    "name": "Tonga",
+    "category": "micronations",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "tonga",
+      "polynesia",
+      "kingdom of tonga",
+      "pacific islands"
+    ],
+    "updatedAt": "2026-11-21T18:23:56.902Z",
+    "en": {
+      "title": "Kingdom of Tonga: Archipelago and Maritime Reach | GeoTrivia Atlas",
+      "description": "Discover the Kingdom of Tonga, its 170-island Polynesian archipelago, and its maritime reach in the South Pacific on GeoTrivia Atlas.",
+      "intro": "Stretching across more than 170 islands and distant coral reefs, the Kingdom of Tonga stands as Polynesia's sole surviving indigenous monarchy."
+    },
+    "es": {
+      "title": "Reino de Tonga y Geografía del Pacífico | GeoTrivia Atlas",
+      "description": "Descubra el Reino de Tonga, su archipiélago polinesio de más de 170 islas y su historia marítima en GeoTrivia Atlas.",
+      "intro": "Extendido por más de 170 islas y arrecifes remotos, el Reino de Tonga es la única monarquía indígena de la Polinesia que conservó su soberanía."
+    },
+    "fr": {
+      "title": "Royaume des Tonga et Histoire Maritime | GeoTrivia Atlas",
+      "description": "Découvrez le Royaume des Tonga, son archipel polynésien de plus de 170 îles et son histoire maritime sur GeoTrivia Atlas.",
+      "intro": "S'étendant sur plus de 170 îles et récifs lointains, le Royaume des Tonga demeure l'unique monarchie polynésienne à avoir préservé sa souveraineté."
+    },
+    "de": {
+      "title": "Königreich Tonga und Polynesische Geografie | GeoTrivia Atlas",
+      "description": "Erfahren Sie mehr über das Königreich Tonga, seine polynesischen Inseln und Seegrenzen im GeoTrivia Atlas.",
+      "intro": "Das Königreich Tonga umfasst über 170 Inseln und entlegene Atolle im Südpazifik und bewahrte als einzige polynesische Monarchie seine Unabhängigkeit."
+    },
+    "pt": {
+      "title": "Reino de Tonga e Geografia Marítima | GeoTrivia Atlas",
+      "description": "Descubra o Reino de Tonga, seu arquipélago polinésio de mais de 170 ilhas e sua história marítima no GeoTrivia Atlas.",
+      "intro": "Espalhando-se por mais de 170 ilhas e recifes distantes, o Reino de Tonga é a única monarquia indígena da Polinésia a preservar sua soberania."
+    },
+    "it": {
+      "title": "Regno di Tonga e Geografia del Pacifico | GeoTrivia Atlas",
+      "description": "Scopri il Regno di Tonga, il suo arcipelago polinesiano di oltre 170 isole e la sua storia marittima su GeoTrivia Atlas.",
+      "intro": "Esteso su oltre 170 isole e barriere coralline remote, il Regno di Tonga rappresenta l'unica monarchia indigena della Polinesia rimasta sovrana."
+    },
+    "nl": {
+      "title": "Koninkrijk Tonga en Polynesische Geografie | GeoTrivia Atlas",
+      "description": "Ontdek het Koninkrijk Tonga, zijn Polynesische archipel van ruim 170 eilanden en maritieme geschiedenis in de GeoTrivia Atlas.",
+      "intro": "Het Koninkrijk Tonga beslaat meer dan 170 eilanden en verre koraalriffen en is de enige overgebleven inheemse monarchie van Polynesië."
+    },
+    "sv": {
+      "title": "Kungariket Tonga och Polynesisk Geografi | GeoTrivia Atlas",
+      "description": "Upptäck Kungariket Tonga, dess polynesiska ögrupp med över 170 öar och maritima räckvidd på GeoTrivia Atlas.",
+      "intro": "Kungariket Tonga omfattar över 170 öar och avlägsna korallrev och är Polynesien enda kvarvarande inhemska monarki."
+    },
+    "tr": {
+      "title": "Tonga Krallığı ve Pasifik Coğrafyası | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Tonga Krallığı'nı, 170'ten fazla Polinezya adasını ve deniz sınırlarını keşfedin.",
+      "intro": "170'ten fazla ada ve uzak mercan resifine yayılan Tonga Krallığı, Polinezya'da egemenliğini koruyan tek yerli monarşidir."
+    },
+    "ar": {
+      "title": "مملكة تونغا وجغرافيتها البحرية | أطلس جيو تريفيا",
+      "description": "تعرّف على مملكة تونغا وجزرها البولينيزية وتاريخها البحري في جنوب المحيط الهادئ عبر أطلس جيو تريفيا.",
+      "intro": "تعد مملكة تونغا الدولة الملكية البولينيزية الوحيدة في المحيط الهادئ التي حافظت على سيادتها، وتمتد أراضيها عبر أكثر من 170 جزيرة وشعباً مرجانياً."
+    }
+  },
+  "artificial-islands": {
+    "slug": "artificial-islands",
+    "name": "Artificial Islands",
+    "category": "micronations",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "artificial islands",
+      "land reclamation",
+      "seasteading",
+      "man-made islands"
+    ],
+    "updatedAt": "2026-11-21T18:23:56.649Z",
+    "en": {
+      "title": "Artificial Islands and Land Reclamation | GeoTrivia Atlas",
+      "description": "Explore artificial islands, dredged coral platforms, and offshore land reclamation projects around the world on GeoTrivia Atlas.",
+      "intro": "From dredged sandbars in the South Pacific to monumental coastal megaprojects, artificial islands reshape maritime geography and territorial law."
+    },
+    "es": {
+      "title": "Islas Artificiales y Tierras Ganadas al Mar | GeoTrivia Atlas",
+      "description": "Explore islas artificiales, plataformas dragadas y proyectos de recuperación de tierras en el mar en GeoTrivia Atlas.",
+      "intro": "Desde bancos de arena dragados en el Pacífico Sur hasta grandes obras costeras, las islas artificiales transforman la geografía y el derecho marítimo."
+    },
+    "fr": {
+      "title": "Îles Artificielles et Terres Gagnées sur la Mer | GeoTrivia Atlas",
+      "description": "Explorez les îles artificielles, bancs de sable dragués et projets de poldérisation maritime sur GeoTrivia Atlas.",
+      "intro": "Des bancs de sable dragués dans le Pacifique Sud aux grands chantiers côtiers, les îles artificielles redessinent la géographie et le droit de la mer."
+    },
+    "de": {
+      "title": "Künstliche Inseln und Landgewinnung | GeoTrivia Atlas",
+      "description": "Entdecken Sie künstliche Inseln, Landgewinnungsprojekte und schwimmende Plattformen weltweit im GeoTrivia Atlas.",
+      "intro": "Von aufgeschütteten Sandbänken im Pazifik bis zu modernen Meeresplattformen zeigen künstliche Inseln, wie Menschen dem Ozean neues Land abringen."
+    },
+    "pt": {
+      "title": "Ilhas Artificiais e Aterros Marítimos | GeoTrivia Atlas",
+      "description": "Explore ilhas artificiais, bancos de areia dragados e projetos de aterramento marítimo no GeoTrivia Atlas.",
+      "intro": "De bancos de areia dragados no Pacífico Sul a grandes projetos costeiros, as ilhas artificiais redefinem a geografia e o direito marítimo."
+    },
+    "it": {
+      "title": "Isole Artificiali e Bonifiche Marine | GeoTrivia Atlas",
+      "description": "Esplora isole artificiali, piattaforme dragate e progetti di bonifica marina in tutto il mondo su GeoTrivia Atlas.",
+      "intro": "Dai banchi di sabbia dragati nel Pacifico meridionale alle grandi opere costiere, le isole artificiali ridisegnano geografia e diritto marittimo."
+    },
+    "nl": {
+      "title": "Kunstmatige Eilanden en Landaanwinning | GeoTrivia Atlas",
+      "description": "Ontdek kunstmatige eilanden, opgespoten zandbanken en landaanwinningsprojecten wereldwijd in de GeoTrivia Atlas.",
+      "intro": "Van opgespoten zandbanken in de Stille Zuidzee tot grootschalige kustprojecten veranderen kunstmatige eilanden de maritieme geografie."
+    },
+    "sv": {
+      "title": "Konstgjorda Öar och Landåtervinning | GeoTrivia Atlas",
+      "description": "Utforska konstgjorda öar, uppmuddrade revplattformar och landåtervinningsprojekt runt om i världen på GeoTrivia Atlas.",
+      "intro": "Från uppmuddrade sandbankar i södra Stilla havet till stora kustprojekt omformar konstgjorda öar både geografi och sjörätt."
+    },
+    "tr": {
+      "title": "Yapay Adalar ve Deniz Dolgusu | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta yapay adaları, deniz dolgusu projelerini ve açık deniz platformlarını keşfedin.",
+      "intro": "Güney Pasifik'te dökülen kum setlerinden dev kıyı projelerine kadar yapay adalar deniz coğrafyasını ve egemenlik hukukunu yeniden şekillendirir."
+    },
+    "ar": {
+      "title": "الجزر الاصطناعية واستصلاح البحار | أطلس جيو تريفيا",
+      "description": "استكشف الجزر الاصطناعية ومشاريع استصلاح الأراضي البحرية التي أعادت رسم السواحل والحدود عبر أطلس جيو تريفيا.",
+      "intro": "من جزر الرمال المستصلحة في المحيط الهادئ إلى المنصات البحرية الهندسية، تكشف الجزر الاصطناعية كيف يبني البشر أراضي جديدة فوق المياه."
+    }
+  },
+  "libertarianism": {
+    "slug": "libertarianism",
+    "name": "Libertarianism",
+    "category": "micronations",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "libertarianism",
+      "seasteading",
+      "tax-free zones",
+      "political experiments"
+    ],
+    "updatedAt": "2026-11-21T18:23:57.072Z",
+    "en": {
+      "title": "Libertarianism and Stateless Experiments | GeoTrivia Atlas",
+      "description": "Explore real-world libertarian state-building experiments, tax-free island blueprints, and seasteading history on GeoTrivia Atlas.",
+      "intro": "From dredged Pacific reefs to seasteading proposals, libertarian experiments have repeatedly sought blank-slate territory beyond conventional state authority."
+    },
+    "es": {
+      "title": "Libertarismo y Experimentos Estatales | GeoTrivia Atlas",
+      "description": "Explore experimentos libertarios de creación de Estados, islas libres de impuestos y proyectos de seasteading en GeoTrivia Atlas.",
+      "intro": "Desde arrecifes dragados en el Pacífico hasta plataformas en alta mar, los proyectos libertarios han buscado territorios al margen de los Estados tradicionales."
+    },
+    "fr": {
+      "title": "Libertarianisme et Expériences Politiques | GeoTrivia Atlas",
+      "description": "Explorez les expériences libertariennes de création d'États, îles sans impôts et projets de seasteading sur GeoTrivia Atlas.",
+      "intro": "Des récifs dragués du Pacifique aux projets en haute mer, les expériences libertariennes ont cherché des territoires vierges hors de toute autorité étatique."
+    },
+    "de": {
+      "title": "Libertarismus und Politische Staatsexperimente | GeoTrivia Atlas",
+      "description": "Entdecken Sie libertäre Staatsprojekte, steuerfreie Inselvisionen und politische Experimente im GeoTrivia Atlas.",
+      "intro": "Von künstlichen Pazifikinseln bis zu Sonderzonen beleuchtet dieses Thema reale Versuche, libertäre Gemeinwesen ohne Steuern und Regulierung zu gründen."
+    },
+    "pt": {
+      "title": "Libertarianismo e Experimentos Políticos | GeoTrivia Atlas",
+      "description": "Explore experimentos libertários de criação de Estados, ilhas livres de impostos e projetos de seasteading no GeoTrivia Atlas.",
+      "intro": "De recifes dragados no Pacífico a projetos em alto-mar, iniciativas libertárias buscaram territórios em branco fora da autoridade estatal tradicional."
+    },
+    "it": {
+      "title": "Libertarismo ed Esperimenti Statali | GeoTrivia Atlas",
+      "description": "Esplora gli esperimenti libertari di creazione di Stati, isole esentasse e progetti di seasteading su GeoTrivia Atlas.",
+      "intro": "Dalle barriere coralline dragate nel Pacifico alle piattaforme in alto mare, i progetti libertari hanno cercato territori liberi dall'autorità statale."
+    },
+    "nl": {
+      "title": "Libertarisme en Staatsexperimenten | GeoTrivia Atlas",
+      "description": "Ontdek libertaire staatsexperimenten, belastingvrije eilandplannen en seasteading-geschiedenis in de GeoTrivia Atlas.",
+      "intro": "Van opgespoten riffen in de Stille Oceaan tot seasteading-projecten zochten libertaire initiatieven vrijplaatsen buiten bestaand staatsgezag."
+    },
+    "sv": {
+      "title": "Libertarianism och Statsexperiment | GeoTrivia Atlas",
+      "description": "Utforska libertarianska statsexperiment, skattefria öprojekt och seasteading-historia på GeoTrivia Atlas.",
+      "intro": "Från uppmuddrade stillahavsrev till havsbaserade projekt har libertarianska initiativ sökt oskrivet territorium bortom traditionell statsmakt."
+    },
+    "tr": {
+      "title": "Liberteryenizm ve Devlet Deneyleri | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta liberteryen devlet kurma deneylerini, vergisiz ada tasarımlarını ve açık deniz projelerini keşfedin.",
+      "intro": "Pasifik'teki yapay resiflerden açık deniz projelerine kadar liberteryen girişimler, geleneksel devlet otoritesinin dışında yeni topraklar aramıştır."
+    },
+    "ar": {
+      "title": "التحررية وتجارب الدول الحرة | أطلس جيو تريفيا",
+      "description": "استكشف التجارب التحررية وبناء المدن الحرة من الضرائب عبر التاريخ الجغرافي في أطلس جيو تريفيا.",
+      "intro": "تستعرض هذه المقالات المحاولات الجريئة لتأسيس مجتمعات تحررية خالية من الضرائب والتدخل الحكومي في المياه الدولية والمناطق الحدودية."
+    }
+  },
+  "liechtenstein": {
+    "slug": "liechtenstein",
+    "name": "liechtenstein",
+    "category": "Countries & Territories",
+    "focusKeywords": [
+      "liechtenstein",
+      "liechtenstein geography",
+      "liechtenstein world exploration",
+      "liechtenstein field dispatches",
+      "Atlas liechtenstein"
+    ],
+    "updatedAt": "2026-11-22T15:35:24.074Z",
+    "en": {
+      "title": "liechtenstein — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under liechtenstein.",
+      "intro": "Welcome to the liechtenstein thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "liechtenstein — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo liechtenstein.",
+      "intro": "Bienvenido al archivo temático de liechtenstein en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "liechtenstein — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous liechtenstein.",
+      "intro": "Bienvenue dans le dossier thématique liechtenstein du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "liechtenstein — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu liechtenstein.",
+      "intro": "Willkommen im Themenarchiv zu liechtenstein im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "liechtenstein — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em liechtenstein.",
+      "intro": "Bem-vindo ao arquivo temático de liechtenstein no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "liechtenstein — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a liechtenstein.",
+      "intro": "Benvenuto nell'archivio tematico di liechtenstein su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "liechtenstein — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over liechtenstein.",
+      "intro": "Welkom in het thematische archief over liechtenstein in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "liechtenstein — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om liechtenstein.",
+      "intro": "Välkommen till temaarkivet för liechtenstein i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "liechtenstein — Coğrafi Arşiv ve Saha Raporları",
+      "description": "liechtenstein kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas liechtenstein tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "liechtenstein — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت liechtenstein في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع liechtenstein ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "microstate": {
+    "slug": "microstate",
+    "name": "microstate",
+    "category": "Countries & Territories",
+    "focusKeywords": [
+      "microstate",
+      "microstate geography",
+      "microstate world exploration",
+      "microstate field dispatches",
+      "Atlas microstate"
+    ],
+    "updatedAt": "2026-11-22T15:35:24.074Z",
+    "en": {
+      "title": "microstate — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under microstate.",
+      "intro": "Welcome to the microstate thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "microstate — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo microstate.",
+      "intro": "Bienvenido al archivo temático de microstate en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "microstate — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous microstate.",
+      "intro": "Bienvenue dans le dossier thématique microstate du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "microstate — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu microstate.",
+      "intro": "Willkommen im Themenarchiv zu microstate im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "microstate — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em microstate.",
+      "intro": "Bem-vindo ao arquivo temático de microstate no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "microstate — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a microstate.",
+      "intro": "Benvenuto nell'archivio tematico di microstate su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "microstate — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over microstate.",
+      "intro": "Welkom in het thematische archief over microstate in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "microstate — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om microstate.",
+      "intro": "Välkommen till temaarkivet för microstate i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "microstate — Coğrafi Arşiv ve Saha Raporları",
+      "description": "microstate kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas microstate tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "microstate — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت microstate في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع microstate ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "monarchy": {
+    "slug": "monarchy",
+    "name": "monarchy",
+    "category": "Countries & Territories",
+    "focusKeywords": [
+      "monarchy",
+      "monarchy geography",
+      "monarchy world exploration",
+      "monarchy field dispatches",
+      "Atlas monarchy"
+    ],
+    "updatedAt": "2026-11-22T15:35:24.074Z",
+    "en": {
+      "title": "monarchy — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under monarchy.",
+      "intro": "Welcome to the monarchy thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "monarchy — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo monarchy.",
+      "intro": "Bienvenido al archivo temático de monarchy en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "monarchy — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous monarchy.",
+      "intro": "Bienvenue dans le dossier thématique monarchy du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "monarchy — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu monarchy.",
+      "intro": "Willkommen im Themenarchiv zu monarchy im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "monarchy — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em monarchy.",
+      "intro": "Bem-vindo ao arquivo temático de monarchy no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "monarchy — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a monarchy.",
+      "intro": "Benvenuto nell'archivio tematico di monarchy su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "monarchy — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over monarchy.",
+      "intro": "Welkom in het thematische archief over monarchy in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "monarchy — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om monarchy.",
+      "intro": "Välkommen till temaarkivet för monarchy i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "monarchy — Coğrafi Arşiv ve Saha Raporları",
+      "description": "monarchy kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas monarchy tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "monarchy — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت monarchy في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع monarchy ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
     }
   }
 }
