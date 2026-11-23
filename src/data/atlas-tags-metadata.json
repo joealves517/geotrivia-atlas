@@ -312,65 +312,66 @@
   },
   "unesco": {
     "slug": "unesco",
-    "name": "UNESCO World Heritage",
-    "category": "world-landmarks",
+    "name": "UNESCO",
+    "category": "culture-and-arts",
     "aiCurated": true,
-    "curatedBy": "gemini-spark-test",
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "UNESCO World Heritage",
-      "UNESCO heritage sites",
-      "UNESCO global geography"
+      "unesco heritage",
+      "intangible heritage",
+      "world heritage sites",
+      "cultural preservation"
     ],
-    "updatedAt": "2026-09-20T23:59:07.793Z",
+    "updatedAt": "2026-11-22T17:07:13.721Z",
     "en": {
-      "title": "UNESCO World Heritage — Planetary Preservation & Cultural Landmarks",
-      "description": "Discover verified investigative dispatches, archaeological surveys, and geographic chronicles from Earths most precious UNESCO World Heritage sanctuaries.",
-      "intro": "The UNESCO World Heritage convention represents humanity collective commitment to safeguarding places of outstanding universal value across continents. From secluded Andean citadels to sprawling biodiverse river deltas, these designated sanctuaries bridge natural history and human civilization."
+      "title": "UNESCO World and Intangible Heritage | GeoTrivia Atlas",
+      "description": "Explore UNESCO World Heritage sites and Masterpieces of Intangible Cultural Heritage around the globe on GeoTrivia Atlas.",
+      "intro": "UNESCO designations spotlight irreplaceable natural monuments, ancient cities, and fragile oral and performing traditions worth safeguarding."
     },
     "es": {
-      "title": "Patrimonio Mundial de la UNESCO — Preservación Planetaria y Monumentos",
-      "description": "Descubra crónicas de campo, relevamientos arqueológicos y notas geográficas de los santuarios y monumentos declarados Patrimonio de la Humanidad.",
-      "intro": "La convención del Patrimonio Mundial de la UNESCO encarna el pacto global para proteger monumentos y ecosistemas de valor universal excepcional."
+      "title": "Patrimonio Mundial e Inmaterial UNESCO | GeoTrivia Atlas",
+      "description": "Explore sitios Patrimonio de la Humanidad y obras maestras del patrimonio inmaterial de la UNESCO en GeoTrivia Atlas.",
+      "intro": "Las declaraciones de la UNESCO destacan monumentos naturales, ciudades antiguas y tradiciones escénicas vulnerables."
     },
     "fr": {
-      "title": "Patrimoine Mondial de l UNESCO — Préservation Planétaire et Monuments",
-      "description": "Explorez des dossiers de terrain vérifiés, études archéologiques et chroniques d exploration des sanctuaires classés au Patrimoine Mondial.",
-      "intro": "Le patrimoine mondial de l UNESCO protège les merveilles naturelles et culturelles les plus précieuses de notre planète."
+      "title": "Patrimoine Mondial et Immatériel UNESCO | GeoTrivia Atlas",
+      "description": "Explorez les sites du patrimoine mondial et chefs-d'œuvre du patrimoine immatériel de l'UNESCO sur GeoTrivia Atlas.",
+      "intro": "Les distinctions de l'UNESCO mettent en lumière des monuments naturels uniques et des traditions orales et scéniques menacées."
     },
     "de": {
-      "title": "UNESCO-Welterbe — Globale Schutzgebiete & Monumente der Menschheit",
-      "description": "Erkunden Sie verifizierte geografische Dossiers, archäologische Berichte und Expeditionen zu den faszinierendsten UNESCO-Welterbestätten der Erde.",
-      "intro": "Das UNESCO-Welterbe bewahrt außergewöhnliche Natur- und Kulturdenkmäler rund um den Globus."
+      "title": "UNESCO-Weltkulturerbe und Immaterielles Erbe | GeoTrivia Atlas",
+      "description": "Entdecken Sie UNESCO-Welterbestätten und Meisterwerke des immateriellen Kulturerbes weltweit im GeoTrivia Atlas.",
+      "intro": "Die UNESCO schützt außergewöhnliche Naturwunder, historische Bauwerke und bedrohte mündliche Traditionen der Menschheit."
     },
     "pt": {
-      "title": "Patrimônio Mundial da UNESCO — Preservação Planetária e Marcos Culturais",
-      "description": "Conheça relatórios de campo, pesquisas arqueológicas e crônicas de exploração dos santuários declarados Patrimônio Mundial pela UNESCO.",
-      "intro": "O Patrimônio Mundial da UNESCO salvaguarda as maravilhas culturais e ecológicas mais icônicas da Terra."
+      "title": "Patrimônio Mundial e Imaterial UNESCO | GeoTrivia Atlas",
+      "description": "Explore sítios do Patrimônio Mundial e obras-primas do patrimônio imaterial da UNESCO no GeoTrivia Atlas.",
+      "intro": "As designações da UNESCO destacam monumentos naturais insubstituíveis e tradições cênicas e orais ameaçadas."
     },
     "it": {
-      "title": "Patrimonio Mondiale UNESCO — Tutela Planetaria e Monumenti Storici",
-      "description": "Esplora reportage di viaggio verificati, indagini archeologiche e cronache geografiche dedicate ai più preziosi siti Patrimonio dell Umanità UNESCO.",
-      "intro": "Il Patrimonio Mondiale UNESCO tutela i capolavori architettonici e i paesaggi naturali più rilevanti della civiltà."
+      "title": "Patrimonio Mondiale e Immateriale UNESCO | GeoTrivia Atlas",
+      "description": "Esplora i siti Patrimonio dell'Umanità e i capolavori del patrimonio immateriale UNESCO su GeoTrivia Atlas.",
+      "intro": "I riconoscimenti UNESCO tutelano monumenti naturali insostituibili e tradizioni orali e performative a rischio."
     },
     "nl": {
-      "title": "UNESCO Werelderfgoed — Mondiale Bescherming & Monumenten",
-      "description": "Verken geverifieerde geografische veldkronieken, archeologische onderzoeken en expedities langs s werelds meest bijzondere UNESCO-monumenten.",
-      "intro": "Het UNESCO-werelderfgoed waarborgt de meest unieke culturele en natuurlijke schatten op aarde."
+      "title": "UNESCO Wereld- en Immaterieel Erfgoed | GeoTrivia Atlas",
+      "description": "Ontdek UNESCO-werelderfgoedlocaties en meesterwerken van immaterieel erfgoed wereldwijd in de GeoTrivia Atlas.",
+      "intro": "UNESCO-erkenningen vestigen de aandacht op onvervangbare natuurmonumenten en kwetsbare podium- en verteltradities."
     },
     "sv": {
-      "title": "UNESCOs Världsarv — Planetär Bevaring & Historiska Platser",
-      "description": "Utforska verifierade geografiska fältanteckningar, arkeologiska rapporter och globala expeditioner till världens främsta UNESCO-arv.",
-      "intro": "UNESCOs världsarvskonvention skyddar mänsklighetens mest värdefulla kultur- och naturmonument."
+      "title": "UNESCO Världs- och Immateriellt Kulturarv | GeoTrivia Atlas",
+      "description": "Utforska UNESCO:s världsarv och mästerverk inom immateriellt kulturarv världen över på GeoTrivia Atlas.",
+      "intro": "UNESCO-utmärkelser lyfter fram oersättliga naturmonument och sårbara muntliga och sceniska traditioner."
     },
     "tr": {
-      "title": "UNESCO Dünya Mirası — Küresel Koruma ve Tarihi Anıtlar",
-      "description": "UNESCO Dünya Mirası listesindeki olağanüstü doğal alanlar ve tarihi anıtlar üzerine doğrulanmış saha raporlarını inceleyin.",
-      "intro": "UNESCO Dünya Mirası sözleşmesi, gezegenimizin en değerli kültürel ve doğal varlıklarını geleceğe taşımaktadır."
+      "title": "UNESCO Dünya ve Somut Olmayan Mirası | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta UNESCO Dünya Mirası alanlarını ve Somut Olmayan Kültürel Miras başyapıtlarını keşfedin.",
+      "intro": "UNESCO tescilleri, korunmaya değer eşsiz doğal anıtları ve yok olma tehlikesi altındaki sözlü ve sahne geleneklerini öne çıkarır."
     },
     "ar": {
-      "title": "مواقع التراث العالمي لليونسكو — الحماية الكوكبية والمعالم الحضارية",
-      "description": "استكشف أحدث التقارير الميدانية الجغرافية والدراسات التوثيقية المكرسة لأبرز مواقع ومعالم التراث العالمي المصنفة لدى اليونسكو.",
-      "intro": "تمثل اتفاقية التراث العالمي لليونسكو عهدًا دوليًا لحماية روائع الإنسانية الطبيعية والثقافية الفريدة."
+      "title": "التراث العالمي واللامادي لليونسكو | أطلس جيو تريفيا",
+      "description": "استكشف مواقع التراث العالمي وروائع التراث الثقافي اللامادي المدرجة لدى اليونسكو عبر أطلس جيو تريفيا.",
+      "intro": "تسلط قائمة اليونسكو الضوء على المعالم الطبيعية والحضارية والتقاليد الشفوية النادرة التي تستحق الحماية العالمية."
     }
   },
   "castles-palaces": {
@@ -3211,64 +3212,65 @@
   "southeast-asia": {
     "slug": "southeast-asia",
     "name": "Southeast Asia",
-    "category": "world-landmarks",
+    "category": "culture-and-arts",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "Southeast Asia",
-      "Southeast Asia geography",
-      "Southeast Asia world exploration",
-      "Southeast Asia field dispatches",
-      "Atlas Southeast Asia"
+      "southeast asia",
+      "maritime southeast asia",
+      "asean culture",
+      "archipelago history"
     ],
-    "updatedAt": "2026-09-20T23:48:59.396Z",
+    "updatedAt": "2026-11-22T17:07:14.508Z",
     "en": {
-      "title": "Southeast Asia — Curated Geographic Dispatches & Archive",
-      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under Southeast Asia.",
-      "intro": "Welcome to the Southeast Asia thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+      "title": "Southeast Asia Geography and Cultural Crossroads | GeoTrivia Atlas",
+      "description": "Explore Southeast Asia's maritime geography, ancient trade crossroads, and diverse cultural landscapes on GeoTrivia Atlas.",
+      "intro": "Bridging the Indian and Pacific Oceans, Southeast Asia encompasses peninsulas and archipelagos shaped by centuries of maritime exchange."
     },
     "es": {
-      "title": "Southeast Asia — Archivo Geográfico y Crónicas del Atlas",
-      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo Southeast Asia.",
-      "intro": "Bienvenido al archivo temático de Southeast Asia en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+      "title": "Sudeste Asiático: Geografía y Cultura | GeoTrivia Atlas",
+      "description": "Explore la geografía marítima del Sudeste Asiático, sus antiguas rutas comerciales y su diversidad cultural en GeoTrivia Atlas.",
+      "intro": "Puente entre los océanos Índico y Pacífico, el Sudeste Asiático reúne penínsulas y archipiélagos marcados por siglos de intercambio marítimo."
     },
     "fr": {
-      "title": "Southeast Asia — Archives Géographiques et Dossiers de Terrain",
-      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous Southeast Asia.",
-      "intro": "Bienvenue dans le dossier thématique Southeast Asia du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+      "title": "Asie du Sud-Est : Géographie et Cultures | GeoTrivia Atlas",
+      "description": "Explorez la géographie maritime de l'Asie du Sud-Est, ses carrefours marchands et sa diversité culturelle sur GeoTrivia Atlas.",
+      "intro": "Trait d'union entre l'océan Indien et le Pacifique, l'Asie du Sud-Est rassemble péninsules et archipels façonnés par les échanges maritimes."
     },
     "de": {
-      "title": "Southeast Asia — Geografisches Archiv & Feldberichte",
-      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu Southeast Asia.",
-      "intro": "Willkommen im Themenarchiv zu Southeast Asia im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+      "title": "Südostasien: Geografie und Kultur | GeoTrivia Atlas",
+      "description": "Entdecken Sie Südostasien, seine maritime Geografie, Handelsrouten und kulturelle Vielfalt im GeoTrivia Atlas.",
+      "intro": "Südostasien verbindet den Indischen Ozean mit dem Pazifik über Inselwelten und Halbinseln voller vielfältiger Kulturtraditionen."
     },
     "pt": {
-      "title": "Southeast Asia — Arquivo Geográfico e Crônicas de Exploração",
-      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em Southeast Asia.",
-      "intro": "Bem-vindo ao arquivo temático de Southeast Asia no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+      "title": "Sudeste Asiático: Geografia e Cultura | GeoTrivia Atlas",
+      "description": "Explore a geografia marítima do Sudeste Asiático, suas rotas comerciais antigas e diversidade cultural no GeoTrivia Atlas.",
+      "intro": "Ponte entre os oceanos Índico e Pacífico, o Sudeste Asiático reúne penínsulas e arquipélagos moldados pelo comércio marítimo."
     },
     "it": {
-      "title": "Southeast Asia — Archivio Geografico e Reportage dal Mondo",
-      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a Southeast Asia.",
-      "intro": "Benvenuto nell'archivio tematico di Southeast Asia su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+      "title": "Sud-Est Asiatico: Geografia e Cultura | GeoTrivia Atlas",
+      "description": "Esplora la geografia marittima del Sud-est asiatico, gli antichi crocevia commerciali e la diversità culturale su GeoTrivia Atlas.",
+      "intro": "Ponte tra gli oceani Indiano e Pacifico, il Sud-est asiatico unisce penisole e arcipelaghi plasmati da secoli di scambi marittimi."
     },
     "nl": {
-      "title": "Southeast Asia — Geografisch Archief & Veldkronieken",
-      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over Southeast Asia.",
-      "intro": "Welkom in het thematische archief over Southeast Asia in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+      "title": "Zuidoost-Azië: Geografie en Cultuur | GeoTrivia Atlas",
+      "description": "Ontdek de maritieme geografie van Zuidoost-Azië, eeuwenoude handelskruispunten en culturele diversiteit in de GeoTrivia Atlas.",
+      "intro": "Zuidoost-Azië verbindt de Indische en Stille Oceaan via schiereilanden en archipels gevormd door eeuwenlange zeehandel."
     },
     "sv": {
-      "title": "Southeast Asia — Geografiskt Arkiv & Fältrapporter",
-      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om Southeast Asia.",
-      "intro": "Välkommen till temaarkivet för Southeast Asia i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+      "title": "Sydostasien: Geografi och Kultur | GeoTrivia Atlas",
+      "description": "Utforska Sydostasiens maritima geografi, forntida handelsknutpunkter och kulturella mångfald på GeoTrivia Atlas.",
+      "intro": "Sydostasien förenar Indiska oceanen med Stilla havet genom halvöar och ögrupper präglade av månghundraårig sjöfart."
     },
     "tr": {
-      "title": "Southeast Asia — Coğrafi Arşiv ve Saha Raporları",
-      "description": "Southeast Asia kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
-      "intro": "GeoTrivia Atlas Southeast Asia tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+      "title": "Güneydoğu Asya Coğrafyası ve Kültürü | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Güneydoğu Asya'nın deniz coğrafyasını, kadim ticaret kavşaklarını ve kültürel çeşitliliğini keşfedin.",
+      "intro": "Hint ve Pasifik okyanuslarını birbirine bağlayan Güneydoğu Asya, yüzyıllık deniz ticaretiyle şekillenen yarımadalar ve takımadalardan oluşur."
     },
     "ar": {
-      "title": "Southeast Asia — الأرشيف الجغرافي والتقارير الاستكشافية",
-      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت Southeast Asia في أطلس جيو تريفيا.",
-      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع Southeast Asia ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+      "title": "جنوب شرق آسيا: الجغرافيا والثقافة | أطلس جيو تريفيا",
+      "description": "استكشف جغرافيا جنوب شرق آسيا وتنوعه الثقافي وتاريخه البحري عبر شبه الجزيرة والأرخبيل في أطلس جيو تريفيا.",
+      "intro": "يربط جنوب شرق آسيا بين المحيطين الهندي والهادئ عبر طرق بحرية قديمة احتضنت مزيجاً فريداً من الثقافات والأديان والفنون."
     }
   },
   "ancient-greece": {
@@ -21801,6 +21803,513 @@
       "title": "monarchy — الأرشيف الجغرافي والتقارير الاستكشافية",
       "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت monarchy في أطلس جيو تريفيا.",
       "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع monarchy ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "culture-and-arts": {
+    "slug": "culture-and-arts",
+    "name": "Culture & Arts",
+    "category": "culture-and-arts",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "culture and arts",
+      "intangible heritage",
+      "folk traditions",
+      "performing arts"
+    ],
+    "updatedAt": "2026-11-22T17:07:14.159Z",
+    "en": {
+      "title": "Culture & Arts: Living Heritage and Traditions | GeoTrivia Atlas",
+      "description": "Explore traditional performing arts, living cultural heritage, and regional artistic traditions worldwide on GeoTrivia Atlas.",
+      "intro": "Culture & Arts chronicles traditional dance theatres, ritual music, and endangered cultural expressions preserved across generations."
+    },
+    "es": {
+      "title": "Cultura y Artes: Patrimonio Vivo | GeoTrivia Atlas",
+      "description": "Explore artes escénicas tradicionales, patrimonio cultural vivo y expresiones artísticas regionales en GeoTrivia Atlas.",
+      "intro": "Cultura y Artes documenta teatros de danza tradicionales, música ritual y expresiones culturales transmitidas entre generaciones."
+    },
+    "fr": {
+      "title": "Culture et Arts : Patrimoine Vivant | GeoTrivia Atlas",
+      "description": "Explorez les arts vivants traditionnels, le patrimoine culturel immatériel et les traditions régionales sur GeoTrivia Atlas.",
+      "intro": "Culture et Arts rassemble théâtres dansés traditionnels, musiques rituelles et patrimoines immatériels préservés au fil des siècles."
+    },
+    "de": {
+      "title": "Kultur & Kunst: Traditionen und Erbe | GeoTrivia Atlas",
+      "description": "Entdecken Sie traditionelle Künste, immaterielles Kulturerbe und regionale Ausdrucksformen weltweit im GeoTrivia Atlas.",
+      "intro": "Kultur & Kunst dokumentiert traditionelle Tanztheater, rituelle Musik und lebendiges Kulturerbe aus aller Welt."
+    },
+    "pt": {
+      "title": "Cultura e Artes: Patrimônio Vivo | GeoTrivia Atlas",
+      "description": "Explore artes cênicas tradicionais, patrimônio cultural imaterial e tradições artísticas regionais no GeoTrivia Atlas.",
+      "intro": "Cultura e Artes documenta teatros de dança tradicionais, música ritual e expressões culturais preservadas através de gerações."
+    },
+    "it": {
+      "title": "Cultura e Arti: Patrimonio Vivente | GeoTrivia Atlas",
+      "description": "Esplora arti performative tradizionali, patrimonio culturale immateriale e tradizioni regionali su GeoTrivia Atlas.",
+      "intro": "Cultura e Arti documenta teatri di danza tradizionali, musiche rituali e patrimoni immateriali tramandati nei secoli."
+    },
+    "nl": {
+      "title": "Cultuur & Kunst: Levend Erfgoed | GeoTrivia Atlas",
+      "description": "Ontdek traditionele podiumkunsten, immaterieel erfgoed en regionale kunsttradities wereldwijd in de GeoTrivia Atlas.",
+      "intro": "Cultuur & Kunst belicht traditionele danstheaters, rituele muziek en bedreigd cultureel erfgoed over de hele wereld."
+    },
+    "sv": {
+      "title": "Kultur & Konst: Levande Kulturarv | GeoTrivia Atlas",
+      "description": "Utforska traditionell scenkonst, immateriellt kulturarv och regionala konsttraditioner världen över på GeoTrivia Atlas.",
+      "intro": "Kultur & Konst skildrar traditionella dansteatrar, rituell musik och levande kulturarv som förts vidare i generationer."
+    },
+    "tr": {
+      "title": "Kültür ve Sanat: Yaşayan Miras | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta geleneksel sahne sanatlarını, somut olmayan kültürel mirası ve bölgesel sanat geleneklerini keşfedin.",
+      "intro": "Kültür ve Sanat, nesiller boyu aktarılan geleneksel dans tiyatrolarını, ritüel müzikleri ve kültürel mirası belgeler."
+    },
+    "ar": {
+      "title": "الثقافة والفنون والتراث الإنساني | أطلس جيو تريفيا",
+      "description": "استكشف الفنون التقليدية والتراث الثقافي اللامادي والطقوس الإبداعية من مختلف أنحاء العالم عبر أطلس جيو تريفيا.",
+      "intro": "توثق فئة الثقافة والفنون المسارح الملكية والرقصات الطقسية والموسيقى الشعبية التي حفظت ذاكرة الشعوب عبر الأجيال."
+    }
+  },
+  "malaysia": {
+    "slug": "malaysia",
+    "name": "Malaysia",
+    "category": "culture-and-arts",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "malaysia",
+      "malay peninsula",
+      "kelantan heritage",
+      "malaysian culture"
+    ],
+    "updatedAt": "2026-11-22T17:07:13.444Z",
+    "en": {
+      "title": "Malaysia Geography and Cultural Heritage | GeoTrivia Atlas",
+      "description": "Discover Malaysia's geography, royal Malay heritage, and historic traditions across the Malay Peninsula and Borneo on GeoTrivia Atlas.",
+      "intro": "Spanning the Malay Peninsula and Malaysian Borneo, Malaysia blends tropical geography with centuries-old court arts and coastal trade heritage."
+    },
+    "es": {
+      "title": "Malasia: Geografía y Patrimonio Cultural | GeoTrivia Atlas",
+      "description": "Descubra la geografía de Malasia, su herencia real malaya y sus tradiciones históricas en GeoTrivia Atlas.",
+      "intro": "Extendida entre la península Malaya y Borneo, Malasia combina paisajes tropicales con artes cortesanas centenarias."
+    },
+    "fr": {
+      "title": "Malaisie : Géographie et Patrimoine | GeoTrivia Atlas",
+      "description": "Découvrez la géographie de la Malaisie, son patrimoine royal malais et ses traditions historiques sur GeoTrivia Atlas.",
+      "intro": "Entre la péninsule Malaise et Bornéo, la Malaisie réunit paysages tropicaux, arts de cour anciens et carrefours maritimes."
+    },
+    "de": {
+      "title": "Malaysia: Geografie und Kulturerbe | GeoTrivia Atlas",
+      "description": "Entdecken Sie Malaysias Geografie, kulturelles Erbe und historische Traditionen von Kelantan bis Borneo im GeoTrivia Atlas.",
+      "intro": "Malaysia vereint tropische Gebirgslandschaften mit tief verwurzelten malaiischen Hoftraditionen und multikultureller Geschichte."
+    },
+    "pt": {
+      "title": "Malásia: Geografia e Patrimônio Cultural | GeoTrivia Atlas",
+      "description": "Descubra a geografia da Malásia, sua herança real malaia e tradições históricas no GeoTrivia Atlas.",
+      "intro": "Distribuída entre a Península Malaia e Bornéu, a Malásia combina paisagens tropicais e artes cortesãs seculares."
+    },
+    "it": {
+      "title": "Malesia: Geografia e Patrimonio Culturale | GeoTrivia Atlas",
+      "description": "Scopri la geografia della Malesia, il patrimonio reale malese e le tradizioni storiche su GeoTrivia Atlas.",
+      "intro": "Tra la penisola malese e il Borneo, la Malesia unisce geografia tropicale e arti di corte secolari."
+    },
+    "nl": {
+      "title": "Maleisië: Geografie en Cultureel Erfgoed | GeoTrivia Atlas",
+      "description": "Ontdek de geografie van Maleisië, het koninklijk Maleis erfgoed en historische tradities in de GeoTrivia Atlas.",
+      "intro": "Maleisië strekt zich uit over het Maleisisch Schiereiland en Borneo en verbindt tropische natuur met eeuwenoude hofkunst."
+    },
+    "sv": {
+      "title": "Malaysia: Geografi och Kulturarv | GeoTrivia Atlas",
+      "description": "Upptäck Malaysias geografi, kungliga malajiska arv och historiska traditioner på GeoTrivia Atlas.",
+      "intro": "Malaysia sträcker sig över Malackahalvön och Borneo och förenar tropisk natur med månghundraårig hovkonst."
+    },
+    "tr": {
+      "title": "Malezya Coğrafyası ve Kültürel Mirası | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Malezya'nın coğrafyasını, kraliyet Malay mirasını ve tarihi geleneklerini keşfedin.",
+      "intro": "Malay Yarımadası ve Borneo arasında uzanan Malezya, tropikal coğrafyayı asırlık saray sanatlarıyla birleştirir."
+    },
+    "ar": {
+      "title": "ماليزيا: الجغرافيا والتراث الثقافي | أطلس جيو تريفيا",
+      "description": "اكتشف جغرافيا ماليزيا وتراثها الثقافي الغني من شبه جزيرة الملايو إلى ولايات بورنيو عبر أطلس جيو تريفيا.",
+      "intro": "تجمع ماليزيا بين التنوع البيئي في الغابات الاستوائية والتقاليد الملكية والشعبية العريقة في شبه جزيرة الملايو وبورنيو."
+    }
+  },
+  "traditional-theatre": {
+    "slug": "traditional-theatre",
+    "name": "Traditional Theatre",
+    "category": "culture-and-arts",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "traditional theatre",
+      "dance drama",
+      "folk theatre",
+      "ritual performance"
+    ],
+    "updatedAt": "2026-11-22T17:07:13.933Z",
+    "en": {
+      "title": "Traditional Theatre and Dance Drama | GeoTrivia Atlas",
+      "description": "Explore traditional theatre, ritual dance-drama, and classical stagecraft traditions from across the world on GeoTrivia Atlas.",
+      "intro": "Traditional theatre merges live acoustic ensembles, stylized choreography, and oral epics into enduring communal stagecraft."
+    },
+    "es": {
+      "title": "Teatro Tradicional y Danza Dramática | GeoTrivia Atlas",
+      "description": "Explore el teatro tradicional, la danza dramática ritual y las artes escénicas clásicas del mundo en GeoTrivia Atlas.",
+      "intro": "El teatro tradicional fusiona música acústica en vivo, coreografía estilizada y epopeyas orales en escena."
+    },
+    "fr": {
+      "title": "Théâtre Traditionnel et Drame Dansé | GeoTrivia Atlas",
+      "description": "Explorez le théâtre traditionnel, le drame dansé rituel et les arts scéniques classiques sur GeoTrivia Atlas.",
+      "intro": "Le théâtre traditionnel associe ensembles acoustiques vivants, chorégraphie stylisée et épopées orales sur scène."
+    },
+    "de": {
+      "title": "Traditionelles Theater und Tanzdrama | GeoTrivia Atlas",
+      "description": "Entdecken Sie traditionelles Theater, klassisches Tanzdrama und rituelle Bühnenkunst aus aller Welt im GeoTrivia Atlas.",
+      "intro": "Traditionelles Theater verbindet Live-Musik, stilisierte Bewegung und mündliche Epen zu lebendigen Bühnenritualen."
+    },
+    "pt": {
+      "title": "Teatro Tradicional e Drama Dançado | GeoTrivia Atlas",
+      "description": "Explore o teatro tradicional, o drama dançado ritual e as artes cênicas clássicas do mundo no GeoTrivia Atlas.",
+      "intro": "O teatro tradicional combina música acústica ao vivo, coreografia estilizada e épicos orais em cena."
+    },
+    "it": {
+      "title": "Teatro Tradizionale e Dramma Danzato | GeoTrivia Atlas",
+      "description": "Esplora il teatro tradizionale, il dramma danzato rituale e le arti sceniche classiche su GeoTrivia Atlas.",
+      "intro": "Il teatro tradizionale unisce musica dal vivo, coreografie stilizzate ed epopee orali in riti scenici secolari."
+    },
+    "nl": {
+      "title": "Traditioneel Theater en Dansdrama | GeoTrivia Atlas",
+      "description": "Ontdek traditioneel theater, ritueel dansdrama en klassieke podiumkunsten van over de hele wereld in de GeoTrivia Atlas.",
+      "intro": "Traditioneel theater verenigt livemuziek, gestileerde choreografie en mondelinge epen op het toneel."
+    },
+    "sv": {
+      "title": "Traditionell Teater och Dansdrama | GeoTrivia Atlas",
+      "description": "Utforska traditionell teater, rituellt dansdrama och klassisk scenkonst från hela världen på GeoTrivia Atlas.",
+      "intro": "Traditionell teater förenar akustisk livemusik, stiliserad koreografi och muntliga epos på scenen."
+    },
+    "tr": {
+      "title": "Geleneksel Tiyatro ve Dans Draması | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta dünyanın dört bir yanından geleneksel tiyatroyu, ritüel dans dramasını ve klasik sahne sanatlarını keşfedin.",
+      "intro": "Geleneksel tiyatro, canlı akustik müziği, stilize koreografiyi ve sözlü destanları sahnede birleştirir."
+    },
+    "ar": {
+      "title": "المسرح التقليدي والدراما الراقصة | أطلس جيو تريفيا",
+      "description": "تعرّف على أشكال المسرح التقليدي والرقص الدرامي والطقوس الأدائية العريقة حول العالم عبر أطلس جيو تريفيا.",
+      "intro": "يمزج المسرح التقليدي بين الموسيقى الحية والرقص الرمزي والسرد الملحمي لنقل الأساطير عبر القرون."
+    }
+  },
+  "extremes": {
+    "slug": "extremes",
+    "name": "extremes",
+    "category": "Earth Extremes",
+    "focusKeywords": [
+      "extremes",
+      "extremes geography",
+      "extremes world exploration",
+      "extremes field dispatches",
+      "Atlas extremes"
+    ],
+    "updatedAt": "2026-11-23T15:35:27.204Z",
+    "en": {
+      "title": "extremes — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under extremes.",
+      "intro": "Welcome to the extremes thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "extremes — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo extremes.",
+      "intro": "Bienvenido al archivo temático de extremes en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "extremes — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous extremes.",
+      "intro": "Bienvenue dans le dossier thématique extremes du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "extremes — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu extremes.",
+      "intro": "Willkommen im Themenarchiv zu extremes im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "extremes — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em extremes.",
+      "intro": "Bem-vindo ao arquivo temático de extremes no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "extremes — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a extremes.",
+      "intro": "Benvenuto nell'archivio tematico di extremes su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "extremes — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over extremes.",
+      "intro": "Welkom in het thematische archief over extremes in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "extremes — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om extremes.",
+      "intro": "Välkommen till temaarkivet för extremes i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "extremes — Coğrafi Arşiv ve Saha Raporları",
+      "description": "extremes kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas extremes tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "extremes — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت extremes في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع extremes ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "exploration": {
+    "slug": "exploration",
+    "name": "exploration",
+    "category": "Earth Extremes",
+    "focusKeywords": [
+      "exploration",
+      "exploration geography",
+      "exploration world exploration",
+      "exploration field dispatches",
+      "Atlas exploration"
+    ],
+    "updatedAt": "2026-11-23T15:35:27.204Z",
+    "en": {
+      "title": "exploration — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under exploration.",
+      "intro": "Welcome to the exploration thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "exploration — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo exploration.",
+      "intro": "Bienvenido al archivo temático de exploration en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "exploration — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous exploration.",
+      "intro": "Bienvenue dans le dossier thématique exploration du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "exploration — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu exploration.",
+      "intro": "Willkommen im Themenarchiv zu exploration im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "exploration — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em exploration.",
+      "intro": "Bem-vindo ao arquivo temático de exploration no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "exploration — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a exploration.",
+      "intro": "Benvenuto nell'archivio tematico di exploration su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "exploration — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over exploration.",
+      "intro": "Welkom in het thematische archief over exploration in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "exploration — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om exploration.",
+      "intro": "Välkommen till temaarkivet för exploration i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "exploration — Coğrafi Arşiv ve Saha Raporları",
+      "description": "exploration kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas exploration tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "exploration — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت exploration في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع exploration ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "mountaineering": {
+    "slug": "mountaineering",
+    "name": "mountaineering",
+    "category": "Earth Extremes",
+    "focusKeywords": [
+      "mountaineering",
+      "mountaineering geography",
+      "mountaineering world exploration",
+      "mountaineering field dispatches",
+      "Atlas mountaineering"
+    ],
+    "updatedAt": "2026-11-23T15:35:27.204Z",
+    "en": {
+      "title": "mountaineering — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under mountaineering.",
+      "intro": "Welcome to the mountaineering thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "mountaineering — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo mountaineering.",
+      "intro": "Bienvenido al archivo temático de mountaineering en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "mountaineering — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous mountaineering.",
+      "intro": "Bienvenue dans le dossier thématique mountaineering du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "mountaineering — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu mountaineering.",
+      "intro": "Willkommen im Themenarchiv zu mountaineering im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "mountaineering — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em mountaineering.",
+      "intro": "Bem-vindo ao arquivo temático de mountaineering no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "mountaineering — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a mountaineering.",
+      "intro": "Benvenuto nell'archivio tematico di mountaineering su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "mountaineering — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over mountaineering.",
+      "intro": "Welkom in het thematische archief over mountaineering in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "mountaineering — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om mountaineering.",
+      "intro": "Välkommen till temaarkivet för mountaineering i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "mountaineering — Coğrafi Arşiv ve Saha Raporları",
+      "description": "mountaineering kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas mountaineering tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "mountaineering — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت mountaineering في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع mountaineering ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "polar-expeditions": {
+    "slug": "polar-expeditions",
+    "name": "polar-expeditions",
+    "category": "Earth Extremes",
+    "focusKeywords": [
+      "polar-expeditions",
+      "polar-expeditions geography",
+      "polar-expeditions world exploration",
+      "polar-expeditions field dispatches",
+      "Atlas polar-expeditions"
+    ],
+    "updatedAt": "2026-11-23T15:35:27.204Z",
+    "en": {
+      "title": "polar-expeditions — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under polar-expeditions.",
+      "intro": "Welcome to the polar-expeditions thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "polar-expeditions — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo polar-expeditions.",
+      "intro": "Bienvenido al archivo temático de polar-expeditions en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "polar-expeditions — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous polar-expeditions.",
+      "intro": "Bienvenue dans le dossier thématique polar-expeditions du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "polar-expeditions — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu polar-expeditions.",
+      "intro": "Willkommen im Themenarchiv zu polar-expeditions im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "polar-expeditions — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em polar-expeditions.",
+      "intro": "Bem-vindo ao arquivo temático de polar-expeditions no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "polar-expeditions — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a polar-expeditions.",
+      "intro": "Benvenuto nell'archivio tematico di polar-expeditions su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "polar-expeditions — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over polar-expeditions.",
+      "intro": "Welkom in het thematische archief over polar-expeditions in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "polar-expeditions — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om polar-expeditions.",
+      "intro": "Välkommen till temaarkivet för polar-expeditions i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "polar-expeditions — Coğrafi Arşiv ve Saha Raporları",
+      "description": "polar-expeditions kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas polar-expeditions tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "polar-expeditions — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت polar-expeditions في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع polar-expeditions ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "endurance": {
+    "slug": "endurance",
+    "name": "endurance",
+    "category": "Earth Extremes",
+    "focusKeywords": [
+      "endurance",
+      "endurance geography",
+      "endurance world exploration",
+      "endurance field dispatches",
+      "Atlas endurance"
+    ],
+    "updatedAt": "2026-11-23T15:35:27.204Z",
+    "en": {
+      "title": "endurance — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under endurance.",
+      "intro": "Welcome to the endurance thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "endurance — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo endurance.",
+      "intro": "Bienvenido al archivo temático de endurance en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "endurance — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous endurance.",
+      "intro": "Bienvenue dans le dossier thématique endurance du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "endurance — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu endurance.",
+      "intro": "Willkommen im Themenarchiv zu endurance im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "endurance — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em endurance.",
+      "intro": "Bem-vindo ao arquivo temático de endurance no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "endurance — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a endurance.",
+      "intro": "Benvenuto nell'archivio tematico di endurance su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "endurance — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over endurance.",
+      "intro": "Welkom in het thematische archief over endurance in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "endurance — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om endurance.",
+      "intro": "Välkommen till temaarkivet för endurance i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "endurance — Coğrafi Arşiv ve Saha Raporları",
+      "description": "endurance kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas endurance tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "endurance — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت endurance في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع endurance ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
     }
   }
 }
