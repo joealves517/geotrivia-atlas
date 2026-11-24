@@ -16191,65 +16191,66 @@
   },
   "cities-and-capitals": {
     "slug": "cities-and-capitals",
-    "name": "cities-and-capitals",
+    "name": "Cities & Capitals",
     "category": "cities-and-capitals",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "cities-and-capitals",
-      "cities-and-capitals geography",
-      "cities-and-capitals world exploration",
-      "cities-and-capitals field dispatches",
-      "Atlas cities-and-capitals"
+      "cities and capitals",
+      "urban geography",
+      "border towns",
+      "settlements"
     ],
-    "updatedAt": "2026-09-24T03:39:40.336Z",
+    "updatedAt": "2026-11-23T17:36:09.362Z",
     "en": {
-      "title": "cities-and-capitals — Curated Geographic Dispatches & Archive",
-      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under cities-and-capitals.",
-      "intro": "Welcome to the cities-and-capitals thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+      "title": "Cities, Capitals, and Border Settlements | GeoTrivia Atlas",
+      "description": "Explore remarkable cities, capitals, and divided border towns around the world on GeoTrivia Atlas.",
+      "intro": "Cities & Capitals examines both historic metropolises and divided border settlements where treaties, topography, and sovereignty collide."
     },
     "es": {
-      "title": "cities-and-capitals — Archivo Geográfico y Crónicas del Atlas",
-      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo cities-and-capitals.",
-      "intro": "Bienvenido al archivo temático de cities-and-capitals en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+      "title": "Ciudades, Capitales y Pueblos Fronterizos | GeoTrivia Atlas",
+      "description": "Explore ciudades singulares, capitales y pueblos fronterizos divididos en todo el mundo en GeoTrivia Atlas.",
+      "intro": "Ciudades y Capitales reúne metrópolis históricas y aldeas fronterizas divididas donde los tratados y la geografía transforman la vida cotidiana."
     },
     "fr": {
-      "title": "cities-and-capitals — Archives Géographiques et Dossiers de Terrain",
-      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous cities-and-capitals.",
-      "intro": "Bienvenue dans le dossier thématique cities-and-capitals du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+      "title": "Villes, Capitales et Villages Frontaliers | GeoTrivia Atlas",
+      "description": "Explorez des villes singulières, capitales et villages frontaliers divisés à travers le monde sur GeoTrivia Atlas.",
+      "intro": "Villes & Capitales explore autant les métropoles historiques que les bourgs frontaliers coupés par les traités et la géographie."
     },
     "de": {
-      "title": "cities-and-capitals — Geografisches Archiv & Feldberichte",
-      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu cities-and-capitals.",
-      "intro": "Willkommen im Themenarchiv zu cities-and-capitals im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+      "title": "Städte, Hauptstädte und Grenzorte | GeoTrivia Atlas",
+      "description": "Entdecken Sie Städte, Hauptstädte und außergewöhnliche Grenzorte weltweit im GeoTrivia Atlas.",
+      "intro": "Städte & Hauptstädte beleuchtet urbane Zentren ebenso wie geteilte Grenzdörfer, an denen Politik und Topografie den Alltag bestimmen."
     },
     "pt": {
-      "title": "cities-and-capitals — Arquivo Geográfico e Crônicas de Exploração",
-      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em cities-and-capitals.",
-      "intro": "Bem-vindo ao arquivo temático de cities-and-capitals no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+      "title": "Cidades, Capitais e Vilarejos Fronteiriços | GeoTrivia Atlas",
+      "description": "Explore cidades notáveis, capitais e vilarejos fronteiriços divididos pelo mundo no GeoTrivia Atlas.",
+      "intro": "Cidades & Capitais examina metrópoles históricas e povoados divididos por fronteiras onde tratados e geografia colidem."
     },
     "it": {
-      "title": "cities-and-capitals — Archivio Geografico e Reportage dal Mondo",
-      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a cities-and-capitals.",
-      "intro": "Benvenuto nell'archivio tematico di cities-and-capitals su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+      "title": "Città, Capitali e Borghi di Confine | GeoTrivia Atlas",
+      "description": "Esplora città singolari, capitali e borghi di confine divisi nel mondo su GeoTrivia Atlas.",
+      "intro": "Città e Capitali racconta metropoli storiche e villaggi di frontiera spezzati dove trattati e geografia modellano la vita quotidiana."
     },
     "nl": {
-      "title": "cities-and-capitals — Geografisch Archief & Veldkronieken",
-      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over cities-and-capitals.",
-      "intro": "Welkom in het thematische archief over cities-and-capitals in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+      "title": "Steden, Hoofdsteden en Grensdorpen | GeoTrivia Atlas",
+      "description": "Ontdek bijzondere steden, hoofdsteden en verdeelde grensdorpen wereldwijd in de GeoTrivia Atlas.",
+      "intro": "Steden & Hoofdsteden belicht zowel historische metropolen als verdeelde grensdorpen waar verdragen en geografie het dagelijks leven bepalen."
     },
     "sv": {
-      "title": "cities-and-capitals — Geografiskt Arkiv & Fältrapporter",
-      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om cities-and-capitals.",
-      "intro": "Välkommen till temaarkivet för cities-and-capitals i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+      "title": "Städer, Huvudstäder och Gränsorter | GeoTrivia Atlas",
+      "description": "Utforska anmärkningsvärda städer, huvudstäder och delade gränsbyar runt om i världen på GeoTrivia Atlas.",
+      "intro": "Städer & Huvudstäder skildrar både historiska metropoler och delade gränsorter där fördrag och geografi formar vardagen."
     },
     "tr": {
-      "title": "cities-and-capitals — Coğrafi Arşiv ve Saha Raporları",
-      "description": "cities-and-capitals kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
-      "intro": "GeoTrivia Atlas cities-and-capitals tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+      "title": "Şehirler, Başkentler ve Sınır Yerleşimleri | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta dünyanın dört bir yanındaki dikkat çekici şehirleri, başkentleri ve bölünmüş sınır kasabalarını keşfedin.",
+      "intro": "Şehirler ve Başkentler, tarihi metropollerin yanı sıra antlaşmaların ve coğrafyanın ikiye böldüğü sınır yerleşimlerini inceler."
     },
     "ar": {
-      "title": "cities-and-capitals — الأرشيف الجغرافي والتقارير الاستكشافية",
-      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت cities-and-capitals في أطلس جيو تريفيا.",
-      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع cities-and-capitals ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+      "title": "المدن والعواصم والبلدات الحدودية | أطلس جيو تريفيا",
+      "description": "استكشف المدن والعواصم والبلدات الحدودية الفريدة حول العالم وتاريخها الجغرافي عبر أطلس جيو تريفيا.",
+      "intro": "تجمع فئة المدن والعواصم بين الحواضر الكبرى والقرى الحدودية المنقسمة التي تكشف كيف تشكل الجغرافيا والسياسة حياة المجتمعات البشرية."
     }
   },
   "poland": {
@@ -19216,65 +19217,66 @@
   },
   "bulgaria": {
     "slug": "bulgaria",
-    "name": "bulgaria",
-    "category": "Castles & Palaces",
+    "name": "Bulgaria",
+    "category": "cities-and-capitals",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "bulgaria",
       "bulgaria geography",
-      "bulgaria world exploration",
-      "bulgaria field dispatches",
-      "Atlas bulgaria"
+      "western outlands",
+      "balkan mountains",
+      "bulgarian history"
     ],
-    "updatedAt": "2026-11-15T06:22:49.540Z",
+    "updatedAt": "2026-11-23T17:36:18.091Z",
     "en": {
-      "title": "bulgaria — Curated Geographic Dispatches & Archive",
-      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under bulgaria.",
-      "intro": "Welcome to the bulgaria thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+      "title": "Bulgaria Geography and Balkan History | GeoTrivia Atlas",
+      "description": "Explore Bulgaria's geography, Balkan mountain valleys, and border history on GeoTrivia Atlas.",
+      "intro": "Spanning from the Danube plain and rugged Balkan ranges to the Black Sea coast, Bulgaria preserves deep historical layers and dramatic frontier landscapes."
     },
     "es": {
-      "title": "bulgaria — Archivo Geográfico y Crónicas del Atlas",
-      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo bulgaria.",
-      "intro": "Bienvenido al archivo temático de bulgaria en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+      "title": "Geografía de Bulgaria e Historia Balcánica | GeoTrivia Atlas",
+      "description": "Explore la geografía de Bulgaria, sus valles balcánicos y su historia fronteriza en GeoTrivia Atlas.",
+      "intro": "Extendida entre el Danubio, los Balcanes y el mar Negro, Bulgaria conserva profundas huellas históricas y singulares paisajes fronterizos."
     },
     "fr": {
-      "title": "bulgaria — Archives Géographiques et Dossiers de Terrain",
-      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous bulgaria.",
-      "intro": "Bienvenue dans le dossier thématique bulgaria du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+      "title": "Bulgarie : Géographie et Histoire Balkanique | GeoTrivia Atlas",
+      "description": "Explorez la géographie de la Bulgarie, ses vallées balkaniques et son histoire frontalière sur GeoTrivia Atlas.",
+      "intro": "Déployée du Danube aux monts Balkans et à la mer Noire, la Bulgarie préserve une riche histoire et des paysages frontaliers singuliers."
     },
     "de": {
-      "title": "bulgaria — Geografisches Archiv & Feldberichte",
-      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu bulgaria.",
-      "intro": "Willkommen im Themenarchiv zu bulgaria im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+      "title": "Bulgarien: Geografie und Geschichte | GeoTrivia Atlas",
+      "description": "Entdecken Sie Bulgariens Geografie, Gebirgstäler und Grenzgeschichte zwischen Balkan und Schwarzmeer im GeoTrivia Atlas.",
+      "intro": "Bulgarien erstreckt sich zwischen Donau, Balkangebirge und Schwarzmeerküste und verbindet jahrtausendealte Geschichte mit markanten Grenzlandschaften."
     },
     "pt": {
-      "title": "bulgaria — Arquivo Geográfico e Crônicas de Exploração",
-      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em bulgaria.",
-      "intro": "Bem-vindo ao arquivo temático de bulgaria no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+      "title": "Bulgária: Geografia e História Balcânica | GeoTrivia Atlas",
+      "description": "Explore a geografia da Bulgária, seus vales balcânicos e história fronteiriça no GeoTrivia Atlas.",
+      "intro": "Estendendo-se do Danúbio e dos Bálcãs até o Mar Negro, a Bulgária preserva profundas camadas históricas e paisagens de fronteira."
     },
     "it": {
-      "title": "bulgaria — Archivio Geografico e Reportage dal Mondo",
-      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a bulgaria.",
-      "intro": "Benvenuto nell'archivio tematico di bulgaria su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+      "title": "Bulgaria: Geografia e Storia Balcanica | GeoTrivia Atlas",
+      "description": "Esplora la geografia della Bulgaria, le valli balcaniche e la storia dei confini su GeoTrivia Atlas.",
+      "intro": "Estesa dal Danubio ai monti Balcani fino al Mar Nero, la Bulgaria custodisce una lunga storia e suggestivi paesaggi di frontiera."
     },
     "nl": {
-      "title": "bulgaria — Geografisch Archief & Veldkronieken",
-      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over bulgaria.",
-      "intro": "Welkom in het thematische archief over bulgaria in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+      "title": "Bulgarije: Geografie en Balkangeschiedenis | GeoTrivia Atlas",
+      "description": "Ontdek de geografie van Bulgarije, zijn Balkanvalleien en grensgeschiedenis in de GeoTrivia Atlas.",
+      "intro": "Bulgarije strekt zich uit van de Donau en het Balkangebergte tot de Zwarte Zee en bewaart een rijke geschiedenis vol markante grensgebieden."
     },
     "sv": {
-      "title": "bulgaria — Geografiskt Arkiv & Fältrapporter",
-      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om bulgaria.",
-      "intro": "Välkommen till temaarkivet för bulgaria i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+      "title": "Bulgariens Geografi och Balkanhistoria | GeoTrivia Atlas",
+      "description": "Utforska Bulgariens geografi, bergsdalar på Balkan och gränshistoria på GeoTrivia Atlas.",
+      "intro": "Bulgarien sträcker sig från Donau och Balkanbergen till Svarta havet och rymmer en rik historia av gränslandskap."
     },
     "tr": {
-      "title": "bulgaria — Coğrafi Arşiv ve Saha Raporları",
-      "description": "bulgaria kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
-      "intro": "GeoTrivia Atlas bulgaria tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+      "title": "Bulgaristan Coğrafyası ve Balkan Tarihi | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Bulgaristan'ın coğrafyasını, Balkan dağ vadilerini ve sınır tarihini keşfedin.",
+      "intro": "Tuna ovasından Balkan Dağları'na ve Karadeniz kıyısına uzanan Bulgaristan, köklü tarihi ve dikkat çekici sınır yerleşimlerini barındırır."
     },
     "ar": {
-      "title": "bulgaria — الأرشيف الجغرافي والتقارير الاستكشافية",
-      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت bulgaria في أطلس جيو تريفيا.",
-      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع bulgaria ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+      "title": "بلغاريا: الجغرافيا والتاريخ البلقاني | أطلس جيو تريفيا",
+      "description": "تعرّف على جغرافيا بلغاريا وجبالها وحدودها التاريخية في البلقان عبر أطلس جيو تريفيا.",
+      "intro": "تمتد بلغاريا بين نهر الدانوب وسلاسل البلقان والبحر الأسود، حافظةً تراثاً غنياً من القرى الجبلية والمعالم الحدودية."
     }
   },
   "rhodope-mountains": {
@@ -22310,6 +22312,261 @@
       "title": "endurance — الأرشيف الجغرافي والتقارير الاستكشافية",
       "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت endurance في أطلس جيو تريفيا.",
       "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع endurance ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "serbia": {
+    "slug": "serbia",
+    "name": "Serbia",
+    "category": "cities-and-capitals",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "serbia geography",
+      "balkan borders",
+      "eastern serbia",
+      "serbian history"
+    ],
+    "updatedAt": "2026-11-23T17:36:14.129Z",
+    "en": {
+      "title": "Serbia Geography and Balkan Frontiers | GeoTrivia Atlas",
+      "description": "Discover Serbia's geography, mountain valleys, and shifting Balkan borders on GeoTrivia Atlas.",
+      "intro": "Positioned at the crossroads of Central and Southeastern Europe, Serbia encompasses fertile river plains, rugged eastern mountains, and historic frontier towns."
+    },
+    "es": {
+      "title": "Geografía de Serbia y Fronteras Balcánicas | GeoTrivia Atlas",
+      "description": "Descubra la geografía de Serbia, sus valles montañosos y sus cambiantes fronteras balcánicas en GeoTrivia Atlas.",
+      "intro": "Situada en la encrucijada de los Balcanes, Serbia combina llanuras fluviales, sierras orientales y localidades marcadas por fronteras históricas."
+    },
+    "fr": {
+      "title": "Serbie : Géographie et Frontières Balkaniques | GeoTrivia Atlas",
+      "description": "Découvrez la géographie de la Serbie, ses vallées montagneuses et ses frontières balkaniques mouvantes sur GeoTrivia Atlas.",
+      "intro": "Au carrefour des Balkans, la Serbie réunit plaines fluviales, reliefs orientaux escarpés et bourgs marqués par l'histoire des frontières."
+    },
+    "de": {
+      "title": "Serbien: Geografie und Balkangrenzen | GeoTrivia Atlas",
+      "description": "Entdecken Sie Serbiens Geografie, Gebirgsregionen und wechselvolle Grenzgeschichte auf dem Balkan im GeoTrivia Atlas.",
+      "intro": "Serbien liegt am Kreuzweg des Balkans zwischen Donautiefland und östlichen Gebirgszügen und bewahrt komplexe Spuren historischer Grenzziehungen."
+    },
+    "pt": {
+      "title": "Sérvia: Geografia e Fronteiras Balcânicas | GeoTrivia Atlas",
+      "description": "Descubra a geografia da Sérvia, seus vales montanhosos e fronteiras balcânicas no GeoTrivia Atlas.",
+      "intro": "Na encruzilhada dos Bálcãs, a Sérvia reúne planícies fluviais, montanhas orientais e povoados moldados por fronteiras históricas."
+    },
+    "it": {
+      "title": "Serbia: Geografia e Frontiere Balcaniche | GeoTrivia Atlas",
+      "description": "Scopri la geografia della Serbia, le sue valli montane e i confini balcanici mutevoli su GeoTrivia Atlas.",
+      "intro": "Al crocevia dei Balcani, la Serbia unisce pianure fluviali, rilievi orientali e centri abitati segnati dalle frontiere storiche."
+    },
+    "nl": {
+      "title": "Servië: Geografie en Balkangrenzen | GeoTrivia Atlas",
+      "description": "Ontdek de geografie van Servië, zijn bergvalleien en verschuivende Balkangrenzen in de GeoTrivia Atlas.",
+      "intro": "Op het kruispunt van de Balkan combineert Servië uitgestrekte riviervlakten, oostelijke bergdalen en historische grensplaatsen."
+    },
+    "sv": {
+      "title": "Serbiens Geografi och Balkangränser | GeoTrivia Atlas",
+      "description": "Upptäck Serbiens geografi, bergsdalar och skiftande Balkangränser på GeoTrivia Atlas.",
+      "intro": "Vid Balkans vägskäl förenar Serbien bördiga flodslätter, östra bergskedjor och orter präglade av historiska gränsdragningar."
+    },
+    "tr": {
+      "title": "Sırbistan Coğrafyası ve Balkan Sınırları | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Sırbistan'ın coğrafyasını, dağ vadilerini ve değişen Balkan sınırlarını keşfedin.",
+      "intro": "Balkanlar'ın kavşağında yer alan Sırbistan, verimli nehir ovalarını, sarp doğu dağlarını ve tarihi sınır kasabalarını bir araya getirir."
+    },
+    "ar": {
+      "title": "صربيا: الجغرافيا والحدود التاريخية | أطلس جيو تريفيا",
+      "description": "استكشف جغرافيا صربيا ومدنها وحدودها التاريخية في قلب البلقان عبر أطلس جيو تريفيا.",
+      "intro": "تقع صربيا في مفترق طرق البلقان بين حوض الدانوب والجبال الشرقية، حاملةً إرثاً تاريخياً من الحدود المتغيرة والبلدات العريقة."
+    }
+  },
+  "divided-settlements": {
+    "slug": "divided-settlements",
+    "name": "Divided Settlements",
+    "category": "cities-and-capitals",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "divided settlements",
+      "split towns",
+      "border villages",
+      "partitioned communities"
+    ],
+    "updatedAt": "2026-11-23T17:36:22.489Z",
+    "en": {
+      "title": "Divided Settlements and Split Border Towns | GeoTrivia Atlas",
+      "description": "Explore towns and villages bisected by international borders around the world on GeoTrivia Atlas.",
+      "intro": "Divided settlements trace the human impact of international borders drawn straight through once-unified towns, streets, and rural valleys."
+    },
+    "es": {
+      "title": "Asentamientos Divididos y Pueblos Partidos | GeoTrivia Atlas",
+      "description": "Explore pueblos y aldeas partidos por fronteras internacionales en todo el mundo en GeoTrivia Atlas.",
+      "intro": "Los asentamientos divididos muestran el impacto humano de las fronteras trazadas directamente a través de pueblos y valles antes unidos."
+    },
+    "fr": {
+      "title": "Localités Divisées et Villages Coupés | GeoTrivia Atlas",
+      "description": "Explorez les villes et villages coupés en deux par des frontières internationales sur GeoTrivia Atlas.",
+      "intro": "Les localités divisées illustrent l'impact humain des frontières tracées au milieu de bourgs et de vallées autrefois unis."
+    },
+    "de": {
+      "title": "Geteilte Siedlungen und Grenzdörfer | GeoTrivia Atlas",
+      "description": "Entdecken Sie durch Staatsgrenzen geteilte Städte und Dörfer weltweit im GeoTrivia Atlas.",
+      "intro": "Geteilte Siedlungen erzählen von einst vereinten Gemeinden, die durch Verträge oder Konflikte mitten durch Straßen und Häuser zerschnitten wurden."
+    },
+    "pt": {
+      "title": "Povoados Divididos por Fronteiras | GeoTrivia Atlas",
+      "description": "Explore cidades e aldeias partidas ao meio por fronteiras internacionais no mundo no GeoTrivia Atlas.",
+      "intro": "Os povoados divididos retratam o impacto humano de fronteiras traçadas diretamente através de comunidades antes unidas."
+    },
+    "it": {
+      "title": "Insediamenti Divisi e Paesi di Confine | GeoTrivia Atlas",
+      "description": "Esplora città e villaggi divisi in due da confini internazionali nel mondo su GeoTrivia Atlas.",
+      "intro": "Gli insediamenti divisi raccontano l'impatto umano dei confini tracciati attraverso paesi e valli un tempo uniti."
+    },
+    "nl": {
+      "title": "Verdeelde Nederzettingen en Grensdorpen | GeoTrivia Atlas",
+      "description": "Ontdek dorpen en steden die door internationale grenzen in tweeën zijn gedeeld in de GeoTrivia Atlas.",
+      "intro": "Verdeelde nederzettingen tonen de menselijke gevolgen van internationale grenzen die dwars door ooit verenigde gemeenschappen zijn getrokken."
+    },
+    "sv": {
+      "title": "Delade Bosättningar och Gränsbyar | GeoTrivia Atlas",
+      "description": "Utforska städer och byar som delats mitt itu av internationella gränser runt om i världen på GeoTrivia Atlas.",
+      "intro": "Delade bosättningar visar de mänskliga följderna av gränser som dragits rakt genom en gång enade byar och dalar."
+    },
+    "tr": {
+      "title": "Bölünmüş Yerleşimler ve Sınır Köyleri | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta uluslararası sınırlarla ikiye bölünmüş kasaba ve köyleri keşfedin.",
+      "intro": "Bölünmüş yerleşimler, bir zamanlar tek bir bütün olan kasaba ve vadilerin ortasından geçen uluslararası sınırların insani etkilerini anlatır."
+    },
+    "ar": {
+      "title": "المستوطنات والقرى المقسمة حدودياً | أطلس جيو تريفيا",
+      "description": "استكشف المدن والقرى المقسمة بالحدود الدولية حول العالم وكيف غيّرت المعاهدات مصيرها عبر أطلس جيو تريفيا.",
+      "intro": "تروي البلدات والقرى المنقسمة قصص مجتمعات متحدة شطرتها خطوط الحدود أو المعاهدات الدولية إلى دولتين مختلفتين."
+    }
+  },
+  "balkans": {
+    "slug": "balkans",
+    "name": "Balkans",
+    "category": "cities-and-capitals",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "balkans",
+      "balkan peninsula",
+      "southeastern europe",
+      "balkan borders"
+    ],
+    "updatedAt": "2026-11-23T17:36:20.979Z",
+    "en": {
+      "title": "Balkans Geography, Frontiers, and History | GeoTrivia Atlas",
+      "description": "Explore the Balkan Peninsula's rugged mountain geography, shifting borders, and cultural crossroads on GeoTrivia Atlas.",
+      "intro": "Shaped by steep mountain ranges and centuries of shifting treaties, the Balkans form one of Europe's most intricate geographic and historical tapestries."
+    },
+    "es": {
+      "title": "Balcanes: Geografía, Fronteras e Historia | GeoTrivia Atlas",
+      "description": "Explore la geografía montañosa de los Balcanes, sus fronteras cambiantes y su historia en GeoTrivia Atlas.",
+      "intro": "Moldeados por cordilleras abruptas y siglos de tratados, los Balcanes constituyen una de las regiones fronterizas más complejas de Europa."
+    },
+    "fr": {
+      "title": "Balkans : Géographie, Frontières et Histoire | GeoTrivia Atlas",
+      "description": "Explorez la géographie montagneuse des Balkans, leurs frontières mouvantes et leur histoire sur GeoTrivia Atlas.",
+      "intro": "Façonnés par des chaînes montagneuses escarpées et des siècles de traités, les Balkans forment un carrefour géographique et historique majeur en Europe."
+    },
+    "de": {
+      "title": "Der Balkan: Geografie und Grenzgeschichte | GeoTrivia Atlas",
+      "description": "Entdecken Sie die Geografie des Balkans, seine Gebirgsregionen und historische Grenzverläufe im GeoTrivia Atlas.",
+      "intro": "Die Balkanhalbinsel verbindet zerklüftete Gebirgszüge mit einer vielschichtigen Geschichte aus Imperien, Verträgen und wechselnden Grenzen."
+    },
+    "pt": {
+      "title": "Bálcãs: Geografia, Fronteiras e História | GeoTrivia Atlas",
+      "description": "Explore a geografia montanhosa dos Bálcãs, suas fronteiras cambiantes e história no GeoTrivia Atlas.",
+      "intro": "Moldados por cadeias montanhosas íngremes e séculos de tratados, os Bálcãs formam uma das regiões fronteiriças mais complexas da Europa."
+    },
+    "it": {
+      "title": "Balcani: Geografia, Confini e Storia | GeoTrivia Atlas",
+      "description": "Esplora la geografia montuosa dei Balcani, i confini mutevoli e la storia su GeoTrivia Atlas.",
+      "intro": "Plasmati da aspre catene montuose e secoli di trattati, i Balcani rappresentano uno dei crocevia geografici più complessi d'Europa."
+    },
+    "nl": {
+      "title": "Balkan: Geografie, Grenzen en Geschiedenis | GeoTrivia Atlas",
+      "description": "Ontdek de bergachtige geografie van de Balkan, verschuivende grenzen en geschiedenis in de GeoTrivia Atlas.",
+      "intro": "Gevormd door steile bergketens en eeuwen van verdragen vormt de Balkan een van Europa's meest veelzijdige grensregio's."
+    },
+    "sv": {
+      "title": "Balkans Geografi, Gränser och Historia | GeoTrivia Atlas",
+      "description": "Utforska Balkanhalvöns bergiga geografi, skiftande gränser och historia på GeoTrivia Atlas.",
+      "intro": "Formad av branta bergskedjor och århundraden av fördrag utgör Balkan ett av Europas mest intrikata gränslandskap."
+    },
+    "tr": {
+      "title": "Balkanlar Coğrafyası, Sınırları ve Tarihi | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Balkan Yarımadası'nın dağlık coğrafyasını, değişen sınırlarını ve tarihini keşfedin.",
+      "intro": "Sarp dağ sıraları ve yüzyıllık antlaşmalarla şekillenen Balkanlar, Avrupa'nın en karmaşık coğrafi ve tarihi kavşaklarından biridir."
+    },
+    "ar": {
+      "title": "البلقان: الجغرافيا والحدود والتاريخ | أطلس جيو تريفيا",
+      "description": "استكشف جغرافيا البلقان وحدودها المعقدة وتاريخها الثقافي والسياسي المتنوع عبر أطلس جيو تريفيا.",
+      "intro": "تجمع شبه جزيرة البلقان تضاريس جبلية وعرة وتاريخاً حافلاً بالتحولات الإمبراطورية والحدود الدولية المتداخلة."
+    }
+  },
+  "roman-history": {
+    "slug": "roman-history",
+    "name": "roman-history",
+    "category": "History & Civilization",
+    "focusKeywords": [
+      "roman-history",
+      "roman-history geography",
+      "roman-history world exploration",
+      "roman-history field dispatches",
+      "Atlas roman-history"
+    ],
+    "updatedAt": "2026-11-24T15:35:22.780Z",
+    "en": {
+      "title": "roman-history — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under roman-history.",
+      "intro": "Welcome to the roman-history thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "roman-history — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo roman-history.",
+      "intro": "Bienvenido al archivo temático de roman-history en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "roman-history — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous roman-history.",
+      "intro": "Bienvenue dans le dossier thématique roman-history du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "roman-history — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu roman-history.",
+      "intro": "Willkommen im Themenarchiv zu roman-history im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "roman-history — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em roman-history.",
+      "intro": "Bem-vindo ao arquivo temático de roman-history no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "roman-history — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a roman-history.",
+      "intro": "Benvenuto nell'archivio tematico di roman-history su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "roman-history — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over roman-history.",
+      "intro": "Welkom in het thematische archief over roman-history in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "roman-history — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om roman-history.",
+      "intro": "Välkommen till temaarkivet för roman-history i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "roman-history — Coğrafi Arşiv ve Saha Raporları",
+      "description": "roman-history kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas roman-history tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "roman-history — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت roman-history في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع roman-history ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
     }
   }
 }
