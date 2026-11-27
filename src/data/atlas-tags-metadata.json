@@ -62,63 +62,64 @@
     "slug": "world-landmarks",
     "name": "World Landmarks",
     "category": "world-landmarks",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "World Landmarks",
-      "World Landmarks geography",
-      "World Landmarks world exploration",
-      "World Landmarks field dispatches",
-      "Atlas World Landmarks"
+      "world landmarks",
+      "historic monuments",
+      "cultural landmarks",
+      "ancient sites"
     ],
-    "updatedAt": "2026-09-20T23:48:59.395Z",
+    "updatedAt": "2026-11-26T17:21:49.212Z",
     "en": {
-      "title": "World Landmarks — Curated Geographic Dispatches & Archive",
-      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under World Landmarks.",
-      "intro": "Welcome to the World Landmarks thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+      "title": "World Landmarks and Historic Monuments | GeoTrivia Atlas",
+      "description": "Explore iconic world landmarks, ancient rock monuments, and historic cultural sites across the globe on GeoTrivia Atlas.",
+      "intro": "World Landmarks showcases monumental structures, carved stone monoliths, and enduring geographic markers that anchor regional history."
     },
     "es": {
-      "title": "World Landmarks — Archivo Geográfico y Crónicas del Atlas",
-      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo World Landmarks.",
-      "intro": "Bienvenido al archivo temático de World Landmarks en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+      "title": "Monumentos del Mundo y Sitios Históricos | GeoTrivia Atlas",
+      "description": "Explore monumentos emblemáticos, monolitos grabados y enclaves históricos de todo el mundo en GeoTrivia Atlas.",
+      "intro": "Monumentos del Mundo reúne construcciones emblemáticas, monolitos tallados e hitos geográficos que definen la historia regional."
     },
     "fr": {
-      "title": "World Landmarks — Archives Géographiques et Dossiers de Terrain",
-      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous World Landmarks.",
-      "intro": "Bienvenue dans le dossier thématique World Landmarks du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+      "title": "Monuments du Monde et Sites Historiques | GeoTrivia Atlas",
+      "description": "Explorez les monuments emblématiques, monolithes gravés et sites historiques à travers le monde sur GeoTrivia Atlas.",
+      "intro": "Monuments du Monde réunit édifices marquants, roches gravées et repères géographiques majeurs de l'histoire régionale."
     },
     "de": {
-      "title": "World Landmarks — Geografisches Archiv & Feldberichte",
-      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu World Landmarks.",
-      "intro": "Willkommen im Themenarchiv zu World Landmarks im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+      "title": "Weltwahrzeichen und Historische Monumente | GeoTrivia Atlas",
+      "description": "Entdecken Sie bedeutende Weltwahrzeichen, historische Monumente und kulturelle Stätten rund um den Globus im GeoTrivia Atlas.",
+      "intro": "Weltwahrzeichen versammelt eindrucksvolle Monumente, gravierte Felsdenkmäler und historische Stätten, die Landschaften und Kulturen geprägt haben."
     },
     "pt": {
-      "title": "World Landmarks — Arquivo Geográfico e Crônicas de Exploração",
-      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em World Landmarks.",
-      "intro": "Bem-vindo ao arquivo temático de World Landmarks no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+      "title": "Marcos Mundiais e Monumentos Históricos | GeoTrivia Atlas",
+      "description": "Explore marcos mundiais icônicos, monólitos gravados e sítios históricos ao redor do globo no GeoTrivia Atlas.",
+      "intro": "Marcos Mundiais reúne monumentos emblemáticos, rochas esculpidas e referências geográficas duradouras da história regional."
     },
     "it": {
-      "title": "World Landmarks — Archivio Geografico e Reportage dal Mondo",
-      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a World Landmarks.",
-      "intro": "Benvenuto nell'archivio tematico di World Landmarks su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+      "title": "Monumenti del Mondo e Siti Storici | GeoTrivia Atlas",
+      "description": "Esplora monumenti iconici, monoliti incisi e siti storici in tutto il mondo su GeoTrivia Atlas.",
+      "intro": "Monumenti del Mondo raccoglie opere emblematiche, massi scolpiti e punti di riferimento storici che segnano i territori."
     },
     "nl": {
-      "title": "World Landmarks — Geografisch Archief & Veldkronieken",
-      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over World Landmarks.",
-      "intro": "Welkom in het thematische archief over World Landmarks in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+      "title": "Wereldmonumenten en Historische Plekken | GeoTrivia Atlas",
+      "description": "Ontdek iconische wereldmonumenten, eeuwenoude rotsinscripties en historische plekken wereldwijd in de GeoTrivia Atlas.",
+      "intro": "Wereldmonumenten belicht markante bouwwerken, bewerkte rotsblokken en historische oriëntatiepunten die regionale geschiedenissen verankeren."
     },
     "sv": {
-      "title": "World Landmarks — Geografiskt Arkiv & Fältrapporter",
-      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om World Landmarks.",
-      "intro": "Välkommen till temaarkivet för World Landmarks i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+      "title": "Världslandmärken och Historiska Monument | GeoTrivia Atlas",
+      "description": "Utforska ikoniska världslandmärken, forntida hällmonument och historiska platser världen över på GeoTrivia Atlas.",
+      "intro": "Världslandmärken lyfter fram monumentala byggnader, huggna stenblock och historiska riktmärken som format sina regioner."
     },
     "tr": {
-      "title": "World Landmarks — Coğrafi Arşiv ve Saha Raporları",
-      "description": "World Landmarks kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
-      "intro": "GeoTrivia Atlas World Landmarks tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+      "title": "Dünya Anıtları ve Tarihi Mekanlar | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta ikonik dünya anıtlarını, kadim kaya oymalarını ve tarihi kültürel alanları keşfedin.",
+      "intro": "Dünya Anıtları, bölgesel tarihe damga vuran anıtsal yapıları, oyulmuş kaya bloklarını ve kalıcı coğrafi simgeleri bir araya getirir."
     },
     "ar": {
-      "title": "World Landmarks — الأرشيف الجغرافي والتقارير الاستكشافية",
-      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت World Landmarks في أطلس جيو تريفيا.",
-      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع World Landmarks ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+      "title": "المعالم العالمية والنصب التاريخية | أطلس جيو تريفيا",
+      "description": "استكشف أبرز المعالم العالمية والنصب التاريخية والصروح الثقافية والطبيعية المميزة حول العالم عبر أطلس جيو تريفيا.",
+      "intro": "تجمع فئة المعالم العالمية بين الصروح الأثرية المنحوتة في الصخر والرموز التاريخية التي شكلت هوية الأقاليم والمجتمعات عبر القرون."
     }
   },
   "greece": {
@@ -16509,63 +16510,64 @@
     "slug": "archaeology",
     "name": "Archaeology",
     "category": "world-landmarks",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "Archaeology",
-      "Archaeology geography",
-      "Archaeology world exploration",
-      "Archaeology field dispatches",
-      "Atlas Archaeology"
+      "archaeology",
+      "archaeological sites",
+      "excavations",
+      "ancient history"
     ],
-    "updatedAt": "2026-09-24T03:39:40.336Z",
+    "updatedAt": "2026-11-26T17:21:48.057Z",
     "en": {
-      "title": "Archaeology — Curated Geographic Dispatches & Archive",
-      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under Archaeology.",
-      "intro": "Welcome to the Archaeology thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+      "title": "Archaeology and Ancient Sites | GeoTrivia Atlas",
+      "description": "Discover major archaeological sites, ancient inscriptions, and material evidence of past civilizations on GeoTrivia Atlas.",
+      "intro": "Archaeology reconstructs human history through material artifacts, carved monuments, and layered landscapes preserved across millennia."
     },
     "es": {
-      "title": "Archaeology — Archivo Geográfico y Crónicas del Atlas",
-      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo Archaeology.",
-      "intro": "Bienvenido al archivo temático de Archaeology en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+      "title": "Arqueología y Sitios Antiguos | GeoTrivia Atlas",
+      "description": "Descubra grandes sitios arqueológicos, inscripciones antiguas y vestigios materiales del pasado en GeoTrivia Atlas.",
+      "intro": "La arqueología reconstruye la historia humana mediante artefactos materiales, monumentos tallados y paisajes conservados durante milenios."
     },
     "fr": {
-      "title": "Archaeology — Archives Géographiques et Dossiers de Terrain",
-      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous Archaeology.",
-      "intro": "Bienvenue dans le dossier thématique Archaeology du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+      "title": "Archéologie et Sites Antiques | GeoTrivia Atlas",
+      "description": "Découvrez des sites archéologiques majeurs, inscriptions anciennes et vestiges des civilisations passées sur GeoTrivia Atlas.",
+      "intro": "L'archéologie reconstitue l'histoire humaine à partir d'artefacts, de monuments gravés et de paysages préservés à travers les âges."
     },
     "de": {
-      "title": "Archaeology — Geografisches Archiv & Feldberichte",
-      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu Archaeology.",
-      "intro": "Willkommen im Themenarchiv zu Archaeology im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+      "title": "Archäologie und Historische Ausgrabungen | GeoTrivia Atlas",
+      "description": "Entdecken Sie bedeutende archäologische Stätten, Ausgrabungen und materielle Zeugnisse vergangener Kulturen im GeoTrivia Atlas.",
+      "intro": "Archäologie entschlüsselt anhand von Artefakten, Inschriften und Bodenfunden die Lebenswelten früherer Gesellschaften."
     },
     "pt": {
-      "title": "Archaeology — Arquivo Geográfico e Crônicas de Exploração",
-      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em Archaeology.",
-      "intro": "Bem-vindo ao arquivo temático de Archaeology no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+      "title": "Arqueologia e Sítios Antigos | GeoTrivia Atlas",
+      "description": "Descubra grandes sítios arqueológicos, inscrições antigas e vestígios materiais do passado no GeoTrivia Atlas.",
+      "intro": "A arqueologia reconstrói a história humana por meio de artefatos, monumentos esculpidos e paisagens preservadas ao longo de milênios."
     },
     "it": {
-      "title": "Archaeology — Archivio Geografico e Reportage dal Mondo",
-      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a Archaeology.",
-      "intro": "Benvenuto nell'archivio tematico di Archaeology su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+      "title": "Archeologia e Siti Antichi | GeoTrivia Atlas",
+      "description": "Scopri importanti siti archeologici, antiche iscrizioni e testimonianze materiali del passato su GeoTrivia Atlas.",
+      "intro": "L'archeologia ricostruisce la storia umana attraverso manufatti, monumenti scolpiti e paesaggi stratificati nel tempo."
     },
     "nl": {
-      "title": "Archaeology — Geografisch Archief & Veldkronieken",
-      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over Archaeology.",
-      "intro": "Welkom in het thematische archief over Archaeology in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+      "title": "Archeologie en Oude Vindplaatsen | GeoTrivia Atlas",
+      "description": "Ontdek belangrijke archeologische vindplaatsen, oude inscripties en materiële sporen uit het verleden in de GeoTrivia Atlas.",
+      "intro": "Archeologie reconstrueert de menselijke geschiedenis aan de hand van artefacten, bewerkte monumenten en eeuwenoude landschappen."
     },
     "sv": {
-      "title": "Archaeology — Geografiskt Arkiv & Fältrapporter",
-      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om Archaeology.",
-      "intro": "Välkommen till temaarkivet för Archaeology i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+      "title": "Arkeologi och Forntida Platser | GeoTrivia Atlas",
+      "description": "Upptäck betydande arkeologiska platser, forntida inskrifter och materiella spår av gångna civilisationer på GeoTrivia Atlas.",
+      "intro": "Arkeologi återskapar människans historia genom artefakter, huggna monument och bevarade kulturlandskap."
     },
     "tr": {
-      "title": "Archaeology — Coğrafi Arşiv ve Saha Raporları",
-      "description": "Archaeology kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
-      "intro": "GeoTrivia Atlas Archaeology tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+      "title": "Arkeoloji ve Kadim Alanlar | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta önemli arkeolojik alanları, kadim yazıtları ve geçmiş uygarlıkların izlerini keşfedin.",
+      "intro": "Arkeoloji, binlerce yıl boyunca korunan eserler, oyulmuş anıtlar ve katmanlı araziler aracılığıyla insanlık tarihini yeniden inşa eder."
     },
     "ar": {
-      "title": "Archaeology — الأرشيف الجغرافي والتقارير الاستكشافية",
-      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت Archaeology في أطلس جيو تريفيا.",
-      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع Archaeology ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+      "title": "علم الآثار والمواقع الأثرية العالمية | أطلس جيو تريفيا",
+      "description": "استكشف المواقع الأثرية والاكتشافات التاريخية التي تكشف أسرار الحضارات القديمة عبر أطلس جيو تريفيا.",
+      "intro": "يربط علم الآثار بين القطع المادية والنقوش والتربة لفك شيفرة المجتمعات البشرية الغابرة وتاريخها العميق."
     }
   },
   "sinai": {
@@ -22882,6 +22884,324 @@
       "title": "eastern-province — الأرشيف الجغرافي والتقارير الاستكشافية",
       "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت eastern-province في أطلس جيو تريفيا.",
       "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع eastern-province ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "pennsylvania": {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania",
+    "category": "world-landmarks",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "pennsylvania",
+      "allegheny plateau",
+      "pennsylvania history",
+      "appalachian landmarks"
+    ],
+    "updatedAt": "2026-11-26T17:21:47.788Z",
+    "en": {
+      "title": "Pennsylvania Geography and Historic Landmarks | GeoTrivia Atlas",
+      "description": "Discover Pennsylvania's Appalachian geography, river corridors, and historic archaeological landmarks on GeoTrivia Atlas.",
+      "intro": "Spanning the Appalachian ridges and major river valleys of the northeastern United States, Pennsylvania preserves deep Indigenous and colonial history."
+    },
+    "es": {
+      "title": "Geografía de Pensilvania y Monumentos | GeoTrivia Atlas",
+      "description": "Descubra la geografía apalache de Pensilvania, sus corredores fluviales y sitios arqueológicos en GeoTrivia Atlas.",
+      "intro": "Extendida por los montes Apalaches y grandes valles fluviales, Pensilvania conserva una profunda historia indígena y colonial."
+    },
+    "fr": {
+      "title": "Pennsylvanie : Géographie et Sites Historiques | GeoTrivia Atlas",
+      "description": "Découvrez la géographie appalachienne de la Pennsylvanie, ses vallées fluviales et ses sites archéologiques sur GeoTrivia Atlas.",
+      "intro": "Traversée par les Appalaches et de grandes rivières, la Pennsylvanie préserve une riche histoire autochtone et coloniale."
+    },
+    "de": {
+      "title": "Pennsylvania: Geografie und Geschichte | GeoTrivia Atlas",
+      "description": "Entdecken Sie Pennsylvanias Geografie, Flusstäler und historische Stätten in den Appalachen im GeoTrivia Atlas.",
+      "intro": "Pennsylvania erstreckt sich über die Appalachen und große Flusskorridore und bewahrt sowohl indigene Felsbilder als auch Zeugnisse früher Industriegeschichte."
+    },
+    "pt": {
+      "title": "Pensilvânia: Geografia e Marcos Históricos | GeoTrivia Atlas",
+      "description": "Descubra a geografia apalache da Pensilvânia, seus corredores fluviais e marcos arqueológicos no GeoTrivia Atlas.",
+      "intro": "Estendendo-se pelos Apalaches e grandes vales fluviais, a Pensilvânia preserva uma profunda história indígena e colonial."
+    },
+    "it": {
+      "title": "Pennsylvania: Geografia e Siti Storici | GeoTrivia Atlas",
+      "description": "Scopri la geografia appalachiana della Pennsylvania, i corridoi fluviali e i siti archeologici su GeoTrivia Atlas.",
+      "intro": "Estesa tra i monti Appalachi e grandi valli fluviali, la Pennsylvania custodisce una profonda storia indigena e coloniale."
+    },
+    "nl": {
+      "title": "Pennsylvania: Geografie en Historische Plekken | GeoTrivia Atlas",
+      "description": "Ontdek de geografie van Pennsylvania, zijn rivierdalen in de Appalachen en archeologische monumenten in de GeoTrivia Atlas.",
+      "intro": "Pennsylvania strekt zich uit over de Appalachen en grote riviervalleien en bewaart zowel inheemse rotskunst als vroege industriële geschiedenis."
+    },
+    "sv": {
+      "title": "Pennsylvanias Geografi och Historiska Platser | GeoTrivia Atlas",
+      "description": "Upptäck Pennsylvanias geografi i Appalacherna, floddalar och arkeologiska landmärken på GeoTrivia Atlas.",
+      "intro": "Pennsylvania sträcker sig över Appalacherna och stora floddalar och rymmer både uramerikanska fornlämningar och tidig industrihistoria."
+    },
+    "tr": {
+      "title": "Pensilvanya Coğrafyası ve Tarihi Mekanlar | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Pensilvanya'nın Apalaş coğrafyasını, nehir koridorlarını ve tarihi arkeolojik alanlarını keşfedin.",
+      "intro": "Apalaş sırtları ve büyük nehir vadileri boyunca uzanan Pensilvanya, köklü yerli ve sömürge dönemi tarihini korur."
+    },
+    "ar": {
+      "title": "بنسلفانيا: الجغرافيا والمعالم التاريخية | أطلس جيو تريفيا",
+      "description": "اكتشف جغرافيا بنسلفانيا ومعالمها التاريخية وأنهارها ومواقعها الأثرية في شمال شرق الولايات المتحدة عبر أطلس جيو تريفيا.",
+      "intro": "تمتد بنسلفانيا عبر جبال الأبلاش وممرات الأنهار الكبرى، حاملةً إرثاً من المواقع الأثرية الأصلية والتاريخ الصناعي المبكر."
+    }
+  },
+  "petroglyphs": {
+    "slug": "petroglyphs",
+    "name": "Petroglyphs",
+    "category": "world-landmarks",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "petroglyphs",
+      "rock art",
+      "indigenous carvings",
+      "prehistoric art"
+    ],
+    "updatedAt": "2026-11-26T17:21:48.658Z",
+    "en": {
+      "title": "Petroglyphs and Ancient Rock Art | GeoTrivia Atlas",
+      "description": "Explore ancient petroglyphs, pecked stone carvings, and prehistoric rock art traditions worldwide on GeoTrivia Atlas.",
+      "intro": "Petroglyphs preserve centuries-old visual records pecked directly into stone along riverbanks, canyons, and desert outcrops."
+    },
+    "es": {
+      "title": "Petroglifos y Arte Rupestre Antiguo | GeoTrivia Atlas",
+      "description": "Explore petroglifos antiguos, grabados en piedra y tradiciones de arte rupestre prehistórico en GeoTrivia Atlas.",
+      "intro": "Los petroglifos conservan registros visuales milenarios tallados directamente sobre roca en riberas, cañones y desiertos."
+    },
+    "fr": {
+      "title": "Pétroglyphes et Art Rupestre Ancien | GeoTrivia Atlas",
+      "description": "Explorez les pétroglyphes anciens, gravures sur pierre et traditions d'art rupestre à travers le monde sur GeoTrivia Atlas.",
+      "intro": "Les pétroglyphes conservent des témoignages visuels séculaires piquetés à même la roche le long des rivières et des canyons."
+    },
+    "de": {
+      "title": "Petroglyphen und Prähistorische Felskunst | GeoTrivia Atlas",
+      "description": "Entdecken Sie prähistorische Petroglyphen, eingemeißelte Felsbilder und frühe Symbolik weltweit im GeoTrivia Atlas.",
+      "intro": "Petroglyphen sind in Stein gepickte Bilder, die über Jahrtausende hinweg rituelle Vorstellungen, Tierwelt und Orientierungsmarken festhielten."
+    },
+    "pt": {
+      "title": "Petróglifos e Arte Rupestre Antiga | GeoTrivia Atlas",
+      "description": "Explore petróglifos antigos, gravações em pedra e tradições de arte rupestre ao redor do mundo no GeoTrivia Atlas.",
+      "intro": "Os petróglifos preservam registros visuais seculares talhados diretamente na rocha ao longo de rios, cânions e afloramentos."
+    },
+    "it": {
+      "title": "Petroglifi e Arte Rupestre Antica | GeoTrivia Atlas",
+      "description": "Esplora antichi petroglifi, incisioni su pietra e tradizioni di arte rupestre preistorica nel mondo su GeoTrivia Atlas.",
+      "intro": "I petroglifi custodiscono testimonianze visive secolari incise direttamente nella roccia lungo fiumi, canyon e pareti montane."
+    },
+    "nl": {
+      "title": "Petrogliefen en Oude Rotskunst | GeoTrivia Atlas",
+      "description": "Ontdek eeuwenoude petrogliefen, uitgehakte rotstekeningen en prehistorische rotskunst wereldwijd in de GeoTrivia Atlas.",
+      "intro": "Petrogliefen bewaren eeuwenoude visuele sporen die rechtstreeks in steen zijn gehakt langs rivieroevers en rotswanden."
+    },
+    "sv": {
+      "title": "Hällristningar och Forntida Bergkonst | GeoTrivia Atlas",
+      "description": "Utforska urgamla hällristningar, knackade stenbilder och förhistorisk bergkonst världen över på GeoTrivia Atlas.",
+      "intro": "Hällristningar bevarar månghundraåriga bildberättelser som huggits direkt i sten längs flodstränder, raviner och klipphällar."
+    },
+    "tr": {
+      "title": "Petroglifler ve Kadim Kaya Sanatı | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta kadim petroglifleri, taşa işlenmiş oymaları ve tarih öncesi kaya sanatı geleneklerini keşfedin.",
+      "intro": "Petroglifler, nehir kıyıları ve kanyonlar boyunca doğrudan taş yüzeylere oyulmuş yüzlerce yıllık görsel kayıtları korur."
+    },
+    "ar": {
+      "title": "النقوش الصخرية والفنون الحجرية القديمة | أطلس جيو تريفيا",
+      "description": "استكشف النقوش الصخرية القديمة وفنون الصخر التي تركتها الحضارات المبكرة على ضفاف الأنهار والصحاري عبر أطلس جيو تريفيا.",
+      "intro": "تمثل النقوش الصخرية سجلات بصرية نُحتت في الحجر قبل قرون، لتوثق المعتقدات والرموز والطقوس على امتداد القارات."
+    }
+  },
+  "allegheny-river": {
+    "slug": "allegheny-river",
+    "name": "Allegheny River",
+    "category": "world-landmarks",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "allegheny river",
+      "ohio river valley",
+      "water trails",
+      "river landmarks"
+    ],
+    "updatedAt": "2026-11-26T17:21:49.022Z",
+    "en": {
+      "title": "Allegheny River History and Landmarks | GeoTrivia Atlas",
+      "description": "Explore the Allegheny River's scenic water trails, Indigenous archaeological sites, and early frontier history on GeoTrivia Atlas.",
+      "intro": "Flowing across western New York and Pennsylvania to form the Ohio River, the Allegheny served as a vital corridor for Indigenous trade and early expeditions."
+    },
+    "es": {
+      "title": "Río Allegheny: Historia y Monumentos | GeoTrivia Atlas",
+      "description": "Explore el río Allegheny, sus rutas fluviales, sitios arqueológicos indígenas e historia fronteriza en GeoTrivia Atlas.",
+      "intro": "Fluyendo por el oeste de Nueva York y Pensilvania hasta formar el río Ohio, el Allegheny fue un corredor fluvial esencial durante siglos."
+    },
+    "fr": {
+      "title": "Rivière Allegheny : Histoire et Repères | GeoTrivia Atlas",
+      "description": "Explorez la rivière Allegheny, ses parcours nautiques, sites archéologiques autochtones et son histoire sur GeoTrivia Atlas.",
+      "intro": "Traversant l'ouest de New York et la Pennsylvanie pour former l'Ohio, l'Allegheny fut un axe majeur d'échanges et d'expéditions."
+    },
+    "de": {
+      "title": "Allegheny River: Geschichte und Flusslandschaft | GeoTrivia Atlas",
+      "description": "Erfahren Sie mehr über den Allegheny River, seinen historischen Korridor in Pennsylvania und seine archäologischen Uferstätten im GeoTrivia Atlas.",
+      "intro": "Der Allegheny River windet sich durch das Hochland von Pennsylvania und New York und diente jahrhundertelang als wichtige Wasserstraße zum Ohio-Becken."
+    },
+    "pt": {
+      "title": "Rio Allegheny: História e Marcos | GeoTrivia Atlas",
+      "description": "Explore o rio Allegheny, suas rotas aquáticas, sítios arqueológicos indígenas e história de fronteira no GeoTrivia Atlas.",
+      "intro": "Correndo pelo oeste de Nova York e Pensilvânia até formar o rio Ohio, o Allegheny serviu por séculos como corredor fluvial vital."
+    },
+    "it": {
+      "title": "Fiume Allegheny: Storia e Territorio | GeoTrivia Atlas",
+      "description": "Esplora il fiume Allegheny, i suoi percorsi fluviali, i siti archeologici nativi e la storia di frontiera su GeoTrivia Atlas.",
+      "intro": "Scorrendo tra lo stato di New York e la Pennsylvania fino a formare l'Ohio, l'Allegheny fu un vitale corridoio di scambi e spedizioni."
+    },
+    "nl": {
+      "title": "Allegheny-rivier: Geschiedenis en Landschap | GeoTrivia Atlas",
+      "description": "Ontdek de Allegheny-rivier, zijn waterroutes, inheemse archeologische vindplaatsen en grensgeschiedenis in de GeoTrivia Atlas.",
+      "intro": "De Allegheny-rivier stroomt door westelijk New York en Pennsylvania naar de Ohio en vormde eeuwenlang een cruciale vaarroute."
+    },
+    "sv": {
+      "title": "Alleghenyfloden: Historia och Landmärken | GeoTrivia Atlas",
+      "description": "Utforska Alleghenyfloden, dess vattenleder, uramerikanska fornlämningar och tidiga gränshistoria på GeoTrivia Atlas.",
+      "intro": "Alleghenyfloden slingrar sig genom västra New York och Pennsylvania för att bilda Ohiofloden och var i århundraden en livsviktig färdväg."
+    },
+    "tr": {
+      "title": "Allegheny Nehri Tarihi ve Alanları | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Allegheny Nehri'ni, su yollarını, yerli arkeolojik alanlarını ve sınır tarihini keşfedin.",
+      "intro": "Batı New York ve Pensilvanya'dan akarak Ohio Nehri'ni oluşturan Allegheny, yüzyıllar boyunca hayati bir ticaret ve keşif koridoruydu."
+    },
+    "ar": {
+      "title": "نهر أليغيني ومعالمه التاريخية | أطلس جيو تريفيا",
+      "description": "تعرّف على نهر أليغيني ومساره التاريخي عبر بنسلفانيا ونيويورك ودوره في التجارة والملاحة عبر أطلس جيو تريفيا.",
+      "intro": "ينساب نهر أليغيني عبر مرتفعات بنسلفانيا ونيويورك ليشكل شرياناً مائياً حيوياً في حوض أوهايو منذ عصور ما قبل التاريخ."
+    }
+  },
+  "castles": {
+    "slug": "castles",
+    "name": "castles",
+    "category": "Castles & Palaces",
+    "focusKeywords": [
+      "castles",
+      "castles geography",
+      "castles world exploration",
+      "castles field dispatches",
+      "Atlas castles"
+    ],
+    "updatedAt": "2026-11-27T15:35:50.602Z",
+    "en": {
+      "title": "castles — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under castles.",
+      "intro": "Welcome to the castles thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "castles — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo castles.",
+      "intro": "Bienvenido al archivo temático de castles en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "castles — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous castles.",
+      "intro": "Bienvenue dans le dossier thématique castles du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "castles — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu castles.",
+      "intro": "Willkommen im Themenarchiv zu castles im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "castles — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em castles.",
+      "intro": "Bem-vindo ao arquivo temático de castles no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "castles — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a castles.",
+      "intro": "Benvenuto nell'archivio tematico di castles su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "castles — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over castles.",
+      "intro": "Welkom in het thematische archief over castles in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "castles — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om castles.",
+      "intro": "Välkommen till temaarkivet för castles i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "castles — Coğrafi Arşiv ve Saha Raporları",
+      "description": "castles kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas castles tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "castles — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت castles في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع castles ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "fortresses": {
+    "slug": "fortresses",
+    "name": "fortresses",
+    "category": "Castles & Palaces",
+    "focusKeywords": [
+      "fortresses",
+      "fortresses geography",
+      "fortresses world exploration",
+      "fortresses field dispatches",
+      "Atlas fortresses"
+    ],
+    "updatedAt": "2026-11-27T15:35:50.602Z",
+    "en": {
+      "title": "fortresses — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under fortresses.",
+      "intro": "Welcome to the fortresses thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "fortresses — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo fortresses.",
+      "intro": "Bienvenido al archivo temático de fortresses en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "fortresses — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous fortresses.",
+      "intro": "Bienvenue dans le dossier thématique fortresses du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "fortresses — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu fortresses.",
+      "intro": "Willkommen im Themenarchiv zu fortresses im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "fortresses — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em fortresses.",
+      "intro": "Bem-vindo ao arquivo temático de fortresses no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "fortresses — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a fortresses.",
+      "intro": "Benvenuto nell'archivio tematico di fortresses su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "fortresses — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over fortresses.",
+      "intro": "Welkom in het thematische archief over fortresses in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "fortresses — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om fortresses.",
+      "intro": "Välkommen till temaarkivet för fortresses i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "fortresses — Coğrafi Arşiv ve Saha Raporları",
+      "description": "fortresses kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas fortresses tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "fortresses — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت fortresses في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع fortresses ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
     }
   }
 }
