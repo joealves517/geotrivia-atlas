@@ -13799,64 +13799,65 @@
   "ghost-towns": {
     "slug": "ghost-towns",
     "name": "Ghost Towns",
-    "category": "world-landmarks",
+    "category": "abandoned",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
     "focusKeywords": [
-      "Ghost Towns",
-      "Ghost Towns geography",
-      "Ghost Towns world exploration",
-      "Ghost Towns field dispatches",
-      "Atlas Ghost Towns"
+      "ghost towns",
+      "deserted settlements",
+      "abandoned cities",
+      "depopulated places"
     ],
-    "updatedAt": "2026-09-21T05:41:53.394Z",
+    "updatedAt": "2026-11-27T17:36:05.669Z",
     "en": {
-      "title": "Ghost Towns — Curated Geographic Dispatches & Archive",
-      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under Ghost Towns.",
-      "intro": "Welcome to the Ghost Towns thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+      "title": "Ghost Towns and Deserted Settlements | GeoTrivia Atlas",
+      "description": "Explore ghost towns and deserted settlements around the world emptied by economic collapse, disasters, or stalled ambitions on GeoTrivia Atlas.",
+      "intro": "Ghost towns preserve the silent footprints of boomtowns, stalled resorts, and communities emptied by shifting fortunes."
     },
     "es": {
-      "title": "Ghost Towns — Archivo Geográfico y Crónicas del Atlas",
-      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo Ghost Towns.",
-      "intro": "Bienvenido al archivo temático de Ghost Towns en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+      "title": "Pueblos Fantasma y Asentamientos Desiertos | GeoTrivia Atlas",
+      "description": "Explore pueblos fantasma y asentamientos desiertos en todo el mundo vaciados por crisis o proyectos fallidos en GeoTrivia Atlas.",
+      "intro": "Los pueblos fantasma conservan las huellas silenciosas de enclaves prósperos y complejos fallidos abandonados al paso del tiempo."
     },
     "fr": {
-      "title": "Ghost Towns — Archives Géographiques et Dossiers de Terrain",
-      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous Ghost Towns.",
-      "intro": "Bienvenue dans le dossier thématique Ghost Towns du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+      "title": "Villes Fantômes et Villages Désertés | GeoTrivia Atlas",
+      "description": "Explorez les villes fantômes et localités désertées à travers le monde sur GeoTrivia Atlas.",
+      "intro": "Les villes fantômes conservent l'empreinte silencieuse de cités minières, de stations avortées et de bourgs abandonnés."
     },
     "de": {
-      "title": "Ghost Towns — Geografisches Archiv & Feldberichte",
-      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu Ghost Towns.",
-      "intro": "Willkommen im Themenarchiv zu Ghost Towns im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+      "title": "Geisterstädte und Verlassene Siedlungen | GeoTrivia Atlas",
+      "description": "Entdecken Sie Geisterstädte und verlassene Siedlungen weltweit, die aus wirtschaftlichen oder historischen Gründen geräumt wurden.",
+      "intro": "Geisterstädte dokumentieren einst belebte Orte und gescheiterte Bauprojekte, die von ihren Bewohnern zurückgelassen wurden."
     },
     "pt": {
-      "title": "Ghost Towns — Arquivo Geográfico e Crônicas de Exploração",
-      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em Ghost Towns.",
-      "intro": "Bem-vindo ao arquivo temático de Ghost Towns no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+      "title": "Cidades-Fantasma e Povoados Desertos | GeoTrivia Atlas",
+      "description": "Explore cidades-fantasma e povoados desertos pelo mundo esvaziados por crises ou projetos interrompidos no GeoTrivia Atlas.",
+      "intro": "As cidades-fantasma preservam os vestígios silenciosos de antigos polos econômicos e empreendimentos abandonados."
     },
     "it": {
-      "title": "Ghost Towns — Archivio Geografico e Reportage dal Mondo",
-      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a Ghost Towns.",
-      "intro": "Benvenuto nell'archivio tematico di Ghost Towns su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+      "title": "Città Fantasma e Insediamenti Abbandonati | GeoTrivia Atlas",
+      "description": "Esplora città fantasma e insediamenti abbandonati nel mondo svuotati da crisi economiche o progetti falliti su GeoTrivia Atlas.",
+      "intro": "Le città fantasma custodiscono le tracce silenziose di centri minerari, resort mai aperti e paesi svuotati dal tempo."
     },
     "nl": {
-      "title": "Ghost Towns — Geografisch Archief & Veldkronieken",
-      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over Ghost Towns.",
-      "intro": "Welkom in het thematische archief over Ghost Towns in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+      "title": "Spooksteden en Verlaten Nederzettingen | GeoTrivia Atlas",
+      "description": "Ontdek spooksteden en verlaten nederzettingen wereldwijd in de GeoTrivia Atlas.",
+      "intro": "Spooksteden bewaren de stille sporen van mijnbouwplaatsen, gestrande resorts en dorpen die door bewoners zijn verlaten."
     },
     "sv": {
-      "title": "Ghost Towns — Geografiskt Arkiv & Fältrapporter",
-      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om Ghost Towns.",
-      "intro": "Välkommen till temaarkivet för Ghost Towns i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+      "title": "Spökstäder och Övergivna Bosättningar | GeoTrivia Atlas",
+      "description": "Utforska spökstäder och övergivna bosättningar runt om i världen på GeoTrivia Atlas.",
+      "intro": "Spökstäder bevarar de tysta spåren av gruvsamhällen, avstannade resorter och byar som tömts på invånare."
     },
     "tr": {
-      "title": "Ghost Towns — Coğrafi Arşiv ve Saha Raporları",
-      "description": "Ghost Towns kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
-      "intro": "GeoTrivia Atlas Ghost Towns tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+      "title": "Hayalet Kasabalar ve Terk Edilmiş Yerleşimler | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta ekonomik çöküş veya yarım kalan projeler nedeniyle boşalmış hayalet kasabaları keşfedin.",
+      "intro": "Hayalet kasabalar, bir zamanlar büyük umutlarla kurulan ancak zamanla sessizliğe gömülen yerleşimlerin izlerini taşır."
     },
     "ar": {
-      "title": "Ghost Towns — الأرشيف الجغرافي والتقارير الاستكشافية",
-      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت Ghost Towns في أطلس جيو تريفيا.",
-      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع Ghost Towns ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+      "title": "مدن الأشباح والمستوطنات المهجورة | أطلس جيو تريفيا",
+      "description": "استكشف مدن الأشباح والقرى المهجورة حول العالم التي هجرها سكانها لأسباب اقتصادية أو بيئية عبر أطلس جيو تريفيا.",
+      "intro": "تروي مدن الأشباح قصص المستوطنات والمنتجعات التي ازدهرت أو بُنيت بأحلام كبيرة قبل أن تتحول إلى أطلال صامتة."
     }
   },
   "caucasus": {
@@ -23202,6 +23203,451 @@
       "title": "fortresses — الأرشيف الجغرافي والتقارير الاستكشافية",
       "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت fortresses في أطلس جيو تريفيا.",
       "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع fortresses ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "abandoned": {
+    "slug": "abandoned",
+    "name": "Abandoned",
+    "category": "abandoned",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "abandoned places",
+      "urban exploration",
+      "ruins",
+      "forgotten resorts"
+    ],
+    "updatedAt": "2026-11-27T17:35:55.138Z",
+    "en": {
+      "title": "Abandoned Places and Modern Ruins | GeoTrivia Atlas",
+      "description": "Explore abandoned places, forgotten resorts, and modern ruins across the globe on GeoTrivia Atlas.",
+      "intro": "Abandoned chronicles unfinished resorts, depopulated towns, and architectural curiosities left behind by shifting economies and history."
+    },
+    "es": {
+      "title": "Lugares Abandonados y Ruinas Modernas | GeoTrivia Atlas",
+      "description": "Explore lugares abandonados, complejos olvidados y ruinas modernas en todo el mundo en GeoTrivia Atlas.",
+      "intro": "Lugares Abandonados documenta complejos inconclusos, pueblos despoblados y curiosidades arquitectónicas olvidadas por la historia."
+    },
+    "fr": {
+      "title": "Lieux Abandonnés et Ruines Modernes | GeoTrivia Atlas",
+      "description": "Explorez des lieux abandonnés, complexes oubliés et ruines modernes à travers le monde sur GeoTrivia Atlas.",
+      "intro": "Lieux Abandonnés retrace l'histoire de complexes inachevés, de villes désertées et d'architectures figées dans le temps."
+    },
+    "de": {
+      "title": "Verlassene Orte und Moderne Ruinen | GeoTrivia Atlas",
+      "description": "Entdecken Sie verlassene Orte, vergessene Resorts und moderne Ruinen weltweit im GeoTrivia Atlas.",
+      "intro": "Verlassene Orte dokumentiert unvollendete Ferienanlagen, Geisterstädte und vergessene Bauwerke rund um den Globus."
+    },
+    "pt": {
+      "title": "Lugares Abandonados e Ruínas Modernas | GeoTrivia Atlas",
+      "description": "Explore lugares abandonados, resorts esquecidos e ruínas modernas pelo mundo no GeoTrivia Atlas.",
+      "intro": "Lugares Abandonados registra complexos inacabados, cidades esvaziadas e arquiteturas singulares deixadas para trás."
+    },
+    "it": {
+      "title": "Luoghi Abbandonati e Rovine Moderne | GeoTrivia Atlas",
+      "description": "Esplora luoghi abbandonati, resort dimenticati e rovine moderne in tutto il mondo su GeoTrivia Atlas.",
+      "intro": "Luoghi Abbandonati racconta complessi incompiuti, borghi spopolati e architetture insolite dimenticate dal tempo."
+    },
+    "nl": {
+      "title": "Verlaten Plekken en Moderne Ruïnes | GeoTrivia Atlas",
+      "description": "Ontdek verlaten plekken, vergeten resorts en moderne ruïnes wereldwijd in de GeoTrivia Atlas.",
+      "intro": "Verlaten Plekken belicht onvoltooide resorts, ontvolkte dorpen en bijzondere bouwwerken die door de tijd zijn ingehaald."
+    },
+    "sv": {
+      "title": "Övergivna Platser och Moderna Ruiner | GeoTrivia Atlas",
+      "description": "Utforska övergivna platser, glömda semesterorter och moderna ruiner världen över på GeoTrivia Atlas.",
+      "intro": "Övergivna Platser skildrar ofullbordade resorter, avfolkade samhällen och arkitektoniska kuriositeter som lämnats åt naturen."
+    },
+    "tr": {
+      "title": "Terk Edilmiş Yerler ve Modern Harabeler | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta dünyanın dört bir yanındaki terk edilmiş yerleri, unutulmuş tatil köylerini ve modern harabeleri keşfedin.",
+      "intro": "Terk Edilmiş Yerler, yarım kalmış tesisleri, boşalmış kasabaları ve tarihin geride bıraktığı sıra dışı yapıları belgeler."
+    },
+    "ar": {
+      "title": "الأماكن المهجورة والآثار الحديثة | أطلس جيو تريفيا",
+      "description": "استكشف الأماكن المهجورة والمنتجعات المنسية والآثار الحديثة حول العالم عبر أطلس جيو تريفيا.",
+      "intro": "توثق فئة الأماكن المهجورة المنتجعات غير المكتملة والمدن المهجورة والهياكل التي استعادتها الطبيعة بعد توقف الزمن فيها."
+    }
+  },
+  "taiwan": {
+    "slug": "taiwan",
+    "name": "Taiwan",
+    "category": "abandoned",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "taiwan geography",
+      "taiwanese architecture",
+      "east asia",
+      "island landmarks"
+    ],
+    "updatedAt": "2026-11-27T17:36:00.382Z",
+    "en": {
+      "title": "Taiwan Geography and Architectural Landmarks | GeoTrivia Atlas",
+      "description": "Discover Taiwan's coastal geography, unusual architecture, and island history on GeoTrivia Atlas.",
+      "intro": "Shaped by steep mountain spines and Pacific coastlines, Taiwan hosts everything from ancient coastal settlements to striking modernist landmarks."
+    },
+    "es": {
+      "title": "Geografía de Taiwán y Arquitectura | GeoTrivia Atlas",
+      "description": "Descubra la geografía costera de Taiwán, su arquitectura singular e historia insular en GeoTrivia Atlas.",
+      "intro": "Marcada por abruptas cordilleras y costas del Pacífico, Taiwán alberga desde enclaves históricos hasta llamativas arquitecturas modernas."
+    },
+    "fr": {
+      "title": "Taïwan : Géographie et Architecture | GeoTrivia Atlas",
+      "description": "Découvrez la géographie côtière de Taïwan, son architecture singulière et son histoire insulaire sur GeoTrivia Atlas.",
+      "intro": "Façonnée par des reliefs escarpés et le Pacifique, Taïwan abrite des sites historiques autant que des curiosités architecturales modernes."
+    },
+    "de": {
+      "title": "Taiwan: Geografie und Architektur | GeoTrivia Atlas",
+      "description": "Entdecken Sie Taiwans Geografie, ungewöhnliche Architektur und Küstengeschichte im GeoTrivia Atlas.",
+      "intro": "Taiwan verbindet steile Gebirgsketten und raue Küsten mit ungewöhnlicher Nachkriegsarchitektur und wechselvoller Geschichte."
+    },
+    "pt": {
+      "title": "Taiwan: Geografia e Arquitetura | GeoTrivia Atlas",
+      "description": "Descubra a geografia costeira de Taiwan, sua arquitetura singular e história insular no GeoTrivia Atlas.",
+      "intro": "Moldada por montanhas íngremes e litorais do Pacífico, Taiwan abriga desde marcos históricos até curiosidades arquitetônicas modernas."
+    },
+    "it": {
+      "title": "Taiwan: Geografia e Architettura | GeoTrivia Atlas",
+      "description": "Scopri la geografia costiera di Taiwan, la sua architettura insolita e la storia dell'isola su GeoTrivia Atlas.",
+      "intro": "Modellata da ripide catene montuose e coste pacifiche, Taiwan ospita siti storici e sorprendenti architetture moderniste."
+    },
+    "nl": {
+      "title": "Taiwan: Geografie en Architectuur | GeoTrivia Atlas",
+      "description": "Ontdek de kustgeografie van Taiwan, zijn bijzondere architectuur en eilandgeschiedenis in de GeoTrivia Atlas.",
+      "intro": "Gevormd door steile bergketens en Pacifische kusten herbergt Taiwan zowel eeuwenoude nederzettingen als opvallende moderne bouwwerken."
+    },
+    "sv": {
+      "title": "Taiwans Geografi och Arkitektur | GeoTrivia Atlas",
+      "description": "Upptäck Taiwans kustgeografi, ovanliga arkitektur och öhistoria på GeoTrivia Atlas.",
+      "intro": "Formad av branta bergsryggar och Stillahavskuster rymmer Taiwan allt från historiska bosättningar till slående modern arkitektur."
+    },
+    "tr": {
+      "title": "Tayvan Coğrafyası ve Mimarisi | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Tayvan'ın kıyı coğrafyasını, sıra dışı mimarisini ve ada tarihini keşfedin.",
+      "intro": "Sarp dağ sıraları ve Pasifik kıyılarıyla şekillenen Tayvan, tarihi yerleşimlerden çarpıcı modern yapılara ev sahipliği yapar."
+    },
+    "ar": {
+      "title": "تايوان: الجغرافيا والمعالم المعمارية | أطلس جيو تريفيا",
+      "description": "اكتشف جغرافيا تايوان ومعالمها المعمارية الفريدة وتاريخها الساحلي عبر أطلس جيو تريفيا.",
+      "intro": "تجمع تايوان بين السلاسل الجبلية الشاهقة والسواحل الدرامية والمدن السريعة التطور التي تحتضن قصصاً معمارية وتاريخية مدهشة."
+    }
+  },
+  "futuristic-architecture": {
+    "slug": "futuristic-architecture",
+    "name": "Futuristic Architecture",
+    "category": "abandoned",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "futuristic architecture",
+      "futuro house",
+      "retro-futurism",
+      "modular pods"
+    ],
+    "updatedAt": "2026-11-27T17:36:04.149Z",
+    "en": {
+      "title": "Futuristic Architecture and Space Age Design | GeoTrivia Atlas",
+      "description": "Explore futuristic architecture, modular fiberglass pods, and Space Age building experiments on GeoTrivia Atlas.",
+      "intro": "Futuristic architecture captures bold mid-century and Space Age experiments in prefabricated living, from fiberglass pods to utopian resorts."
+    },
+    "es": {
+      "title": "Arquitectura Futurista y Diseño Espacial | GeoTrivia Atlas",
+      "description": "Explore la arquitectura futurista, módulos de fibra de vidrio y experimentos constructivos de la era espacial en GeoTrivia Atlas.",
+      "intro": "La arquitectura futurista reúne audaces experimentos de vivienda prefabricada y diseños utópicos de mediados del siglo XX."
+    },
+    "fr": {
+      "title": "Architecture Futuriste et Ère Spatiale | GeoTrivia Atlas",
+      "description": "Explorez l'architecture futuriste, les capsules en fibre de verre et les expériences de l'ère spatiale sur GeoTrivia Atlas.",
+      "intro": "L'architecture futuriste retrace les audacieuses expériences d'habitat modulaire et les utopies bâties du XXe siècle."
+    },
+    "de": {
+      "title": "Futuristische Architektur und Modulbauten | GeoTrivia Atlas",
+      "description": "Entdecken Sie futuristische Architektur, Modulhäuser und retro-futuristische Bauexperimente im GeoTrivia Atlas.",
+      "intro": "Futuristische Architektur zeigt experimentelle Wohnkapseln und kühne Visionen aus der Blütezeit des Weltraumzeitalters."
+    },
+    "pt": {
+      "title": "Arquitetura Futurista e Era Espacial | GeoTrivia Atlas",
+      "description": "Explore a arquitetura futurista, cápsulas modulares e experimentos construtivos da era espacial no GeoTrivia Atlas.",
+      "intro": "A arquitetura futurista reúne experimentos ousados de habitação pré-fabricada e projetos utópicos do século XX."
+    },
+    "it": {
+      "title": "Architettura Futuristica e Design Spaziale | GeoTrivia Atlas",
+      "description": "Esplora l'architettura futuristica, le capsule in vetroresina e gli esperimenti edilizi dell'era spaziale su GeoTrivia Atlas.",
+      "intro": "L'architettura futuristica raccoglie audaci esperimenti di edilizia modulare e visioni utopiche del Novecento."
+    },
+    "nl": {
+      "title": "Futuristische Architectuur en Ruimtedesign | GeoTrivia Atlas",
+      "description": "Ontdek futuristische architectuur, modulaire glasvezelcapsules en ruimtevaarttijdperk-experimenten in de GeoTrivia Atlas.",
+      "intro": "Futuristische architectuur belicht gedurfde experimenten met geprefabriceerd wonen en utopische bouwprojecten uit de twintigste eeuw."
+    },
+    "sv": {
+      "title": "Futuristisk Arkitektur och Rymdålderns Design | GeoTrivia Atlas",
+      "description": "Utforska futuristisk arkitektur, modulära glasfiberkapslar och rymdålderns byggexperiment på GeoTrivia Atlas.",
+      "intro": "Futuristisk arkitektur skildrar djärva experiment med prefabricerade bostäder och utopiska projekt från rymdåldern."
+    },
+    "tr": {
+      "title": "Fütüristik Mimari ve Uzay Çağı Tasarımı | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta fütüristik mimariyi, modüler fiberglas kapsülleri ve uzay çağı yapı deneylerini keşfedin.",
+      "intro": "Fütüristik mimari, prefabrik yaşam ve ütopik tatil köyü tasarımları üzerine 20. yüzyıl yapı deneylerini bir araya getirir."
+    },
+    "ar": {
+      "title": "العمارة المستقبلية والمباني التجريبية | أطلس جيو تريفيا",
+      "description": "استكشف العمارة المستقبلية والمنازل الكبسولية وتصاميم الخيال العلمي التي شُيدت في القرن العشرين عبر أطلس جيو تريفيا.",
+      "intro": "تسلط العمارة المستقبلية الضوء على المباني التجريبية المصنوعة من الألياف الزجاجية والخرسانة التي حاولت إعادة تخيل المسكن البشري."
+    }
+  },
+  "new-taipei": {
+    "slug": "new-taipei",
+    "name": "New Taipei",
+    "category": "abandoned",
+    "aiCurated": true,
+    "curatedBy": "spark-account-mrib1s",
+    "focusKeywords": [
+      "new taipei",
+      "sanzhi district",
+      "north coast taiwan",
+      "tamsui"
+    ],
+    "updatedAt": "2026-11-27T17:36:06.392Z",
+    "en": {
+      "title": "New Taipei Coastline and Landmarks | GeoTrivia Atlas",
+      "description": "Discover New Taipei's rugged northern coastline, historic port districts, and architectural curiosities on GeoTrivia Atlas.",
+      "intro": "Surrounding Taiwan's capital, New Taipei stretches from historic Tamsui harbors to windswept Pacific headlands and coastal landmarks."
+    },
+    "es": {
+      "title": "Costa y Monumentos de Nuevo Taipéi | GeoTrivia Atlas",
+      "description": "Descubra la costa norte de Nuevo Taipéi, sus puertos históricos y curiosidades arquitectónicas en GeoTrivia Atlas.",
+      "intro": "Rodeando la capital taiwanesa, Nuevo Taipéi abarca desde el puerto histórico de Tamsui hasta abruptos cabos costeros."
+    },
+    "fr": {
+      "title": "Nouveau Taipei : Littoral et Repères | GeoTrivia Atlas",
+      "description": "Découvrez le littoral nord de Nouveau Taipei, ses ports historiques et ses curiosités architecturales sur GeoTrivia Atlas.",
+      "intro": "Entourant la capitale taïwanaise, Nouveau Taipei s'étend du port historique de Tamsui aux falaises venteuses du littoral nord."
+    },
+    "de": {
+      "title": "Neu-Taipeh: Küste und Geschichte | GeoTrivia Atlas",
+      "description": "Entdecken Sie Neu-Taipeh, seine Nordküste, historischen Häfen und besonderen Bauwerke in Taiwan im GeoTrivia Atlas.",
+      "intro": "Neu-Taipeh umschließt die taiwanische Hauptstadt und erstreckt sich von historischen Hafenorten bis zu dramatischen Küstenlandschaften."
+    },
+    "pt": {
+      "title": "Nova Taipé: Litoral e Marcos Históricos | GeoTrivia Atlas",
+      "description": "Descubra o litoral norte de Nova Taipé, seus portos históricos e curiosidades arquitetônicas no GeoTrivia Atlas.",
+      "intro": "Cercando a capital taiwanesa, Nova Taipé estende-se do porto histórico de Tamsui até falésias costeiras ao norte da ilha."
+    },
+    "it": {
+      "title": "Nuova Taipei: Costa e Luoghi Storici | GeoTrivia Atlas",
+      "description": "Scopri la costa settentrionale di Nuova Taipei, i suoi porti storici e le curiosità architettoniche su GeoTrivia Atlas.",
+      "intro": "Attorno alla capitale taiwanese, Nuova Taipei si estende dallo storico porto di Tamsui fino ai promontori della costa nord."
+    },
+    "nl": {
+      "title": "Nieuw-Taipei: Kust en Bezienswaardigheden | GeoTrivia Atlas",
+      "description": "Ontdek de ruige noordkust van Nieuw-Taipei, historische havenplaatsen en bijzondere bouwwerken in de GeoTrivia Atlas.",
+      "intro": "Nieuw-Taipei omringt de Taiwanese hoofdstad en strekt zich uit van historisch Tamsui tot winderige kuststroken aan de noordkust."
+    },
+    "sv": {
+      "title": "Nya Taipei: Kust och Landmärken | GeoTrivia Atlas",
+      "description": "Upptäck Nya Taipeis karga nordkust, historiska hamnar och arkitektoniska sevärdheter på GeoTrivia Atlas.",
+      "intro": "Nya Taipei omger Taiwans huvudstad och sträcker sig från historiska Tamsui till vindpinade kuststräckor i norr."
+    },
+    "tr": {
+      "title": "Yeni Taipei Kıyıları ve Yapıları | GeoTrivia Atlas",
+      "description": "GeoTrivia Atlas'ta Yeni Taipei'nin engebeli kuzey kıyısını, tarihi limanlarını ve mimari ilginçliklerini keşfedin.",
+      "intro": "Tayvan'ın başkentini çevreleyen Yeni Taipei, tarihi Tamsui limanlarından kuzeyin rüzgarlı kıyı burunlarına kadar uzanır."
+    },
+    "ar": {
+      "title": "تايبيه الجديدة ومعالمها الساحلية | أطلس جيو تريفيا",
+      "description": "تعرّف على مدينة تايبيه الجديدة وسواحلها الشمالية ومعالمها التاريخية والمعمارية في تايوان عبر أطلس جيو تريفيا.",
+      "intro": "تحيط مدينة تايبيه الجديدة بالعاصمة تايبيه وتمتد من الموانئ التاريخية إلى السواحل الشمالية الوعرة في تايوان."
+    }
+  },
+  "catalonia": {
+    "slug": "catalonia",
+    "name": "catalonia",
+    "category": "Culture & Arts",
+    "focusKeywords": [
+      "catalonia",
+      "catalonia geography",
+      "catalonia world exploration",
+      "catalonia field dispatches",
+      "Atlas catalonia"
+    ],
+    "updatedAt": "2026-11-28T15:35:15.674Z",
+    "en": {
+      "title": "catalonia — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under catalonia.",
+      "intro": "Welcome to the catalonia thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "catalonia — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo catalonia.",
+      "intro": "Bienvenido al archivo temático de catalonia en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "catalonia — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous catalonia.",
+      "intro": "Bienvenue dans le dossier thématique catalonia du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "catalonia — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu catalonia.",
+      "intro": "Willkommen im Themenarchiv zu catalonia im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "catalonia — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em catalonia.",
+      "intro": "Bem-vindo ao arquivo temático de catalonia no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "catalonia — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a catalonia.",
+      "intro": "Benvenuto nell'archivio tematico di catalonia su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "catalonia — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over catalonia.",
+      "intro": "Welkom in het thematische archief over catalonia in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "catalonia — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om catalonia.",
+      "intro": "Välkommen till temaarkivet för catalonia i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "catalonia — Coğrafi Arşiv ve Saha Raporları",
+      "description": "catalonia kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas catalonia tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "catalonia — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت catalonia في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع catalonia ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "culture": {
+    "slug": "culture",
+    "name": "culture",
+    "category": "Culture & Arts",
+    "focusKeywords": [
+      "culture",
+      "culture geography",
+      "culture world exploration",
+      "culture field dispatches",
+      "Atlas culture"
+    ],
+    "updatedAt": "2026-11-28T15:35:15.674Z",
+    "en": {
+      "title": "culture — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under culture.",
+      "intro": "Welcome to the culture thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "culture — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo culture.",
+      "intro": "Bienvenido al archivo temático de culture en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "culture — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous culture.",
+      "intro": "Bienvenue dans le dossier thématique culture du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "culture — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu culture.",
+      "intro": "Willkommen im Themenarchiv zu culture im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "culture — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em culture.",
+      "intro": "Bem-vindo ao arquivo temático de culture no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "culture — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a culture.",
+      "intro": "Benvenuto nell'archivio tematico di culture su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "culture — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over culture.",
+      "intro": "Welkom in het thematische archief over culture in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "culture — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om culture.",
+      "intro": "Välkommen till temaarkivet för culture i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "culture — Coğrafi Arşiv ve Saha Raporları",
+      "description": "culture kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas culture tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "culture — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت culture في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع culture ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
+    }
+  },
+  "performance-art": {
+    "slug": "performance-art",
+    "name": "performance-art",
+    "category": "Culture & Arts",
+    "focusKeywords": [
+      "performance-art",
+      "performance-art geography",
+      "performance-art world exploration",
+      "performance-art field dispatches",
+      "Atlas performance-art"
+    ],
+    "updatedAt": "2026-11-28T15:35:15.674Z",
+    "en": {
+      "title": "performance-art — Curated Geographic Dispatches & Archive",
+      "description": "Explore verified geographic field notes, investigative dispatches, and world exploration dossiers classified under performance-art.",
+      "intro": "Welcome to the performance-art thematic archive in the GeoTrivia Atlas. From physical geography to historical significance, explore verified editorial dispatches, verified fieldwork, and global landmarks classified under this topic."
+    },
+    "es": {
+      "title": "performance-art — Archivo Geográfico y Crónicas del Atlas",
+      "description": "Explore crónicas de campo, notas geográficas verificadas y expediciones mundiales clasificadas bajo performance-art.",
+      "intro": "Bienvenido al archivo temático de performance-art en el GeoTrivia Atlas. Descubra crónicas editoriales verificadas, análisis cartográficos y monumentos mundiales vinculados a esta temática."
+    },
+    "fr": {
+      "title": "performance-art — Archives Géographiques et Dossiers de Terrain",
+      "description": "Découvrez les notes de terrain, analyses géopolitiques et chroniques d'exploration mondiale classées sous performance-art.",
+      "intro": "Bienvenue dans le dossier thématique performance-art du GeoTrivia Atlas. Explorez des récits de voyage vérifiés, des analyses géographiques et le patrimoine planétaire associé à ce sujet."
+    },
+    "de": {
+      "title": "performance-art — Geografisches Archiv & Feldberichte",
+      "description": "Erkunden Sie verifizierte geografische Feldnotizen, Analysen und globale Entdeckungsdossiers zu performance-art.",
+      "intro": "Willkommen im Themenarchiv zu performance-art im GeoTrivia Atlas. Entdecken Sie fundierte redaktionelle Berichte, kartografische Besonderheiten und Welterbestätten rund um dieses Thema."
+    },
+    "pt": {
+      "title": "performance-art — Arquivo Geográfico e Crônicas de Exploração",
+      "description": "Explore notas de campo geográficas, dossiês investigativos e expedições planetárias catalogadas em performance-art.",
+      "intro": "Bem-vindo ao arquivo temático de performance-art no GeoTrivia Atlas. Conheça análises editoriais verificadas, cartografia e maravilhas do mundo ligadas a esta categoria."
+    },
+    "it": {
+      "title": "performance-art — Archivio Geografico e Reportage dal Mondo",
+      "description": "Esplora reportage geografici, note di spedizione verificate e dossier sul patrimonio mondiale dedicati a performance-art.",
+      "intro": "Benvenuto nell'archivio tematico di performance-art su GeoTrivia Atlas. Approfondisci ricerche editoriali, enigmi cartografici e monumenti storici classificati sotto questa voce."
+    },
+    "nl": {
+      "title": "performance-art — Geografisch Archief & Veldkronieken",
+      "description": "Verken geverifieerde geografische veldnotities, reisverslagen en werelderfgoeddossiers over performance-art.",
+      "intro": "Welkom in het thematische archief over performance-art in de GeoTrivia Atlas. Ontdek diepgaande journalistieke verhalen, cartografische wonderen en historische mijlpalen."
+    },
+    "sv": {
+      "title": "performance-art — Geografiskt Arkiv & Fältrapporter",
+      "description": "Utforska verifierade geografiska fältrapporter, kartografiska analyser och globala expeditioner om performance-art.",
+      "intro": "Välkommen till temaarkivet för performance-art i GeoTrivia Atlas. Ta del av verifierade redaktionella artiklar och historiska platser klassificerade under detta ämne."
+    },
+    "tr": {
+      "title": "performance-art — Coğrafi Arşiv ve Saha Raporları",
+      "description": "performance-art kapsamında derlenmiş doğrulanmış coğrafi saha notlarını, araştırma dosyalarını ve dünya keşiflerini inceleyin.",
+      "intro": "GeoTrivia Atlas performance-art tematik arşivine hoş geldiniz. Coğrafi keşiflerden tarihi miraslara kadar bu başlık altındaki tüm doğrulanmış saha raporlarını keşfedin."
+    },
+    "ar": {
+      "title": "performance-art — الأرشيف الجغرافي والتقارير الاستكشافية",
+      "description": "استكشف التقارير الجغرافية الميدانية الموثقة والتحليلات الاستكشافية المصنفة تحت performance-art في أطلس جيو تريفيا.",
+      "intro": "مرحبًا بكم في الأرشيف الميداني لموضوع performance-art ضمن أطلس جيو تريفيا. اكتشف مقالات استكشافية متعمقة وأسرار جغرافية موثقة حول هذا الموضوع."
     }
   }
 }
